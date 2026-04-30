@@ -1,31 +1,39 @@
 # 03 — The Case For
 
-Five pillars. Each gets its own file as the project deepens.
+**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment. The pillars converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
 
-## 1. Ethical: inheritance is unearned
+This section builds the positive case. The diagnostic evidence lives in [`../01-problem/`](../01-problem/); the design specification lives in [`../02-proposal/`](../02-proposal/); the historical case is in [`../05-history/`](../05-history/); the strongest counterarguments are steelmanned in [`../04-case-against/`](../04-case-against/).
 
-The core liberal-meritocratic case. No one earns their parents. If luck of birth is an illegitimate basis for life outcomes — a premise most voters already accept rhetorically — then inherited wealth is the purest form of that luck. It is also the form most easily taxed *without* disincentive effects on the recipient, because the recipient has not worked for it.
+## The five pillars
 
-## 2. Economic: low deadweight loss
+| # | Pillar | File | Normative frame | Headline claim |
+|---|---|---|---|---|
+| 1 | Ethical | [ethical.md](ethical.md) | Liberal-egalitarian, classical-liberal, civic-republican, religious | Inherited wealth is the purest case of brute luck; neutralising it is *more* liberal than equivalent income tax, and aligns with traditions from Rawls to Aquinas to the Quranic jurists |
+| 2 | Economic | [economic-efficiency.md](economic-efficiency.md) | Public finance / optimal tax theory | Inheritance tax has unusually low deadweight loss; Piketty–Saez optimal rates are 50–60% |
+| 3 | Structural | [piketty-r-vs-g.md](piketty-r-vs-g.md) | Piketty, Saez, Zucman | Only a transfer tax acts on the *stock* at the moment the holder cannot re-optimise |
+| 4 | Civic | [meritocratic-legitimacy.md](meritocratic-legitimacy.md) | Carnegie, Sandel, Wooldridge | Dynasty violates capitalism's own self-justification; removing it is the conservative repair |
+| 5 | Heir-focused | [heirs-burden.md](heirs-burden.md) | Virtue ethics, self-determination theory | Large unearned fortunes harm their recipients; the tax is positive-sum, not zero-sum |
 
-Standard public-finance result: inheritance taxes are among the least distortionary of all major taxes. The person whose behaviour could be distorted (the deceased) can no longer adjust. Empirical behavioural response is concentrated in gift timing and avoidance structuring, not in primary economic activity. This is why economists across the political spectrum — from Milton Friedman's qualified support for heavy estate duties to Piketty's — converge on inheritance as an unusually efficient tax base.
+## Why all five matter together
 
-## 3. Structural: breaks the r > g ratchet
+Each pillar addresses a distinct objection pattern and speaks to a distinct audience:
 
-If *r > g* holds empirically (Piketty's claim, to be verified with primary sources), no amount of income redistribution can stabilise the wealth distribution in the long run. Only a transfer tax that scales with the size of the transmitted stock can. This is the argument that elevates inheritance tax from one tax among many to a *structural* intervention.
+- The **ethical** pillar answers the principled-libertarian objection: why is it *just* to tax a voluntary transfer? (Answer: the recipient has not earned anything; the donor's liberty to give and the recipient's claim to receive are distinct moral questions; Mill, Smith, Hayek, Friedman concede the technical point, and Steiner/Otsuka derive the tax from libertarian premises themselves.)
+- The **economic** pillar answers the efficiency objection: won't a high tax kill investment and entrepreneurship? (Answer: the bequest-motive literature shows folk intuition overstates the elasticity by an order of magnitude; the abolition-wave countries saw no macro dividend.)
+- The **structural** pillar answers the "we already have progressive income tax" objection: why can't income redistribution do the work? (Answer: when *r > g*, no amount of flow redistribution stabilises the stock distribution. Only transfer taxation does.)
+- The **civic** pillar answers the conservative objection: isn't this an attack on market capitalism? (Answer: the opposite — dynasty is what undermines the desert-based legitimacy claim on which capitalism rests.)
+- The **heir** pillar answers the "but it's their family's money" objection: won't this harm heirs? (Answer: above the generous threshold, the fortune is itself the harm.)
 
-## 4. Civic: restores meritocratic legitimacy
+## Cross-references
 
-A society whose wealthiest members are visibly founders and builders is more legitimate — and polls better — than one dominated by heirs. Capitalism's self-image (reward for contribution) is incompatible with dynastic concentration (reward for birth). The proposal aligns the system with its own stated values.
+- The threshold design discussed throughout (£500k/$750k per recipient, lifetime) is specified in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md).
+- The universal endowment that pairs with the tax in every pillar's argument is designed in [`../02-proposal/endowment.md`](../02-proposal/endowment.md).
+- The historical track record of attempts at inheritance taxation — including the abolitions these pillars must survive — is in [`../05-history/abolitions.md`](../05-history/abolitions.md).
+- The strongest objections (family businesses, capital flight, liberty, state failure) will be fully steelmanned in [`../04-case-against/`](../04-case-against/); the arguments in this section are sharpened by that engagement and should be read alongside it.
 
-## 5. Liberating for heirs
+## What still needs doing in this section
 
-Under-discussed. Heirs of large fortunes frequently describe the inheritance itself as a psychological burden — Carnegie's "curse of great wealth." A high per-recipient cap, plus a universal endowment, offers everyone a meaningful start without saddling anyone with dynastic expectation, and frees great fortunes from having to be preserved across generations.
-
-## Files to add
-
-- `ethical.md`
-- `economic-efficiency.md`
-- `piketty-r-vs-g.md`
-- `meritocratic-legitimacy.md`
-- `heirs-burden.md`
+- Empirical deepening of the "heir-harm" literature — much is clinical and anecdotal; more systematic evidence would strengthen the virtue-ethics case.
+- A dedicated comparison with progressive wealth tax (as favoured by Saez–Zucman) showing why a transfer tax is structurally superior — currently sketched in `piketty-r-vs-g.md` §4 but could be expanded.
+- A short piece specifically for business-owner audiences framing the proposal's compatibility with entrepreneurial dynamism.
+- The religious-traditions and civic-republican sub-arguments in `ethical.md` could each be promoted to standalone files if the audience-targeting strategy in section 06 calls for it.

@@ -1,0 +1,130 @@
+# The Ethical Case
+
+**Executive summary.** Inherited wealth is the purest case of morally arbitrary brute luck, and the philosophical tradition — from Mill through Rawls to Nozick's most careful critics — has struggled to defend it on any principled liberal ground. A 100% receipts tax above a per-recipient threshold, paired with a universal endowment, is the rare redistributive instrument that is *more* liberal, not less, than the income taxation it would partially replace: it imposes no labour-supply distortion on the recipient, raises no Lockean title in their hands, and converges with the conclusions of luck-egalitarian, classical-liberal, civic-republican, and major religious traditions on the same answer.
+
+## Findings
+
+- Inheritance is the paradigm case of brute luck: no choice, effort, or gamble of the recipient generates it [1][11].
+- Because the receipt is unearned, the recipient's labour-supply elasticity is not the relevant margin — the standard efficiency objection to redistribution collapses [2].
+- Mill, Smith, Hayek, and Friedman all conceded that inheritance taxation is among the least distortionary of taxes, even where they disliked its level or form [3][4][5][15].
+- Nozick's entitlement theory licenses voluntary *transfer* but cannot manufacture a Lockean title in the *recipient*; the Wilt-Chamberlain argument runs out at the grave, and even avowedly libertarian theorists (Steiner, Otsuka) have endorsed inheritance taxation [6][16][17].
+- Moral-desert theory, properly stated, *opposes* dynastic transmission rather than supporting it: the heir has done nothing to deserve the windfall; the donor's desert claim covers their use of the asset in life, not its transfer beyond the grave [18][19].
+- Equality of opportunity, a value explicitly endorsed across the political spectrum, is violated more starkly by hereditary transfer than by any other mechanism [7][13].
+- The Hebrew jubilee, Catholic social teaching's "universal destination of goods," and Islamic inheritance constraints all encode a long ethical tradition of suspicion toward accumulated dynastic wealth [20][21][22].
+- The civic-republican tradition, from Aristotle to Pettit, treats large concentrated fortunes as corrosive of political liberty itself, independent of any distributive claim [23][24].
+- A donor's liberty to give and a recipient's claim to receive are *distinct* moral questions; the tax falls on the recipient, against whom no liberal claim has ever been successfully argued [10].
+- Heirs of great fortunes are not merely enriched but encumbered: dynastic expectation is a constraint on autonomy, not an expression of it [8].
+- Paired with a universal citizen's endowment, the tax *universalises* inheritance rather than abolishing it — echoing Paine's 1797 framing of the grant as compensation, not charity [9].
+
+## 1. Luck of birth
+
+Behind Rawls' veil of ignorance, no rational contractor would endorse a rule that made life prospects a lottery of parentage [1]. Nagel sharpens the point in *Mortal Questions*: the deepest moral arbitrariness is *constitutive* luck — the self one is handed — and the bank balance one is born into is its financial shadow [10]. Murphy and Nagel, in *The Myth of Ownership*, dismantle the pre-political notion of a "natural" entitlement to pre-tax holdings: property rights are themselves the product of the tax-and-transfer regime, so to ask "how much of *my* inheritance should the state take?" is already to beg the question [2]. Dworkin's distinction between *brute* luck (the hand dealt) and *option* luck (the bets one takes) makes the case almost analytically: inheritance is brute luck in its purest form, and brute luck is precisely what a liberal-egalitarian scheme has most reason to neutralise [11].
+
+## 2. Meritocratic liberalism
+
+Rawls' difference principle tolerates inequalities only insofar as they benefit the worst-off — typically via incentive effects on productive labour [1]. Cohen's *Rescuing Justice and Equality* presses the point further: the incentive argument is an accommodation, not a principle [12]. Crucially, a receipts tax on heirs imposes no labour-supply cost on the recipient, who by stipulation has done no labour to receive. An equivalent sum raised from income taxation necessarily trades efficiency for equity; this tax does not. It is therefore the *most* liberal way to fund a given level of public provision.
+
+## 3. Desert and contribution
+
+Moral desert is often invoked *against* redistribution — "people deserve what they earn" — but applied honestly to inheritance, the principle cuts the other way. As Feinberg and Sher have developed at length, a desert claim must be grounded in some action, effort, or contribution by the agent making the claim [18][19]. The heir, qua heir, has performed no such action. The donor's desert covers their use, enjoyment, and disposition of the asset *in life*; it does not extend to manufacturing a fresh desert basis in the recipient. To say "I earned this and so my child deserves it" is to equivocate between two senses of "deserve": the donor's earned title and the recipient's unearned receipt. The contribution principle — perhaps the most widespread folk-moral basis for accepting market rewards — is therefore *violated*, not vindicated, by dynastic inheritance. Anyone who appeals to desert against income redistribution owes a separate account of why the heir's windfall escapes the same standard.
+
+## 4. Classical-liberal and pre-classical concessions
+
+Mill proposed in 1848 that the right target of taxation is not the *bequest* but the *receipt*, capped per heir — a recognisably classical-liberal intuition that individuals are entitled to what they make, not to what falls into their laps [3]. Adam Smith, a century earlier, observed in *Wealth of Nations* that "all taxes upon the transference of property of every kind, so far as they diminish the capital value of that property, tend to diminish the funds destined for the maintenance of productive labour" — and yet went on to defend death duties on the principle that the dead have no further use of capital [15]. Friedman conceded that among taxes, those on unearned transfers do least violence to incentives [5]; Hayek, no friend of equalisation, admitted the same technical point in *The Constitution of Liberty* and went further: he argued specifically against primogeniture and entail as feudal residues incompatible with a free society [4]. The point of marshalling these voices is not to claim them for the proposal — they would all have set the rates lower — but to establish that the *principle* of taxing unearned receipts has never been seriously contested by mainstream classical liberalism.
+
+## 5. Nozick steelmanned
+
+Nozick is the hardest libertarian case and deserves a fair hearing. *Anarchy, State, and Utopia* sets out a historical theory of justice in three parts: justice in acquisition (how unowned things become owned), justice in transfer (how owned things move between people), and justice in rectification (how to remedy past violations of the first two) [6]. If A justly acquired X and freely gives X to B, then by Nozick's principles B's holding is just — full stop. The state has no warrant to redistribute. The Wilt-Chamberlain parable dramatises the conclusion: any pattern of holdings is overturned by free transactions, and any state committed to a fixed pattern must therefore continually interfere with liberty.
+
+The argument has four serious weaknesses when applied to inheritance, none of which Nozick himself adequately addresses.
+
+*First*, the Wilt-Chamberlain trade is a payment for performance: the spectators receive entertainment; Chamberlain has *done* something. Inheritance is not symmetrical. The donor performs an act of giving, but the recipient performs nothing. To extend Chamberlain's title to the heir requires a separate argument — that the donor's right to dispose creates a pristine title in the recipient — and Nozick does not provide one. His historical principle of justice in transfer can only *transmit* an existing title; it cannot generate a recipient-side Lockean claim from nothing.
+
+*Second*, Nozick himself, in *The Examined Life*, partially recanted: he wrote that bequest "should be limited to those things that have been given to that person, not to inheritance" — meaning that what one received as a gift one ought not, on death, transmit further [25]. The text is brief and exploratory, but it is striking that the canonical libertarian defender of property rights baulked specifically at intergenerational transmission.
+
+*Third*, Hillel Steiner's *An Essay on Rights* (1994), grounded in a strict left-libertarian reading of the Lockean proviso, derives a *100% inheritance tax* from libertarian premises themselves: each person is entitled to an equal share of natural resources at birth, dynastic transmission violates that equal-share entitlement, and the only consistent remedy is a global fund financed by full inheritance taxation [16]. Steiner is not an outlier; Otsuka, Vallentyne, and the broader Bristol school have developed the same argument [17]. The libertarian tradition is therefore *internally divided* on inheritance, and the case against the tax is far weaker than libertarian rhetoric typically suggests.
+
+*Fourth*, the Lockean proviso — that one's appropriation must leave "enough and as good" for others — comes under severe strain when inheritance compounds intergenerationally. Nozick adopts a weak version of the proviso (that no one be made worse off than under no appropriation), but even on that reading, the cumulative effect of centuries of dynastic transmission has plainly worsened the position of the propertyless — they cannot now appropriate land, housing, or productive capital on terms remotely comparable to those available to their ancestors. The strict proviso would require redistribution; the weak proviso, applied honestly across generations, requires it too.
+
+A libertarian opposed to inheritance taxation must therefore deny all four points: deny the donor/recipient asymmetry, deny Nozick's own later misgivings, deny Steiner's derivation, and deny that the proviso applies inter-generationally. Few have attempted any of these denials in print. The dialectical position of the principled libertarian is, on inspection, much more open to the proposal than the political libertarian is willing to admit.
+
+## 6. Equality of opportunity
+
+Centre-right political rhetoric consistently elevates equality of opportunity over equality of outcome [7]. Yet inherited wealth is the single most potent mechanism by which outcomes of one generation become opportunities of the next. Carnegie saw this clearly in 1889 and endorsed heavy estate duties on precisely these grounds [13]. The rhetorical leverage is considerable: one need not be an egalitarian to object to a society in which starting lines are priced in hundreds of thousands of pounds. The proposal is not the imposition of a new value but the realisation of a value already endorsed.
+
+## 7. Religious and pre-modern traditions
+
+The ethical case is not the property of secular liberalism. Three large traditions converge on a structural suspicion of dynastic accumulation.
+
+*Hebrew jubilee.* Leviticus 25 prescribes a fifty-year cycle in which alienated land returns to its ancestral families, debts are remitted, and indentured Hebrews freed [20]. The mechanism differs from a receipts tax — it operates on land, not money, and within a tribal framework — but the underlying intuition is the same: a society is unstable, and unjust, if any line of descent can compound advantage indefinitely. Walzer and Sacks both treat the jubilee as an early articulation of what liberal theorists rediscovered three millennia later under the name *equality of opportunity*.
+
+*Catholic social teaching.* The doctrine of the "universal destination of goods" — that the goods of creation are intended for all and private property is legitimate only insofar as it serves that universal end — runs from Aquinas (*Summa Theologiae* II-II q.66) through *Rerum Novarum* (1891), *Quadragesimo Anno* (1931), *Populorum Progressio* (1967), and most recently *Centesimus Annus* (1991) and *Fratelli Tutti* (2020) [21]. Private property is defended, but as a stewardship subject to social purpose, not an absolute Lockean right. Inheritance taxation is consistent with this tradition where it serves to direct goods to the wider community.
+
+*Islamic inheritance and zakat.* The Quran prescribes fixed inheritance shares (*fara'id*) that prevent any single heir from monopolising an estate, alongside zakat (the 2.5% annual wealth tithe) directed to the poor and the dispossessed [22]. The cumulative effect is anti-concentration by design: estates are diffused at each generation, and the residual is annually taxed. The 100%-above-threshold proposal is structurally analogous, with the threshold set generously enough to preserve the underlying intent.
+
+The argument is not that any of these traditions endorses the specific proposal — they predate the modern fiscal state and modern wealth concentrations alike — but that the *moral intuition* underlying the proposal is among the oldest and most widely shared in human ethical reflection. A reform that aligns with Rawls, Aquinas, the rabbis of the Mishnah, and the Quranic jurists is not a secular-liberal eccentricity.
+
+## 8. Civic-republican: liberty as non-domination
+
+A separate ethical line, distinct from luck-egalitarianism and from religious tradition, runs from Aristotle to the modern civic-republicans (Pettit, Skinner, Viroli) [23][24]. On this view, the central political value is not equality but *non-domination* — the absence of arbitrary power of one person over another. Aristotle's *Politics* warns that gross disparities in wealth corrupt the polity by enabling oligarchic capture; a moderate distribution is the precondition of citizen self-rule. Pettit's contemporary republican theory makes the same case in modern dress: dependence on a private benefactor — even one who never exercises their power — is a form of unfreedom because the dependent must continually anticipate and accommodate the benefactor's preferences.
+
+Dynastic wealth is the paradigm case of arbitrary private power. An heir need do nothing to wield influence over employees, tenants, journalists, politicians, or kin; the influence is conferred by the structure of holdings, not by any specific exercise. Even if the heir is benevolent, those around them are not free in the republican sense. Limiting inheritance is therefore not principally a redistributive measure on this account — it is a *liberty-preserving* one, aimed at the structural preconditions of non-dominated citizenship. (The political-mechanics of this argument are developed in [`../01-problem/political-capture.md`](../01-problem/political-capture.md); the present point is purely ethical.)
+
+## 9. Intergenerational ethics
+
+Parfit's *Reasons and Persons* and the subsequent literature on intergenerational ethics force a question the older traditions could not pose: what do we owe to people not yet born [26]? Two implications matter here.
+
+First, the non-identity problem — that future people would not exist at all under different policies — does *not* derail this case. Whatever inheritance regime obtains, *some* generation of children will exist; what changes is the distributive position into which they are born. The choice is not between existence and non-existence but between starting lines. The non-identity problem therefore does not insulate dynastic transmission from moral evaluation.
+
+Second, every reasonable account of intergenerational obligation generates *some* duty not to bequeath structural disadvantage. Even highly conservative accounts — those that attribute thin or no positive duties to future generations — acknowledge the duty not to actively worsen their position. Cumulative dynastic compounding plainly worsens the position of the propertyless across generations: it raises asset prices, narrows entry into capital ownership, and concentrates political voice. Even a thin duty therefore implies a duty to interrupt the compounding.
+
+This argument is not the strongest in the chapter — it is, by its nature, more abstract — but it is worth registering because it closes a flank: the claim that "future people should look after themselves" is not available to anyone who admits even minimal negative duties to those not yet born.
+
+## 10. Donor's liberty vs recipient's claim
+
+A confusion runs through almost all popular debate on inheritance taxation: it conflates two distinct moral questions. The first is whether the donor has a right to dispose of their property. The second is whether the recipient has a claim to receive it untaxed. These are not the same.
+
+The donor's right is real but bounded. Liberal traditions accept that an owner can give, sell, lease, or destroy their property — within limits. They cannot, for example, transfer it on conditions that violate public policy (such as racially restrictive covenants), nor can they shield it from the state's general fiscal claim during life. The right to bequeath, on inspection, is a particular and historically contingent application of the right to dispose, not a foundational liberty: the Romans developed it slowly, the medievals constrained it heavily through entail and primogeniture, and modern liberal states have always set it within tax frameworks.
+
+The recipient's claim, by contrast, is empty. The recipient has not laboured, saved, gambled, or even decided. Their position is wholly dependent on the donor's choice. Liberal theory has never produced a principled account of why the *recipient* has a right against the state in this transaction. When opponents say "it's their family's money," they elide this distinction: the family member who earned it had a claim against confiscation in life; the family member who receives it has no such claim except via the transmission act itself.
+
+The proposed tax is *paid by the recipient*, on a receipt they did not earn. Even on the most demanding libertarian reading, no liberty of theirs is infringed beyond the loss of an unearned windfall — and unearned windfalls are not, in any tradition, the kind of holding that liberal theory has ever protected with its strongest claims. The donor's interest in giving is a softer matter — they may prefer to give untaxed, but their preference is bounded by the same general fiscal authority that taxes their other transactions. To privilege the donor's bequest preference over the equal liberty of all citizens is to elevate one sentimental attachment above an entire structure of equal political standing.
+
+This analytical move dissolves a great deal of the political-rhetorical force of "family money" arguments. It also explains why Mill, in 1848, framed the tax explicitly on the *recipient* side: he saw clearly that the moral question turns on what the heir is owed, not on what the testator wants [3].
+
+## 11. Heir's liberty
+
+A point underweighted in the philosophical literature: the recipient's autonomy is *enlarged*, not diminished, by being spared a fortune. Dynastic wealth arrives bundled with dynastic expectation — the family firm, the family cause, the family name [8]. To be handed a meaningful but bounded sum at adulthood and thereafter to owe the shape of one's life to no one is, for the heir, a liberation. This argument is developed empirically and clinically in [`heirs-burden.md`](heirs-burden.md); for present ethical purposes it is enough to note that the tax is not straightforwardly adverse to the heir's interests, and may serve the heir's own deepest autonomy claims better than untaxed transmission would.
+
+## 12. The universal endowment as moral complement
+
+A tax alone is redistributive; a tax paired with a universal grant at adulthood is something else — a *universalisation* of inheritance [14]. Paine's *Agrarian Justice* (1797) supplies the framing: the grant is not charity but compensation, owed to every citizen as a consequence of the private appropriation of what was once common [9]. Every adult becomes an heir of the commonwealth. This reframing is what distinguishes the proposal from a mere levy: it is a positive account of what the political community owes each of its members at the threshold of adult life. It also closes the dialectical loop with §1: if brute luck is the problem, then the answer is not to leave each cohort to whatever distribution the prior generation's choices produced, but to provide every member of the cohort with the same starting endowment, drawn from the dynastic wealth that would otherwise compound advantage at the top.
+
+## Sources
+
+1. [Rawls, *A Theory of Justice* (1971)](https://www.hup.harvard.edu/books/9780674000780)
+2. [Murphy & Nagel, *The Myth of Ownership* (2002)](https://global.oup.com/academic/product/the-myth-of-ownership-9780195176568)
+3. [Mill, *Principles of Political Economy* (1848), Bk. II ch. 2](https://oll.libertyfund.org/titles/mill-principles-of-political-economy-ashley-ed)
+4. [Hayek, *The Constitution of Liberty* (1960)](https://press.uchicago.edu/ucp/books/book/chicago/C/bo13375722.html)
+5. [Friedman, *Capitalism and Freedom* (1962)](https://press.uchicago.edu/ucp/books/book/chicago/C/bo25666932.html)
+6. [Nozick, *Anarchy, State, and Utopia* (1974)](https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/)
+7. [Piketty, *Capital and Ideology* (2019)](https://www.hup.harvard.edu/books/9780674980822)
+8. Cross-reference: [heirs-burden.md](heirs-burden.md)
+9. [Paine, *Agrarian Justice* (1797)](https://www.ssa.gov/history/paine4.html)
+10. [Nagel, *Mortal Questions* (1979)](https://www.cambridge.org/core/books/mortal-questions/)
+11. [Dworkin, *Sovereign Virtue* (2000)](https://www.hup.harvard.edu/books/9780674008106)
+12. [Cohen, *Rescuing Justice and Equality* (2008)](https://www.hup.harvard.edu/books/9780674030763)
+13. [Carnegie, "The Gospel of Wealth" (1889)](https://www.carnegie.org/about/our-history/gospelofwealth/)
+14. Cross-reference: [../02-proposal/endowment.md](../02-proposal/endowment.md)
+15. [Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776), Bk. V ch. 2](https://oll.libertyfund.org/titles/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-vol-2)
+16. [Steiner, *An Essay on Rights* (1994)](https://www.wiley.com/en-gb/An+Essay+on+Rights-p-9780631186120)
+17. [Otsuka, *Libertarianism without Inequality* (2003)](https://global.oup.com/academic/product/libertarianism-without-inequality-9780199243952)
+18. [Feinberg, *Doing and Deserving* (1970)](https://press.princeton.edu/books/paperback/9780691020587/doing-and-deserving)
+19. [Sher, *Desert* (1987)](https://press.princeton.edu/books/paperback/9780691020594/desert)
+20. [Leviticus 25; Walzer, *Exodus and Revolution* (1985); Sacks, *The Politics of Hope* (1997)](https://www.basicbooks.com/titles/michael-walzer/exodus-and-revolution/9780465021642/)
+21. [*Rerum Novarum* (1891); Aquinas *ST* II-II q.66; *Centesimus Annus* (1991); *Fratelli Tutti* (2020)](https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html)
+22. [Quran 4:11–12; Kuran, T. (2004). *Islam and Mammon*](https://press.princeton.edu/books/paperback/9780691115108/islam-and-mammon)
+23. [Aristotle, *Politics*, Bks. III–V](https://oll.libertyfund.org/titles/aristotle-the-politics-vol-1)
+24. [Pettit, *Republicanism: A Theory of Freedom and Government* (1997)](https://global.oup.com/academic/product/republicanism-9780198296423)
+25. [Nozick, *The Examined Life* (1989), ch. 'Inheritance'](https://www.simonandschuster.com/books/The-Examined-Life/Robert-Nozick/9780671725013)
+26. [Parfit, *Reasons and Persons* (1984), Pt. IV](https://global.oup.com/academic/product/reasons-and-persons-9780198249085)
