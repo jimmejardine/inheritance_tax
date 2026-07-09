@@ -58,6 +58,23 @@ Direct taxation requires unanimity under the treaties, which a transfer-tax dire
 2. **Enhanced cooperation** among nine or more willing states — the mechanism used for the financial-transaction-tax attempt; a Franco-German-Benelux-Nordic core is the plausible geometry.
 3. **OECD/G20 track:** replicate Pillar Two's architecture — a common base and minimum effective rate with a top-up rule taxing what non-adopters leave untaxed. This is the design that made corporate-minimum adoption self-enforcing and is the model this project assumes.
 
+## What to watch
+
+- **France:** any legislative follow-through on the Blanchard–Tirole/CAE lifetime-receipts recommendation (to verify); Conseil constitutionnel jurisprudence on wealth-related levies after each budget cycle; whether the left's programme commons (NFP-successor platforms) keeps Piketty-style inheritance reform on the table.
+- **Germany:** the next BVerfG challenge to the §§13a–13b business reliefs — a strike-down would force wholesale redesign and could open the Austrian-style window in reverse ([crisis-windows.md](crisis-windows.md)); SPD/Green/Linke positions on *Erbschaftsteuer* reform in coalition negotiations.
+- **Netherlands:** the BOR (business-succession relief) evaluation cycle and any coalition agreement touching *erfbelasting* rates — the cheapest early-warning indicator in the region.
+- **Spain:** whether the central government moves to floor regional bonifications — the test case for fixing C10 inside a member state.
+- **EU level:** any revival of transfer-tax coordination in Commission work programmes; the fate of G20/OECD high-net-worth taxation workstreams (post-2024 Brazilian initiative, to verify).
+
+## Campaign use of the continental record
+
+- **France** is the warning against rate-first strategy: high rates on low thresholds with no visible benefit produced Europe's most hated inheritance tax — the inverse of the design sequence in [`../06-palatability/framing.md`](../06-palatability/framing.md). Lead with the threshold and the endowment or inherit France's polling.
+- **Germany** is the exhibit for "exemption is the death of the tax": every business-relief argument opponents raise can be answered with the §13a record — relief granted, relief abused, relief litigated, largest fortunes paying least ([`../04-case-against/family-business.md`](../04-case-against/family-business.md) rebuttals).
+- **Spain and Belgium** are the standing demonstrations, current and visitable, that sub-national assignment destroys transfer taxation — more persuasive than the historical Australian case because they are happening now ([`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md)).
+- **Piketty's inheritance-flow series** for France — bequest flows returning toward Belle Époque shares of national income (to verify) — remains the single most powerful chart in the entire evidentiary arsenal ([`../03-case-for/piketty-r-vs-g.md`](../03-case-for/piketty-r-vs-g.md)).
+
 ## Regional analytic judgement
 
 No continental state is a plausible unilateral first mover: France is legally and politically boxed, Germany is constitutionally gated, the Benelux and Iberian systems are structurally exposed or fragmented. But the region holds two strategic assets. First, the **Netherlands** as a dark-horse adopter within a coalition-agreement window. Second — decisive — the **EU as the coordination venue**: a directive-level or enhanced-cooperation floor on transfer taxation would simultaneously solve the Nordic exit fear ([nordics.md](nordics.md)), the Spanish/Belgian internal races, and the Irish small-economy constraint ([ireland.md](ireland.md)). The realistic continental path is not any capital adopting alone; it is Paris-plus-Berlin sponsoring a floor that others implement — with Germany implementing at whatever ceiling Art. 14 allows and the endowment carried by ordinary budget law.
+
+Until that floor exists, the continent's assignment in the global strategy is evidentiary: it supplies the proofs (Ireland-adjacent recipient structures, high-rate survival, relief-erosion pathology, federal-race failure) that the majoritarian first movers will legislate on.

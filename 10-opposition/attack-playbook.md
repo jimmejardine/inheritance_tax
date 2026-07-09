@@ -67,6 +67,14 @@ Early-warning indicators, in the rough order they appeared in the US campaign:
 
 Each signal maps to a standing response owned by the rapid-response unit described in [media-narratives.md](media-narratives.md).
 
+## What still needs doing
+
+- Full read and structured extraction of Graetz & Shapiro (2005): chronology, funding flows, vote counts, and the pro-tax side's documented errors.
+- Verification of the Luntz memo texts and the 60 Plus "death tax" propagation claims against primary reporting.
+- Confirmation of the 2001 *New York Times* farm-loss investigation and any subsequent cases identified.
+- Vote-count analysis of House and Senate repeal votes 1999–2002 for the bipartisan-leakage pattern.
+- Comparative check: whether equivalent renaming campaigns ran in Australia (pre-1979), Sweden (pre-2004), and the UK (IHT coverage) — feeds [../05-history/abolitions.md](../05-history/abolitions.md) and [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
+
 ## Mitigations
 
 Argument-level rebuttals live in [../09-objections/](../09-objections/); these are the campaign-level counter-strategies.
@@ -77,14 +85,6 @@ Argument-level rebuttals live in [../09-objections/](../09-objections/); these a
 4. **Carve-outs before launch.** The farm and family-business hard cases must be designed out — deferral, instalments, hardship clauses — *before* the first announcement, so the vignette machine finds no true cases and must fabricate, which is attackable. See [../02-proposal/carveouts.md](../02-proposal/carveouts.md) and [media-narratives.md](media-narratives.md).
 5. **The endowment as counter-symbol.** Repeal succeeded partly because no visible constituency lost anything. Making every 25-year-old a named beneficiary creates the countervailing intensity the US estate tax never had: attacking the tax becomes attacking the endowment. See [../02-proposal/endowment.md](../02-proposal/endowment.md) and [sabotage-after-passage.md](sabotage-after-passage.md).
 6. **Recruit the defectors early.** The Gates Sr./Responsible Wealth intervention showed wealthy validators are the most effective rebuttal to "politics of envy" — but they must be recruited before the fight, not during. See [../13-movement/messengers.md](../13-movement/messengers.md) and [personal-attacks.md](personal-attacks.md).
-
-## What still needs doing
-
-- Full read and structured extraction of Graetz & Shapiro (2005): chronology, funding flows, vote counts, and the pro-tax side's documented errors.
-- Verification of the Luntz memo texts and the 60 Plus "death tax" propagation claims against primary reporting.
-- Confirmation of the 2001 *New York Times* farm-loss investigation and any subsequent cases identified.
-- Vote-count analysis of House and Senate repeal votes 1999–2002 for the bipartisan-leakage pattern.
-- Comparative check: whether equivalent renaming campaigns ran in Australia (pre-1979), Sweden (pre-2004), and the UK (IHT coverage) — feeds [../05-history/abolitions.md](../05-history/abolitions.md) and [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
 
 ## Sources
 

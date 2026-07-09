@@ -76,3 +76,4 @@ Each answer above should ship as a one-page public explainer before the legislat
 3. [*Guest v Guest* [2022] UKSC 27 — proprietary estoppel in farm succession](https://www.supremecourt.uk/cases/uksc-2020-0209.html)
 4. [Inheritance (Provision for Family and Dependants) Act 1975](https://www.legislation.gov.uk/ukpga/1975/63)
 5. [IHTA 1984 s.142 — deeds of variation; HMRC IHTM35011](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm35011)
+6. [Irish Revenue — CAT group thresholds and treatment of relationships](https://www.revenue.ie/en/gains-gifts-and-inheritance/cat-thresholds-rates-and-aggregation-rules/index.aspx) — comparative baseline for §6.

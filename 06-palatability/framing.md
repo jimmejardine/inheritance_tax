@@ -96,3 +96,7 @@ Each risk argues for the same discipline: frames must be load-bearing restatemen
 5. [Alesina, A., Stantcheva, S. & Teso, E., "Intergenerational Mobility and Preferences for Redistribution," AER (2018)](https://www.aeaweb.org/articles?id=10.1257/aer.20162015); Alesina & Angeletos, "Fairness and Redistribution," AER (2005)
 6. Almås, I., Cappelen, A. & Tungodden, B., "Cutthroat Capitalism versus Cuddly Socialism," JPE (2020) — effort/luck fairness views *(to verify)*
 7. [Graham, J., Haidt, J. et al., Moral Foundations Theory](https://moralfoundations.org/); Haidt, J., *The Righteous Mind* (2012)
+
+---
+
+*Related: the survey evidence behind each mechanism is in [polling.md](polling.md); the campaigns that weaponised them are in [case-studies.md](case-studies.md); bloc-level application is in [coalition.md](coalition.md).*

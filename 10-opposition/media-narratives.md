@@ -2,6 +2,8 @@
 
 **Executive summary.** Opposition to inheritance taxation is not usually won in policy journals but in images: the televised farm auction, the weeping widow, the shuttered family shop. The UK's 2024–25 farmer protests over agricultural relief reform provide a live, recent demonstration of how a numerically narrow measure can be converted into a national hard-case story within weeks — and therefore a checklist of what this proposal must design out before launch.
 
+This file covers the *narratives and their staging*; the underlying arguments (business destruction, family, fairness) are rebutted in [../09-objections/family.md](../09-objections/family.md), [../09-objections/economic.md](../09-objections/economic.md), and [../09-objections/practicality.md](../09-objections/practicality.md).
+
 ## The four stock narratives
 
 | Narrative | Image | Emotional register | Structural answer in this proposal |
@@ -12,6 +14,8 @@
 | "They're coming for your house" | Ordinary suburban semi with a tax demand on the doormat | Fear of scope creep to the median voter | £500k *per-recipient* threshold, indexed to max(wages, median house prices) — [../02-proposal/thresholds.md](../02-proposal/thresholds.md); slippery-slope rebuttal in [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md) |
 
 Note the pattern: every stock narrative substitutes a sympathetic, visualisable *loser* for the statistical, invisible *beneficiary*. The counter is not better statistics — it is a better face (see Mitigations).
+
+Two properties make these narratives durable. They are *pre-loaded*: decades of "death tax" campaigning mean audiences supply the frame before the story finishes — see [attack-playbook.md](attack-playbook.md). And they are *asymmetric to correct*: the emotional image travels on its own; the correction requires the audience to sit through a threshold, a deferral schedule, and a distribution table. This asymmetry is why the mitigations below emphasise prevention and counter-imagery over rebuttal.
 
 ## Live case study: the UK APR/BPR reform protests, 2024–25
 
@@ -51,6 +55,15 @@ The 2024 APR episode reached stage 4 within roughly a month (to verify): "the fa
 - **Threshold elision.** Coverage will systematically omit the £500k per-recipient threshold and the endowment, describing "a 100% inheritance tax" unqualified. Broadcast interviews will open with "so the state takes everything when you die?"
 - **Anticipatory grief stories.** Before enactment, expect "families rushing to gift ahead of the deadline" stories, which both dramatise the tax and advertise avoidance — interaction with [../15-transition/announcement-effects.md](../15-transition/announcement-effects.md).
 - **Partisan synthesis.** "Labour coming for your home" (UK) / "Democrats' death tax on the American dream" (US) — fusing the tax with pre-existing partisan fear narratives. See [../12-political-adoption/wedge-dynamics.md](../12-political-adoption/wedge-dynamics.md).
+- **Manufactured ambiguity.** Where the design forecloses a narrative (spousal exemption kills the widow story), expect deliberate conflation with the *current* inheritance-tax regime's genuine flaws, imported wholesale as if they applied to the proposal.
+
+## What still needs doing
+
+- Precise reconstruction of the 2024–25 APR/BPR episode: Budget parameters as enacted, Treasury vs NFU/CLA estimates and their methodologies, protest timeline, and polling movement before/after.
+- Media-content analysis of the APR coverage: share of items featuring hard-case vignettes vs distributional data; which outlets led.
+- Verification of the Clarkson farmland-motive reporting.
+- Inventory of comparable episodes elsewhere (US 2001 farm stories; Irish CAT coverage; German Mittelstand framing) for [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
+- Commission the endowment-recipient story bank: identify consented, filmable case studies in advance of any launch.
 
 ## Mitigations
 
@@ -60,14 +73,6 @@ The 2024 APR episode reached stage 4 within roughly a month (to verify): "the fa
 4. **Pre-agreed validators.** Recruit farmers, family-business owners, and widowed spouses who support the design *before* announcement, media-trained and consented for broadcast. A farmer answering the farm story is worth any number of Treasury spreadsheets. See [../13-movement/messengers.md](../13-movement/messengers.md).
 5. **Publish the distributional facts in narrative form.** Not tables alone: "nine out of ten people who inherit will pay nothing" (to verify against [../02-proposal/thresholds.md](../02-proposal/thresholds.md) modelling) as the drilled first sentence of every interview, with the micro-simulation behind it published for scrutiny.
 6. **Never defend the tax without the endowment in the same sentence.** Every broadcast answer pairs the loss-frame question with the gain-frame answer. Message discipline protocols in [../14-communications/debate-toolkit.md](../14-communications/debate-toolkit.md).
-
-## What still needs doing
-
-- Precise reconstruction of the 2024–25 APR/BPR episode: Budget parameters as enacted, Treasury vs NFU/CLA estimates and their methodologies, protest timeline, and polling movement before/after.
-- Media-content analysis of the APR coverage: share of items featuring hard-case vignettes vs distributional data; which outlets led.
-- Verification of the Clarkson farmland-motive reporting.
-- Inventory of comparable episodes elsewhere (US 2001 farm stories; Irish CAT coverage; German Mittelstand framing) for [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
-- Commission the endowment-recipient story bank: identify consented, filmable case studies in advance of any launch.
 
 ## Sources
 

@@ -62,6 +62,17 @@ Throughout the whole arc, IRC §1014 has granted heirs a **stepped-up basis**: u
 - **The step-up lesson:** transfer taxation cannot be designed in isolation from income-tax basis rules.
 - **A political warning:** the tax died not by argument but by framing and erosion; the counter-strategy is the endowment pairing ([../02-proposal/endowment.md](../02-proposal/endowment.md)) and the communications programme in [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md).
 
+## Verification checklist
+
+- Rate/exemption chronology in the arc table, against the IRS SOI "Ninety Years and Counting" tables and JCT histories — especially the 1924/1926 gift-tax sequence, the 1941 77% date, and the 1942 $60,000 exemption.
+- The 2025 legislation's exemption figure (~$15m from 2026) and permanence.
+- Revenue shares: the ~1–2% mid-century share, the mid-1930s peak, and today's ~0.5%.
+- The FDR 1935 message quotation.
+- Cooper's "voluntary tax" characterisation and its exact wording.
+- Presidential count across the 77% plateau (1941–76).
+- Top 0.1% wealth-share figures (Saez–Zucman vs Smith–Zidar–Zwick ranges).
+- Steinbrenner 2010 details and the estate-size estimate commonly cited.
+
 ## Sources
 
 1. [Jacobson, D., Raub, B. and Johnson, B. (IRS Statistics of Income). "The Estate Tax: Ninety Years and Counting." *SOI Bulletin* (2007)](https://www.irs.gov/pub/irs-soi/ninetyestate.pdf) — legislative chronology and rate/exemption tables.

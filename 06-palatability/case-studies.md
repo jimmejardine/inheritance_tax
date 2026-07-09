@@ -61,6 +61,16 @@ The October 2024 Budget capped agricultural and business property relief (100% r
 
 **Marriage equality (US/UK, c. 1996–2015).** US support roughly doubled (Gallup: ~27% in 1996 to ~60%+ by 2015, ~70% by the 2020s, to verify) [7]. The mechanisms — contact ("everyone knows a couple"), generational replacement, values reframing (from liberation to commitment and family), and messenger diversification — are all available to inheritance reform, which similarly needs a *reframe within existing values* rather than new values ([framing.md](framing.md) §5, [`../13-movement/precedents.md`](../13-movement/precedents.md)).
 
+## F. Cross-case synthesis: the salience-management problem
+
+Read together, the six cases resolve into a single strategic asymmetry. Inheritance-tax opinion has two stable states — dormant mild opposition and inflamed strong opposition — and historically only *opponents* have possessed the machinery to move between them. Every losing case features the same sequence: a technical trigger (threshold drift, relief reform, initiative wording), a pre-built emotional frame deployed within days, and a defence that arrived late with spreadsheets.
+
+The positive cases invert the sequence: minimum wage and marriage equality won by *lowering* the temperature — years of normalisation, messenger diversification, and predicted-catastrophe non-arrival — before any decisive legislative moment. The implication for sequencing ([`../15-transition/sequencing.md`](../15-transition/sequencing.md)) is that the movement should not seek an early salience spike it cannot yet win. The order of operations is:
+
+1. **Build the frame inventory first** ([framing.md](framing.md), [`../14-communications/`](../14-communications/README.md)) — the 2007 lesson that spikes reward preparation.
+2. **Normalise the benefit half** — endowment and baby-bond proposals travel safely at high salience; the tax half does not, yet ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)).
+3. **Reserve the full package for a crisis window** in which fiscal need and generational grievance align ([`../11-geographies/crisis-windows.md`](../11-geographies/crisis-windows.md)) — the historical pattern in which every high-water estate-tax mark was actually set ([`../05-history/README.md`](../05-history/README.md)).
+
 ## Transferable lessons
 
 | # | Lesson | Source case | Where operationalised |
@@ -85,3 +95,7 @@ The October 2024 Budget capped agricultural and business property relief (100% r
 5. HMRC Child Trust Fund statistics; NAO reporting on dormant CTF accounts *(to verify)*
 6. Low Pay Commission retrospectives on the National Minimum Wage (1999–) *(to verify)*
 7. [Gallup — U.S. same-sex marriage trend series](https://news.gallup.com/poll/117328/marriage.aspx) *(figures to verify)*
+
+---
+
+*Related: the opinion evidence these campaigns moved is in [polling.md](polling.md); the psychological mechanisms they exploited are in [framing.md](framing.md); the blocs they fought over are profiled in [coalition.md](coalition.md).*

@@ -61,6 +61,13 @@ Based on the historical record and current organisational landscape (roles to ve
 
 The watch brief is not a blacklist: sector bodies have legitimate members with legitimate concerns, and the correct engagement with them is the carve-out consultation described in [../02-proposal/carveouts.md](../02-proposal/carveouts.md). The brief exists so that when a body's public position diverges from its members' actual exposure (the Farm Bureau pattern), the divergence is documented and citable.
 
+## What still needs doing
+
+- Current transparency ratings for the named UK institutes (Who Funds You? successor projects) and any funder disclosures since.
+- Map of the US estate-tax opposition network as it exists now (post-repeal-fight successor organisations, current funding vehicles).
+- STEP's published policy submissions on UK IHT and trust regulation as a baseline for expected positions.
+- Legal review of feasible UK lobbying-register and think-tank disclosure reforms, and their legislative vehicles.
+
 ## Mitigations
 
 1. **Legislate transparency alongside the tax.** Package lobbying-register reform (extend to in-house lobbyists), think-tank funder disclosure above a de-minimis threshold, and beneficial-ownership disclosure for campaign donors into the same legislative programme. Opponents then have to fight transparency in public in order to fight the tax in private.
@@ -69,13 +76,6 @@ The watch brief is not a blacklist: sector bodies have legitimate members with l
 4. **Prebunk the front-group launch.** Publish, before announcement, a plain-language explainer: "Within a month, a group with a name like X will appear, claiming to speak for family farms. Ask who funds it." Inoculation mechanics in [../14-communications/inoculation.md](../14-communications/inoculation.md); the 2001 US precedent gives the script — [attack-playbook.md](attack-playbook.md).
 5. **Split the profession.** A recipient-based tax with a Central Register of Receipts ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)) still needs valuers, executors, and compliance advisers. Engage the professional bodies on administrability early; practitioners who help design the regime acquire a stake in its workability. The German experience of practitioner-driven carve-out abuse ([../05-history/abolitions.md](../05-history/abolitions.md)) shows what happens when the profession's only role is adversarial.
 6. **Symmetry audits.** Commission an independent standing tally of declared spending for and against the policy. The expected asymmetry — opponents outspending supporters by an order of magnitude (to verify once observable) — is itself a communicable fact that validates [../01-problem/political-capture.md](../01-problem/political-capture.md): *the money fighting this tax is the money the tax is about.*
-
-## What still needs doing
-
-- Current transparency ratings for the named UK institutes (Who Funds You? successor projects) and any funder disclosures since.
-- Map of the US estate-tax opposition network as it exists now (post-repeal-fight successor organisations, current funding vehicles).
-- STEP's published policy submissions on UK IHT and trust regulation as a baseline for expected positions.
-- Legal review of feasible UK lobbying-register and think-tank disclosure reforms, and their legislative vehicles.
 
 ## Sources
 

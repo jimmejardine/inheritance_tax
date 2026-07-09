@@ -8,14 +8,14 @@ This repository builds an evidence-based case — including the strongest counte
 
 ### The argument
 
-| Path | Purpose |
-|---|---|
-| [00-executive-summary.md](00-executive-summary.md) | Short version of the whole argument |
-| [01-problem/](01-problem/) | Ailments of late-stage capitalism the proposal targets |
-| [02-proposal/](02-proposal/) | What "100% inheritance tax" actually means (variants, mechanics, revenue, entrenchment) |
-| [03-case-for/](03-case-for/) | Why the thesis is reasonable — ethics, economics, democratic renewal, precedents |
-| [04-case-against/](04-case-against/) | Strongest counterarguments, steelmanned |
-| [05-history/](05-history/) | Thinkers, policies, and historical attempts — Paine to Piketty |
+| Path                                               | Purpose                                                                                 |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [00-executive-summary.md](00-executive-summary.md) | Short version of the whole argument                                                     |
+| [01-problem/](01-problem/)                         | Ailments of late-stage capitalism the proposal targets                                  |
+| [02-proposal/](02-proposal/)                       | What "100% inheritance tax" actually means (variants, mechanics, revenue, entrenchment) |
+| [03-case-for/](03-case-for/)                       | Why the thesis is reasonable — ethics, economics, democratic renewal, precedents        |
+| [04-case-against/](04-case-against/)               | Strongest counterarguments, steelmanned                                                 |
+| [05-history/](05-history/)                         | Thinkers, policies, and historical attempts — Paine to Piketty                          |
 
 ### The engineering
 

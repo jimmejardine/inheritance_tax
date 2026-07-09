@@ -46,9 +46,26 @@ The luck-egalitarian framework ([`ethical.md`](ethical.md) §1) distinguishes *b
 
 The corollary deserves emphasis because it inverts the usual political coding: *the scheme legitimises inequality*. Post-endowment differences in wealth reflect choices, effort, judgement, and chosen risk to a degree no current distribution can claim. The entrepreneur's fortune is more defensible, not less, in a world where her competitors also started with capital. This is the sense in which the proposal arms the meritocracy ([`meritocratic-legitimacy.md`](meritocratic-legitimacy.md)): every desert-based defence of market rewards presupposes a fair start it currently cannot show. The endowment is where the presupposition becomes true.
 
-## 5. Universal inheritance, not universal income
+## 5. The instrument compared
 
-The endowment should be distinguished from its better-known cousin. A universal basic income is a flow — it addresses ongoing subsistence and bargaining power. The endowment is a stock — it addresses capital access and starting position. They answer different problems, and the inheritance-tax base pairs naturally with the stock instrument: dynastic *capital* is recycled as universal *capital*, Paine's original 1797 architecture ([`../05-history/paine-1797.md`](../05-history/paine-1797.md)) and Atkinson's 2015 minimum-inheritance proposal ([`../05-history/atkinson.md`](../05-history/atkinson.md)) [9][10]. Ackerman and Alstott's stakeholder grant is the fullest modern statement [11], and the republican-citizenship reading of the same instrument is developed in [`democratic-renewal.md`](democratic-renewal.md) §5. The manifesto's lead framing follows from all of this: not "the state takes your inheritance," but "every citizen gets one" ([`00-executive-summary.md`](../00-executive-summary.md)).
+| Dimension | Means-tested transfers | Universal basic income | Baby bonds (Hamilton–Darity) | **Citizen's endowment at 25** |
+|---|---|---|---|---|
+| What is transferred | Flow, conditional | Flow, unconditional | Stock, at birth, progressive by parental wealth | Stock, at adulthood, universal |
+| Relationship created | Ongoing claimant status | Ongoing entitlement | Locked account until maturity | One-off transfer of standing |
+| Targets | Subsistence gaps | Subsistence + bargaining power | Racial/parental wealth gaps specifically | Capital access at the start |
+| Political grammar | "Welfare" | "Handout" (contested) | Targeted justice claim | Universal inheritance — a right of citizenship |
+| Natural funding pair | General taxation | General taxation / dividend | General taxation | **Inheritance tax: dynastic capital recycled as universal capital** |
+| Meritocratic effect | Neutral | Neutral | Partial start-equalisation | Full start-equalisation; legitimises subsequent outcomes |
+
+Baby bonds — enacted in miniature in Connecticut (2021) and proposed federally by Booker (to verify) — are the nearest living relative and a plausible stepping-stone ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)); the endowment differs in universality, scale, and its explicit funding link to the inheritance-tax base [11][12].
+
+## 6. Objections specific to the grant
+
+Two objections attach to the endowment rather than the tax, and both are design questions rather than defeaters. *Stakeblowing*: some recipients will waste the grant. True by construction under any liberal design; the answers are delivery design (staged release, approved first uses, default investment vehicles — [`../02-proposal/endowment.md`](../02-proposal/endowment.md)), the observation that current inheritance is also freely squanderable but only by the already-lucky, and the retained subsistence safety-net beneath the scheme ([`../09-objections/spend-it-all.md`](../09-objections/spend-it-all.md)). *Paternalism*: any restriction on use contradicts the agency rationale of §3. Correct as stated — which is why restrictions should be minimal, time-limited, and default-based rather than prohibitive; Ackerman and Alstott's own answer (freedom to fail is part of the stake) is the principled pole, and the design space between it and full custodianship is mapped in [`../02-proposal/endowment.md`](../02-proposal/endowment.md). Neither objection touches the core claim: that starts, not flows, are the just and politically durable currency of redistribution.
+
+## 7. Universal inheritance, not universal income
+
+The endowment should be distinguished from its better-known cousin. A universal basic income is a flow — it addresses ongoing subsistence and bargaining power. The endowment is a stock — it addresses capital access and starting position. They answer different problems, and the inheritance-tax base pairs naturally with the stock instrument: dynastic *capital* is recycled as universal *capital*, Paine's original 1797 architecture ([`../05-history/paine-1797.md`](../05-history/paine-1797.md)) and Atkinson's 2015 minimum-inheritance proposal ([`../05-history/atkinson.md`](../05-history/atkinson.md)) [9][10]. Ackerman and Alstott's stakeholder grant is the fullest modern statement [11], and the republican-citizenship reading of the same instrument is developed in [`democratic-renewal.md`](democratic-renewal.md) §6. The manifesto's lead framing follows from all of this: not "the state takes your inheritance," but "every citizen gets one" ([`00-executive-summary.md`](../00-executive-summary.md)).
 
 ## Sources
 
@@ -63,3 +80,4 @@ The endowment should be distinguished from its better-known cousin. A universal 
 9. [Paine, T. (1797). *Agrarian Justice*](https://www.ssa.gov/history/paine4.html)
 10. [Atkinson, A. B. (2015). *Inequality: What Can Be Done?*, Proposal 6 (minimum inheritance)](https://www.hup.harvard.edu/books/9780674979789)
 11. [Ackerman, B. & Alstott, A. (1999). *The Stakeholder Society*. Yale UP](https://yalebooks.yale.edu/book/9780300082609/the-stakeholder-society/)
+12. [Hamilton, D. & Darity, W. (2010). "Can 'Baby Bonds' Eliminate the Racial Wealth Gap in Putative Post-Racial America?" *Review of Black Political Economy* 37](https://journals.sagepub.com/doi/10.1007/s12114-010-9063-1)

@@ -57,3 +57,22 @@ The shape — reserve build, a roughly decade-long financed gap peaking in the t
 2. Fund legislation enacted and the Phase 2 reserve visibly accumulating — the bridge should be *seen working* before the big rate change.
 3. Fiscal-rule language agreed that accommodates the bridge borrowing explicitly ([legislative-path-uk.md](legislative-path-uk.md)); discovering the collision after announcement is the avoidable own-goal.
 4. Second-order revenue interactions modelled — behavioural shifts in giving, saving, and asset prices feed back into the receipts line: [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md), [`../16-second-order/asset-prices.md`](../16-second-order/asset-prices.md), [`../16-second-order/macro.md`](../16-second-order/macro.md).
+5. The US variant re-derived under reconciliation scoring: the Byrd rule's out-year deficit test makes the bridge shape a *legislative survival* question there, not merely a financing one ([legislative-path-us.md](legislative-path-us.md)).
+
+## Anticipated attacks on the bridge
+
+| Attack | Response |
+|---|---|
+| "Borrowing to give money away" | The debt is secured on a legislated receipt stream and serviced by future dynastic heirs, not future workers; publish the fund's actuarial position annually |
+| "The revenue will never come — avoidance will gut it" | The claim is testable in-flight: Phase 1–2 register data show realised yield years before Phase 3 borrowing peaks; abort criteria can be stated in advance ([`../09-objections/avoidance.md`](../09-objections/avoidance.md)) |
+| "Off-balance-sheet trickery" | The fund is consolidated and transparent; the case for capital treatment is argued openly, not smuggled ([legislative-path-uk.md](legislative-path-uk.md)) |
+| "Future government will raid the fund" | Statutory ring-fence, named beneficiaries, and the political cost of visibly taking £50k from every 25-year-old ([`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md)) |
+
+## Sources
+
+1. [Mirrlees Review, *Tax by Design*](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — wealth-transfer flow estimates and lifetime-receipts architecture.
+2. [ONS — population by single year of age (cohort sizing for the endowment)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration) — figures to verify.
+3. [HMRC — Inheritance Tax statistics (current yield baseline)](https://www.gov.uk/government/collections/inheritance-tax-statistics) .
+4. [OBR — fiscal-rules commentary and long-run fiscal sustainability reports](https://obr.uk/) — classification and rules interaction.
+5. Atkinson, A. B. (2015). *Inequality: What Can Be Done?* — the paired minimum-inheritance/capital-endowment financing discussion.
+6. [Resolution Foundation / Intergenerational Commission — intergenerational wealth-flow estimates](https://www.resolutionfoundation.org/) — scale of UK inheritance flows (to verify against latest releases).

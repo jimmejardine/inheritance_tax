@@ -46,6 +46,31 @@ This makes Roosevelt the anchor citation for the right-of-centre adoption path m
 - **The "differentiated in kind" argument.** The single best rhetorical warrant for a *kinked* schedule — below the threshold a family matter, above it a political institution — which is exactly the 0%/100% structure of [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
 - **Wedge potential.** A lineage that lets advocates ask conservatives which side of Roosevelt's line they stand on — see [../12-political-adoption/wedge-dynamics.md](../12-political-adoption/wedge-dynamics.md).
 
+## Timeline: from speech to statute
+
+| Date | Event |
+|---|---|
+| June 1889 | Carnegie's "Wealth" legitimises death duties in industrialist circles ([carnegie-1889.md](carnegie-1889.md)) |
+| April 1906 | Muck-rake speech floats a progressive tax on transmitted fortunes |
+| December 1906 | Sixth Annual Message formally recommends a federal graduated inheritance tax |
+| 1907–08 | Repeated in subsequent messages; no congressional action (to verify) |
+| August 1910 | New Nationalism speech — the fullest statement, out of office |
+| 1912 | Progressive ("Bull Moose") platform carries the graduated inheritance tax |
+| 1913 | Sixteenth Amendment and Revenue Act settle the income-tax question, clearing fiscal ground |
+| September 1916 | Revenue Act of 1916 enacts the permanent federal **estate** tax — Roosevelt's goal, in weaker structural form ([us-estate-tax.md](us-estate-tax.md)) |
+
+The six-to-ten-year lag between presidential advocacy and statute — with an intervening party rupture and a war-finance trigger — is itself a datum for [../15-transition/sequencing.md](../15-transition/sequencing.md) and [../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md): head-of-government advocacy opened the window; an exogenous revenue emergency pushed the measure through it.
+
+## Verification checklist
+
+- The exact wording of the muck-rake, Sixth Annual Message, and Osawatomie passages, against the American Presidency Project texts.
+- Whether the 1906 message proposed graduation by the recipient's kinship as well as by estate size.
+- The gift-in-contemplation-of-death safeguard attribution.
+- The 1912 Progressive platform plank text.
+- Whether TR's 1907/1908 messages repeated the recommendation, and in what terms.
+- Taft's 1909 position (he endorsed an inheritance tax during the tariff debates before settling for the corporate excise; to verify) — useful as evidence the idea spanned both Republican factions.
+- Whether the 1906 message's inheritance-tax passage explicitly disclaimed revenue as the purpose, as recalled above — the distributional-primary framing is load-bearing for [../02-proposal/README.md](../02-proposal/README.md).
+
 ## Sources
 
 1. Morris, E. (2001). *Theodore Rex*. Random House — political context of the 1906 message.

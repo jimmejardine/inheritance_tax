@@ -48,10 +48,18 @@ The migration-elasticity literature is real but consistently smaller than the rh
 | Advani, Burgherr & Summers (UK, 2022–23) | Non-dom reform 2017 | Migration response far smaller than industry forecasts; most affected stayed [5] |
 | Young & Varner (California/New Jersey millionaire taxes) | US state income taxes | "Millionaire migration" largely a myth at observed rates; the rich are embedded, not footloose [6] |
 
+A methodological caution applies to the exodus headlines specifically: the widely cited Henley/New World Wealth "millionaire migration" figures are produced by a relocation-services firm from social-media and property sampling, not administrative data, and academic examinations of actual tax-record responses (Advani et al. on the 2017 non-dom reform) found departures a small fraction of industry forecasts [5] (to verify the 2025-cycle data as it emerges).
+
 Three structural points weigh against the objection's strongest reading:
 
-1. **Compound improbability.** Effective escape from a recipient-based, dual-nexus tax with a 10-year exit tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) requires the *donor* to emigrate genuinely and early, the *assets* to be re-sited, the *heirs* to also be non-resident (a recipient-based tax follows them), and the whole family to sustain this for a decade or more — surrendering, in the UK case, London, schools, and social position. Each step has real probability of non-completion; the product is small. People who merely *say* they will leave over tax vastly outnumber those who do.
-2. **The embedded rich.** The Nordic evidence cuts less cleanly than the steelman claims: what Sweden lacked was not enforcement capacity in general but this *design* — its tax had nominal-frozen thresholds, weak trust rules, and no exit tail, and its abolition is better read as the failure of a badly built tax than of inheritance taxation per se ([`../05-history/abolitions.md`](../05-history/abolitions.md) makes this case in detail; honest readers should note it is *our* reading, contested by the Swedish policymakers themselves).
+1. **Compound improbability.** Effective escape from a recipient-based, dual-nexus tax with a 10-year exit tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) requires *all* of the following to hold simultaneously:
+   - the *donor* emigrates genuinely and early enough to clear the exit tail;
+   - the *assets* are re-sited (impossible for UK land, housing, and operating businesses — situs rules catch them regardless of the owner's residence);
+   - the *heirs* are also non-resident, since a recipient-based tax follows the receiver, not the giver;
+   - the whole family sustains this for a decade or more — surrendering, in the UK case, London, schools, and social position.
+
+   Each step has a real probability of non-completion; the product is small. People who merely *say* they will leave over tax vastly outnumber those who do.
+2. **The embedded rich.** The Nordic evidence cuts less cleanly than the steelman claims: what Sweden lacked was not enforcement capacity in general but this *design* — its tax had nominal-frozen thresholds, weak trust rules, and no exit tail. Its abolition is better read as the failure of a badly built tax than of inheritance taxation per se ([`../05-history/abolitions.md`](../05-history/abolitions.md) makes this case in detail; honest readers should note it is *our* reading, contested by the Swedish policymakers themselves).
 3. **The structural-dependence thesis is contested on its own terrain.** Przeworski and Wallerstein's own formal result was that structural dependence constrains taxation of *investment* far more than taxation of *consumption out of wealth* — and a death-time transfer tax on heirs is closer to the latter: it does not reduce the return on any marginal investment made in life [3]. Swank and others have found the predicted automatic punishment of redistributive policy weak in the data (to verify). The threat is real but not omnipotent; states tax capital every day.
 
 ## The honest residual
@@ -62,9 +70,25 @@ A determined unilateral adopter **will lose some fortunes**. Some founders will 
 - The Lindblom-type investment channel cannot be refuted in advance; it can only be managed by credibility, pace, and the endowment's countervailing popularity ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md), [`../15-transition/sequencing.md`](../15-transition/sequencing.md)).
 - International coordination would transform the problem, and its absence is a genuine cost of moving first ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md); the Pillar-Two corporate-tax floor is the proof-of-concept that coordination on mobile bases is possible, not that it is imminent).
 
+## What would change the assessment
+
+The verdict below should move if any of the following emerges:
+
+- administrative-data evidence (not industry surveys) of large, sustained outflows of *domestic* wealthy residents in response to transfer-tax severity, at magnitudes approaching industry forecasts;
+- evidence that exit taxes and residence tails are unenforceable in practice at scale — e.g. systematic non-collection under the US expatriation regime (IRC §877A) or the proposed UK tail (to verify enforcement records);
+- a rival-jurisdiction dynamic in which post-adoption departures visibly cluster among *founders of operating businesses* rather than holders of liquid portfolios — the loss category the tolerable-loss framing below cannot absorb.
+
+Conversely, successful Pillar-Two-style coordination on any personal-wealth base would remove most of the objection's remaining force ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
+
 ## Verdict
 
-The objection survives in weakened but permanent form. The empirical migration case is much weaker than its rhetoric — the elasticities are modest, the compound requirements for successful death-tax emigration are demanding, and the Nordic abolitions indict specific design failures more than the enterprise itself. But the structural version (exit threat as standing discipline) and the unilateral first-mover cost are genuine, unfalsifiable-in-advance, and should be priced in rather than argued away. The full design response — exit taxes, situs rules, friction inventory, retention strategy, coordination pathways — lives in [`../08-capital-flight/`](../08-capital-flight/README.md); the quick-fire rebuttal version is at [`../09-objections/avoidance.md`](../09-objections/avoidance.md).
+The objection survives in weakened but permanent form.
+
+The empirical migration case is much weaker than its rhetoric — the elasticities are modest, the compound requirements for successful death-tax emigration are demanding, and the Nordic abolitions indict specific design failures more than the enterprise itself.
+
+But the structural version (exit threat as standing discipline) and the unilateral first-mover cost are genuine, unfalsifiable-in-advance, and should be priced in rather than argued away. A serious adopter budgets for announced departures, media exodus narratives, and a front-loaded loss of some fraction of the liquid-fortune tail — and proceeds because the immobile majority of the base (land, housing, domestic businesses) plus the broken-dynasty benefit exceed that loss.
+
+The full design response — exit taxes, situs rules, friction inventory, retention strategy, coordination pathways — lives in [`../08-capital-flight/`](../08-capital-flight/README.md); the quick-fire rebuttal version is at [`../09-objections/avoidance.md`](../09-objections/avoidance.md).
 
 ## Sources
 

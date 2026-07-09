@@ -70,6 +70,13 @@ The instructive asymmetry: both countries reached near-maximal *rates* without e
 - **Japan:** further unification of gift and inheritance taxation (the direction of the 2023 reform, to verify); whether ageing-driven fiscal packages reach for the inheritance base again as in 2015; LDP tax commission (*zeichō*) annual outlines, where all real Japanese tax policy is written.
 - **Both:** any bilateral or OECD-level interest in transfer-tax coordination — as the highest-rate incumbents, Korea and Japan are the natural *demandeurs* for a floor that stops their wealthy relocating to Singapore ([unlikely-and-havens.md](unlikely-and-havens.md), [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
 
+## Campaign use of the East Asian record
+
+- **Against "no advanced economy could sustain this":** Korea and Japan have run 50–55% top rates for decades while leading the world in industrial sophistication — the single most economical rebuttal available ([`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md)).
+- **Against "the rich are untouchable":** the Samsung assessment shows a determined administration collecting ten-figure sums from the most powerful family in the country, in instalments, without capital flight or corporate collapse (to verify post-payment outcomes for [`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)).
+- **For the anti-dynastic frame:** chaebol succession scandals supply the narrative library for [`../01-problem/political-capture.md`](../01-problem/political-capture.md) — concrete, prosecuted, non-hypothetical cases where inheritance preservation corrupted governance.
+- **Caution:** do not oversell — both taxes are estate-structured, endowment-free, and politically embattled; they prove rate tolerance and enforcement capacity, nothing more.
+
 ## Analytic judgement
 
 Korea is the more probable adopter of something *recognisably* like this proposal — its anti-dynastic politics could, under a reformist government and a chaebol scandal window ([crisis-windows.md](crisis-windows.md)), push a recipient-based restructure upward rather than downward, and its threshold politics would follow the same "protect ordinary families, cap dynasties" line as [`../02-proposal/`](../02-proposal/README.md). Japan is the more probable *quiet convergence* case: incremental base-broadening and rate creep under fiscal pressure, without manifesto politics. Neither will pair the tax with a universal endowment unaided — that idea has no local lineage, and exporting it is a communications task ([`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md)).

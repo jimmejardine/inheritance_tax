@@ -24,6 +24,38 @@ Taken neat, Scheidel is an argument against this whole project. Three qualificat
 
 Secondary windows: a chaebol-scale succession scandal (Korea's recurring trigger — [korea-japan.md](korea-japan.md)); a constitutional-court strike-down forcing wholesale redesign (Austria 2008's mechanism, which could as easily force an upgrade as an abolition — [continental-europe.md](continental-europe.md)); and an OECD/G20 coordination round following the Pillar Two precedent ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
 
+## Window-country matrix
+
+Windows open locally. Mapping the five windows onto the section's leading candidates ([README.md](README.md)):
+
+| Window | UK | Korea | Ireland | Japan | Netherlands | Nordics |
+|---|---|---|---|---|---|---|
+| 1 Wealth-transfer visibility | Strong | Medium | Medium | Strong | Medium | Medium |
+| 2 Housing electorate | Strong | Strong | Strong | Weak | Strong | Medium |
+| 3 Ageing fiscal crunch | Medium | Strong (2030s) | Weak | Strong (now) | Medium | Weak |
+| 4 Post-crisis consolidation | Recurrent | Possible | Possible | Chronic-normalised | Possible | Weak |
+| 5 AI capital-share shock | Medium | Strong (industrial AI exposure) | Strong (tech-FDI base) | Medium | Medium | Medium |
+
+Reading: the UK and Korea are multi-window countries — several independent routes to a conjuncture — which is part of why they head the ranking. Japan's windows push *rate and base*, not structure. Ireland's single dominant window (housing) explains why its politics currently moves thresholds *up* rather than rates.
+
+## False windows
+
+Shocks that look like openings but historically run the other way; the movement should pre-commit to not spending capital on them ([`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md)):
+
+- **Inflation crises.** Fiscal drag pulls ordinary estates over un-indexed thresholds, generating *anti*-tax sentiment — the Swedish path to abolition, not adoption ([`../05-history/abolitions.md`](../05-history/abolitions.md)). Post-2021 inflation politics cut transfer taxes in several countries (Greece, Korea debates — to verify).
+- **Right-populist anti-elite windows.** Anti-elite energy without egalitarian content targets "globalists" and immigrants, not dynasties; populist governments (US 2017, to verify others) have *cut* estate taxation while campaigning against elites. Anti-elite sentiment is a necessary ingredient, not a sufficient one ([`../12-political-adoption/wedge-dynamics.md`](../12-political-adoption/wedge-dynamics.md)).
+- **Asset-price crashes.** A collapsed housing market mechanically de-fangs the wealth-transfer story and makes any new tax on assets feel like kicking the fallen. The window is the *recovery* budget, not the crash itself.
+
+## Indicators to monitor
+
+- Annual inheritance-flow estimates as a share of national income (Piketty-Zucman series updates — to verify) crossing publicised round numbers.
+- First national election in a candidate country where under-45 homeownership is a top-three polled issue.
+- OECD or IMF flagship publications recommending inheritance-tax strengthening (the OECD's 2021 report was the opening move — [`../05-history/abolitions.md`](../05-history/abolitions.md) sources).
+- Any G20 communiqué language on wealth-transfer taxation following the 2024 Brazilian-presidency billionaire-tax initiative (to verify status).
+- Legislative drafting capacity in place: the existence of a published, costed bill in at least one candidate country — the metric this project itself feeds ([`../15-transition/legislative-path-uk.md`](../15-transition/legislative-path-uk.md)).
+- Generational polling crossover: the first credible poll in a candidate country showing net support for heavy inheritance taxation among under-40s *including* expected inheritors ([`../06-palatability/polling.md`](../06-palatability/polling.md)).
+- AI capital-share evidence: labour-share series and AI-attributed profit concentration entering mainstream fiscal commentary ([`../16-second-order/macro.md`](../16-second-order/macro.md)).
+
 ## The Friedman playbook
 
 Friedman's full formulation — "Only a crisis, actual or perceived, produces real change... Our basic function [is] to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable" — was executed by his own movement across 1947–1980, and the same method built the 2001 US estate-tax repeal ([`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)). Symmetry demands the levelling side run it too. Requirements before the window, mapped to this repo:
@@ -33,6 +65,16 @@ Friedman's full formulation — "Only a crisis, actual or perceived, produces re
 3. **A standing advocacy infrastructure** that can recognise the window and move — [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md), [`../12-political-adoption/policy-entrepreneurs.md`](../12-political-adoption/policy-entrepreneurs.md).
 4. **Geographic targeting.** Windows open locally: watch the UK budget cycle, Korean succession politics, and Dutch coalition formations first, per the ranking in [README.md](README.md).
 
+## The opposition uses windows too
+
+Symmetry cuts both ways: every window that can carry adoption can carry repeal, and the historical record shows the repeal side has been better at window-craft. The 2001 US repeal rode the surplus-era "give it back" window; Swedish abolition rode a house-price window that made the tax's defects vivid; Australian abolition rode an interstate-competition window Queensland manufactured deliberately ([`../05-history/abolitions.md`](../05-history/abolitions.md), [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)). Three defensive implications:
+
+1. **Never let a design defect survive into a window.** Every un-indexed threshold or arbitrary relief is a stored repeal argument awaiting its moment.
+2. **Entrench between windows.** The endowment's named-account visibility is designed to make repeal a confiscation story rather than a relief story ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
+3. **Watch the opposition's window indicators as closely as your own** — surplus politics, farm-price distress, and high-profile forced-sale stories are their triggers ([`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md)).
+
 ## Analytic judgement
 
 The realistic adoption scenario is conjunctural: window #1 (wealth-transfer salience) and #2 (housing electorate) are slow, certain tides that raise baseline support, while #3–#5 supply the discrete shock that converts support into legislation. No identified window *requires* a Scheidel-scale catastrophe — but absent any shock at all, the honest expectation is stepping-stone convergence (receipts-basis reforms, baby bonds, threshold politics — [`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)) rather than the full 100% design. The manifesto's function, on this view, is exactly Friedman's: keep the idea alive, specified, and lying around.
+
+One further discipline follows: windows reward the prepared *jurisdiction*, not the prepared *idea in general* — which is why this file's matrix and the [README](README.md) ranking exist, and why the drafting work in [`../15-transition/`](../15-transition/README.md) is country-specific rather than generic.

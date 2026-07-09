@@ -65,6 +65,17 @@ The Group A threshold's history — cut sharply after 2008 in fiscal emergency (
 - Sinn Féin and Social Democrat wealth-taxation positions in coalition negotiations — the likeliest vector for CAT-strengthening proposals (to verify current platforms).
 - EU-level movement: Ireland's corporate-tax experience with Pillar Two shows it ultimately joins coordinated frameworks it would never initiate ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
 
+## What Ireland supplies to the rest of the project
+
+| Consuming file | What it takes from the Irish case |
+|---|---|
+| [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) | Proof-of-concept for the lifetime receipts ledger and self-assessment trigger |
+| [`../09-objections/practicality.md`](../09-objections/practicality.md) | The standing rebuttal to "lifetime cumulation is unadministrable" |
+| [`../06-palatability/case-studies.md`](../06-palatability/case-studies.md) | The "this already exists" opener for every campaign audience |
+| [`../07-implementation/gifts-and-timing.md`](../07-implementation/gifts-and-timing.md) | Unified gift/inheritance thresholds with a small annual exemption |
+| [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md) | Prospective aggregation start-dates as the transition template |
+| [`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md) | The small-open-economy second-mover position, stated honestly |
+
 ## Analytic judgement
 
 Ireland's role in the global case is evidentiary, not vanguard: it is the country every other file cites to show the mechanism works. Its own adoption of the full variant is plausible only inside a coordinated move — most naturally an EU or UK-plus-Ireland framework — at which point its existing CAT machinery would make it the fastest implementer in Europe. Campaign use: lead with "Ireland already taxes inheritances this way; we are changing the rate and giving everyone a share," per [`../06-palatability/case-studies.md`](../06-palatability/case-studies.md).

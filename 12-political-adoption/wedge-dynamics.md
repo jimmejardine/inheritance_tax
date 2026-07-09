@@ -73,6 +73,8 @@ Symmetry requires anticipating the reverse plays, each with its standing answer:
 
 The pattern across all five: the counter-wedge attacks a *misdescription* of the policy, so the defence is always specification plus speed — the design detail exists, and the side that gets its description established first wins the frame ([../14-communications/inoculation.md](../14-communications/inoculation.md)).
 
+A final discipline for adopters: wedge plays are for opponents, never for internal factions. A leadership that uses the policy to discipline its own dissenters converts a votes-versus-donors story into a party-split story, which is the only version the press prefers to the policy itself ([../10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
+
 ## Bottom line
 
 The policy's wedge value is a party-strategic asset independent of its merits, and it is symmetric: it will be used by whoever picks it up first, against whoever hesitates. That symmetry is itself the movement's strongest card when briefing any party — the realistic choice on offer is not "adopt or ignore" but "wedge or be wedged" ([../13-movement/theory-of-change.md](../13-movement/theory-of-change.md)).

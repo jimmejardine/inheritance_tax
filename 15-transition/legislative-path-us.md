@@ -51,3 +51,25 @@ Every structural feature points the same way: supermajority chokepoints, constit
 3. **Interim rungs exist inside current politics**: restoring estate-tax parameters, closing valuation-discount and grantor-trust loopholes, and Batchelder-style inheritance-income proposals are all Congress-familiar stepping stones ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)).
 
 The UK path ([legislative-path-uk.md](legislative-path-uk.md)) has no equivalent of any of these barriers; that asymmetry, more than any cultural claim, is why this project is UK-primary.
+
+## UK–US procedural comparison
+
+| Dimension | UK | US |
+|---|---|---|
+| Vehicle | Finance Bill, simple Commons majority | Reconciliation, simple Senate majority with Byrd surgery |
+| Upper-chamber block | None on money bills; one-year max otherwise | Filibuster on regular order; none on reconciliation |
+| Same-day anti-forestalling effect | Yes (PCTA 1968) | Weaker: effective-date-of-introduction drafting is used but litigated; announcement-to-enactment gaps are normal |
+| Constitutional exposure | A1P1 proportionality — wide state margin | Direct-tax apportionment; Sixteenth Amendment scope; a receptive property-rights judiciary |
+| Sunset risk | None structural | Structural, via Byrd rule out-year deficit test |
+| Sub-national leakage | None — reserved matter | Fifty states; dynasty-trust situs shopping |
+| Realistic first-adopter status | Yes | No — follower market |
+
+## Sources
+
+1. [Congressional Budget Act of 1974 / Senate Byrd rule (2 U.S.C. §644)](https://www.congress.gov/) — reconciliation constraints.
+2. [Economic Growth and Tax Relief Reconciliation Act of 2001 (EGTRRA), Pub. L. 107-16](https://www.congress.gov/bill/107th-congress/house-bill/1836) — the sunset architecture and 2010 repeal year.
+3. Kopczuk, W. and Slemrod, J. (2003). "Dying to Save Taxes." *Review of Economics and Statistics* 85(2) — death-timing elasticity around estate-tax discontinuities (to verify).
+4. *New York Trust Co. v. Eisner*, 256 U.S. 345 (1921); *Eisner v. Macomber*, 252 U.S. 189 (1920); *Commissioner v. Glenshaw Glass Co.*, 348 U.S. 426 (1955) — the constitutional lineage for excise and income theories.
+5. Batchelder, L. (2020). ["Leveling the Playing Field between Inherited Income and Income from Work through an Inheritance Tax"](https://www.hamiltonproject.org/publication/policy-proposal/leveling-the-playing-field-between-inherited-income-and-income-from-work-through-an-inheritance-tax/) — The Hamilton Project; the leading US accessions-tax-as-income proposal.
+6. Andrews, W. D. (1967). "The Accessions Tax Proposal." *Tax Law Review* 22 — the classic accessions-tax literature (citation to verify).
+7. [Internal Revenue Code §102 (gifts and inheritances excluded from gross income)](https://www.law.cornell.edu/uscode/text/26/102) — the statutory, not constitutional, exclusion the design would reverse.

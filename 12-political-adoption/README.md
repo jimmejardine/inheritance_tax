@@ -77,3 +77,5 @@ The section is designed to be read two ways:
 - [wedge-dynamics.md](wedge-dynamics.md) — how the policy splits opposing coalitions, and design choices that sharpen or blunt the wedge
 - [policy-entrepreneurs.md](policy-entrepreneurs.md) — Kingdon's streams, the think-tank pipeline, special advisers, commissions, and citizens' assemblies
 - [stepping-stones.md](stepping-stones.md) — the seven incremental adoptables, each valuable alone, each a ratchet
+
+The section's one-sentence version: parties will adopt this policy when it is the cheapest available answer to a problem they already have, and every file above is about lowering that price for a specific buyer.

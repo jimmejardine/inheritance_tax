@@ -1,6 +1,6 @@
 # 03 — The Case For
 
-**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment. The pillars converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
+**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment; four reinforcements deepen them with the formal optimal-tax literature, the civic-republican constitutional argument, the positive case for the endowment itself, and the historical record of the proposal's components in action. The nine files converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics, republican, empirical-historical) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
 
 This section builds the positive case. The diagnostic evidence lives in [`../01-problem/`](../01-problem/); the design specification lives in [`../02-proposal/`](../02-proposal/); the historical case is in [`../05-history/`](../05-history/); the strongest counterarguments are steelmanned in [`../04-case-against/`](../04-case-against/).
 
@@ -14,6 +14,17 @@ This section builds the positive case. The diagnostic evidence lives in [`../01-
 | 4 | Civic | [meritocratic-legitimacy.md](meritocratic-legitimacy.md) | Carnegie, Sandel, Wooldridge | Dynasty violates capitalism's own self-justification; removing it is the conservative repair |
 | 5 | Heir-focused | [heirs-burden.md](heirs-burden.md) | Virtue ethics, self-determination theory | Large unearned fortunes harm their recipients; the tax is positive-sum, not zero-sum |
 
+## The four reinforcements
+
+Each reinforcement takes one pillar's strongest thread and develops it to full depth:
+
+| # | Reinforcement | File | Deepens | Headline claim |
+|---|---|---|---|---|
+| 6 | Formal | [optimal-tax-theory.md](optimal-tax-theory.md) | Pillar 2 (economic) | The optimal-tax literature itself — Piketty–Saez, Farhi–Werning, the Atkinson–Stiglitz rebuttal, accidental bequests as a near-lump-sum base — generates 50–80%+ optimal rates; translated into plain English throughout |
+| 7 | Republican | [democratic-renewal.md](democratic-renewal.md) | Pillar 4 (civic) + [ethical.md](ethical.md) §8 | The republic already once deliberately destroyed hereditary wealth mechanics (entail, primogeniture); renewing that operation is constitutional-order maintenance, not redistribution |
+| 8 | Endowment | [equal-start.md](equal-start.md) | The grant half of every pillar | Rawls, Dworkin, and the capabilities approach all imply a capital grant; redistributing *starts* rather than *flows* legitimises the market outcomes that follow |
+| 9 | Empirical-historical | [historical-precedents-of-success.md](historical-precedents-of-success.md) | All pillars | Every component of the proposal has been tried at scale — dynastic breaks, 70–80% transfer taxes, mass capital grants — and the predicted catastrophes did not occur |
+
 ## Why all five matter together
 
 Each pillar addresses a distinct objection pattern and speaks to a distinct audience:
@@ -23,6 +34,8 @@ Each pillar addresses a distinct objection pattern and speaks to a distinct audi
 - The **structural** pillar answers the "we already have progressive income tax" objection: why can't income redistribution do the work? (Answer: when *r > g*, no amount of flow redistribution stabilises the stock distribution. Only transfer taxation does.)
 - The **civic** pillar answers the conservative objection: isn't this an attack on market capitalism? (Answer: the opposite — dynasty is what undermines the desert-based legitimacy claim on which capitalism rests.)
 - The **heir** pillar answers the "but it's their family's money" objection: won't this harm heirs? (Answer: above the generous threshold, the fortune is itself the harm.)
+
+The reinforcements close the remaining flanks: **optimal-tax-theory** answers "serious economists oppose this" (they demonstrably do not — the formal literature supports high rates); **democratic-renewal** answers "this is un-American / un-British radicalism" (the American founding *is* the precedent); **equal-start** answers "this is just another welfare programme" (a one-off capital start is the opposite of flow dependency); and **historical-precedents-of-success** answers "it has never been tried" (its components have been, repeatedly, and the pieces worked).
 
 ## Cross-references
 
@@ -36,4 +49,5 @@ Each pillar addresses a distinct objection pattern and speaks to a distinct audi
 - Empirical deepening of the "heir-harm" literature — much is clinical and anecdotal; more systematic evidence would strengthen the virtue-ethics case.
 - A dedicated comparison with progressive wealth tax (as favoured by Saez–Zucman) showing why a transfer tax is structurally superior — currently sketched in `piketty-r-vs-g.md` §4 but could be expanded.
 - A short piece specifically for business-owner audiences framing the proposal's compatibility with entrepreneurial dynamism.
-- The religious-traditions and civic-republican sub-arguments in `ethical.md` could each be promoted to standalone files if the audience-targeting strategy in section 06 calls for it.
+- The religious-traditions sub-argument in `ethical.md` could be promoted to a standalone file if the audience-targeting strategy in section 06 calls for it. (The civic-republican sub-argument has now been promoted: see [democratic-renewal.md](democratic-renewal.md).)
+- Verification pass on the quantitative claims flagged "(to verify)" in [optimal-tax-theory.md](optimal-tax-theory.md), [equal-start.md](equal-start.md), and [historical-precedents-of-success.md](historical-precedents-of-success.md) — particularly the Piketty–Saez calibrated optima, the CTF/SEED OK effect sizes, and the land-reform and GI Bill magnitudes.

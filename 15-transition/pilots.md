@@ -56,3 +56,21 @@ A saturated-place pilot ("every 25-year-old in Grimsby and Merthyr") produces lo
 - **The campaign**: beneficiary testimony is the single most valuable communications asset the movement can manufacture ([`../14-communications/narratives.md`](../14-communications/narratives.md)).
 
 The asymmetry is the point: the tax must be argued from history and design; the endowment can be *demonstrated*. Lead the transition's public phase with the demonstrable half.
+
+## What pilots cannot settle
+
+Honesty about the limits keeps the evidence claims defensible:
+
+- **General-equilibrium effects.** A pilot cannot reveal what happens to asset prices, savings rates, or giving when the *whole economy* faces the regime — those questions belong to modelling and cross-country comparison ([`../16-second-order/asset-prices.md`](../16-second-order/asset-prices.md), [`../16-second-order/macro.md`](../16-second-order/macro.md)).
+- **Avoidance-industry response.** Planners do not mobilise against a pilot; the real stress test of the anti-avoidance spine only comes at national commencement ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)).
+- **The social meaning of universality.** A targeted or place-limited grant is experienced as welfare; a universal endowment is experienced as citizenship. Pilot evidence on stigma and take-up therefore *understates* the universal scheme's performance — an asymmetry worth stating in advance rather than conceding under attack ([`../09-objections/practicality.md`](../09-objections/practicality.md)).
+
+## Sources
+
+1. [HMRC — Child Trust Fund statistics](https://www.gov.uk/government/collections/child-trust-fund-statistics) — account numbers, values, and maturity data (dormancy figures to verify).
+2. [National Audit Office (2023). *Investigation into Child Trust Funds*](https://www.nao.org.uk/reports/investigation-into-child-trust-funds/) — unclaimed matured accounts (figures to verify).
+3. [Connecticut Office of the Treasurer — CT Baby Bonds programme](https://portal.ct.gov/ott) — design and funding status (to verify).
+4. [Council of the District of Columbia — Child Wealth Building Act of 2021](https://code.dccouncil.gov/) — DC baby-bonds design and appropriation status (to verify).
+5. [Booker, C. / Pressley, A. — American Opportunity Accounts Act (introduced in successive Congresses)](https://www.congress.gov/) — the federal baby-bonds template.
+6. Cesarini, D., Lindqvist, E., Notowidigdo, M. and Östling, R. (2017). "The Effect of Wealth on Individual and Household Labor Supply: Evidence from Swedish Lotteries." *American Economic Review* 107(12) — windfall labour-supply evidence (details in [`../16-second-order/endowment-effects.md`](../16-second-order/endowment-effects.md)).
+7. [Pedrick, W. H. (1981). "Oh! To Die Down Under!" *Washington Law Review* 57(1)](https://digitalcommons.law.uw.edu/wlr/vol57/iss1/5/) — the sub-national cascade that rules out state-level tax pilots.

@@ -6,7 +6,9 @@
 
 ### 1. Transfers are where the wealth is
 
-Kotlikoff and Summers (1981) famously estimated that the large majority of US wealth is attributable to intergenerational transfers rather than own life-cycle saving; Modigliani's rival life-cycle accounting put the transfer share far lower, and the debate (turning on the treatment of accumulated returns on inherited sums) was never fully settled [1][2]. The objection's point is that this celebrated dispute *cuts both ways for the proposal*. The manifesto cites the transfer share as evidence that inheritance drives concentration ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md)); but if transfers are that large a component of the capital stock, then the motives behind them are that large a component of accumulation behaviour — and a 100% tax on the margin distorts a correspondingly large share of saving decisions. You cannot claim inheritance is macro-economically enormous and simultaneously assume taxing it changes nothing.
+Kotlikoff and Summers (1981) famously estimated that the large majority of US wealth is attributable to intergenerational transfers rather than own life-cycle saving; Modigliani's rival life-cycle accounting put the transfer share far lower, and the debate (turning on the treatment of accumulated returns on inherited sums) was never fully settled [1][2].
+
+The objection's point is that this celebrated dispute *cuts both ways for the proposal*. The manifesto cites the transfer share as evidence that inheritance drives concentration ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md)); but if transfers are that large a component of the capital stock, then the motives behind them are that large a component of accumulation behaviour — and a 100% tax on the margin distorts a correspondingly large share of saving decisions. You cannot claim inheritance is macro-economically enormous and simultaneously assume taxing it changes nothing.
 
 ### 2. Dynastic altruism has a rigorous form
 
@@ -14,15 +16,32 @@ In Barro-style dynastic models, parents value their children's utility directly,
 
 ### 3. "Building something for my kids" — the entrepreneurship channel
 
-Founders routinely narrate extreme risk-taking, decades of under-consumption, and refusal to sell as *building something for the family*. Survey and interview evidence on family-business owners consistently ranks transmission to children among the leading stated motives for continued reinvestment (to verify specific surveys). If the possibility of dynastic transmission is removed, the argument runs, the marginal founder sells earlier, expands less, or never starts — and this loss falls on the most productive tail of the economy, where a single distorted decision can cost thousands of jobs. The stewardship version of this claim is developed in [`family-business.md`](family-business.md).
+Founders routinely narrate extreme risk-taking, decades of under-consumption, and refusal to sell as *building something for the family*. Survey and interview evidence on family-business owners consistently ranks transmission to children among the leading stated motives for continued reinvestment (to verify specific surveys).
+
+If the possibility of dynastic transmission is removed, the argument runs, the marginal founder sells earlier, expands less, or never starts — and this loss falls on the most productive tail of the economy, where a single distorted decision can cost thousands of jobs. The stewardship version of this claim is developed in [`family-business.md`](family-business.md).
 
 ### 4. The annuity puzzle as revealed preference
 
 If people cared only about their own consumption, retirees would annuitise their wealth — pooling mortality risk gives strictly higher consumption than self-insurance, as Yaari showed in 1965 [4]. Yet voluntary annuitisation is rare everywhere. The classic reading is that people *want* to leave estates: the annuity puzzle is standing, population-scale, revealed-preference evidence for a bequest motive that survey answers understate. Bernheim's work on the elderly holding life insurance while receiving annuity income points the same way [5].
 
-### 5. The tax cannot distinguish motives
+### 5. The gift externality: optimal-tax theory can favour *subsidising* bequests
+
+The most technically sophisticated form of the objection comes from within optimal-tax theory itself. A voluntary transfer benefits two people: the recipient gains the resources, and the donor gains the utility of giving — that is why the transfer happens. Kaplow has long argued that this "gift externality" means transfers are, if anything, *under-provided* relative to the social optimum, and Farhi and Werning's formal analysis finds that once the welfare of future generations is given independent weight, optimal bequest taxes can be negative — subsidies — and progressive [12]. On this reading a 100% marginal rate is not merely too high; it has the *sign* wrong.
+
+### 6. The tax cannot distinguish motives
 
 Even if many bequests are accidental, the tax applies to planned and accidental alike — and the *planners* are the ones who respond on the margin. A policy defence that says "most estates are accidental" is answering a distributional question with an average when the economic damage is done at the margin, by exactly the deliberate, forward-looking accumulators whose behaviour is most elastic.
+
+### The steelman in summary
+
+| Claim | Strongest proponents | What it implies at 100% |
+|---|---|---|
+| Transfers dominate aggregate wealth accumulation | Kotlikoff & Summers | The tax distorts a large share of all saving decisions |
+| Households are dynastically altruistic | Barro; Chamley–Judd tradition | Confiscatory transfer tax ≈ capital levy with supply effects |
+| Founders build for their children | Family-business survey literature | Entrepreneurial entry and scale-up fall at the productive tail |
+| Bequest motives are revealed by non-annuitisation | Yaari; Bernheim | The motive is population-wide, not a top-percentile quirk |
+| Transfers carry a positive externality | Kaplow; Farhi & Werning | The optimal tax may be a subsidy — the sign is wrong |
+| Planners respond at the margin | Standard public economics | Averages about accidental bequests do not answer the marginal case |
 
 ## The counter-evidence
 
@@ -37,17 +56,32 @@ The empirical literature on how bequest motives actually operate is, on balance,
 | Behavioural responses to actual estate taxes are modest: some avoidance and timing response, limited real accumulation response | Kopczuk & Slemrod on estate tax responses; Goupille-Lebret & Infante on French *assurance-vie* discontinuities (to verify) [11] | Observed elasticities at 40–60% rates are far below what dynastic models predict |
 | Top-end accumulation is substantially driven by entrepreneurship-as-its-own-reward, status, control, and habit; many founders die holding wealth they demonstrably never planned to transfer efficiently | Carnegie's own testimony; wealth-holder interview literature (to verify) | The marginal motive at the very top may be the least bequest-like of all |
 
+On the optimal-tax steelman (§5) specifically: the Farhi–Werning and Kaplow results are model-sensitive in ways that matter here. Piketty and Saez's optimal-inheritance-tax framework — which weights the majority who receive little, incorporates the observed concentration of receipts, and uses empirically estimated (low) bequest elasticities — delivers optimal rates of 50–60% or higher on large transfers, rising toward confiscatory levels as the social weight on non-receivers rises [13] (to verify parameter ranges). The sign of the "optimal" tax turns almost entirely on whose welfare is counted and how dynastic externalities (political capture, opportunity crowd-out — [`../01-problem/political-capture.md`](../01-problem/political-capture.md)) are modelled; the gift externality is real, but it is not the only externality in the room, and the negative-tax results ignore the ones this project is about.
+
 Note also an asymmetry the objection glosses over: the strongest response margin at 100% is not "stop working" but "give earlier, spend more, or give to charity" — all of which the proposal treats as acceptable or desirable outcomes ([`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md), [`../16-second-order/charitable-giving.md`](../16-second-order/charitable-giving.md), [`../09-objections/spend-it-all.md`](../09-objections/spend-it-all.md)). Lifetime gifts are cumulated against the recipient threshold ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)), so early giving is not an escape route but a *permitted channel up to the same limit*.
 
 ## Verdict
 
-The objection is real and should not be denied: at 100% marginal rates, dynastic savers exist and will respond, and no honest reading of the literature supports a zero behavioural effect. But three features cut its force dramatically.
+The objection is real and should not be denied: at 100% marginal rates, dynastic savers exist and will respond, and no honest reading of the literature supports a zero behavioural effect.
+
+But three features cut its force dramatically.
 
 1. **Concentration in the target.** The response is concentrated in deliberate dynastic accumulators above the threshold — the precise population whose compounding the policy exists to interrupt. Reduced accumulation *by dynasts, for dynastic purposes* is partly the intended effect, not collateral damage; the policy's own theory ([`../03-case-for/piketty-r-vs-g.md`](../03-case-for/piketty-r-vs-g.md)) says this capital is disproportionately rentier-deployed rather than productively supplied. The distortion is partly the point.
 2. **The threshold preserves the mass-market motive.** Below £500k per recipient, the bequest motive is entirely untouched; a parent can still pass a house and savings to each child. The motive the objection romanticises — ordinary parental provision — survives intact. What is removed is provision beyond roughly the top percentile of receipts (to verify share).
 3. **Composition of the base.** To the extent estates are accidental or precautionary — the literature's central tendency — the tax is close to non-distortionary on exactly the revenue-largest slice of its base.
 
-**Residual uncertainty, stated plainly.** The entrepreneurship channel is the least well-measured and potentially the most costly: elasticities estimated at 40% rates may not extrapolate to 100%, and no country has run this experiment at this rate with this design. What would change the assessment: credible evidence that founder entry or scale-up rates fall materially in response to transfer-tax severity (cross-country or state-level variation); evidence that the accidental-bequest share is much lower at the top than in the population; or post-adoption evidence of large real (not avoidance) accumulation responses. The monitoring framework for these belongs in [`../16-second-order/README.md`](../16-second-order/README.md); the quick-fire version of this debate is at [`../09-objections/economic.md`](../09-objections/economic.md).
+## Residual uncertainty, stated plainly
+
+The entrepreneurship channel is the least well-measured and potentially the most costly: elasticities estimated at 40% rates may not extrapolate to 100%, and no country has run this experiment at this rate with this design. Extrapolation beyond the observed range is a judgement, not a finding, and this file records it as such.
+
+What would change the assessment:
+
+- credible evidence that founder entry or scale-up rates fall materially in response to transfer-tax severity (cross-country or US state-level variation in estate taxation is the natural testing ground);
+- evidence that the accidental-bequest share is much *lower* at the top of the distribution than in the population — i.e. that the revenue-largest slice of the base is also the most deliberately motivated;
+- post-adoption evidence of large real (not avoidance) accumulation responses — falling top-end savings rates, early business sales beyond the predicted voluntary-succession effect;
+- theoretical or empirical rehabilitation of the negative-optimal-tax results under assumptions that include dynastic externalities.
+
+The monitoring framework for these belongs in [`../16-second-order/README.md`](../16-second-order/README.md); the quick-fire version of this debate is at [`../09-objections/economic.md`](../09-objections/economic.md).
 
 ## Sources
 
@@ -62,3 +96,5 @@ The objection is real and should not be denied: at 100% marginal rates, dynastic
 9. Davies, "Uncertain Lifetime, Consumption, and Dissaving in Retirement," *JPE* 89(3), 1981; Abel, "Precautionary Saving and Accidental Bequests," *AER* 75(4), 1985.
 10. Davidoff, Brown & Diamond, "Annuities and Individual Welfare," *AER* 95(5), 2005.
 11. Kopczuk & Slemrod, "The Impact of the Estate Tax on Wealth Accumulation and Avoidance Behavior," in Gale, Hines & Slemrod (eds.), *Rethinking Estate and Gift Taxation* (Brookings, 2001).
+12. Kaplow, "A Framework for Assessing Estate and Gift Taxation," in Gale, Hines & Slemrod (eds.), *Rethinking Estate and Gift Taxation* (Brookings, 2001); Farhi & Werning, "Progressive Estate Taxation," *QJE* 125(2), 2010.
+13. Piketty & Saez, "A Theory of Optimal Inheritance Taxation," *Econometrica* 81(5), 2013.

@@ -68,6 +68,7 @@ The equilibrium is the point: an honest family with genuinely lost keys is never
 - CARF implementation timelines and coverage gaps by jurisdiction (to verify current state; DeFi and unhosted-wallet reporting remain contested).
 - Empirical base rates of genuine key loss for estimating the suspended-receipts population.
 - Whether the vesting-deferral rule for carry needs an interest charge to remove deferral advantage.
+- How executor digital-asset discovery duties interact with device-encryption law (compelled-decryption limits differ sharply between UK RIPA s.49 powers and US Fifth Amendment doctrine).
 
 ## Sources
 

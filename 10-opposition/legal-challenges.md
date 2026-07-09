@@ -2,6 +2,8 @@
 
 **Executive summary.** Well-funded opponents will litigate before, during, and after enactment, arguing confiscation, disproportionality, retrospectivity, and (in the US) apportionment; the litigation's purpose is as much delay, uncertainty, and narrative ("even the courts think it's theft") as victory. The case law is broadly favourable to heavy transfer taxation — courts have consistently treated death duties as within legislative competence — but the 100% marginal rate and the treatment of pre-enactment arrangements are the genuine pressure points that drafting must anticipate.
 
+This file maps the *tactics*; the substantive liberty and autonomy arguments that litigation dramatises are steelmanned in [../04-case-against/liberty-autonomy.md](../04-case-against/liberty-autonomy.md) and answered in [../09-objections/fairness.md](../09-objections/fairness.md).
+
 ## The attack surface by jurisdiction
 
 | Forum | Doctrine invoked | Strength of attack | Key precedents |
@@ -16,6 +18,8 @@
 | UK courts | No entrenched constitutional bar; JR on rationality/HRA grounds only | Weak | Parliamentary sovereignty; Finance Act challenges rarely succeed on substance |
 
 ## What the precedents actually establish
+
+Two general observations before the detail. First, the constitutional question is almost never "may the state tax inheritance?" — that is settled everywhere relevant — but "does *this* design, on *these* facts, impose a disproportionate burden?", which makes the litigation outcome largely a function of drafting choices still within the campaign's control. Second, opponents' true objective is frequently not victory but a preliminary injunction and a headline; success should be measured in implementation delay and narrative damage, and defended against accordingly.
 
 **Death duties are constitutionally ordinary.** The US Supreme Court settled in 1900 that a tax on the *transmission* of wealth at death is an excise on an event, not a direct tax on property, and so needs no apportionment [1]. The UK has levied estate duty and its successors since 1894 without serious constitutional doubt. Strasbourg grants states one of their widest margins of appreciation precisely in tax policy [4]. Opponents' briefs will read as if heavy inheritance taxation were novel; two centuries of practice say otherwise — see [../05-history/uk-estate-duty.md](../05-history/uk-estate-duty.md) and [../05-history/us-estate-tax.md](../05-history/us-estate-tax.md).
 
@@ -48,6 +52,14 @@ Expected sequence:
 3. **Years 1–3:** the sympathetic-claimant test case on valuation or hardship facts, litigation-funded through vehicles mapped in [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
 4. **Ongoing:** a steady drizzle of technical challenges whose settlement pressure produces administrative concessions — erosion by consent order, feeding [sabotage-after-passage.md](sabotage-after-passage.md).
 
+## What still needs doing
+
+- Verified citations and holdings for the German BVerfG line (1995 valuation and wealth-tax rulings; 2006 *Halbteilungsgrundsatz* disavowal; 2006 valuation ruling; 2014 business-relief ruling) with translated key passages.
+- A1P1 case survey beyond *N.K.M.*: the follow-on Hungarian cases and any subsequent confiscatory-rate jurisprudence.
+- US doctrinal memo: strongest post-*Moore* arguments opponents could construct against a receipts-based transfer tax, and responses.
+- Comparative note on France, Belgium, and Japan (top rates 45–55%+) as evidence that high-rate regimes operate without constitutional crisis — feeds [../11-geographies/](../11-geographies/).
+- Draft severability and fallback-schedule clauses for the model bill in [../15-transition/legislative-path-uk.md](../15-transition/legislative-path-uk.md).
+
 ## Mitigations
 
 1. **Draft to the proportionality checklist.** Legitimate aim recited in the statute's purpose clause (equal opportunity; the named endowment); rational connection via the hypothecation; necessity via the generous threshold; fair balance via deferral, instalment, and hardship provisions. Make the statute read like the judgment upholding it.
@@ -57,14 +69,6 @@ Expected sequence:
 5. **Severability and fallback schedules.** A severability clause plus a pre-legislated fallback (e.g. a 90% rate schedule) so that a successful strike on any single provision cannot void the regime — denying litigants the all-or-nothing prize that attracts funding.
 6. **Non-discrimination by design.** Identical treatment of domestic and cross-border receipts within the dual-nexus rules, EU/EEA-proofed where relevant [6]; this closes the free-movement route, which attacks discrimination rather than burden.
 7. **Cite the German 2014 ruling offensively.** In litigation communications and legislative debate, the precedent that carve-outs — not burdens — drew constitutional censure reframes the legal narrative: the law's danger zone is capture by the wealthy, exactly as [../01-problem/political-capture.md](../01-problem/political-capture.md) predicts.
-
-## What still needs doing
-
-- Verified citations and holdings for the German BVerfG line (1995 valuation and wealth-tax rulings; 2006 *Halbteilungsgrundsatz* disavowal; 2006 valuation ruling; 2014 business-relief ruling) with translated key passages.
-- A1P1 case survey beyond *N.K.M.*: the follow-on Hungarian cases and any subsequent confiscatory-rate jurisprudence.
-- US doctrinal memo: strongest post-*Moore* arguments opponents could construct against a receipts-based transfer tax, and responses.
-- Comparative note on France, Belgium, and Japan (top rates 45–55%+) as evidence that high-rate regimes operate without constitutional crisis — feeds [../11-geographies/](../11-geographies/).
-- Draft severability and fallback-schedule clauses for the model bill in [../15-transition/legislative-path-uk.md](../15-transition/legislative-path-uk.md).
 
 ## Sources
 

@@ -13,10 +13,15 @@
 
 Argument-level content of the envy and communism charges is rebutted in [../09-objections/fairness.md](../09-objections/fairness.md) and [../09-objections/whataboutery.md](../09-objections/whataboutery.md); this file addresses the *campaign* problem of attacks on people.
 
+The strategic function of all four attacks is identical: to change the question from "is inheritance of large fortunes fair?" — which opponents lose in every framing that mentions the threshold and the endowment — to "are these people trustworthy?", which is contestable indefinitely. Recognising the substitution is the first defence; every mitigation below is a way of refusing it.
+
 ## Why this proposal draws heavier personal fire than most
+
+- **The argument is unusually strong.** When the threshold and endowment are understood, the substantive case is difficult to lose ([../03-case-for/](../03-case-for/)); rational opponents therefore invest where the campaign is weakest — its people.
 
 - **The stakes are personal for the attackers.** Opponents with nine-figure estates rationally spend on discrediting individuals; it is cheaper than winning the argument. Funding routes in [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
 - **The hypocrisy trap is near-universal.** Almost anyone senior enough to front a campaign has property, pensions, or expected inheritances above the median. Opponents will frame ordinary middle-class assets as disqualifying — while their own funders' fortunes stay invisible.
+- **Endowment-generation advocates are attackable from the other side.** Young spokespeople will be framed as entitled ("they want free money"); the counter is the same disclosure-and-judo structure, inverted: "Yes — I would receive the endowment. So would every 25-year-old, including my critics' children."
 - **Precedents.** Thomas Piketty's personal finances and book royalties became a standard deflection in coverage of *Capital in the Twenty-First Century*; wealth-tax advocates in several countries have faced the "give it away yourself, then" retort as the default interview gambit. Conversely, wealthy advocates who *lead* with their status — Bill Gates Sr. and the Responsible Wealth network in the US estate-tax fight, the Patriotic Millionaires, and Marlene Engelhorn, the Austrian heiress who handed €25m to a citizens' council to redistribute in 2024 (to verify amount) — have proven notably resistant to it [1][2][3].
 
 ## The Engelhorn model
@@ -49,6 +54,14 @@ Not everyone needs the same armour:
 
 Prominent tax-justice campaigners, academics, and journalists covering wealth have experienced coordinated online abuse, legal intimidation (including SLAPP-style defamation threats, a documented pattern in UK wealth journalism — to verify specific cases), and occasional physical-security concerns. Assume a mainstream campaign for this proposal will face the same, concentrated on its most visible women and minority spokespeople, consistent with the general pattern of online harassment research (to verify against current literature) [4].
 
+## What still needs doing
+
+- Verified account of the Engelhorn/Guter Rat process: amount, method, outcomes, and media reception across the political spectrum.
+- Case file on attacks against named wealth-tax advocates (Piketty, Saez/Zucman, Patriotic Millionaires members) and which responses worked.
+- Documentation of SLAPP and legal-intimidation patterns against UK wealth journalism, and the state of anti-SLAPP reform.
+- Draft of the standard advocate disclosure template and the consent/aftercare protocol for validator families.
+- Inoculation-message testing plan with [../14-communications/inoculation.md](../14-communications/inoculation.md): does pre-stating the envy/communism attacks measurably blunt them?
+
 ## Mitigations
 
 1. **Disclosure-first norms.** Every named advocate publishes a standard personal statement at the point of joining: assets, expected inheritances, how the policy would affect them personally. Opponents cannot reveal what is already published; interviews open with "as my declaration says…" rather than a defensive scramble. Make the declaration a mark of seriousness the opponents' spokespeople conspicuously lack.
@@ -58,14 +71,6 @@ Prominent tax-justice campaigners, academics, and journalists covering wealth ha
 5. **The two-line judo for the hypocrisy charge.** Drilled response: "Yes — under this policy I would pay / my children would receive less. That is the point: rules I am willing to have bind me. What would our opponents' funders pay?" Redirects every personal question to funder opacity — [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
 6. **Own the lineage against red-baiting.** The standing answer to "communism" is the conservative pedigree: Paine the revolutionary liberal, Mill the father of liberalism, Carnegie the arch-capitalist, Roosevelt the Republican — [../05-history/carnegie-1889.md](../05-history/carnegie-1889.md), [../05-history/roosevelt-1906.md](../05-history/roosevelt-1906.md). A 100% marginal rate above a generous threshold with a universal capital grant is a *property-owning democracy* policy: it multiplies owners.
 7. **Harassment protocol as infrastructure.** Security budget, legal-defence fund (including anti-SLAPP support), moderation and reporting tooling, and psychological support treated as core campaign costs from day one, not afterthoughts. Volunteer-facing roles designed to limit personal exposure (institutional accounts, no home-address footprints).
-
-## What still needs doing
-
-- Verified account of the Engelhorn/Guter Rat process: amount, method, outcomes, and media reception across the political spectrum.
-- Case file on attacks against named wealth-tax advocates (Piketty, Saez/Zucman, Patriotic Millionaires members) and which responses worked.
-- Documentation of SLAPP and legal-intimidation patterns against UK wealth journalism, and the state of anti-SLAPP reform.
-- Draft of the standard advocate disclosure template and the consent/aftercare protocol for validator families.
-- Inoculation-message testing plan with [../14-communications/inoculation.md](../14-communications/inoculation.md): does pre-stating the envy/communism attacks measurably blunt them?
 
 ## Sources
 

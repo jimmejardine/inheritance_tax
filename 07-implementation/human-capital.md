@@ -71,6 +71,7 @@ The attack will be: "the rich will just buy schools and connections instead, so 
 - Quantitative decomposition of intergenerational persistence into financial-transfer vs human-capital channels (Chetty et al. mobility data; UK cohort studies — to verify shares).
 - Behavioural evidence on whether transfer taxes shift parental spending toward education (Scandinavian natural experiments, if any).
 - Whether educational-spending disclosure (not taxation) above a high floor is worth the intrusion, purely for research and audit-risk purposes.
+- Long-run composition effects: if transfer taxation shifts elite investment further into human capital, does measured mobility improve or merely change form? (Directly relevant to [`../16-second-order/family-and-culture.md`](../16-second-order/family-and-culture.md).)
 
 ## Sources
 

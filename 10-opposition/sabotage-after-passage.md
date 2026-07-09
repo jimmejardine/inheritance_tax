@@ -2,6 +2,8 @@
 
 **Executive summary.** The historical record — surveyed in [../05-history/abolitions.md](../05-history/abolitions.md) — shows that inheritance taxes rarely die by frontal repeal; they die by attrition: frozen thresholds, stuffed carve-outs, defunded enforcement, captured valuation rules, and sunset clauses that make expiry the default. Because the enemies of this tax will still be there the day after Royal Assent, the statute must be built like a lighthouse, not a sandcastle — with indexation, hypothecation, and institutional guardians written into its structure.
 
+This file assumes the tax has passed; the fights that decide *whether* it passes are covered in [attack-playbook.md](attack-playbook.md) through [personal-attacks.md](personal-attacks.md), and the transition design that shapes the post-passage terrain is in [../15-transition/](../15-transition/).
+
 ## The five hollowing strategies
 
 | Strategy | Mechanism | Historical case | Countermeasure in this proposal |
@@ -17,11 +19,12 @@
 - **Low visibility.** A schedule amendment in a 600-page finance bill draws no front pages. Each increment is individually defensible ("technical fix for genuine hardship"), which is exactly how UK BPR expanded and how the US exemption ratchet was normalised.
 - **The professionals do the work.** The wealth-defence industry ([astroturf-and-lobbying.md](astroturf-and-lobbying.md)) supplies drafting, consultation responses, and hard-case exhibits for every fiscal event, forever. A campaign has to win once; the profession only has to win occasionally, and compounds.
 - **Asymmetric attention.** The tax's beneficiaries under a general-revenue model are diffuse and unorganised — the precise failure that let the US repeal coalition operate unopposed for a decade ([attack-playbook.md](attack-playbook.md)).
+- **Governments change; the statute stays.** A hostile successor government need not repeal — it can simply administer badly, appoint sceptics, and decline to close new avoidance routes. Design must assume stewardship by enemies.
 - **Fiscal drag as a weapon against the tax.** Counterintuitively, opponents can *let* a frozen threshold bite the middle class: every ordinary family dragged in becomes a repeal voter. Sweden's abolition followed exactly this resentment dynamic among ordinary homeowners while the wealthy avoided the tax — [../05-history/abolitions.md](../05-history/abolitions.md). A hated-but-avoidable tax is the opponents' optimal end-state.
 
 ## The first decade: expected erosion attempts
 
-A plausible sequence, extrapolated from the UK BPR/APR and US exemption histories:
+A plausible sequence, extrapolated from the UK BPR/APR and US exemption histories. Treat it as a scheduling forecast for the watchdog, not a prophecy — the point is that each attempt is foreseeable enough to have a pre-drafted response:
 
 | Years after passage | Expected attempt | Cover story |
 |---|---|---|
@@ -33,6 +36,8 @@ A plausible sequence, extrapolated from the UK BPR/APR and US exemption historie
 
 None of these is labelled repeal; each would be reported, if at all, on the business pages. The defence architecture below is designed so that each attempt trips a visible wire.
 
+The pattern to internalise: post-passage sabotage succeeds when defence requires *attention* and erosion requires only *inertia*. Every mitigation in this file is therefore an attempt to reverse that polarity — to make the eroded state the one that requires an affirmative, visible, politically costly act, and the intact state the default that survives neglect.
+
 ## Warning indicators
 
 The standing watchdog (Mitigation 6) should publish these annually:
@@ -42,11 +47,21 @@ The standing watchdog (Mitigation 6) should publish these annually:
 - Relief uptake vs original forecast, by relief.
 - Administration budget as a share of assessed receipts; audit coverage of receipts above £5m.
 - Endowment value in real terms and as a share of median first-home deposit.
+- Threshold and endowment indexation applied in full, on time, every year (a binary pass/fail line).
 - Count and disposition of settlement concessions in litigation ([legal-challenges.md](legal-challenges.md)).
+- Composition of the administering body's board and review commissions (practitioner-capture watch — [astroturf-and-lobbying.md](astroturf-and-lobbying.md)).
 
 ## The strategic insight: the endowment is the tax's bodyguard
 
 Every hollowing strategy works by keeping losses invisible. Hypothecation inverts this. If the tax's proceeds fund a *named universal entitlement* — every citizen's £50,000 at 25 — then every act of erosion has an automatic, countable victim class: this year's 24-year-olds. A carve-out for family holding companies becomes "a £2bn cut to young people's endowments" (illustrative figure); enforcement defunding becomes "letting avoidance eat your grant." The US Social Security precedent is instructive: programmes with named universal beneficiaries acquire "third rail" status that general-revenue taxes never achieve, which is why opponents of such programmes must attack them obliquely. The design logic is developed in [../02-proposal/endowment.md](../02-proposal/endowment.md) and [../16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md); the abolition-pattern evidence is in [../05-history/abolitions.md](../05-history/abolitions.md).
+
+## What still needs doing
+
+- Verified series: US estate-tax exemption and effective-rate history 2001–present, including the current post-2025 exemption level.
+- Verified series: UK nil-rate band real value since 2009 and the count of estates newly dragged into IHT by the freeze.
+- IRS enforcement case study with hard numbers: budget, audit rates on top-decile estates and incomes, and the IRA funding clawback sequence.
+- Comparative study of hypothecation durability: NHS/NI linkage, Social Security's political economy, and any national examples of ring-fenced transfer-tax revenues.
+- Legal analysis of entrenchment options by jurisdiction (referendum locks, organic laws, double-passage) for [../12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 
 ## Mitigations
 
@@ -57,14 +72,6 @@ Every hollowing strategy works by keeping losses invisible. Hypothecation invert
 5. **Supermajority entrenchment where available.** In jurisdictions with constitutional or standing-order tools (referendum locks, organic-law status, double-passage requirements), entrench the threshold-indexation and hypothecation provisions specifically. The UK cannot bind future Parliaments, but manifesto ritual, a statutory "triple lock"-style political convention around the endowment, and devolved-consent architecture raise the political price of erosion. See [../12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 6. **A standing watchdog outside the state.** The movement does not disband at Royal Assent: a permanent monitoring organisation scoring every finance bill for erosion, publishing an annual "integrity index" of the tax, and maintaining the validator and rapid-response networks from [media-narratives.md](media-narratives.md). Organisational design in [../13-movement/organisational-forms.md](../13-movement/organisational-forms.md) and [../13-movement/theory-of-change.md](../13-movement/theory-of-change.md).
 7. **Refuse sunsets; pre-legislate fallbacks.** Any compromise that dates the tax's expiry converts every future budget into a repeal opportunity. Where compromise is unavoidable, concede rate-schedule fallbacks (e.g. 90%) rather than expiry — the severability logic of [legal-challenges.md](legal-challenges.md) applied to politics.
-
-## What still needs doing
-
-- Verified series: US estate-tax exemption and effective-rate history 2001–present, including the current post-2025 exemption level.
-- Verified series: UK nil-rate band real value since 2009 and the count of estates newly dragged into IHT by the freeze.
-- IRS enforcement case study with hard numbers: budget, audit rates on top-decile estates and incomes, and the IRA funding clawback sequence.
-- Comparative study of hypothecation durability: NHS/NI linkage, Social Security's political economy, and any national examples of ring-fenced transfer-tax revenues.
-- Legal analysis of entrenchment options by jurisdiction (referendum locks, organic laws, double-passage) for [../12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 
 ## Sources
 

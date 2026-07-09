@@ -46,6 +46,32 @@ The idea's two-century dormancy ended only when late-twentieth-century academics
 - **Universality as armour.** His insistence on paying rich and poor alike anticipates the structural defence against the abolition pattern documented in [abolitions.md](abolitions.md).
 - **Costing as credibility.** Paine's actuarial tables model the discipline this project applies in [../02-proposal/thresholds.md](../02-proposal/thresholds.md): the proposal must arrive with arithmetic attached.
 
+## Precursors, rivals, and echoes
+
+Placing Paine correctly requires the surrounding tradition, since opponents will otherwise present him as an isolated eccentric:
+
+| Figure | Work | Relation to Paine's scheme |
+|---|---|---|
+| William Ogilvie | *Essay on the Right of Property in Land* (1781) | Prior statement of a universal birthright share in land value; no endowment mechanism |
+| Condorcet | *Esquisse d'un tableau historique* (1795) | Actuarial social insurance — old-age funds and capital for the young — that Paine adapted |
+| Thomas Spence | *The Rights of Infants* (1797) | Attacked Paine *from the left*: land should be reclaimed into parish ownership outright, with all rents distributed as dividends, not compensated by a one-off grant |
+| Henry George | *Progress and Poverty* (1879) | Redirected the same ground-rent logic into an annual land-value tax; the endowment element disappears |
+
+The Spence exchange matters strategically: Paine's scheme was the *moderate* position in its own moment — compensation within a property regime, against confiscation of the regime itself. That positioning is recoverable today; see [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md).
+
+## Verification checklist
+
+Before manifesto use, confirm against the 1797 text and standard biographies:
+
+- The exact levy schedule — the 10% base rate and the supplementary rate on bequests outside the direct line.
+- The £15 grant figure, the age of 21, the £10 annuity, and the age of 50.
+- All quotations flagged above (preface reply to Watson; "ground-rent"; "natural inheritance"; the anti-"invidious distinctions" universality passage).
+- Paine's estimates of national capital and annual mortality in the actuarial tables, and whether the fund was to be national or administered locally.
+- The publication sequence (Paris French edition vs London English edition, both 1797) and the pamphlet's contemporary circulation figures, which are sometimes overstated.
+- The relationship to Paine's earlier welfare arithmetic in *Rights of Man* Part II (1792), which proposed child allowances and old-age pensions from progressive taxation — the *Agrarian Justice* scheme is its property-theoretic radicalisation.
+- Condorcet's specific mechanisms in the *Esquisse* and whether Paine acknowledged the debt directly.
+- Whether the levy was framed as one-tenth of the *whole* estate or one-tenth of the *net* value after debts — the base definition matters for the lineage claim.
+
 ## Sources
 
 1. [Paine, T. (1797). *Agrarian Justice*. Full text at the Thomas Paine National Historical Association / Project Gutenberg](https://www.gutenberg.org/ebooks/31271) — primary source; all quotations to be verified against this text.

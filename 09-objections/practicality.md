@@ -10,7 +10,13 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **One-line answer.** These exact assets are valued every day — for CGT, existing IHT, divorce settlements, insurance, probate, and company transactions — so the question is not whether valuation is possible but whether the regime is well-engineered, which is a design task, not a mystery.
 
-**Full answer.** The UK already values private companies for CGT and the existing 40% IHT; family courts value them in every big divorce; insurers value artworks annually; banks value farms for lending. What killed historical regimes was not valuation difficulty but valuation *anachronism* — Austria's 1973-vintage cadastral values frozen for 35 years. The design here uses mark-to-market for listed assets, RICS-style professional appraisal with rebuttable presumptions for property, capped minority and marketability discounts for private companies, and deferred true-up mechanisms (earn-out style) where a sale within a defined window revises the assessed value to the realised price ([`../07-implementation/valuation.md`](../07-implementation/valuation.md), [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)). Hard categories — carried interest, IP, crypto, unique digital assets — get dedicated treatment in [`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md). Disagreement at the margin is priced in: a tax does not need pinpoint valuation, only unbiased valuation with dispute machinery, which is what every existing capital tax already runs on.
+**Full answer.**
+
+- **The "impossible" is routine.** The UK already values private companies for CGT and the existing 40% IHT; family courts value them in every big divorce; insurers value artworks annually; banks value farms for lending.
+- **What killed historical regimes was not valuation difficulty but valuation *anachronism*** — Austria's 1973-vintage cadastral values frozen for 35 years.
+- **The design here:** mark-to-market for listed assets; RICS-style professional appraisal with rebuttable presumptions for property; capped minority and marketability discounts for private companies; deferred true-up mechanisms (earn-out style) where a sale within a defined window revises the assessed value to the realised price ([`../07-implementation/valuation.md`](../07-implementation/valuation.md), [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)).
+- **Hard categories** — carried interest, IP, crypto, unique digital assets — get dedicated treatment in [`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md).
+- **Disagreement at the margin is priced in.** A tax does not need pinpoint valuation, only unbiased valuation with dispute machinery — which is what every existing capital tax already runs on.
 
 **Deep treatment:** [`../07-implementation/valuation.md`](../07-implementation/valuation.md) · [`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md) · [`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)
 
@@ -20,7 +26,13 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **One-line answer.** The revenue never enters the discretionary pot: it is hypothecated to a named £50,000 endowment paid directly to every citizen at 25, so the state functions as a pipe, not a spender.
 
-**Full answer.** This objection is the reason the proposal is architected the way it is. Proceeds fund the universal endowment first, with only any surplus reaching general revenue ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)); no minister allocates it, no department programme absorbs it, no procurement process touches it. The citizen — not the state — decides what the capital does, which is why thinkers deeply sceptical of the state (from the Paine of *Agrarian Justice* to Ackerman and Alstott's stakeholder model, [`../05-history/ackerman-alstott.md`](../05-history/ackerman-alstott.md)) converge on the grant design. In debate, the move is to agree enthusiastically: *because* governments waste money, this policy gives the money to citizens instead. The honest residue — the state must still run the register, collect the tax, and resist raiding the fund — is steelmanned in [`../04-case-against/state-failure.md`](../04-case-against/state-failure.md), and the fund-governance safeguards are specified in [`../02-proposal/endowment.md`](../02-proposal/endowment.md).
+**Full answer.**
+
+- **This objection is the reason the proposal is architected the way it is.** Proceeds fund the universal endowment first, with only any surplus reaching general revenue ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
+- **No minister allocates it; no department programme absorbs it; no procurement process touches it.** The citizen — not the state — decides what the capital does.
+- **Thinkers deeply sceptical of the state converge on exactly this design** — from the Paine of *Agrarian Justice* to Ackerman and Alstott's stakeholder model ([`../05-history/ackerman-alstott.md`](../05-history/ackerman-alstott.md), [`../05-history/paine-1797.md`](../05-history/paine-1797.md)).
+- **In debate, agree enthusiastically:** *because* governments waste money, this policy gives the money to citizens instead.
+- **The honest residue** — the state must still run the register, collect the tax, and resist raiding the fund — is steelmanned in [`../04-case-against/state-failure.md`](../04-case-against/state-failure.md), with fund-governance safeguards specified in [`../02-proposal/endowment.md`](../02-proposal/endowment.md).
 
 **Deep treatment:** [`../04-case-against/state-failure.md`](../04-case-against/state-failure.md) · [`../02-proposal/endowment.md`](../02-proposal/endowment.md)
 
@@ -30,7 +42,12 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **One-line answer.** Those regimes were 40%-with-loopholes taxes on a relief-riddled base; a 100% rate above £500k per recipient on the full annual inheritance flow is a different fiscal object — and even at pessimistic yield, the primary objective is structural (no more dynasties), which the tax achieves whether or not the Treasury gets rich.
 
-**Full answer.** The base matters more than the rate history suggests. Annual UK wealth transfers at death and by major gift run to well over £100bn and are projected to grow as the largest-ever cohort of housing and pension wealth passes on (to verify against ONS/IFS inheritance-flow projections; the revenue modelling lives in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)). Taxing the slice above £500k per recipient at 100% plausibly yields an order of magnitude more than the current regime — enough to fund the endowment, which is the fiscal test that matters ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)). But the deeper answer refuses the frame: this is a *distributional-primary* tax, not a revenue-primary one. Income tax exists to raise money; this exists to stop the formation of hereditary economic dynasties ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md), [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)). Judging it purely on yield is like judging the smoking ban on cigarette-duty receipts.
+**Full answer.**
+
+- **The base matters more than the rate history suggests.** Annual UK wealth transfers at death and by major gift run to well over £100bn and are projected to grow as the largest-ever cohort of housing and pension wealth passes on (to verify against ONS/IFS inheritance-flow projections; revenue modelling in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
+- **Taxing the slice above £500k per recipient at 100%** plausibly yields an order of magnitude more than the current regime — enough to fund the endowment, which is the fiscal test that matters ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)).
+- **The deeper answer refuses the frame:** this is a *distributional-primary* tax, not a revenue-primary one. Income tax exists to raise money; this exists to stop the formation of hereditary economic dynasties ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md), [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)).
+- **Judging it purely on yield is like judging the smoking ban on cigarette-duty receipts.**
 
 **Deep treatment:** [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) · [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md) · [`../01-problem/README.md`](../01-problem/README.md)
 
@@ -40,9 +57,27 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **One-line answer.** Collection costs scale with complexity, not with rate: one threshold, one rate, few reliefs, and a single lifetime ledger is administratively *simpler* than the current IHT relief thicket, and the base is large enough to make plausible cost-to-collect ratios unremarkable by HMRC standards.
 
-**Full answer.** HMRC's overall cost of collection runs at well under a penny per pound (to verify against HMRC annual accounts), and even the taxes with the worst ratios sit at a few pence. The historical regimes that looked administratively hopeless were hopeless because relief-layering multiplied assessment work while shrinking the taxable remainder — cost stayed, yield left. This design runs the arithmetic the other way: the 0/100 kink eliminates rate-banding computation; abolishing the relief thicket (BPR, APR, taper, normal-expenditure rules) removes the most litigation-intensive assessments; the Central Register of Receipts piggybacks on probate and gift-reporting events that already generate paperwork ([`../07-implementation/administration.md`](../07-implementation/administration.md), [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)); and most estates never interact with the system at all because their recipients sit below threshold. Benchmarked cost-to-collect estimates belong in the implementation file and are flagged there for verification.
+**Full answer.**
+
+- **Benchmarks:** HMRC's overall cost of collection runs at well under a penny per pound, and even the worst-ratio taxes sit at a few pence (to verify against HMRC annual accounts; cost-to-collect benchmarking belongs in [`../07-implementation/administration.md`](../07-implementation/administration.md)).
+- **Why the historical ratios were ugly:** relief-layering multiplied assessment work while shrinking the taxable remainder — cost stayed, yield left.
+- **This design runs the arithmetic the other way:**
+  - the 0/100 kink eliminates rate-banding computation;
+  - abolishing the relief thicket (BPR, APR, taper, normal-expenditure rules) removes the most litigation-intensive assessments;
+  - the Central Register of Receipts piggybacks on probate and gift-reporting events that already generate paperwork ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md));
+  - most estates never interact with the system at all, because their recipients sit below threshold.
 
 **Deep treatment:** [`../07-implementation/administration.md`](../07-implementation/administration.md) · [`../07-implementation/enforcement.md`](../07-implementation/enforcement.md)
+
+## The pattern across practicality objections
+
+Each objection above nominates a real administrative cost and silently compares it against zero. The correct comparison is against the status quo:
+
+- Valuation already happens for every taxable estate, divorce, and insured artwork — the marginal novelty is a *cleaner* rulebook.
+- Revenue "waste" already happens to every unhypothecated pound — the endowment is *less* discretionary than the baseline, not more.
+- Admin cost already runs through the existing IHT relief thicket — a one-rate, few-relief design shrinks it.
+
+"Hard" is not an argument against a policy whose alternative is also hard; the question is always *harder than what we already do?* — and the answer, per the files linked above, is no.
 
 ## See also
 

@@ -64,6 +64,18 @@ Four cross-cutting features make the Anglosphere a single strategic theatre rath
 | Australia | Superannuation death-benefit taxation debates; Productivity Commission wealth-transfer research (to verify) | CGT on inherited assets (ending the step-up analogue); then a federal receipts tax |
 | NZ | Recurrent CGT/wealth-tax commission proposals (Tax Working Group 2019, to verify) | Any capital taxation at all; NZ must build the *category* before the instrument |
 
+## What to watch
+
+- **US:** the estate-tax exemption's statutory trajectory at each budget-reconciliation cycle (post-TCJA extensions — to verify current law); progress of baby-bonds legislation federally and in states (Connecticut's programme as the live pilot, to verify); any Supreme Court taxation ruling touching the excise/direct-tax boundary (*Moore v. United States* aftershocks, to verify).
+- **Canada:** capital-gains inclusion-rate politics as the proxy war for taxing wealth transfer; provincial housing politics pushing federal parties toward generational offers.
+- **Australia:** whether the Productivity Commission's wealth-transfer research programme (to verify) resurfaces in any government review; superannuation death-benefit tax changes as the thin end.
+- **NZ:** any re-run of the Tax Working Group's capital-taxation recommendations under a future Labour-led government.
+- **Group-level:** CANZUK-adjacent mobility agreements, which raise the value of coordinated adoption before individual moves.
+- **Media:** whether any major Anglosphere outlet breaks from the "death tax" frame during great-wealth-transfer coverage — the leading indicator that the framing market is contestable ([`../14-communications/narratives.md`](../14-communications/narratives.md)).
+- **Trusts:** state or federal movement against perpetual dynasty trusts, the quiet enabler of Anglosphere wealth persistence ([`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)).
+
 ## Analytic judgement
 
 Rank within the group: **Canada > NZ > Australia > US** for feasibility-of-path, but **US first** for strategic value — an American move would end the tax-competition argument globally ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)), while a Canadian or Kiwi move proves administrability in a settler-society context the Nordics and Ireland cannot. The common Anglosphere lesson is negative space: societies with egalitarian self-images but no living transfer tax show that *absence is self-reinforcing* — each cohort that inherits untaxed becomes a constituency against introduction. This is the strongest argument for urgency anywhere a tax still exists ([uk.md](uk.md)).
+
+A UK move would put the question to all four within a decade: shared language, shared media, and shared policy networks make the Anglosphere the fastest contagion path once any member breaks the seal.

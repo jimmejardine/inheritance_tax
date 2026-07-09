@@ -10,7 +10,16 @@
 2. **Never strawman.** Each objection is stated in the strongest colloquial form it actually circulates in.
 3. **One sentence first, then the full version.** Every entry gives a rebuttal that survives being cut off after one sentence, then the complete argument with evidence and design references.
 
-Division of labour with neighbouring sections: [`../04-case-against/`](../04-case-against/README.md) steelmans; **09 rebuts**; [`../10-opposition/`](../10-opposition/README.md) anticipates how attacks will be professionally run; [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md) turns these rebuttals into tested phrasings.
+**Division of labour with neighbouring sections:**
+
+| Section | Role | This section's relationship to it |
+|---|---|---|
+| [`../04-case-against/`](../04-case-against/README.md) | Steelmans the five serious objections at full length | 09 gives the short-form rebuttal and links back for the honest residue |
+| [`../10-opposition/`](../10-opposition/README.md) | Anticipates how attacks will be professionally run (media, lobbying, lawfare) | 09 answers the arguments; 10 answers the campaigns |
+| [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md) | Message-tested phrasings and formats | 09 supplies the raw arguments the toolkit polishes |
+| [`../07-implementation/`](../07-implementation/README.md), [`../08-capital-flight/`](../08-capital-flight/README.md) | The engineering behind the rebuttals | Most "full answers" below resolve to a design file in these sections |
+
+**Deploying a rebuttal, in order:** (1) the concession — it buys the credibility everything else spends; (2) the one-liner from the table below — it must survive interruption; (3) the full answer from the linked file, only if the exchange allows it.
 
 ## Master table of objections
 
@@ -60,6 +69,10 @@ Division of labour with neighbouring sections: [`../04-case-against/`](../04-cas
 - [slippery-slope.md](slippery-slope.md) — creeping expansion, communism, state control, register-to-wealth-tax
 - [whataboutery.md](whataboutery.md) — wealth tax, LVT, income tax, loophole-closing, with the full comparison table
 - [spend-it-all.md](spend-it-all.md) — depletion, charitable diversion, dying broke
+
+## Coverage notes
+
+The table aims to be exhaustive for objections heard *in the wild* — doorstep, phone-in, comment thread. Objections that arrive only in academic or professional form (optimal-tax critiques, ECHR property-rights jurisprudence, specific trust-law counters) live with their answers in [`../04-case-against/`](../04-case-against/README.md), [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md), and [`../07-implementation/`](../07-implementation/README.md) respectively. If a new colloquial objection surfaces in polling or focus groups ([`../06-palatability/polling.md`](../06-palatability/polling.md)), it gets a row here and an entry in the matching file.
 
 ## What still needs doing
 

@@ -30,12 +30,48 @@ All industry figures should be re-verified against current releases before publi
 
 **Timing asymmetry.** A second-order effect deserves emphasis: because life expectancy at 65 keeps rising, inheritances now arrive when recipients are typically in their late 50s or early 60s (to verify — IFS puts the modal UK inheritance age around 60) [5]. The wave therefore does not even relieve the young-adult liquidity constraints documented in [housing.md](housing.md), except via inter-vivos gifts — which flow even more selectively to the children of the very wealthy. The proposal's universal endowment at 25 ([../02-proposal/endowment.md](../02-proposal/endowment.md)) directly corrects this timing failure: it moves capital to the point in the lifecycle where it changes trajectories.
 
+**Composition of the wave.** What transfers matters as much as how much. The asset mix differs sharply by estate size, and each component raises distinct design questions handled in [../02-proposal/](../02-proposal/) and [../07-implementation/](../07-implementation/):
+
+| Estate stratum | Dominant assets | Design implication |
+|---|---|---|
+| Median estate (UK: low six figures) | Primary residence, modest pension residue | Falls almost entirely under the £500k/$750k per-recipient threshold — untouched by the proposal |
+| Affluent (£1–5m) | Residence + second property + financial portfolio | Partially above threshold; valuation straightforward (see [../07-implementation/valuation.md](../07-implementation/valuation.md)) |
+| Wealthy (£5–50m) | Concentrated equity, business stakes, trusts | Trust and gift structuring is the avoidance frontier (see [../07-implementation/trusts-and-vehicles.md](../07-implementation/trusts-and-vehicles.md), [../07-implementation/gifts-and-timing.md](../07-implementation/gifts-and-timing.md)) |
+| Ultra (£50m+) | Operating businesses, alternatives, art, offshore structures | The $5.2tn billionaire tranche; enforcement and exit questions dominate (see [../08-capital-flight/](../08-capital-flight/README.md)) |
+
+HMRC data confirm residential property is the largest asset class in taxable estates at around a third to 40% of value ([housing.md](housing.md)); securities and business assets dominate above ~£2m [7]. The distributional consequence: the proposal's threshold design means the *median* participant in the great wealth transfer is entirely unaffected, while the top strata — where the tonnage actually is — carry the yield. This point is the single most important fact for the palatability argument ([../06-palatability/framing.md](../06-palatability/framing.md)).
+
 **The strategic dual role.** For this project the transfer wave is both accelerant and opening:
 
 1. *Acceleration.* Every year of inaction converts another tranche of the wave into permanent dynastic stock, and — per [political-capture.md](political-capture.md) — into political resources that defend it. The problem gets structurally harder to fix as the wave passes.
 2. *Salience window.* Public argument about inheritance requires the public to be thinking about inheritance. A period in which trillions visibly change hands, in which "Bank of Mum and Dad" becomes a top-ten mortgage lender, and in which fiscal pressure from ageing peaks, is the highest-salience environment the topic will ever have. Crisis-and-window dynamics are developed in [../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md) and the sequencing implications in [../15-transition/sequencing.md](../15-transition/sequencing.md); the communications opportunity is treated in [../14-communications/narratives.md](../14-communications/narratives.md).
 
 The window is bounded. Once the wave has largely passed (2050s), the beneficiaries are a settled, propertied constituency with every incentive to close the debate — the pattern visible in every historical abolition documented in [../05-history/abolitions.md](../05-history/abolitions.md). The argument of this file is that the reform is time-sensitive in a way most redistribution debates are not.
+
+**Anticipated counter-readings.** Three rejoinders to the wave narrative circulate and deserve pre-emption:
+
+1. *"Care costs will consume it."* Long-term care does erode some estates, but the erosion is concentrated in the middle of the distribution (the wealthy insure, structure, or self-fund from income), so care costs make the surviving transfer flow *more* top-heavy, not smaller in the strata that matter. UK social-care means-testing already functions as a de facto inheritance levy on modest estates while the largest pass intact — an inequity the proposal's threshold design corrects rather than replicates.
+2. *"It will be spent, not bequeathed."* Behavioural evidence runs the other way: retirees decumulate far more slowly than lifecycle models predict (the "retirement savings puzzle"), and housing equity in particular is rarely drawn down before death (to verify against decumulation literature). The bequest motive question is treated fully in [../04-case-against/bequest-motive.md](../04-case-against/bequest-motive.md).
+3. *"The projections are vendor marketing."* Partly fair — Cerulli and Kings Court Trust sell services to the wealth-management industry — which is why this chapter anchors on the independent RF/IFS flow series and treats headline totals as order-of-magnitude only. No plausible discount to the industry figures changes the qualitative conclusion.
+
+## Related chapters
+
+- Upstream causes: [wealth-concentration.md](wealth-concentration.md), [housing.md](housing.md), [asset-price-feedback.md](asset-price-feedback.md)
+- Consequences without reform: [mobility.md](mobility.md), [social-trust-and-fatalism.md](social-trust-and-fatalism.md)
+- Exploiting the window: [../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md), [../15-transition/sequencing.md](../15-transition/sequencing.md), [../15-transition/announcement-effects.md](../15-transition/announcement-effects.md)
+- Design response: [../02-proposal/mechanism.md](../02-proposal/mechanism.md), [../02-proposal/endowment.md](../02-proposal/endowment.md)
+
+## Verification checklist
+
+Quantitative claims flagged above, to be pinned to primary sources before publication:
+
+- Current Cerulli headline figure and horizon (the estimate has been revised repeatedly; cite the release year explicitly).
+- Kings Court Trust / CEBR £5.5tn figure — confirm the report year, horizon, and whether a successor estimate exists.
+- Boomer share of US household wealth on the latest DFA quarter, and the UK cohort equivalent from the current WAS wave.
+- Resolution Foundation's precise formulation of the "inheritance as main determinant of lifetime wealth" finding — quote it exactly rather than paraphrasing.
+- Current US federal estate-tax exemption (scheduled to change with sunset provisions; the number moves).
+- Modal/median age of inheritance receipt in the UK (IFS) and US equivalent.
+- Share of UK deaths triggering IHT liability in the latest HMRC release.
 
 ## Sources
 

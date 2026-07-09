@@ -33,9 +33,38 @@
 
 Causality should be stated honestly: no study cleanly identifies inheritance concentration as a driver of the aggregate dynamism decline, and the literature's own leading candidates (diffusion, market power) are compatible complements rather than rivals. What the evidence does support is (i) heir-controlled capital measurably underperforms and under-invests at the firm level [10][11], (ii) the ownership of capital is ageing and concentrating, and (iii) the dynamism decline coincides with both. The claim advanced is a mechanism claim consistent with the micro evidence, flagged as such.
 
+**Rival explanations, treated honestly.** The dynamism literature's own leading accounts must be acknowledged, because the inheritance mechanism competes with (and partly complements) them:
+
+| Explanation | Champion | Relationship to the inheritance thesis |
+|---|---|---|
+| Labour-supply deceleration | Karahan, Pugsley & Şahin — slower workforce growth mechanically lowers firm entry | Complementary: demographic ageing drives both slower entry and the gerontocracy of capital [13] |
+| Declining knowledge diffusion | Akcigit & Ates — leaders pull away, followers stop catching up | Complementary: incumbent entrenchment is the corporate face of dynastic entrenchment [4] |
+| Rising market power | De Loecker et al. — markups deter entry | Complementary: monopoly rents are the most heritable income stream ([rentier-economy.md](rentier-economy.md)) |
+| Regulation and land-use | Various — licensing, zoning raise entry costs | Orthogonal, but zoning is itself incumbent-owner politics ([political-capture.md](political-capture.md)) |
+
+None of these excludes the allocation-for-preservation channel; the honest summary is that ageing, concentration, and dynasticism are entangled drivers of the same syndrome, and inheritance policy is the only lever among them that redistributes *control* of capital toward the entry-prone young.
+
+**Housing lock as dynamism drag.** A second, under-noticed channel runs through the housing chapter: high price-to-earnings ratios and insider/outsider segmentation reduce labour mobility (workers cannot move to opportunity in high-productivity, high-price cities), and Hsieh & Moretti estimate spatial misallocation from housing constraints has cost the US economy a substantial share of aggregate growth since the 1960s (magnitude contested; to verify) [14]. Since housing exclusion is downstream of the deposit-inheritance channel ([housing.md](housing.md), [asset-price-feedback.md](asset-price-feedback.md)), part of the measured mobility decline in finding 4 above is plausibly inheritance-mediated.
+
 **Founder age and the myth of the young disruptor.** Azoulay, Jones, Kim & Miranda find the average age of successful US startup founders is about 45, and that prior industry experience — not inherited capital — predicts success [12]. This cuts in the proposal's favour twice: it undermines the claim that large private fortunes are needed to seed ventures (successful founders are mid-career operators, not trust-fund 25-year-olds), and it implies the binding constraint on entry is access to *some* capital at the right moment, not the existence of dynastic pools.
 
 **The counterflow.** The proposal's design converts the largest preservation-oriented capital pool in the economy into the most dispersed and risk-tolerant one: a universal endowment at 25 ([../02-proposal/endowment.md](../02-proposal/endowment.md)) places capital with the demographic that founds firms, retrains, and relocates — exactly the reallocation the dynamism literature says has dried up. The macro consequences, including effects on aggregate saving and investment, are treated in [../16-second-order/macro.md](../16-second-order/macro.md); the family-business objection this analysis most directly provokes is answered in [../04-case-against/family-business.md](../04-case-against/family-business.md) and [../02-proposal/carveouts.md](../02-proposal/carveouts.md).
+
+## Related chapters
+
+- Mechanism siblings: [rentier-economy.md](rentier-economy.md), [asset-price-feedback.md](asset-price-feedback.md), [great-wealth-transfer.md](great-wealth-transfer.md)
+- The counterflow in detail: [../02-proposal/endowment.md](../02-proposal/endowment.md), [../16-second-order/macro.md](../16-second-order/macro.md), [../16-second-order/heirs-and-work.md](../16-second-order/heirs-and-work.md)
+- Objections this chapter provokes: [../04-case-against/family-business.md](../04-case-against/family-business.md), [../02-proposal/carveouts.md](../02-proposal/carveouts.md)
+- Economic-efficiency case built on these findings: [../03-case-for/economic-efficiency.md](../03-case-for/economic-efficiency.md)
+
+## Verification checklist
+
+- Exact BDS startup-rate and young-firm employment-share figures for the endpoints used (early 1980s vs 2010s), from the current BDS release.
+- Job reallocation decline magnitude and dating per the most recent Decker–Haltiwanger update.
+- US interstate migration rates for both endpoints (CPS ASEC series).
+- English Private Landlord Survey age distribution of landlords, latest wave.
+- Post-2020 business-application surge: latest BFS data and any peer-reviewed assessment of whether high-propensity applications translated into employer firms.
+- Hsieh–Moretti misallocation magnitude — the original estimate was revised in later corrigenda; cite the corrected figure.
 
 ## Sources
 
@@ -51,3 +80,5 @@ Causality should be stated honestly: no study cleanly identifies inheritance con
 10. [Bennedsen, M., Nielsen, K., Pérez-González, F., Wolfenzon, D. (2007). "Inside the Family Firm: The Role of Families in Succession Decisions and Performance." *QJE* 122(2)](https://academic.oup.com/qje/article/122/2/647/1942101)
 11. [Bloom, N., Van Reenen, J. (2007). "Measuring and Explaining Management Practices Across Firms and Countries." *QJE* 122(4)](https://academic.oup.com/qje/article/122/4/1351/1850530)
 12. [Azoulay, P., Jones, B., Kim, J.D., Miranda, J. (2020). "Age and High-Growth Entrepreneurship." *AER: Insights* 2(1)](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
+13. [Karahan, F., Pugsley, B., Şahin, A. (2019). "Demographic Origins of the Startup Deficit." NBER WP 25874](https://www.nber.org/papers/w25874)
+14. [Hsieh, C.-T., Moretti, E. (2019). "Housing Constraints and Spatial Misallocation." *AEJ: Macro* 11(2)](https://www.aeaweb.org/articles?id=10.1257/mac.20170388)

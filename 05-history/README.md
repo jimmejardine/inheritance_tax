@@ -1,40 +1,45 @@
 # 05 — Historical Discussion and Attempts
 
-Chronological skeleton. Every entry becomes a dedicated file, with primary-source citations, as research deepens. Dates and figures below are first-pass recollections and must be verified.
+**Executive summary.** The idea of taxing inheritance heavily and endowing every citizen is not new: it runs from Paine (1797) through Mill, Carnegie, and Roosevelt to statutory top rates near 80% in the mid-twentieth-century US and UK, an abolition wave (1972–2014), and a twenty-first-century academic revival. This section documents each episode with primary-source anchoring; the pattern across all of them — pair the tax with a universal benefit, integrate gifts, index thresholds, or fail — is the design brief for [../02-proposal/](../02-proposal/README.md).
 
-## Philosophical foundations
+## Files in this section
 
-- **Thomas Paine, *Agrarian Justice* (1797).** Proposed a ~10% inheritance tax funding a universal lump-sum grant at age 21 and a pension at 50. Earliest modern articulation of the tax-plus-universal-endowment pairing.
-- **John Stuart Mill, *Principles of Political Economy* (1848).** Argued for a cap on what any individual could *receive*, rather than a cap on what any estate could *leave*. The recipient-based framing originates here.
-- **Andrew Carnegie, "The Gospel of Wealth" (1889).** A self-made industrialist who argued heavy death duties were both morally required and economically salutary. Famously: "By taxing estates heavily at death the state marks its condemnation of the selfish millionaire's unworthy life."
-- **Theodore Roosevelt (1906 State of the Union, 1910 New Nationalism speech).** Advocated "a graduated inheritance tax on big fortunes, properly safeguarded against evasion."
+| File | Subject |
+|---|---|
+| [paine-1797.md](paine-1797.md) | *Agrarian Justice* — the ground-rent justification and the original tax-plus-endowment pairing |
+| [mill-1848.md](mill-1848.md) | *Principles of Political Economy* — the recipient-based cap on lifetime receipts |
+| [carnegie-1889.md](carnegie-1889.md) | "The Gospel of Wealth" — the capitalist's case; the "Carnegie effect" |
+| [roosevelt-1906.md](roosevelt-1906.md) | TR's 1906 message and 1910 New Nationalism — the republican right-flank lineage |
+| [us-estate-tax.md](us-estate-tax.md) | US federal estate tax, 1797–present — the 77% plateau and the forty-year dismantling |
+| [uk-estate-duty.md](uk-estate-duty.md) | UK death duties, 1894–present — real dynastic break-up, then relief-creep self-destruction |
+| [abolitions.md](abolitions.md) | Why Sweden, Norway, Austria, Canada, Australia and Russia dismantled their taxes — the eight design errors |
+| [piketty.md](piketty.md) | *Capital in the Twenty-First Century* and *Capital and Ideology* — the empirical revival and the €120k endowment |
+| [ackerman-alstott.md](ackerman-alstott.md) | *The Stakeholder Society* — the $80k stake and the payback-at-death design |
+| [atkinson.md](atkinson.md) | *Inequality: What Can Be Done?* — the lifetime capital receipts tax and minimum inheritance |
 
-## Twentieth century: high-water marks
+## The chronological narrative
 
-- **US Federal Estate Tax (1916– ).** Top marginal rate reached ~77% in 1941 and held roughly there until 1976. Exemption has risen steeply since; today estate tax affects well under 0.1% of deaths.
-- **UK Estate Duty (1894–1975).** Top rate reached ~80% in the late 1960s. Replaced by Capital Transfer Tax (1975), then Inheritance Tax (1986). Today effective rate on estates is far below the headline 40% due to reliefs; fewer than ~5% of estates pay any IHT.
-- **Abolitions (c. 1970–2015).** Canada (1972), Australia (1979), Russia (2005), Sweden (2004), Austria (2008), Norway (2014). Reasons were mixed: avoidance, low revenue, international tax competition, political pressure. See [abolitions.md](abolitions.md) for detailed country cases, the common failure pattern, and how future design can rescue the principle.
+### Philosophical foundations
 
-## Twenty-first-century revival
+- **Thomas Paine, *Agrarian Justice* (1797).** A ~10% levy on estates at death funding a universal lump-sum grant at 21 and a pension at 50 — the earliest costed articulation of the tax-plus-universal-endowment pairing, justified as ground-rent on the earth as common inheritance. See [paine-1797.md](paine-1797.md).
+- **John Stuart Mill, *Principles of Political Economy* (1848).** A cap on what any individual may *receive* by gift or inheritance, rather than on what any estate may *leave*. The recipient-based framing — the structural core of this project's proposal — originates here. See [mill-1848.md](mill-1848.md).
+- **Andrew Carnegie, "The Gospel of Wealth" (1889).** The era's richest industrialist argued heavy graduated death duties were morally required and good for the heirs themselves: "By taxing estates heavily at death the State marks its condemnation of the selfish millionaire's unworthy life" (quote to verify). See [carnegie-1889.md](carnegie-1889.md).
+- **Theodore Roosevelt (1906 State of the Union; 1910 New Nationalism speech).** A Republican president's demand for "a graduated inheritance tax on big fortunes, properly safeguarded against evasion" (quote to verify), on anti-aristocratic republican grounds. See [roosevelt-1906.md](roosevelt-1906.md).
 
-- **Thomas Piketty, *Capital in the Twenty-First Century* (2013).** Empirical case for *r > g* and a progressive global wealth tax.
-- **Piketty, *Capital and Ideology* (2019).** Explicit proposal for a sharply progressive inheritance tax funding a ~€120,000 capital grant to every 25-year-old.
-- **Bruce Ackerman & Anne Alstott, *The Stakeholder Society* (1999).** $80,000 grant at adulthood, funded by a 2% annual wealth tax — the American cousin of Piketty's proposal.
-- **Anthony Atkinson, *Inequality: What Can Be Done?* (2015).** Proposes a "minimum inheritance" paid to every citizen at adulthood.
-- **Daniel Markovits, *The Meritocracy Trap* (2019).** Frames inherited human-capital advantage as the key mechanism, not just financial wealth.
+### Twentieth century: high-water marks
+
+- **US Federal Estate Tax (1916– ).** Top marginal rate reached 77% in 1941 and held there until 1976; today's exemption near $15m (to verify) leaves the tax touching well under 0.1% of deaths. What the plateau proves (survivability) and doesn't (effective collection) is set out in [us-estate-tax.md](us-estate-tax.md).
+- **UK Estate Duty (1894–1975).** Top rates around 80% by mid-century; genuinely broke up the great landed estates, but never integrated lifetime gifts and died by avoidance and relief-creep through CTT (1975) and IHT (1986) to a tax under 5% of estates pay. See [uk-estate-duty.md](uk-estate-duty.md).
+- **Abolitions (c. 1972–2014).** Canada (1972), Australia (1979), Sweden (2004), Russia (2005), Austria (2008), Norway (2014). Driven by negligible yield, valuation scandals, exit stories and threshold drift rather than by verdicts on the principle. See [abolitions.md](abolitions.md) for the country cases, the eight-error failure pattern, and the design responses.
+
+### Twenty-first-century revival
+
+- **Bruce Ackerman & Anne Alstott, *The Stakeholder Society* (1999).** An $80,000 stake at adulthood, funded first by a 2% wealth tax and at maturity by stake-payback from estates at death — stakeholding as inheritance-tax-in-reverse. Seeded the UK Child Trust Fund and US baby bonds. See [ackerman-alstott.md](ackerman-alstott.md).
+- **Thomas Piketty, *Capital in the Twenty-First Century* (2013).** The empirical case: r > g and the U-shaped return of inheritance flows toward Belle Époque levels. See [piketty.md](piketty.md).
+- **Anthony Atkinson, *Inequality: What Can Be Done?* (2015).** A progressive lifetime capital receipts tax funding a universal minimum inheritance — the technical template this project adopts. See [atkinson.md](atkinson.md).
+- **Piketty, *Capital and Ideology* (2019).** A concrete proposal: ~€120,000 to every 25-year-old, funded by inheritance and wealth taxes with rates to 90%, under a philosophy of "temporary ownership". See [piketty.md](piketty.md).
+- **Daniel Markovits, *The Meritocracy Trap* (2019).** Frames inherited *human-capital* advantage as the key transmission mechanism, not just financial wealth — taken up in [../01-problem/meritocracy-legitimacy.md](../01-problem/meritocracy-legitimacy.md) and [../07-implementation/human-capital.md](../07-implementation/human-capital.md).
 
 ## Pattern worth foregrounding
 
-Every serious historical proposal pairs a tax on large transfers with a universal benefit to small inheritors. Pure confiscation without the redistribution half has no serious intellectual proponent in the record — a useful debating point against strawman attacks.
-
-## Files to add
-
-- `paine-1797.md`
-- `mill-1848.md`
-- `carnegie-1889.md`
-- `us-estate-tax.md`
-- `uk-estate-duty.md`
-- `abolitions.md`
-- `piketty.md`
-- `ackerman-alstott.md`
-- `atkinson.md`
+Every serious historical proposal pairs a tax on large transfers with a universal benefit to small inheritors — Paine's grant, Ackerman–Alstott's stake, Atkinson's minimum inheritance, Piketty's endowment. Pure confiscation without the redistribution half has no serious intellectual proponent in the record — a useful debating point against strawman attacks ([../14-communications/debate-toolkit.md](../14-communications/debate-toolkit.md)). Conversely, every *statutory* regime that lacked a visible individual beneficiary eventually eroded or died ([abolitions.md](abolitions.md)). History's instruction is symmetrical: the tax defends the endowment's funding; the endowment defends the tax's politics.

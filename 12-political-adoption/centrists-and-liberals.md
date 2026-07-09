@@ -60,6 +60,23 @@ For a third party entering a hung-parliament or coalition negotiation with the p
 | Affluent-professional voter base has inheritance exposure | Same answer as the left's internal wedge ([left-parties.md](left-parties.md)): the £500k per-recipient threshold spares the typical professional-class inheritance; make members compute their own number |
 | Junior-partner blame if delivery fails | Insist on early-parliament delivery of the pilot and the receipts register ([../15-transition/sequencing.md](../15-transition/sequencing.md)); undelivered signature demands are worse than none |
 
+## Adjacent families: greens and the new liberals
+
+Two neighbouring party families share the centrist adoption logic and deserve brief treatment:
+
+- **Green parties.** Already predisposed on equality grounds, so they are not the persuasion target — but they matter as *competitive pressure*: a green party adopting the endowment threatens the liberal party's young-graduate flank, which is often the fastest way to move the liberal party itself ([party-incentives.md](party-incentives.md), motive 1: neutralise a flank). In coalition systems, green and liberal parties bidding for the same demographic can produce an adoption race the movement should deliberately seed in both.
+- **New-model liberal formations** (Volt-style pan-European parties, urban-liberal lists) have low policy inventories and high appetite for signature ideas; they are cheap early adopters whose function, like the third-party ignition role above, is proof-of-polling rather than delivery.
+
+## Readiness indicators
+
+Signals that a liberal or centrist party is approachable this cycle:
+
+1. A leadership or strategy review lamenting "lack of definition" (the differentiation deficit made explicit).
+2. Polling collapse among under-35s to a green or left competitor.
+3. Pre-coalition positioning talk — commentary about "red lines" and "priorities for negotiation."
+4. A new leader from the party's social-liberal (rather than economic-liberal) wing.
+5. Think-tank output from the party's orbit on intergenerational fairness ([policy-entrepreneurs.md](policy-entrepreneurs.md), stage 2).
+
 ## Bottom line
 
 For the major parties this policy is a good answer to their problems; for liberal and centrist parties it is close to a perfect one — canonical in pedigree, distinctive by default, sized for a coalition price, and aimed at their own growth demographic. The realistic scenario worth planning for: a third party adopts first and cheaply, proves the polling, and thereby sets off the competitive adoption race among the big two that [wedge-dynamics.md](wedge-dynamics.md) describes. The movement should treat liberal parties as the ignition system, not the engine ([../13-movement/theory-of-change.md](../13-movement/theory-of-change.md)).

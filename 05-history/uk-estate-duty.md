@@ -57,6 +57,19 @@ The UK arc is the cleanest demonstration of a compound theorem: **high rates wit
 - **Relief-creep as the death channel.** BPR/APR is the live domestic case study for the carve-out discipline in [../02-proposal/carveouts.md](../02-proposal/carveouts.md).
 - **The UK as first-adopter candidate.** Deep administrative experience, existing IHT machinery, centralised fiscal state — assessed in [../11-geographies/uk.md](../11-geographies/uk.md).
 
+## Verification checklist
+
+- The 1894 rate schedule (1%–8%) and the £1m top band; Harcourt's "we are all socialists now" attribution, date, and context.
+- The escalation table dates and rates, especially the 1949 (Cripps) 80% and the 1969 (Jenkins) 85%-marginal/80%-cap structure.
+- Interwar death-duty revenue share (~8–10% of central government receipts) against Mitchell's series.
+- The "quarter of England changed hands 1918–22" estimate — trace to its origin (contemporary *Estates Gazette* commentary) and Cannadine's qualified endorsement.
+- Country-house demolition counts and the 1974 (not 1975) V&A exhibition date.
+- Vestey trust details (1921 Paris settlement; the 1980 House of Lords litigation).
+- The Jenkins "voluntary levy" quotation — locate the primary source.
+- Current IHT coverage (~4–5% of estates), BPR/APR cost estimates, and the 2024 Budget reform parameters and April 2026 commencement.
+- The CTT's actual rate schedule and gift-cumulation window as enacted 1975 vs as eroded by 1984, to establish how much of the integration principle survived its own decade.
+- Estate Duty's surviving-spouse treatment across the period, since the absence of full spousal relief until 1972 (to verify) shaped both the hard cases and the reform politics.
+
 ## Sources
 
 1. [HMRC / Institute for Fiscal Studies surveys of UK death-duty history; Daunton, M. (2001–02). *Trusting Leviathan* and *Just Taxes*. Cambridge University Press](https://ifs.org.uk/) — legislative chronology and Harcourt context.

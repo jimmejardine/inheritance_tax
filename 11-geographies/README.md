@@ -32,6 +32,39 @@ Scores are additive across the ten criteria (max 50), per the [scorecard method]
 - **No plausible candidate adopts the full design in one act.** The realistic path everywhere is stepping-stone convergence — receipts-basis reform, endowment pilots, rate escalation — timed to a crisis window ([crisis-windows.md](crisis-windows.md), [`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)).
 - **Coordination is the multiplier.** Half the table (Ireland, the Nordics, Canada, NZ, the Benelux) moves only behind a UK/EU/OECD floor; the design's international architecture is therefore as adoption-critical as its domestic one ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)).
 
+## Three adoption scenarios
+
+The ranking is static; adoption is a sequence. The three paths the country files jointly support:
+
+| Scenario | Sequence | Probability weight |
+|---|---|---|
+| **UK-first** | UK receipts-basis reform + endowment ([uk.md](uk.md)) → Ireland harmonises upward ([ireland.md](ireland.md)) → UK sponsors OECD floor → Nordics and Canada follow | The modal path; every step has an existing proposal or precedent near it |
+| **Korea-flip** | Chaebol succession scandal in a reformist window flips Korea's recipient-basis conversion from rate-cutting to rate-raising ([korea-japan.md](korea-japan.md)) → Japan converges under fiscal pressure → East Asian high-rate bloc demands a floor against Singapore | Lower probability, higher speed; no endowment tradition to build on |
+| **EU-floor** | Franco-German sponsorship of enhanced-cooperation coordination ([continental-europe.md](continental-europe.md)) → Netherlands and Finland/Denmark implement first → exit-fear removed, Sweden and Norway return ([nordics.md](nordics.md)) | Slowest; blocked until unanimity politics is bypassed, but the only path that solves the small-economy problem wholesale |
+
+The scenarios are complements, not rivals: any first move improves the game-theoretic position of every subsequent mover ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)), which is why the campaign concentrates resources on the cheapest first move — the UK — rather than spreading evenly.
+
+## How to read this section
+
+- Scores answer "how hard is the terrain," not "who is campaigning" — a high score with no movement (Netherlands) still needs the movement-building of [`../13-movement/`](../13-movement/README.md).
+- Every score rests on country facts flagged **(to verify)** in the underlying file; treat the ranking as stable to single-cell revisions but not yet to systematic fact-checking.
+- The US's low rank coexists with its highest strategic value ([anglosphere.md](anglosphere.md)) — likelihood and importance are different columns, and only likelihood is ranked here.
+- Timing lives in [crisis-windows.md](crisis-windows.md): the ranking says *where*, the windows file says *when*, and [`../12-political-adoption/`](../12-political-adoption/README.md) says *through whom*.
+
+## What this section feeds elsewhere
+
+- The country rankings set targeting priorities for [`../13-movement/`](../13-movement/README.md) and [`../12-political-adoption/`](../12-political-adoption/README.md): resource concentration on the UK, opportunistic readiness in Korea and the Netherlands.
+- Ireland's CAT and Korea/Japan's rates are the two most-used evidentiary exhibits across [`../09-objections/`](../09-objections/README.md) and [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md).
+- The Swiss referendum, Spanish regional race, and Australian cascade are the three cautionary exhibits for [`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md) and the federal-assignment rule in [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md).
+- Germany's Art. 14 gate and France's confiscatory doctrine define the constitutional-drafting workstream in [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md).
+
+## What still needs doing
+
+- Verify every flagged claim: cantonal and country rate tables, the 2015 Swiss margin, Korean reform-bill status, Japanese 2015 base-broadening figures, Irish threshold history, German relief statistics, wealth-transfer magnitudes.
+- Commission or locate comparative polling on inheritance taxation across the top-ten candidates ([`../06-palatability/polling.md`](../06-palatability/polling.md)).
+- Legal memoranda on the two gates: scope of Art. 14 GG at high marginal rates; French confiscatory-doctrine headroom for a threshold-protected receipts tax.
+- A proper quantitative pass on the scorecards once country facts are verified — the current scores are structured judgement and should graduate to a documented rubric.
+
 ## Files in this section
 
 | File | Question answered |

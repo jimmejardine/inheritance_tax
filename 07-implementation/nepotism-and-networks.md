@@ -48,6 +48,8 @@ Introductions, the lunch that leads to the internship, the surname that gets the
 
 Nepotism is not merely distasteful; it is *load-bearing* because family capital makes it credible — the heir is hired partly because the family owns the client, the building, the stake ([`../01-problem/political-capture.md`](../01-problem/political-capture.md), [`../01-problem/rentier-economy.md`](../01-problem/rentier-economy.md)). A tax that caps inherited financial capital at the threshold does not stop a parent making calls, but over one or two generations it dissolves the *institutional* nepotism of family-controlled blocks of capital: fewer firms where the controlling family can install heirs at will, fewer family offices to employ them, fewer landlord dynasties to absorb them. The favour economy survives; its balance sheet does not. That is the honest, and sufficient, claim — argued at greater length in [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md).
 
+A second-order effect worth flagging for [`../16-second-order/heirs-and-work.md`](../16-second-order/heirs-and-work.md): where the family firm can no longer be *given* to the heir, the rational family strategy shifts from installing heirs toward selling to the best owner and giving the heir their threshold in cash — which is better for the firm, the heir, and everyone who would otherwise have worked under an unqualified successor.
+
 ## Worked example
 
 Patel Logistics Ltd, family-controlled, turnover £20m. The founder's son joins at 30 as "Strategy Director" on £280,000; the arm's-length band for the role in that sector and firm size benchmarks at £90,000–£130,000.
@@ -75,3 +77,4 @@ Three years of "employment" post £468,000 to the son's lifetime ledger — near
 4. [Finance Act 1986 s.102 — gifts with reservation of benefit; HMRC IHTM14301](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)
 5. [Insolvency Act 1986 s.423 — transactions defrauding creditors](https://www.legislation.gov.uk/ukpga/1986/45/section/423)
 6. [FCA Listing Rules / UK Corporate Governance Code — related-party transactions and board independence](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/)
+7. Perez-Gonzalez, F. (2006), "Inherited Control and Firm Performance", *American Economic Review* — evidence that heir-CEO succession underperforms professional succession.

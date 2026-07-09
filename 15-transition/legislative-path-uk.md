@@ -62,3 +62,22 @@ Inheritance tax is a **reserved matter** under the Scotland Act 1998 and the Wel
 | Following parliament(s) | Phase 3 (100% + national endowment) — after re-election on the record, satisfying both Salisbury and the notice principle |
 
 This matches the 10–20-year transit in [sequencing.md](sequencing.md): roughly two parliaments of committed government, plus the infrastructure lead-in. The US equivalent, materially harder, is [legislative-path-us.md](legislative-path-us.md).
+
+## Procedural risks and mitigations
+
+| Risk | Mechanism | Mitigation |
+|---|---|---|
+| Finance Bill amendment attrition | Committee-stage carve-out lobbying replicates the relief-layering that hollowed out historical regimes ([`../05-history/abolitions.md`](../05-history/abolitions.md)) | Relief-sunset requirement in primary legislation; publish annual effective-rate reports by receipt size |
+| Endowment Bill delay in the Lords | Not a certified money bill; convention arguments contested | Explicit manifesto wording; Parliament Acts as backstop (one-year delay maximum) |
+| JR of commencement-by-announcement | Challenge to Budget-resolution effect on the anti-forestalling package | PCTA 1968 is settled machinery; the vulnerable element is lookback aggregation, defended on the information-use analysis in [grandfathering.md](grandfathering.md) |
+| Machinery-of-government failure | Register or endowment delivery slips, forcing an announced-but-uncommenced gap — the exact scenario [announcement-effects.md](announcement-effects.md) forbids | Phase 0 completed and load-tested before any rate announcement ([sequencing.md](sequencing.md)) |
+| Mid-transit change of government | Successor repeals uncommenced phases | Each completed rung is self-defending (Phase 2 repeal = tax rise on ordinary families; Phase 3 repeal = taking £50k from every 25-year-old); see [`../12-political-adoption/wedge-dynamics.md`](../12-political-adoption/wedge-dynamics.md) |
+
+## Sources
+
+1. [Provisional Collection of Taxes Act 1968](https://www.legislation.gov.uk/ukpga/1968/2) — statutory basis for Budget-day effect.
+2. [Parliament Act 1911](https://www.legislation.gov.uk/ukpga/Geo5/1-2/13) and [Parliament Act 1949](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/103) — money-bill certification and Lords limits.
+3. [Erskine May — parliamentary practice on Ways and Means resolutions and Finance Bills](https://erskinemay.parliament.uk/).
+4. [Scotland Act 1998, Schedule 5 (reserved matters)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/5) and [Scotland Act 2016 (income-tax powers)](https://www.legislation.gov.uk/ukpga/2016/11) — devolution boundary (precise reservation heads for inheritance taxation to verify).
+5. [Office for Budget Responsibility — policy costings database and fiscal-rules commentary](https://obr.uk/).
+6. [House of Lords Library — the Salisbury-Addison convention](https://lordslibrary.parliament.uk/) — manifesto-bill handling.

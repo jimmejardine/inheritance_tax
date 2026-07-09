@@ -68,6 +68,14 @@ The board shows the "Nordic abolition" story is really a *Swedish-Norwegian* sto
 - **Offensive:** Finland and Denmark falsify the claim that modern open economies cannot sustain inheritance taxation next door to abolitionists.
 - **Illustrative:** Kamprad's ownership labyrinth — foundation, Stichting, Liechtenstein entities — is the single best narrative demonstration that the *avoidance industry*, not the tax, is the baroque and wasteful thing ([`../03-case-for/economic-efficiency.md`](../03-case-for/economic-efficiency.md), [`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md)).
 
+## What to watch
+
+- Swedish and Norwegian wealth-tax emigration politics (Norwegian exits to Switzerland in the early 2020s, to verify): the outcome will either reinforce or discredit the exit-fear frame for the whole region.
+- Finnish abolition motions: Finland's *perintövero* faces recurring repeal campaigns citing Sweden (to verify current parliamentary initiatives) — losing the region's best-structured tax would be a major setback for the evidentiary base.
+- Danish business-succession relief changes, the local version of the German §13a fight.
+- Any Nordic Council or joint-ministerial interest in coordinated capital taxation — the natural sub-OECD venue for a regional floor.
+- Social Democratic platform language in Sweden: reintroduction proposals surface periodically from the party's left and from LO economists (to verify) and their reception measures the scar tissue's half-life.
+
 ## Analytic judgement
 
 Treat the Nordics as fast followers, not first movers. Their 2004/2014 scar tissue makes unilateral reintroduction politically toxic for a generation, and reintroduction (C3 = 1) is a categorically harder move than reform. But conditional on a UK or EU-level move establishing a floor, Finland and Denmark are plausible early upgraders of existing taxes, and Sweden and Norway — with the best administrative machinery on earth and a welfare model the endowment completes — could go from laggard to maximalist quickly. The campaign lesson: never cite Nordic egalitarianism as evidence of adoptability ([`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md)); opponents will answer with 2004. Cite Finland and Denmark's quiet persistence instead.

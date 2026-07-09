@@ -6,7 +6,9 @@
 
 ### 1. Nozick: justice in transfer
 
-Nozick's entitlement theory (*Anarchy, State, and Utopia*, 1974) is a *historical*, not patterned, account of justice: a distribution is just if it arose from just acquisition and just transfer, whatever it looks like [1]. If a founder justly earned her fortune and freely chooses to give it to her daughter, the daughter's holding is just — full stop. No inspection of the outcome ("too unequal," "unearned") has any purchase, because justice attaches to the *process*, and the process is unimpeachable: voluntary, informed, coercion-free. The Wilt-Chamberlain argument generalises the point: any preferred pattern of holdings is overturned by free choices, so preserving a pattern requires continuous interference with liberty — "forbidding capitalist acts between consenting adults." A 100% tax on transfer is not a tax at that margin; it is a *prohibition* of a specific voluntary act between two people who both want it to happen. On Nozick's account this is the state claiming a part-ownership of every person's productive life.
+Nozick's entitlement theory (*Anarchy, State, and Utopia*, 1974) is a *historical*, not patterned, account of justice: a distribution is just if it arose from just acquisition and just transfer, whatever it looks like [1]. If a founder justly earned her fortune and freely chooses to give it to her daughter, the daughter's holding is just — full stop. No inspection of the outcome ("too unequal," "unearned") has any purchase, because justice attaches to the *process*, and the process is unimpeachable: voluntary, informed, coercion-free.
+
+The Wilt-Chamberlain argument generalises the point: any preferred pattern of holdings is overturned by free choices, so preserving a pattern requires continuous interference with liberty — "forbidding capitalist acts between consenting adults." A 100% tax on transfer is not a tax at that margin; it is a *prohibition* of a specific voluntary act between two people who both want it to happen. On Nozick's account this is the state claiming a part-ownership of every person's productive life.
 
 ### 2. Locke: property as the extension of the person
 
@@ -18,7 +20,9 @@ The Burkean and communitarian line rejects the whole framing of individuals as s
 
 ### 4. Gifts as constitutive, not transactional
 
-The gift literature — from Mauss's anthropology to ordinary moral experience — insists that giving is not a transfer of utility but an act that *creates and sustains relationships* [5]. A deathbed bequest is among the last acts of love available to a person; it says *I provided for you to the end*. To interpose the state at 100% in that act is experienced not as fiscal policy but as desecration — which is why "death tax" framing works politically ([`../06-palatability/framing.md`](../06-palatability/framing.md)) and why the objection cannot be answered by efficiency arguments at all. The meaning of the act is the point.
+The gift literature — from Mauss's anthropology to ordinary moral experience — insists that giving is not a transfer of utility but an act that *creates and sustains relationships* [5]. A deathbed bequest is among the last acts of love available to a person; it says *I provided for you to the end*.
+
+To interpose the state at 100% in that act is experienced not as fiscal policy but as desecration — which is why "death tax" framing works politically ([`../06-palatability/framing.md`](../06-palatability/framing.md)) and why the objection cannot be answered by efficiency arguments at all. The meaning of the act is the point.
 
 ### 5. The symmetry objection
 
@@ -28,12 +32,39 @@ The proposal's core rhetorical move — the heir did nothing to *earn* the recei
 
 None of the following refutes the objection outright; together they relocate it.
 
-1. **Mill's asymmetry: liberty to give is not a right to receive.** Mill accepted the donor's liberty of disposition and *still* proposed capping what any individual may receive [6]. The tax under discussion is levied on the recipient's receipts above a lifetime threshold ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)). The donor may give to as many people, causes, and charities as they wish; what no one may do is *accumulate receipts* beyond the cap. The prohibited act is not "giving" but "receiving beyond £500k of unearned capital" — and the tradition has never grounded a strong liberty claim in unlimited receipt ([`../03-case-for/ethical.md`](../03-case-for/ethical.md) §10 develops this donor/recipient asymmetry in full).
-2. **Inheritance is a legal institution, not a natural fact.** Murphy and Nagel's *The Myth of Ownership* [7]: property, and a fortiori its posthumous transmission, exists only within a scheme of law the state defines and enforces — probate courts, title registers, trust law. The dead can convey nothing without the living machinery of the state. An institution that requires collective enforcement requires collective justification; "it's mine to leave" assumes the conclusion. This blunts Locke and Blackstone: the *content* of ownership (does it include posthumous control?) is exactly what is in question, and legal history shows it has always been contingent — entail, primogeniture, forced heirship, and estate duty are all prior public settlements of the same question.
-3. **Nozick's theory has a recipient-shaped hole — acknowledged by Nozick.** Justice in transfer transmits titles; it does not explain why the *state's general fiscal claim* stops at this transaction when it does not stop at wages, sales, or any other voluntary transfer. And Nozick himself, in *The Examined Life*, recoiled from unlimited inter-generational transmission [8]. The full engagement — including Steiner's derivation of a 100% inheritance tax *from* libertarian premises — is at [`../03-case-for/ethical.md`](../03-case-for/ethical.md) §5.
-4. **The heir's autonomy is also a liberty interest.** Dynastic wealth arrives with dynastic expectation; the encumbered heir is not a free chooser ([`../03-case-for/heirs-burden.md`](../03-case-for/heirs-burden.md)). This does not neutralise the donor's claim, but it means "liberty" does not sit wholly on one side of the ledger even within the family.
-5. **Equal liberty of opportunity is a competing *liberty* claim, not a welfare claim.** The strongest response is not "equality outweighs liberty" but that the objection miscounts the liberties. Rawls places fair equality of opportunity lexically prior to the difference principle; Dworkin's hypothetical-insurance argument models inherited advantage as brute luck that free and equal persons would insure against [9][10]. A society of hereditary capital confers on some citizens, at birth, systematically greater effective freedom — of occupation, residence, risk-taking, political voice — than others. The conflict is liberty *versus* liberty: the donor's liberty of posthumous disposition against every other citizen's liberty to enter markets, housing, and politics un-dominated by compounding dynasties ([`../01-problem/political-capture.md`](../01-problem/political-capture.md)). The universal endowment makes the competing liberty concrete rather than rhetorical: the same act that caps the heir's receipt funds every citizen's £50k of effective freedom at 25 ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
-6. **The symmetry objection is answered by the threshold, not by theory.** The proposal agrees that unearned receipt is not *per se* wrongful — that is what the £500k/$750k lifetime allowance concedes. Birthday presents, deposits, and ordinary parental provision pass untouched. The wrong the policy targets is not gift but *dynasty*: receipt at a scale that constitutes inherited economic position. The line is admittedly conventional; every tax threshold is. Where exactly it sits is argued at [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md).
+### 1. Mill's asymmetry: liberty to give is not a right to receive
+
+Mill accepted the donor's liberty of disposition and *still* proposed capping what any individual may receive [6]. The tax under discussion is levied on the recipient's receipts above a lifetime threshold ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)). The donor may give to as many people, causes, and charities as they wish; what no one may do is *accumulate receipts* beyond the cap.
+
+The prohibited act is therefore not "giving" but "receiving beyond £500k of unearned capital" — and the liberal tradition has never grounded a strong liberty claim in unlimited receipt ([`../03-case-for/ethical.md`](../03-case-for/ethical.md) §10 develops the donor/recipient asymmetry in full). This blunts the Nozickian prohibition framing in §1 above: the consenting-adults transaction is permitted; what is regulated is one party's cumulative position across all such transactions, exactly as income tax regulates cumulative wages without prohibiting employment.
+
+### 2. Inheritance is a legal institution, not a natural fact
+
+Murphy and Nagel's *The Myth of Ownership* [7]: property, and a fortiori its posthumous transmission, exists only within a scheme of law the state defines and enforces — probate courts, title registers, trust law. The dead can convey nothing without the living machinery of the state. An institution that requires collective enforcement requires collective justification; "it's mine to leave" assumes the conclusion.
+
+This blunts Locke and Blackstone: the *content* of ownership (does it include posthumous control?) is exactly what is in question, and legal history shows it has always been contingent. Entail, primogeniture, forced heirship, mortmain statutes, the rule against perpetuities, and estate duty are all prior public settlements of the same question — several of them *restrictions* on transmission imposed precisely in property's name. The claim that full posthumous disposition is "of the essence" of ownership is not history; it is one side's preferred endpoint of a very old argument.
+
+### 3. Nozick's theory has a recipient-shaped hole — acknowledged by Nozick
+
+Justice in transfer transmits titles; it does not explain why the *state's general fiscal claim* stops at this transaction when it does not stop at wages, sales, or any other voluntary transfer. And Nozick himself, in *The Examined Life*, recoiled from unlimited inter-generational transmission, suggesting bequest be limited to what one had not oneself inherited [8].
+
+The full engagement — including Steiner's derivation of a 100% inheritance tax *from* libertarian premises, and the inter-generational strain on the Lockean proviso — is at [`../03-case-for/ethical.md`](../03-case-for/ethical.md) §5. For present purposes the point is narrower: the libertarian tradition is internally divided on inheritance, so the objection cannot present itself as *the* libertarian position.
+
+### 4. The heir's autonomy is also a liberty interest
+
+Dynastic wealth arrives with dynastic expectation; the encumbered heir is not a free chooser ([`../03-case-for/heirs-burden.md`](../03-case-for/heirs-burden.md)). This does not neutralise the donor's claim, but it means "liberty" does not sit wholly on one side of the ledger even within the family the objection is defending.
+
+### 5. Equal liberty of opportunity is a competing *liberty* claim, not a welfare claim
+
+The strongest response is not "equality outweighs liberty" but that the objection miscounts the liberties. Rawls places fair equality of opportunity lexically prior to the difference principle; Dworkin's hypothetical-insurance argument models inherited advantage as brute luck that free and equal persons would insure against [9][10]. A society of hereditary capital confers on some citizens, at birth, systematically greater effective freedom — of occupation, residence, risk-taking, political voice — than others.
+
+The conflict is therefore liberty *versus* liberty: the donor's liberty of posthumous disposition against every other citizen's liberty to enter markets, housing, and politics un-dominated by compounding dynasties ([`../01-problem/political-capture.md`](../01-problem/political-capture.md)). The universal endowment makes the competing liberty concrete rather than rhetorical: the same act that caps the heir's receipt funds every citizen's £50k of effective freedom at 25 ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
+
+### 6. The symmetry objection is answered by the threshold, not by theory
+
+The proposal agrees that unearned receipt is not *per se* wrongful — that is what the £500k/$750k lifetime allowance concedes. Birthday presents, deposits, university fees, and ordinary parental provision pass untouched; so does the constitutive, relationship-sustaining giving of §4 above, in its entirety, for the overwhelming majority of families.
+
+The wrong the policy targets is not gift but *dynasty*: receipt at a scale that constitutes inherited economic position. The line is admittedly conventional; every tax threshold is. Where exactly it sits is argued at [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md). What must be conceded to the symmetry objection is methodological: once the threshold is admitted, the argument is consequentialist balancing about scale and social structure, not a pure desert principle — and the manifesto should argue in that register rather than pretend otherwise.
 
 ## What remains: an honest statement of the conflict
 
@@ -45,7 +76,16 @@ None of the following refutes the objection outright; together they relocate it.
 | Bequest is an act of love the state should not tax | Standing as *meaning*: no design can make a 100% marginal rate feel like anything other than a limit on a parent's final act, for the small population it reaches |
 | All gifts are unearned; the desert argument proves too much | Answered structurally by the threshold, at the cost of conceding the argument is consequentialist balancing, not pure desert |
 
-The residual is genuine and should be stated as the price of the policy rather than defined away: **above the threshold, the proposal extinguishes a liberty that some citizens sincerely and reasonably regard as central to their life's meaning — the freedom to convert lifetime achievement into their children's permanent economic position.** The proposal's claim is not that this liberty is illusory but that it is *outweighed*: it is a liberty whose exercise, compounded across generations, systematically diminishes the equal liberty of everyone else, and the political community may choose the wider liberty over the deeper dynasty. A reader who weighs the donor's claim more heavily has not made an error; they have taken the other side of a real conflict. The manifesto's burden is to show the trade is worth it — which is the work of [`../01-problem/`](../01-problem/README.md) and [`../03-case-for/`](../03-case-for/README.md), not of any definitional manoeuvre here. Quick-fire versions of the freedom objections are handled at [`../09-objections/fairness.md`](../09-objections/fairness.md) and [`../09-objections/family.md`](../09-objections/family.md).
+The residual is genuine and should be stated as the price of the policy rather than defined away: **above the threshold, the proposal extinguishes a liberty that some citizens sincerely and reasonably regard as central to their life's meaning — the freedom to convert lifetime achievement into their children's permanent economic position.**
+
+The proposal's claim is not that this liberty is illusory but that it is *outweighed*: it is a liberty whose exercise, compounded across generations, systematically diminishes the equal liberty of everyone else, and the political community may choose the wider liberty over the deeper dynasty. A reader who weighs the donor's claim more heavily has not made an error; they have taken the other side of a real conflict. The manifesto's burden is to show the trade is worth it — which is the work of [`../01-problem/`](../01-problem/README.md) and [`../03-case-for/`](../03-case-for/README.md), not of any definitional manoeuvre here.
+
+Two practical corollaries for the wider project:
+
+- **Communications must not deny the loss.** Messaging that pretends no one loses anything real will be falsified by the first sympathetic testator interview; the honest frame — a bounded loss for a few, a concrete freedom for all — is developed in [`../14-communications/narratives.md`](../14-communications/narratives.md) and [`../06-palatability/framing.md`](../06-palatability/framing.md).
+- **Opposition will run this file's §3 and §4 as its emotional core.** The family-desecration and life's-meaning frames are the strongest cards the other side holds ([`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)); pre-emption is at [`../14-communications/inoculation.md`](../14-communications/inoculation.md).
+
+Quick-fire versions of the freedom objections are handled at [`../09-objections/fairness.md`](../09-objections/fairness.md) and [`../09-objections/family.md`](../09-objections/family.md).
 
 ## Sources
 

@@ -59,3 +59,8 @@ This is why every serious historical proposal — Paine, Mill, Carnegie, Rooseve
 - [political-capture.md](political-capture.md)
 - [meritocracy-legitimacy.md](meritocracy-legitimacy.md)
 - [rentier-economy.md](rentier-economy.md)
+- [great-wealth-transfer.md](great-wealth-transfer.md)
+- [declining-dynamism.md](declining-dynamism.md)
+- [elite-overproduction.md](elite-overproduction.md)
+- [asset-price-feedback.md](asset-price-feedback.md)
+- [social-trust-and-fatalism.md](social-trust-and-fatalism.md)

@@ -41,6 +41,39 @@ Carnegie's unique strategic value is *who he was*. The standard attack on inheri
 - **A caution on the charitable escape route.** Carnegie's own solution — the perpetual foundation — shows that a 100% marginal rate with unlimited charitable relief redirects dynasty into philanthropic form rather than dissolving it. The carve-out design in [../02-proposal/carveouts.md](../02-proposal/carveouts.md) must answer Carnegie's precedent as well as cite it.
 - **Language.** "The man who dies thus rich dies disgraced" remains the most quotable single sentence in the tradition — debate-toolkit material for [../14-communications/debate-toolkit.md](../14-communications/debate-toolkit.md).
 
+## Modern echoes of the archetype
+
+The Carnegie position — self-made capitalist against inherited fortune — has been re-occupied in every generation since, which is what makes it an archetype rather than an anecdote:
+
+- **Warren Buffett**, opposing estate-tax repeal in 2001 and after, on the ground that dynastic succession is "choosing the 2020 Olympic team by picking the eldest sons of the gold-medal winners in the 2000 Olympics" (quote to verify) [4].
+- **Bill Gates Sr.**, co-leading the responsible-wealth campaign against repeal and for Washington State's estate tax [4].
+- **The Giving Pledge** (2010–), whose signatories publicly commit the majority of their fortunes away from heirs — Carnegie's third mode, institutionalised.
+
+Each is catalogued as messenger material in [../13-movement/messengers.md](../13-movement/messengers.md); the pattern's persistence suggests the recruiting pool is structural, not accidental.
+
+## Contemporary reception, 1889–1919
+
+The essay was an immediate transatlantic event. Gladstone responded in print (soliciting the *Nineteenth Century* symposium of 1890, in which clerics and politicians debated Carnegie's doctrine); American pulpits and editorial pages divided between admiration for the duty of stewardship and scorn for a gospel that arrived after the fortune was made (details to verify) [1][2]. Organised labour's verdict hardened after Homestead: the essay's critics have ever since read it alongside the strike, and any modern use of Carnegie must anticipate that pairing rather than be ambushed by it — the pre-emption is drafted in [../14-communications/inoculation.md](../14-communications/inoculation.md). Within elite opinion, however, the essay achieved something measurable: it made graduated death duties a respectable position in Republican-adjacent circles two decades before [roosevelt-1906.md](roosevelt-1906.md) and a generation before the 1916 Act ([us-estate-tax.md](us-estate-tax.md)).
+
+## Key passages for the debate toolkit
+
+All to verify against the June 1889 text before quotation in public materials; see [../14-communications/debate-toolkit.md](../14-communications/debate-toolkit.md):
+
+| Passage (quote to verify) | Use |
+|---|---|
+| "The man who dies thus rich dies disgraced" | The thesis in seven words, from a capitalist |
+| "By taxing estates heavily at death the State marks its condemnation of the selfish millionaire's unworthy life" | Direct endorsement of heavy death duties |
+| "Of all forms of taxation, this seems the wisest" | Ranking transfer taxation above income and consumption taxes |
+| The "deadens the talents and energies of the son" passage | The heirs'-burden argument ([../03-case-for/heirs-burden.md](../03-case-for/heirs-burden.md)) |
+| "Why should men leave great fortunes to their children? If this is done from affection, is it not misguided affection?" | Reframing the family objection ([../09-objections/family.md](../09-objections/family.md)) |
+
+## Verification checklist
+
+- All five passages above, against the *North American Review* originals (June and November 1889) and the 1891 "Advantages of Poverty" sequel.
+- The sale price of Carnegie Steel (~$480m, 1901), lifetime giving total (~$350m), library count (~2,500+), and residual estate at death.
+- Carnegie's specific words on the *degree* of graduation ("at least half"?) and his citation of Pennsylvania's duty.
+- The Gladstone/*Nineteenth Century* symposium details and principal respondents.
+
 ## Sources
 
 1. [Carnegie, A. (1889). "Wealth." *North American Review* 148(391), June 1889; and "The Best Fields for Philanthropy," November 1889](https://www.carnegie.org/about/our-history/gospelofwealth/) — primary source; all quotations to be verified against this text.

@@ -76,3 +76,5 @@ For the sceptic asking "can this possibly work?": [administration.md](administra
 ## The section's one-sentence summary
 
 Every operational problem this tax faces is a problem some existing tax already solves somewhere; the two problems no tax can solve (human capital, networks) are self-limiting in a way financial inheritance is not; and the sympathetic hard cases are answered with time to pay, never with holes in the base.
+
+That sentence, expanded with evidence, is this section's contribution to the manifesto: the difference between "confiscation is impossible" and "confiscation above a generous threshold is an engineering project with known parts."

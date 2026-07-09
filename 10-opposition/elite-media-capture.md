@@ -16,6 +16,8 @@ A newspaper editorialising against this tax is not analogous to a newspaper edit
 
 A useful precedent for owner-as-campaigner already exists in the historical record: Frank Blethen, family owner of the Seattle Times, personally organised the newspaper industry's lobbying for US estate-tax repeal — see [attack-playbook.md](attack-playbook.md).
 
+The conflict extends beyond editorial pages. Proprietors' interests shape coverage through appointment of editors, story-selection norms, and what Graetz and Shapiro documented in the Blethen case: the owner's cause becoming the newsroom's campaign without any memo needing to be written. And unlike most policy fights, here the outlets cannot plausibly recuse: an inheritance-tax debate in which dynastically owned media simply declined to participate would be a concession in itself.
+
 ## Expected editorial behaviour
 
 - **Front-page campaigning, not just comment.** UK tabloids have a long practice of running tax stories as campaigns ("hands off our homes"); expect the stock narratives of [media-narratives.md](media-narratives.md) with editorial resources behind them.
@@ -47,7 +49,17 @@ Two recent, exhaustively documented cases make the abstract argument — that dy
 - **Murdoch (Nevada, 2024).** Rupert Murdoch petitioned to amend the family's irrevocable trust to entrench Lachlan Murdoch's control against his siblings; a Nevada probate commissioner ruled against the change in December 2024, in a decision reported to have used strikingly critical language about the manoeuvre (to verify quotes and appeal status) [5]. The spectacle: control of a globally significant news and political apparatus determined by intra-family litigation among heirs, none elected, none market-tested.
 - **Redstone (2015–2024).** Competency litigation over Sumner Redstone's control of Viacom/CBS, followed by Shari Redstone's negotiation of the Paramount–Skydance sale (to verify completion details) — a decade in which major media assets' governance turned on one family's internal conflicts [6].
 
+Neither case required any wrongdoing to make the point: even a smooth succession hands agenda-setting power over national discourse to whoever happens to be born next in line. The litigated cases merely make visible what quiet successions conceal.
+
 Both stories were covered obsessively by the media themselves (and dramatised by *Succession*, whose cultural penetration did more for public understanding of media dynasticism than any academic study). They should be cited constantly: *the case for capping inheritance is being serialised by the inheritors.* See also [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md) and [../01-problem/meritocracy-legitimacy.md](../01-problem/meritocracy-legitimacy.md).
+
+## What still needs doing
+
+- Current ownership and reach table for UK national press and US local TV, from the latest Media Reform Coalition and Ofcom publications.
+- Verification of the Rothermere non-dom history and current status, and the final Telegraph ownership disposition.
+- Verified account of the Nevada Murdoch trust ruling (holding, quoted language, appeal status) and the Paramount–Skydance completion.
+- Content analysis of how dynastically owned outlets covered the 2024 APR changes vs trust-owned outlets — a direct test of the proprietor-effect hypothesis for [media-narratives.md](media-narratives.md).
+- Reach data for under-35 news consumption to size the direct-channel opportunity in [../14-communications/channels.md](../14-communications/channels.md).
 
 ## Mitigations
 
@@ -58,14 +70,6 @@ Both stories were covered obsessively by the media themselves (and dramatised by
 5. **Make the succession sagas standard campaign texts.** Murdoch/Nevada and Redstone/Paramount as named case studies in every long-form presentation of the thesis; they require no advocacy, only narration. Coordinate with [../14-communications/narratives.md](../14-communications/narratives.md).
 6. **Court the exceptions.** Not all outlets are dynastically owned: trust-owned (Guardian/Scott Trust), non-profit, and reader-funded models have no proprietor succession at stake, and some proprietor-owned outlets chase under-45 audiences commercially. Media-relations effort should be allocated where the structural conflict is absent.
 7. **Support ownership-transparency and plurality policy.** Media-plurality reviews and foreign/ownership transparency rules are adjacent causes with existing constituencies (Media Reform Coalition and others [2]); the same disclosure norms that serve democracy generally serve this campaign specifically.
-
-## What still needs doing
-
-- Current ownership and reach table for UK national press and US local TV, from the latest Media Reform Coalition and Ofcom publications.
-- Verification of the Rothermere non-dom history and current status, and the final Telegraph ownership disposition.
-- Verified account of the Nevada Murdoch trust ruling (holding, quoted language, appeal status) and the Paramount–Skydance completion.
-- Content analysis of how dynastically owned outlets covered the 2024 APR changes vs trust-owned outlets — a direct test of the proprietor-effect hypothesis for [media-narratives.md](media-narratives.md).
-- Reach data for under-35 news consumption to size the direct-channel opportunity in [../14-communications/channels.md](../14-communications/channels.md).
 
 ## Sources
 

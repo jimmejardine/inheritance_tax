@@ -72,6 +72,10 @@ Nothing in this package says "100%"; every element is native conservative policy
 
 The UK Conservative case is the strongest because the age gradient is steepest and the party's brand crisis most acute. The US Republican route is harder — the "death tax" repeal campaign is a founding modern-GOP achievement, and reversing field on it is a larger identity cost — but the ingredients (young-male economic populism, founder-worship, hostility to "trust-fund elites" as a culture-war target) are visible in the party's newer factions (to verify polling on Republican-voter attitudes to inherited versus earned wealth). The continental Christian-democratic route runs through family policy: the endowment as the material completion of pro-family rhetoric, with the Mittelstand carve-out doing the heavy lifting ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md), [../11-geographies/korea-japan.md](../11-geographies/korea-japan.md) for the conservative-governed high-rate precedents).
 
+## Readiness indicators
+
+Signals that a right party is approachable: a post-defeat modernisation review; public hand-wringing about the youth vote from party grandees; a leadership candidate running on "change"; visible donor-base diversification toward members and small donors; and think-tank output from the party's own orbit on the ownership crisis among the young ([policy-entrepreneurs.md](policy-entrepreneurs.md)). Any two of these together mark a live window.
+
 ## Bottom line
 
 The conservative case is not a stretch; it is the policy's strongest natural home in every respect except donor structure. Meritocracy, property-owning democracy, tax cuts on work, and demographic survival are the right's own goals, and the receipts tax funds all four. The movement's task with right parties is therefore narrow and concrete: cultivate founder-class validators to crack the donor constraint, and keep the "0% below £500k" tax-cut framing polished and waiting for the leader who needs it.

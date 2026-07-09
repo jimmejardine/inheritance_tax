@@ -46,6 +46,36 @@ The instinctive objection — "the money will just go to Monaco" — misreads wh
 
 The honest residual: a world where the US refuses ([anglosphere.md](anglosphere.md)) is a world where the haven question stays live, because the largest fortunes have a large domestic-market refuge. Haven-proofing is downstream of big-economy coordination, not of haven conversion.
 
+## Haven typology and pressure points
+
+Not all refusers are alike; each type has a distinct lever ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md) develops the coordination mechanics):
+
+| Type | Examples | What they sell | Pressure point |
+|---|---|---|---|
+| Sovereign consensus-democracy | Switzerland | Stability, banking, lump-sum deals | G20 market access; the CRS precedent — Swiss bank secrecy fell to US/EU pressure, not domestic conversion |
+| Sovereign city-state | Singapore, UAE (Dubai) | Residence, family-office regimes | Reputational tiering, treaty access, financial-infrastructure dependence on big-economy clearing |
+| Metropolitan dependency | Jersey, Guernsey, IoM, Cayman, BVI; Monaco (French customs/currency union) | Legal wrappers, trusts, zero-tax residence | Direct: the metropole legislates or withholds — UK Orders in Council precedent for public registers (to verify) |
+| Micro-sovereign | Liechtenstein, Andorra | Foundations, anstalts | EEA/EU adjacency; both capitulated on banking transparency post-2008 |
+| Internal havens | South Dakota/Nevada trusts; Madrid's bonifications | Perpetuities, situs shopping *inside* federations | Federal supremacy — the cheapest coordination problem to solve and the most neglected ([anglosphere.md](anglosphere.md), [continental-europe.md](continental-europe.md)) |
+
+The typology's punchline: the majority of the world's haven capacity is *not sovereign*. It is dependencies of the very states this section ranks as likeliest adopters, plus internal arbitrage within them. A UK-led move ([uk.md](uk.md)) carries its Crown Dependencies and Overseas Territories with it or forfeits its own base — which is why haven policy is a chapter of adopter policy, not a separate diplomatic project.
+
+## What to watch
+
+- Swiss cantonal politics: any canton reintroducing direct-descendant taxation, or further JUSO-style federal initiatives — each loses but each re-normalises the question (to verify the 2025 initiative's final result and margins).
+- Singapore's family-office incentive reviews: tightening after money-laundering scandals (to verify 2023-era reforms) shows even the model haven prices reputation.
+- UK policy toward Crown Dependencies and Overseas Territories on beneficial-ownership registers — the live test of metropolitan leverage.
+- UAE golden-visa and zero-tax positioning as EU/OECD lists evolve; any Gulf state joining CRS-successor frameworks.
+- US internal-haven politics: state legislation on perpetual trusts and any federal interest in a minimum rule against situs shopping ([anglosphere.md](anglosphere.md)).
+
+## Campaign framing
+
+- Do not debate haven hypotheticals in the abstract; name the mechanism — "your inheritance is a Surrey house and a UK pension; Monaco cannot hold either" ([`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md)).
+- Use the CRS/FATCA arc as the standard reply to "the havens will never cooperate": they said that about bank secrecy, and bank secrecy is dead ([`../14-communications/inoculation.md`](../14-communications/inoculation.md)).
+- Treat the Swiss 2015 result as an institutional datum, not a popularity datum, and pre-empt its citation accordingly ([`../09-objections/whataboutery.md`](../09-objections/whataboutery.md)).
+
 ## Analytic judgement
 
 Write these jurisdictions off as adopters and price them in as adversaries: expect Swiss private banking, Singaporean family-office promoters, and dependency governments to fund the international opposition case ([`../10-opposition/astroturf-and-lobbying.md`](../10-opposition/astroturf-and-lobbying.md)). The campaign posture is containment — dual nexus, exit tails, situs rules, metropolitan pressure on dependencies, and a G20-level floor — rather than persuasion. One reframing worth deploying: every generation of tax history has had its refusers, and the refusers did not stop the income tax, VAT, or CRS from becoming the world's norm; they merely arrived last.
+
+The ranking consequence for [README.md](README.md): these jurisdictions occupy the table's floor not because the analysis is incomplete but because refusal is, for each of them, either constitutionally entrenched or commercially constitutive — the honest treatment is containment, and the containment tools already exist.

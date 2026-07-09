@@ -71,6 +71,10 @@ The corresponding US unit is the state (estate-tax politics runs through the Sen
 | Polling on recipient-based framings vs estate framings | Whether the framing environment is shifting | [../06-palatability/polling.md](../06-palatability/polling.md) |
 | Expected-inheritance polling among under-45s | The internal divide's size | Attitudinal surveys (to verify availability) |
 
+Most of these series already exist; the movement's contribution is assembling them into a single, regularly updated "crossover dashboard" that can be put in front of party strategists — the beneficiary map that [party-incentives.md](party-incentives.md) lists as the first property of an adoptable policy.
+
+Strategists should also track two *event* classes alongside the slow indicators: (a) the first election in which a major party's internal polling shows net gain from an endowment pledge among its own target seats — the private crossover that precedes any public move; and (b) inheritance-related scandal cycles (avoidance exposés, dynastic successions in public life), which temporarily spike salience and open short windows for stepping-stone announcements ([policy-entrepreneurs.md](policy-entrepreneurs.md), [../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md)).
+
 ## Bottom line
 
 Time is on the policy's side, but passively waiting wastes the advantage twice over: opponents use the delay to entrench the "death tax" frame, and each electoral cycle a party could have captured the shift instead half-learns to fear it. The strategic message to any party is symmetrical and simple: the electorate that punished inheritance taxation is leaving; the electorate that will reward an inheritance-funded endowment is arriving; the only question is which party banks it first — and [wedge-dynamics.md](wedge-dynamics.md) explains why the first mover also gets to impale its opponents on the issue.
