@@ -58,6 +58,10 @@ The system's actual history is a sequence of pro-market interventions against it
 
 Each entry follows the same grammar: identify the internal dynamic by which the system consumes itself; remove that dynamic surgically; leave every other mechanism running. The recipient-based inheritance tax is the next entry — the same grammar applied to the transmission of fortunes ([../03-case-for/historical-precedents-of-success.md](../03-case-for/historical-precedents-of-success.md), [../03-case-for/meritocratic-legitimacy.md](../03-case-for/meritocratic-legitimacy.md)). The burden this file leaves with the sceptic is symmetrical: to explain why dynastic accumulation — unlike monopoly, panic, and fraud — is the one self-destructive dynamic capitalism should be left to die of.
 
+## What would falsify the thesis
+
+A senior-analyst claim should state its own disconfirmers. The thesis weakens if: (a) inherited shares of top wealth stabilise or fall without policy change — i.e. fortunes dissipate naturally within two generations at the top of the distribution, as the "shirtsleeves to shirtsleeves" folk theory holds (the evidence currently runs the other way at scale, but the great-transfer decade will test it — [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)); (b) heir-allocated capital is shown to perform no worse than contested capital once selection effects are handled; or (c) legitimacy measures prove insensitive to inherited concentration specifically, as opposed to inequality generally ([../01-problem/social-trust-and-fatalism.md](../01-problem/social-trust-and-fatalism.md)). Each is an empirical question with an owner-file tracking it; none currently looks likely to rescue the null.
+
 ## Verification checklist
 
 - Schumpeter's argument in Part II of *Capitalism, Socialism and Democracy* — confirm the "destroyed by its success" framing and the obsolescence-of-the-entrepreneur passages.

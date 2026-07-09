@@ -56,6 +56,12 @@ For the movement, the line is:
 
 Every element earns its word. *Capitalist*: it extends market discipline to the last untested transaction and equips every citizen to compete ([what-capitalism-gets-right.md](what-capitalism-gets-right.md)). *Never tried*: the historical high-rate regimes were estate-based, gift-leaky, and endowment-free — the design errors are catalogued in [../05-history/abolitions.md](../05-history/abolitions.md), and this proposal is engineered against each ([../02-proposal/avoidance.md](../02-proposal/avoidance.md)). *Most*: no other available policy removes hereditary allocation while leaving every price, wage, profit, and property right of the living untouched. The communications development of this positioning is owned by [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md); the psychology of why the boundary-setting must come *before* the argument is in [../06-palatability/framing.md](../06-palatability/framing.md).
 
+## Verification checklist
+
+- The "tax cut for typical taxpaying families" claim: model current UK IHT incidence (nil-rate bands, residence band, spousal transfers) against per-recipient £500k thresholds — calculation owned by [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
+- The ~700,000 UK 25-year-olds per cohort figure (ONS population estimates).
+- Confirmation that no element of the design as specified in [../02-proposal/](../02-proposal/README.md) involves state retention of assets beyond the disposal window.
+
 ## Cross-references
 
 - The debate-toolkit version of these distinctions, formatted for hostile conditions: [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md) and [../09-objections/whataboutery.md](../09-objections/whataboutery.md).

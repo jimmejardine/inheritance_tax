@@ -57,6 +57,12 @@ Each instinctive objection has a designated home; none is waved away:
 | [capitalist-supporters.md](capitalist-supporters.md) | The pro-market lineage of inheritance scepticism, Smith to Buffett — with Hayek's and Friedman's defences stated fairly and answered |
 | [what-this-is-not.md](what-this-is-not.md) | Boundary-setting: the table of things this proposal is not, and the one-sentence positioning it is |
 
+## Reading order
+
+Within this section, the files build in sequence and are best read in the order listed: first the inventory of what is being defended ([what-capitalism-gets-right.md](what-capitalism-gets-right.md)), then the conceptual distinction that carries the whole argument ([markets-vs-dynasties.md](markets-vs-dynasties.md)), then the mechanism of collapse ([the-self-destruction-thesis.md](the-self-destruction-thesis.md)), then the authorities ([capitalist-supporters.md](capitalist-supporters.md)), then the boundaries ([what-this-is-not.md](what-this-is-not.md)). A reader persuaded by the premise should proceed to the damage evidence in [../01-problem/](../01-problem/README.md) and the design in [../02-proposal/](../02-proposal/README.md); a reader unpersuaded should go straight to the steelmen in [../04-case-against/](../04-case-against/README.md) and judge whether their side of the argument has been handled honestly — that test, more than any positive claim, is what this project stakes its credibility on.
+
+In the eventual manifesto this section is the opening chapter: the stance must be established before the diagnosis, because every subsequent claim reads differently — and lands on different audiences — depending on whether the reader believes the authors want capitalism repaired or replaced ([../06-palatability/framing.md](../06-palatability/framing.md), [../14-communications/narratives.md](../14-communications/narratives.md)).
+
 ## Division of labour with neighbouring sections
 
 - **This section (00)** owns *why capitalism is worth saving* and the framing of the tax as its rescue.

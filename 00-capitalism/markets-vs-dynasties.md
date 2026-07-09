@@ -67,6 +67,13 @@ The strongest counter to this file concedes every column of the table but reloca
 
 The status quo is not "capitalism with low taxes." It is a slow, compounding transfer of the economy's commanding heights from the left-hand column to the right — from market capitalism to dynastic capitalism — proceeding at the speed of *r > g* and now accelerating into the largest wealth transfer in history ([../01-problem/great-wealth-transfer.md](../01-problem/great-wealth-transfer.md)). One column is the system this project's authors admire ([what-capitalism-gets-right.md](what-capitalism-gets-right.md)); the other is the system that ends it ([the-self-destruction-thesis.md](the-self-destruction-thesis.md)). The proposal is a choice of columns. Defenders of inheritance must argue for the right-hand one on its merits — and its merits are the table above.
 
+## Verification checklist
+
+- Heir-underperformance effect sizes: Pérez-González (2006), *AER*, on inherited-CEO firms; Bennedsen et al. (2007), *QJE*, on family-CEO successions in Denmark — figures owned by [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md).
+- UBS Billionaire Ambitions Report (2023): inherited vs founded new billionaire wealth crossover.
+- Inherited share of top wealth across the OECD, mid-century trough to present (Piketty–Zucman series).
+- US startup-rate decline series cited via [../01-problem/declining-dynamism.md](../01-problem/declining-dynamism.md).
+
 ## Cross-references
 
 - Damage evidence for the dynastic column: [../01-problem/](../01-problem/README.md), especially [rentier-economy.md](../01-problem/rentier-economy.md), [declining-dynamism.md](../01-problem/declining-dynamism.md), [political-capture.md](../01-problem/political-capture.md).
