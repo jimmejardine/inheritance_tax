@@ -2,6 +2,8 @@
 
 **Thesis.** Concentrated inherited wealth is a primary engine of the pathologies we label "late-stage capitalism": runaway inequality, collapsing social mobility, a housing market decoupled from labour income, democratic capture by dynastic interests, declining economic dynamism, and the erosion of meritocratic legitimacy. A 100% inheritance tax — specified as a 100% *marginal* rate above a generous per-recipient lifetime threshold, with proceeds funding a universal citizen's endowment — addresses these pathologies at the source without requiring the state to micromanage the rest of the economy. And the moment is arriving: the largest intergenerational wealth transfer in history (~$85–100tn in the US alone, to verify) is now underway, making inheritance the defining economic fact of the next three decades whether or not policy responds.
 
+**Stance.** We write as strong supporters of capitalism. Markets, prices, competition, and entrepreneurship constitute the greatest engine of prosperity humanity has built, and nothing in this proposal touches them: every pound earned, built, or traded by a living person remains theirs, for life. What the proposal removes is the one transaction inside capitalism that capitalism itself would never approve — the transfer of vast capital with no price, no competition, and no contribution test, to allocators chosen by birth. Untaxed dynastic inheritance is not capitalism's essence but its slow poison: it entrenches capital against competition, decouples reward from contribution, and erodes the public consent the system runs on — until what replaces market capitalism is either hereditary oligarchy or the anti-capitalist backlash to it. Antitrust law, deposit insurance, and central banking were all pro-market interventions that saved capitalism from itself; this is the next one. The full argument is [00-capitalism/](00-capitalism/) — the section a committed capitalist should read first.
+
 ## The proposal in five commitments
 
 | Commitment | In plain terms |
@@ -18,7 +20,7 @@ Yes — and not novel. Thomas Paine (1797) proposed the tax-plus-endowment pairi
 
 ## What the project now covers
 
-The sixteen sections answer four questions:
+The premise section [00-capitalism/](00-capitalism/) establishes what we are defending; sixteen further sections then answer four questions:
 
 1. **What is wrong?** Eleven diagnostic chapters trace the ailments to one root: capital compounding across generations, largely untaxed, at the moment of transfer. [01-problem/](01-problem/), with the historical record in [05-history/](05-history/).
 2. **What exactly do we propose?** A full specification — mechanism, thresholds, endowment, carve-outs, anti-avoidance, revenue model, entrenchment ([02-proposal/](02-proposal/)) — plus a designed answer to every concrete difficulty, from valuing private companies to the nepo-job problem ([07-implementation/](07-implementation/)) and a phased path from today's law ([15-transition/](15-transition/)).

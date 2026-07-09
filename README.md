@@ -2,13 +2,21 @@
 
 **Working thesis:** A 100% inheritance tax (above a generous per-recipient threshold), paired with a universal citizen's endowment, could be one of the most effective levers to heal the systemic ailments of late-stage capitalism.
 
+**Our stance:** This is a **pro-capitalist project**. Market capitalism is the best system for organising human effort we know of, and this manifesto exists to keep it that way. Every market mechanism — prices, profits, property, competition, the founder's right to everything they build — is left untouched. The proposal removes the one non-market transaction at the heart of the market system: the hereditary transmission of great fortunes, which rewards birth rather than contribution, entrenches capital against competition, and — left uncorrected — converts market capitalism into dynastic capitalism until the public withdraws its consent from the whole system. Like antitrust, this is a defence of the game against those who would end it. See [00-capitalism/](00-capitalism/).
+
 This repository builds an evidence-based case — including the strongest counterarguments — structured as a navigable hierarchy of markdown notes. It is intended to form the basis of a long-form manifesto that moves the idea toward mainstream respectability.
 
 Start with the [executive summary](00-executive-summary.md).
 
-## The four questions
+## The premise and the four questions
 
-The sixteen sections answer four questions in order: *what is wrong* → *what do we propose* → *does it survive scrutiny* → *how does it actually happen*.
+The premise comes first, then sixteen sections answer four questions in order: *what is wrong* → *what do we propose* → *does it survive scrutiny* → *how does it actually happen*.
+
+### 0. What we are defending — the premise
+
+| Path | Purpose |
+|---|---|
+| [00-capitalism/](00-capitalism/) | Why capitalism is worth saving — what it gets right, market vs dynastic capitalism, how untaxed inheritance brings the system down, the pro-market lineage of the idea, and what this proposal is *not* |
 
 ### 1. What is wrong — the diagnosis
 
@@ -57,6 +65,7 @@ Several themes deliberately span sections; each has one owner per aspect:
 
 ## Where to start, by reader
 
+- **Committed capitalist:** [00-capitalism/](00-capitalism/) — this manifesto is on your side; start where we say why
 - **Sceptic:** [04-case-against/](04-case-against/) → [09-objections/](09-objections/)
 - **"The rich will just leave":** [08-capital-flight/](08-capital-flight/)
 - **"You can't actually account for inheritance":** [07-implementation/](07-implementation/)
