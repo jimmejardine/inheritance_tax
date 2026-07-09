@@ -46,6 +46,20 @@ The key cleavage to watch is not young versus old but, **within the under-45s, t
 2. **The threshold answers it — if voters believe the threshold.** At £500k per recipient, the modal young inheritor-in-waiting (share of a parental home split between siblings) is untouched. The communications task is making that arithmetic personally legible: "unless you personally are receiving more than half a million pounds, this tax is not for you, and the endowment is" ([../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)).
 3. **The endowment converts the marginal cases.** A young person expecting, say, a below-threshold inheritance decades from now is offered £50k at 25 with certainty. Certainty-now against an uncertain, distant, sub-threshold bequest is a favourable trade for most of this group, and the "swap" framing should be tested explicitly ([../06-palatability/polling.md](../06-palatability/polling.md)).
 
+## Geography: where the arithmetic already works
+
+National crossover is the wrong unit of analysis in majoritarian systems; the operative question is seat-level. A first-pass typology (to be replaced by constituency modelling):
+
+| Seat type | Endowment beneficiaries vs exposed inheritors | Strategic status |
+|---|---|---|
+| Urban renter-heavy (university towns, inner cities) | Overwhelmingly favourable | Already past crossover; safe ground for early adopters and pilot announcements |
+| Suburban commuter belt | Mixed — high house values but per-recipient threshold spares most split estates | Winnable with the threshold made personally computable |
+| Post-industrial towns | Low inheritance exposure, low asset ownership, older | Favourable on interest, hostile on default framing; endowment-for-grandchildren message ([../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)) |
+| Rural / agricultural | Small in number, high in symbolism | Carve-out-dependent ([../02-proposal/carveouts.md](../02-proposal/carveouts.md)); these seats set the national narrative regardless of their arithmetic weight |
+| Wealth-belt safe seats | Unfavourable and unwinnable | Not the target; their function is to supply the televised defenders of large estates ([wedge-dynamics.md](wedge-dynamics.md)) |
+
+The corresponding US unit is the state (estate-tax politics runs through the Senate map — to verify which states' politics dominate), and the continental unit is the party-list system, where national vote share matters directly and the urban-renter bloc counts at full weight ([../11-geographies/README.md](../11-geographies/README.md)).
+
 ## What each party's strategists should be tracking
 
 | Indicator | Why it matters | Likely source |

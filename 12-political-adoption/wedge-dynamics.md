@@ -59,6 +59,20 @@ Whichever party adopts must expect the mirror attack. Standing defences:
 
 The manoeuvre generalises: **choose the margin of debate such that the opponent's least defensible client is the only one at stake.** Every stepping-stone in [stepping-stones.md](stepping-stones.md) is selected on this criterion — each isolates a target (relief-abusing estates, offshore trusts, unlimited lifetime gifts) whose televised defence costs opponents more than the measure itself gains. Ten such fights, each individually lost by the defenders of the status quo, move the Overton window further than one apocalyptic fight over "100%" ([../14-communications/overton-strategies.md](../14-communications/overton-strategies.md)); and by the tenth, the full scheme is the obvious conclusion of arguments the public has already accepted.
 
+## Counter-wedges: how opponents will try to split the adopter
+
+Symmetry requires anticipating the reverse plays, each with its standing answer:
+
+| Counter-wedge | Mechanism | Standing answer |
+|---|---|---|
+| "The aspirational worker" | Present the policy as taxing success, aimed at the adopter's upwardly-mobile voters | Recipient basis: success is earned; the tax touches only what is *received* unearned above £500k ([../06-palatability/framing.md](../06-palatability/framing.md)) |
+| "The grieving family" | Emotional hard cases — widow, farm, disabled child — aimed at the adopter's compassionate self-image | Every named case is exempt or deferred by design; publish the exemption list before opponents publish the cases ([../02-proposal/carveouts.md](../02-proposal/carveouts.md), [../07-implementation/hard-cases.md](../07-implementation/hard-cases.md)) |
+| "The immigrant-wealth double standard" | Claims the mobile rich escape while rooted families pay, aimed at fairness-minded voters | Exit tail and situs rules ([../08-capital-flight/exit-tax-design.md](../08-capital-flight/exit-tax-design.md)); the current system is the one with the double standard ([../09-objections/whataboutery.md](../09-objections/whataboutery.md)) |
+| "The state will waste it" | Shifts debate from the tax to government competence, aimed at low-trust voters | Hypothecation: the money does not enter general spending; it becomes a named account for a named citizen ([../02-proposal/endowment.md](../02-proposal/endowment.md), [../04-case-against/state-failure.md](../04-case-against/state-failure.md)) |
+| "Divide the generations" | Recast the policy as young-versus-old warfare, aimed at grandparents | Grandparents are the endowment's co-beneficiaries — their grandchildren are capitalised; polling on grandparental framing to be tested ([../06-palatability/polling.md](../06-palatability/polling.md)) |
+
+The pattern across all five: the counter-wedge attacks a *misdescription* of the policy, so the defence is always specification plus speed — the design detail exists, and the side that gets its description established first wins the frame ([../14-communications/inoculation.md](../14-communications/inoculation.md)).
+
 ## Bottom line
 
 The policy's wedge value is a party-strategic asset independent of its merits, and it is symmetric: it will be used by whoever picks it up first, against whoever hesitates. That symmetry is itself the movement's strongest card when briefing any party — the realistic choice on offer is not "adopt or ignore" but "wedge or be wedged" ([../13-movement/theory-of-change.md](../13-movement/theory-of-change.md)).

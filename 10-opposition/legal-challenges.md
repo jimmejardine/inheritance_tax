@@ -58,6 +58,14 @@ Expected sequence:
 6. **Non-discrimination by design.** Identical treatment of domestic and cross-border receipts within the dual-nexus rules, EU/EEA-proofed where relevant [6]; this closes the free-movement route, which attacks discrimination rather than burden.
 7. **Cite the German 2014 ruling offensively.** In litigation communications and legislative debate, the precedent that carve-outs — not burdens — drew constitutional censure reframes the legal narrative: the law's danger zone is capture by the wealthy, exactly as [../01-problem/political-capture.md](../01-problem/political-capture.md) predicts.
 
+## What still needs doing
+
+- Verified citations and holdings for the German BVerfG line (1995 valuation and wealth-tax rulings; 2006 *Halbteilungsgrundsatz* disavowal; 2006 valuation ruling; 2014 business-relief ruling) with translated key passages.
+- A1P1 case survey beyond *N.K.M.*: the follow-on Hungarian cases and any subsequent confiscatory-rate jurisprudence.
+- US doctrinal memo: strongest post-*Moore* arguments opponents could construct against a receipts-based transfer tax, and responses.
+- Comparative note on France, Belgium, and Japan (top rates 45–55%+) as evidence that high-rate regimes operate without constitutional crisis — feeds [../11-geographies/](../11-geographies/).
+- Draft severability and fallback-schedule clauses for the model bill in [../15-transition/legislative-path-uk.md](../15-transition/legislative-path-uk.md).
+
 ## Sources
 
 1. [*Knowlton v. Moore*, 178 U.S. 41 (1900); *New York Trust Co. v. Eisner*, 256 U.S. 345 (1921)](https://supreme.justia.com/cases/federal/us/178/41/)

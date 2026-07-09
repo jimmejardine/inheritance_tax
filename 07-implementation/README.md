@@ -60,6 +60,19 @@ Why the tax is still worth having: both untaxable channels are **self-limiting**
 | [`../15-transition/`](../15-transition/) | Owns commencement: the pre-announcement gift rush, grandfathering, and phase-in ([gifts-and-timing.md](gifts-and-timing.md) §3 hands off to it) |
 | [`../16-second-order/`](../16-second-order/) | Behavioural consequences once the machinery works — charitable giving, savings, asset prices |
 
+## Open work across the section
+
+The per-file research-gaps lists aggregate to four modelling tasks that should be commissioned before the manifesto stage:
+
+1. **Compliance modelling** — audit-rate and penalty calibration to establish the negative-EV claim quantitatively ([valuation.md](valuation.md) §8, [enforcement.md](enforcement.md) §3), against HMRC/IRS tax-gap and compliance-yield data.
+2. **Cost-to-collect projection** — volumes of Receipts Returns by tier under the £500k threshold, staffing implications, and verification of the ~1–2% cost-to-yield target ([administration.md](administration.md) §5).
+3. **Boundary calibration** — whether the £3k/$18k de-minimis inherited from current law is the right size for a regime in which it does far more work ([boundary-problem.md](boundary-problem.md)), against gift-survey microdata.
+4. **Channel decomposition** — the financial-transfer vs human-capital shares of intergenerational persistence ([human-capital.md](human-capital.md)), which bounds how much of the mobility problem this tax can claim to address.
+
 ## Reading order
 
 For the sceptic asking "can this possibly work?": [administration.md](administration.md) → [valuation.md](valuation.md) → [enforcement.md](enforcement.md). For the philosopher asking "where does the line go?": [boundary-problem.md](boundary-problem.md) → [human-capital.md](human-capital.md) → [nepotism-and-networks.md](nepotism-and-networks.md). For the campaigner preparing for attack anecdotes: [hard-cases.md](hard-cases.md) first, then [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md).
+
+## The section's one-sentence summary
+
+Every operational problem this tax faces is a problem some existing tax already solves somewhere; the two problems no tax can solve (human capital, networks) are self-limiting in a way financial inheritance is not; and the sympathetic hard cases are answered with time to pay, never with holes in the base.

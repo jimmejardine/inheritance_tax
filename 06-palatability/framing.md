@@ -65,7 +65,17 @@ Moral Foundations Theory (Haidt, Graham) finds conservatives weight proportional
 
 The operational translation of this table — which messenger says which sentence to which audience — belongs to [`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md) and [`../13-movement/messengers.md`](../13-movement/messengers.md); the bloc-by-bloc application is in [coalition.md](coalition.md).
 
-## 6. Findings-to-design map
+## 6. Counter-framing risks: where our own frames can backfire
+
+Framing is symmetric warfare, and three of our levers carry documented failure modes:
+
+- **Reactance.** Messages perceived as manipulative trigger boomerang effects (psychological-reactance literature, Brehm). "Death tax" survived exposure as a focus-grouped term because it flattered existing intuitions; an "engineered-sounding" counter-label that fights those intuitions head-on will be tagged as spin. The naming standard in [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md) must therefore *describe the design truthfully* (receipts, endowment) rather than euphemise the tax.
+- **Envy attribution.** Deservingness framings aimed at heirs can be re-coded by opponents as "the politics of envy" — a phrase with a long UK pedigree. The defence is to keep the *beneficiary* in the foreground (every 25-year-old) and the *heir* in the background; attack the system of dynastic transmission, never the named family ([`../10-opposition/personal-attacks.md`](../10-opposition/personal-attacks.md) covers the reverse direction).
+- **Overclaiming the endowment.** If £50k is sold as solving housing, and housing stays broken, the whole package inherits the disappointment — the Child Trust Fund's obscurity in reverse ([case-studies.md](case-studies.md)). Promise a *floor and a start*, not a transformation; the second-order effects are catalogued honestly in [`../16-second-order/endowment-effects.md`](../16-second-order/endowment-effects.md).
+
+Each risk argues for the same discipline: frames must be load-bearing restatements of true design features, because this proposal will face the best-resourced adversarial fact-checking of any tax reform in decades ([`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)).
+
+## 7. Findings-to-design map
 
 | Psychological finding | Design/comms choice it dictates | Where specified |
 |---|---|---|

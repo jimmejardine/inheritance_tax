@@ -52,6 +52,19 @@ Sophisticated evasion is sold, not invented at kitchen tables. The regime extend
 
 Civil recovery is the workhorse: faster, lower burden of proof, and the money is the point. The criminal track is reserved for deliberate fraud, false loss-certifications ([digital-and-novel-assets.md](digital-and-novel-assets.md) §2), enabler conspiracies, and obstruction — prosecuted selectively but *visibly*, because publicised prosecutions carry most of the deterrence weight (the pattern familiar from HMRC and DOJ Tax Division practice [8]). Charging standards should target the advised and the large; criminalising confused executors would be both unjust and politically suicidal. Interaction rule: criminal conviction does not displace civil assessment — tax, penalties, and interest survive prosecution.
 
+### Worked EV illustration
+
+Concealing a £2m receipt (headroom exhausted) saves £2m if never caught. Assume the concealment must survive the mesh at receipt, every subsequent audit touch, the recipient's own probate, and every insider who ever learns of it, over a horizon of decades with no limitation clock:
+
+| Lifetime detection probability | Expected repayment at 200% penalty | Expected value of evading |
+|---|---|---|
+| 20% | £1.2m | +£0.8m — regime failing |
+| 33% | £2.0m | ~£0 — breakeven |
+| 50% | £3.0m | −£1.0m |
+| 70% | £4.2m | −£2.2m, plus prosecution risk |
+
+Every design element in this section exists to push the left column upward for large receipts; the mesh alone likely clears breakeven for any transfer that touches a bank, a registry, or a will (to verify via compliance modelling).
+
 ## 8. International enforcement
 
 Cross-border information flows ride CRS/FATCA and their extension to transfer reporting ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) §7), CARF for crypto ([digital-and-novel-assets.md](digital-and-novel-assets.md) §1), and mutual-assistance instruments for collection (the OECD/CoE Convention on Mutual Administrative Assistance already provides for assistance in recovery [9]). Enforcement against emigrated taxpayers and haven-resident structures is the boundary with capital flight and is treated in [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md) and [`../08-capital-flight/exit-tax-design.md`](../08-capital-flight/exit-tax-design.md); the domestic anchor is always the same — recipient liability plus onshore assets and onshore life as security ([trusts-and-vehicles.md](trusts-and-vehicles.md) §4).

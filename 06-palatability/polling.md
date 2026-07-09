@@ -61,7 +61,15 @@ The design lesson is already embedded in [`../02-proposal/endowment.md`](../02-p
 4. **Durability.** Information effects in Kuziemko et al. partially decayed in follow-ups (to verify) [5]. One-shot persuasion is not the same as a stable coalition — which is why [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md) matters more than any single poll.
 5. **Salience risk.** Raising the issue's salience historically helped *opponents* (see [case-studies.md](case-studies.md)). The conditions under which salience helps reformers are untested.
 
-## 6. Appendix: the surveys the movement should commission
+## 6. Reading the polls correctly: three methodological cautions
+
+Before any headline number from this file is deployed, three distinctions must be enforced:
+
+1. **Support vs salience.** IHT scores terribly on fairness ratings but rarely appears in top-ten "most important issue" lists (to verify against Ipsos Issues Index). Low-salience opposition is cheap to hold and cheap to flip; the danger zone is *high-salience opposition*, which historically appears only when the tax visibly reaches ordinary homes ([case-studies.md](case-studies.md), UK 2007) or when an organised campaign spikes it (US repeal).
+2. **Question-wording sensitivity is the finding, not a nuisance.** The gap between "abolish inheritance tax?" (majority yes) and "should someone receiving £2m unearned pay tax on it?" (majority yes, to verify) is not measurement error — it *is* the measurement. Any commissioned poll must carry both framings in split-sample, or its result is an artefact of the commissioner's politics.
+3. **Stated preference vs coalition behaviour.** A respondent persuaded in a survey has not joined anything. The literature's decay findings [5] mean polls measure the *persuadable surface*, while passage requires the organised depth built in [`../13-movement/`](../13-movement/README.md). Treat every favourable poll as an option to exercise, not an asset in hand.
+
+## 7. Appendix: the surveys the movement should commission
 
 | # | Experiment | Design sketch | Decision it informs |
 |---|---|---|---|

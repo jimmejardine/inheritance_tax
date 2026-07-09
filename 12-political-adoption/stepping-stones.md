@@ -61,6 +61,18 @@ The dependency structure, not the calendar, is what matters:
 - **Different parties enter at different steps.** A right party's natural entries are 1, 4, and 5-as-property-owning-democracy ([right-parties.md](right-parties.md)); a left party's are 1, 2, 5, and 6 ([left-parties.md](left-parties.md)); a centrist coalition partner's price is typically 2+3+5 ([centrists-and-liberals.md](centrists-and-liberals.md)). The ratchet does not care who turns it.
 - **Each step must be allowed to rest.** A step framed as "phase one of seven" forfeits deniability and unites the opposition against the endpoint ([../10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md) — the "slippery slope" attack is answered honestly at each step: *this* measure is justified on its own terms, see [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md)). The movement may hold the map; ministers should only ever hold the step.
 
+## Failure modes of incrementalism
+
+The step strategy has its own risks, each with a mitigation:
+
+| Failure mode | Mechanism | Mitigation |
+|---|---|---|
+| Stalling at a comfortable step | Step 4 (indexation) in particular *improves* the status quo enough to drain reform energy | The endowment constituency (step 5) is the counter-pressure: a growing cohort with a direct stake in the revenue base expanding |
+| Reversal between governments | An incoming hostile government repeals a step | Prioritise the hard-to-reverse steps: registers, delivery institutions, and treaties outlast rate changes ([../10-opposition/sabotage-after-passage.md](../10-opposition/sabotage-after-passage.md)) |
+| Salami-slicing exposure | Opponents successfully narrate the sequence as concealed radicalism | The published-map defence below; plus genuine pauses — steps must visibly rest |
+| Step 2 done badly | A botched recipient-basis transition (valuation chaos, sibling disputes) discredits the architecture | Ireland's operating manual exists; adopt its case law wholesale rather than drafting fresh ([../11-geographies/ireland.md](../11-geographies/ireland.md), [../07-implementation/valuation.md](../07-implementation/valuation.md)) |
+| Pilot endowment underpowered | A token grant (CTF's error) produces null results that "prove" endowments fail | Minimum viable pilot is life-shaping scale for a full cohort in a defined area, not token scale nationally ([../02-proposal/endowment.md](../02-proposal/endowment.md)) |
+
 ## The ratchet's honest accounting
 
 Candour within the project: this is deliberate incrementalism toward a destination most step-adopters will not have endorsed. Two things keep it defensible. First, every step is genuinely justified standalone — the cover stories are true, not pretexts; a world that stops at step 4 is straightforwardly better than the status quo. Second, the endpoint is published — this repository is the map, openly reasoned ([../00-executive-summary.md](../00-executive-summary.md)). Incrementalism with a published destination is ordinary democratic strategy, not deception; the same cannot be said of the status-quo coalition's relief-by-relief hollowing of existing law ([../05-history/abolitions.md](../05-history/abolitions.md)).

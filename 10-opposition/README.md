@@ -61,6 +61,13 @@ Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the tem
 | [personal-attacks.md](personal-attacks.md) | Hypocrisy-hunting, envy framing, red-baiting, harassment — and the disclosure-first, defector-led counter |
 | [sabotage-after-passage.md](sabotage-after-passage.md) | The attrition war: threshold freezes, carve-out stuffing, enforcement defunding, valuation capture, sunsets — and the entrenchment architecture |
 
+## What still needs doing
+
+- Primary-source verification pass across all seven files (items flagged "(to verify)"): the APR episode numbers, the German constitutional citations, the Murdoch trust ruling, the US exemption history, and the Farm Bureau farm-loss claim.
+- A costed sketch of the standing counter-organisation: rapid response, validator network, watchdog, and security functions — with [../13-movement/funding.md](../13-movement/funding.md).
+- Interviews or literature on defectors from opposition campaigns (former "death tax" campaigners who recanted, if any) as inoculation material.
+- War-gaming exercise: red-team the launch of this proposal using [attack-playbook.md](attack-playbook.md) as the red team's brief, and score the mitigations.
+
 ## Mitigations
 
 At section level, three commitments follow from the threat matrix:
@@ -68,3 +75,5 @@ At section level, three commitments follow from the threat matrix:
 1. **Sequence defence into design.** Every mitigation that depends on statute (indexation, hypothecation, relief hygiene, transparency measures) must be in the *first* bill, not promised for later; the window of maximum political capital is at passage — see [../15-transition/sequencing.md](../15-transition/sequencing.md).
 2. **Build the permanent counter-organisation.** Rapid response, validator networks, harassment protocols, and post-passage monitoring are one standing capability, funded for decades — [../13-movement/organisational-forms.md](../13-movement/organisational-forms.md), [../13-movement/theory-of-change.md](../13-movement/theory-of-change.md).
 3. **Convert every attack into evidence.** Maintain the public ledger of who is spending what against the policy, and cite it as the capture thesis in action — [../01-problem/political-capture.md](../01-problem/political-capture.md).
+
+A final calibration note. Nothing in this section assumes bad faith in every opponent: many farmers, family-business owners, and even estate practitioners will oppose the proposal sincerely, and their concerns are engaged on the merits in [../04-case-against/](../04-case-against/) and [../09-objections/](../09-objections/). This section exists because the historical record — above all the US repeal campaign — shows that sincere concern is systematically *organised, funded, and amplified* by a much smaller group whose interest is not sincere concern but dynastic preservation. Distinguishing the two, publicly and consistently, is itself a counter-strategy.

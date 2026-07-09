@@ -41,6 +41,16 @@ The endowment is engineered for that role:
 
 Personalist centrist formations assembled around a leader face a different version of the differentiation problem: they must repeatedly prove they transcend left–right rather than merely averaging it. A policy that *simultaneously* cuts inheritance flows at the top (left-coded) and capitalises every young citizen as an owner (right-coded) is structurally "en même temps" — the rare policy that is genuinely both rather than neither. For a movement-party whose founding energy is fading, it is also a second-act idea big enough to re-justify the project's existence. The French context adds a specific hook: France already operates a recipient-based inheritance tax with progressive rates by kinship (to verify current schedule), so the reform is an upgrade of existing architecture, not an alien import ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md)).
 
+## The kingmaker playbook, step by step
+
+For a third party entering a hung-parliament or coalition negotiation with the policy as its price:
+
+1. **Pre-commit publicly, before the election,** to the specific demand ("our red line: the Citizens' Endowment pilot and the receipts register in year one"). Pre-commitment converts a negotiating preference into a mandate, and mandates are what junior partners point to when their base asks what the coalition was for.
+2. **Size the demand to the likely arithmetic.** A confidence-and-supply position supports one stepping-stone; a full coalition supports three ([stepping-stones.md](stepping-stones.md)). Overspecifying the full scheme in negotiation invites the senior partner to concede it rhetorically and bury it procedurally.
+3. **Demand the machinery, not just the money.** The receipts register and the endowment delivery body ([../07-implementation/administration.md](../07-implementation/administration.md)) survive coalition collapse; a budget line does not. Institutions are the junior partner's only durable trophies.
+4. **Take the ministry that owns delivery.** The Treasury chief-secretary-equivalent or the relevant delivery department — not a prestige portfolio. Attribution follows delivery.
+5. **Bank the credit ritually.** An annual, named payment event (the first endowment cohort receiving their accounts) is a recurring broadcast moment that belongs to the party that demanded it — the structural answer to the junior-partner attribution problem.
+
 ## Risks from the centrist chair
 
 | Risk | De-risking |

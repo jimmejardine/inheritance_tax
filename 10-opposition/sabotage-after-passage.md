@@ -58,6 +58,14 @@ Every hollowing strategy works by keeping losses invisible. Hypothecation invert
 6. **A standing watchdog outside the state.** The movement does not disband at Royal Assent: a permanent monitoring organisation scoring every finance bill for erosion, publishing an annual "integrity index" of the tax, and maintaining the validator and rapid-response networks from [media-narratives.md](media-narratives.md). Organisational design in [../13-movement/organisational-forms.md](../13-movement/organisational-forms.md) and [../13-movement/theory-of-change.md](../13-movement/theory-of-change.md).
 7. **Refuse sunsets; pre-legislate fallbacks.** Any compromise that dates the tax's expiry converts every future budget into a repeal opportunity. Where compromise is unavoidable, concede rate-schedule fallbacks (e.g. 90%) rather than expiry — the severability logic of [legal-challenges.md](legal-challenges.md) applied to politics.
 
+## What still needs doing
+
+- Verified series: US estate-tax exemption and effective-rate history 2001–present, including the current post-2025 exemption level.
+- Verified series: UK nil-rate band real value since 2009 and the count of estates newly dragged into IHT by the freeze.
+- IRS enforcement case study with hard numbers: budget, audit rates on top-decile estates and incomes, and the IRA funding clawback sequence.
+- Comparative study of hypothecation durability: NHS/NI linkage, Social Security's political economy, and any national examples of ring-fenced transfer-tax revenues.
+- Legal analysis of entrenchment options by jurisdiction (referendum locks, organic laws, double-passage) for [../12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
+
 ## Sources
 
 1. [Congressional Research Service — history of US estate tax exemption and rate changes, EGTRRA (2001) through TCJA (2017) and subsequent legislation](https://crsreports.congress.gov/)

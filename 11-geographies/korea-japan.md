@@ -51,6 +51,25 @@ Obligation to transmit the family enterprise intact fuels resistance; but the sa
 | Avoidance pressure is real at high rates | Korean holding-company, foundation, and gift-timing structuring; Japanese *seizen zōyo* gifting waves ([`../09-objections/avoidance.md`](../09-objections/avoidance.md)) |
 | Control premia are taxable | Korea's largest-shareholder surcharge |
 
+## Structural comparison
+
+| Dimension | Korea | Japan | This proposal |
+|---|---|---|---|
+| Basis | Estate (recipient-acquisition switch debated, to verify) | Hybrid: estate aggregated, computed per statutory heir | Recipient, lifetime-cumulative |
+| Top statutory rate | 50% (+ controlling-share premium) | 55% | 100% marginal |
+| Effective threshold | ~₩1bn range via deductions (to verify) | ¥30m + ¥6m per heir basic deduction (to verify) | £500k/$750k per recipient, indexed |
+| Business succession relief | Contested; narrower than Europe | Deferral-based *jigyō shōkei* regime (to verify) | 30-year deferral, state equity option |
+| Revenue destination | General budget | General budget | Hypothecated universal endowment |
+| Anti-avoidance | Real-name finance, aggressive audit | Gift-timing rules, 7-year clawback (extended 2023, to verify) | Full spine in [`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) |
+
+The instructive asymmetry: both countries reached near-maximal *rates* without ever adopting the *pairing* — no endowment, no hypothecation — and consequently both taxes survive on inertia and enforcement rather than on a constituency. They are stress-tests of rate tolerance, not previews of the political economy this proposal builds.
+
+## What to watch
+
+- **Korea:** the fate of the recipient-basis ("inheritance acquisition tax") conversion bill and any top-rate cut (to verify status); the next chaebol succession event and its tax structuring; Democratic Party positioning on chaebol governance after each scandal cycle.
+- **Japan:** further unification of gift and inheritance taxation (the direction of the 2023 reform, to verify); whether ageing-driven fiscal packages reach for the inheritance base again as in 2015; LDP tax commission (*zeichō*) annual outlines, where all real Japanese tax policy is written.
+- **Both:** any bilateral or OECD-level interest in transfer-tax coordination — as the highest-rate incumbents, Korea and Japan are the natural *demandeurs* for a floor that stops their wealthy relocating to Singapore ([unlikely-and-havens.md](unlikely-and-havens.md), [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
+
 ## Analytic judgement
 
 Korea is the more probable adopter of something *recognisably* like this proposal — its anti-dynastic politics could, under a reformist government and a chaebol scandal window ([crisis-windows.md](crisis-windows.md)), push a recipient-based restructure upward rather than downward, and its threshold politics would follow the same "protect ordinary families, cap dynasties" line as [`../02-proposal/`](../02-proposal/README.md). Japan is the more probable *quiet convergence* case: incremental base-broadening and rate creep under fiscal pressure, without manifesto politics. Neither will pair the tax with a universal endowment unaided — that idea has no local lineage, and exporting it is a communications task ([`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md)).

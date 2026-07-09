@@ -13,6 +13,8 @@
 | 5 | Sudden death, no planning | Same tax; longer machinery | Low — design is planning-neutral |
 | 6 | Blended families | Recipient-based ledger neutrality | Fairness disputes are civil, not tax |
 | 7 | Holiday home shared by 12 cousins | Fractional receipts + instalments | Medium — co-ordination costs |
+| 8a | The minor heir | Executor settlement + bare trust + support exemption | Minimal |
+| 8b | Deeds of variation / disclaimers | Recharacterised as onward transfers | None — device defanged |
 
 ## 1. The working farm
 
@@ -58,6 +60,8 @@ The Cornish cottage or Adirondack cabin held informally across a sprawling famil
 ## The honest residue
 
 Three patterns recur across the catalogue. First, most "hard cases" are hard under the *current* estate-side tax and easier here: recipient-based thresholds, planning-neutrality, and deferral instruments absorb the sympathetic anecdotes. Second, the instruments that remain are payment-side (deferral, instalments, state equity), never liability-side — the moment hardship is answered with exemption, the exemption becomes the avoidance vehicle, which is the whole history of BPR/APR [1]. Third, some people the public will initially read as hard cases are, on inspection, the target: the absentee second-home heir, the cash-out farm seller, the hobby-farm purchaser. Part of the communications task ([`../06-palatability/framing.md`](../06-palatability/framing.md), [`../14-communications/inoculation.md`](../14-communications/inoculation.md)) is drawing that line *before* opponents blur it.
+
+Each answer above should ship as a one-page public explainer before the legislation is introduced — the anecdotes will be chosen by opponents, but the answers can be pre-positioned ([`../14-communications/inoculation.md`](../14-communications/inoculation.md)).
 
 ## Research gaps
 

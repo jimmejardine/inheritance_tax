@@ -62,6 +62,7 @@ Three years of "employment" post £468,000 to the son's lifetime ledger — near
 
 ## Research gaps
 
+- Frequency of formal client-book transfers (referral agreements, covenant waivers) in professional-services succession — how much of §2's intermediate case is documented in practice.
 - Empirical scale of excess family compensation in closely held firms (US reasonable-compensation litigation gives cases, not magnitudes — to verify whether any systematic study exists).
 - Whether a statutory arm's-length band by role/sector is feasible or whether case-by-case benchmarking (as in transfer pricing) is the only workable form.
 - Evidence from Nordic economies on whether lower inherited wealth correlates with lower rates of dynastic firm succession (link [`../11-geographies/nordics.md`](../11-geographies/nordics.md)).

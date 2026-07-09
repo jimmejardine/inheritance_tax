@@ -66,6 +66,15 @@ The left's own wedge exposure ([wedge-dynamics.md](wedge-dynamics.md)) runs thro
 
 Following the ladder in [party-incentives.md](party-incentives.md): (1) an affiliated think-tank costs the endowment; (2) a post-defeat or mid-term policy review recommends "lifetime receipts taxation" — the Mirrlees-flavoured, technocratic entry point ([policy-entrepreneurs.md](policy-entrepreneurs.md)); (3) a manifesto adopts stepping-stones 1–3 from [stepping-stones.md](stepping-stones.md) (close reliefs, recipient basis, receipts register) plus a pilot endowment; (4) in government, the full scheme rides a fiscal event ([../15-transition/legislative-path-uk.md](../15-transition/legislative-path-uk.md), [../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md)).
 
+## Comparative notes: Democrats and SPD
+
+The Labour analysis transfers with two adjustments each:
+
+| Party | What transfers | What differs |
+|---|---|---|
+| **US Democrats** | Funding-credibility gap (every programme attacked as unfunded); youth-abstention problem; baby-bond familiarity — Booker's American Opportunity Accounts and state pilots mean stepping-stone 5 is already in the party's bloodstream (to verify bill details; [stepping-stones.md](stepping-stones.md)) | The "death tax" frame is more entrenched and the estate-tax exemption already very high (to verify current federal level), so the *tax-cut* comparison that works for the UK right works less well; the recipient-basis switch (an *inheritance* tax has never existed federally) is a larger conceptual lift; Senate arithmetic gives rural states veto weight, raising the price of the farm carve-out ([../15-transition/legislative-path-us.md](../15-transition/legislative-path-us.md)) |
+| **SPD / continental social democrats** | The monument problem is acute — parties bleeding voters with no post-war-scale deliverable; coalition systems make the endowment a natural coalition-agreement flagship | German constitutional-court jurisprudence on inheritance-tax equality (the rulings that struck down unequal valuation — to verify) is an *asset*: courts have repeatedly forced reform onto the agenda, a recurring window ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md), [../10-opposition/legal-challenges.md](../10-opposition/legal-challenges.md)); family-firm (Mittelstand) politics is heavier than in the UK, making the deferred-payment carve-out the load-bearing design element |
+
 ## Bottom line
 
 The left does not need this policy because it is egalitarian; it needs it because it is the only available answer that simultaneously funds the programme, mobilises the abstaining base, and builds a monument. The design's job — thresholds, recipient basis, carve-outs, hypothecation — is to make the three standard counter-attacks answerable in one sentence each. That is what makes it adoptable rather than merely admirable.

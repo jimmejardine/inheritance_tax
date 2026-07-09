@@ -40,6 +40,24 @@ The live German story is the mirror image of abolition: the tax survived but was
 - **Belgium.** Inheritance tax is regionalised (Flanders, Wallonia, Brussels set rates); rates are high by OECD standards but planning around them (gift regimes, the erstwhile "kaasroute" via Dutch notaries, closed 2020 — to verify) is a national sport. Demonstrates C10 friction inside even a small federation.
 - **Spain.** The clearest running rerun of Australia 1977–79 ([adoption-criteria.md](adoption-criteria.md), C10): inheritance tax is devolved, and regions led by Madrid have introduced 99%+ *bonificaciones* for close relatives, pulling wealthy residents and pressuring other regions to follow (to verify). Spain is the live exhibit that sub-national assignment destroys transfer taxation — cite it whenever the US-states or Swiss-cantonal route is proposed ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)).
 
+## The rest of the map, briefly
+
+| Country | Status | Relevance |
+|---|---|---|
+| Italy | Retained but minimal: 4–8% with €1m per-heir threshold in the direct line (to verify) | Proof that a tax can survive by being negligible — the "fiscal triviality" pre-abolition state of [`../05-history/abolitions.md`](../05-history/abolitions.md) in stable equilibrium |
+| Portugal | Abolished classical inheritance tax 2004; 10% stamp duty on non-close-family transfers (to verify) | Joined the abolition wave quietly; NHR-era positioning as a wealth destination |
+| Austria | Lapsed 2008 by constitutional-court route | Full case in [`../05-history/abolitions.md`](../05-history/abolitions.md); periodic SPÖ reintroduction proposals fail in coalition |
+| Poland / CEE | Close family broadly exempt across the region (to verify) | Post-communist wealth is first-generation; inheritance politics arrives when it transfers — a 2030s–40s frontier |
+| Greece | Retained, low rates, parental-gift exemptions widened (to verify) | Post-crisis fiscal consolidation *lowered* transfer taxes — a caution for window #4 in [crisis-windows.md](crisis-windows.md) |
+
+## EU legal routes to a floor
+
+Direct taxation requires unanimity under the treaties, which a transfer-tax directive would not survive — Luxembourg, Malta, and the abolitionist members would veto. Realistic instruments, in ascending ambition (feasibility to verify with EU-law input for [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)):
+
+1. **Coordination without harmonisation:** an inheritance-tax equivalent of the 2011 Commission recommendation on double-taxation relief — administrative plumbing that makes national taxes enforceable across borders (situs data, valuation exchange, collection assistance).
+2. **Enhanced cooperation** among nine or more willing states — the mechanism used for the financial-transaction-tax attempt; a Franco-German-Benelux-Nordic core is the plausible geometry.
+3. **OECD/G20 track:** replicate Pillar Two's architecture — a common base and minimum effective rate with a top-up rule taxing what non-adopters leave untaxed. This is the design that made corporate-minimum adoption self-enforcing and is the model this project assumes.
+
 ## Regional analytic judgement
 
 No continental state is a plausible unilateral first mover: France is legally and politically boxed, Germany is constitutionally gated, the Benelux and Iberian systems are structurally exposed or fragmented. But the region holds two strategic assets. First, the **Netherlands** as a dark-horse adopter within a coalition-agreement window. Second — decisive — the **EU as the coordination venue**: a directive-level or enhanced-cooperation floor on transfer taxation would simultaneously solve the Nordic exit fear ([nordics.md](nordics.md)), the Spanish/Belgian internal races, and the Irish small-economy constraint ([ireland.md](ireland.md)). The realistic continental path is not any capital adopting alone; it is Paris-plus-Berlin sponsoring a floor that others implement — with Germany implementing at whatever ceiling Art. 14 allows and the endowment carried by ordinary budget law.

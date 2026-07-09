@@ -57,6 +57,21 @@ The pattern: right parties adopt left-coded policies when (a) a demographic or c
 
 The donor risk is the binding constraint and deserves candour: a full-scheme conservative adoption likely requires either a leader with unusual internal authority, a party funding base already diversified toward members and small donors, or a crisis window in which fiscal necessity overrides donor preference ([../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md)). Short of that, the realistic conservative route is partial: stepping-stones 1, 2, 4, and 6 ([stepping-stones.md](stepping-stones.md)) plus a pilot endowment, each sellable as ordinary tax reform.
 
+## What a conservative adoption actually looks like
+
+For concreteness, the realistic conservative package — assembled entirely from stepping-stones ([stepping-stones.md](stepping-stones.md)) and sellable at a single Budget:
+
+1. **"We are abolishing inheritance tax for every ordinary family in Britain"** — statutory £500k per-recipient threshold with max(wage, house-price) indexation (steps 2 and 4), replacing the current nil-rate-band architecture.
+2. **"And ending the avoidance industry"** — relief closure and discount caps (step 1), framed as protecting the Exchequer and honest farmers from tax-planning abuse.
+3. **"A Citizens' Capital Account for every young Briton"** — a pilot endowment (step 5) branded in property-owning-democracy language, seeded from the relief-closure revenue.
+4. **Income-tax or NI cut** funded from the balance — the retail headline.
+
+Nothing in this package says "100%"; every element is native conservative policy; and the package leaves the full architecture (recipient basis, indexed threshold, receipts ledger, endowment machinery) installed for whoever governs next. That last property is worth stating plainly to conservative strategists: **if you build it, you brand it; if your opponents build it, they brand it — and they are closer to building it than you are** ([wedge-dynamics.md](wedge-dynamics.md)).
+
+## Comparative note: the GOP and continental right
+
+The UK Conservative case is the strongest because the age gradient is steepest and the party's brand crisis most acute. The US Republican route is harder — the "death tax" repeal campaign is a founding modern-GOP achievement, and reversing field on it is a larger identity cost — but the ingredients (young-male economic populism, founder-worship, hostility to "trust-fund elites" as a culture-war target) are visible in the party's newer factions (to verify polling on Republican-voter attitudes to inherited versus earned wealth). The continental Christian-democratic route runs through family policy: the endowment as the material completion of pro-family rhetoric, with the Mittelstand carve-out doing the heavy lifting ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md), [../11-geographies/korea-japan.md](../11-geographies/korea-japan.md) for the conservative-governed high-rate precedents).
+
 ## Bottom line
 
 The conservative case is not a stretch; it is the policy's strongest natural home in every respect except donor structure. Meritocracy, property-owning democracy, tax cuts on work, and demographic survival are the right's own goals, and the receipts tax funds all four. The movement's task with right parties is therefore narrow and concrete: cultivate founder-class validators to crack the donor constraint, and keep the "0% below £500k" tax-cut framing polished and waiting for the leader who needs it.

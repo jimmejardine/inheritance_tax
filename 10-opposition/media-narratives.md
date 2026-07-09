@@ -61,6 +61,14 @@ The 2024 APR episode reached stage 4 within roughly a month (to verify): "the fa
 5. **Publish the distributional facts in narrative form.** Not tables alone: "nine out of ten people who inherit will pay nothing" (to verify against [../02-proposal/thresholds.md](../02-proposal/thresholds.md) modelling) as the drilled first sentence of every interview, with the micro-simulation behind it published for scrutiny.
 6. **Never defend the tax without the endowment in the same sentence.** Every broadcast answer pairs the loss-frame question with the gain-frame answer. Message discipline protocols in [../14-communications/debate-toolkit.md](../14-communications/debate-toolkit.md).
 
+## What still needs doing
+
+- Precise reconstruction of the 2024–25 APR/BPR episode: Budget parameters as enacted, Treasury vs NFU/CLA estimates and their methodologies, protest timeline, and polling movement before/after.
+- Media-content analysis of the APR coverage: share of items featuring hard-case vignettes vs distributional data; which outlets led.
+- Verification of the Clarkson farmland-motive reporting.
+- Inventory of comparable episodes elsewhere (US 2001 farm stories; Irish CAT coverage; German Mittelstand framing) for [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
+- Commission the endowment-recipient story bank: identify consented, filmable case studies in advance of any launch.
+
 ## Sources
 
 1. [BBC News — coverage of the November 2024 farmer protests over inheritance tax relief changes](https://www.bbc.co.uk/news)

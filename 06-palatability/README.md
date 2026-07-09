@@ -39,9 +39,21 @@ Inheritance tax is consistently one of the *most unpopular* taxes in Western pol
 - Case studies of successful inheritance-tax *campaigns* — there are few; the policy's high-water marks were usually byproducts of wartime fiscal needs, not campaigns.
 - Case studies of *failed* anti-inheritance-tax campaigns (US "death tax repeal" 2001 as a negative case).
 
-## Files to add
+## Files in this section
 
-- `polling.md`
-- `framing.md`
-- `coalition.md`
-- `case-studies.md`
+| File | What it covers |
+|---|---|
+| [polling.md](polling.md) | The opinion evidence base — cross-national unpopularity, the three paradoxes, the experimental literature showing estate-tax opinion is the most information-movable of any tax, endowment polling, and the survey experiments the movement should commission |
+| [framing.md](framing.md) | The framing psychology — "death tax" as linguistic engineering, loss aversion and the counter-endowment effect, POUM/lottery bias, effort-vs-luck deservingness, moral foundations for reaching conservatives, and the findings-to-design map |
+| [coalition.md](coalition.md) | Full bloc-by-bloc profiles (material interest, values entry, objections, messengers, strategy), the stylised winners/losers ledger under the £500k/£50k design, and the minimum-winning-coalition arithmetic |
+| [case-studies.md](case-studies.md) | Campaigns proving palatability is malleable — US "death tax" repeal, the UK 2007 panic, the Swiss 2015 referendum, the 2024–25 farm protests, and the positive precedents (Child Trust Fund, minimum wage, marriage equality) — with a transferable-lessons table |
+
+## Division of labour with the strategy sections
+
+Section 06 owns the **evidence**: what opinion is, why, and what demonstrably moves it. The operational doctrine built on that evidence lives elsewhere:
+
+- [12-political-adoption/](../12-political-adoption/) — party incentives, electoral arithmetic, and legislative pathways that consume the coalition analysis here.
+- [13-movement/](../13-movement/) — organising: recruitment, messengers, funding, and theory of change (who delivers the messages and builds the durable coalition).
+- [14-communications/](../14-communications/) — messaging operations: naming standards, narratives, audience-specific scripts, debate toolkit, and inoculation (how the framing findings here become campaign material).
+
+When this section and those conflict, this section's evidence governs; when this section is silent, their operational judgement governs.

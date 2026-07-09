@@ -59,6 +59,14 @@ Prominent tax-justice campaigners, academics, and journalists covering wealth ha
 6. **Own the lineage against red-baiting.** The standing answer to "communism" is the conservative pedigree: Paine the revolutionary liberal, Mill the father of liberalism, Carnegie the arch-capitalist, Roosevelt the Republican — [../05-history/carnegie-1889.md](../05-history/carnegie-1889.md), [../05-history/roosevelt-1906.md](../05-history/roosevelt-1906.md). A 100% marginal rate above a generous threshold with a universal capital grant is a *property-owning democracy* policy: it multiplies owners.
 7. **Harassment protocol as infrastructure.** Security budget, legal-defence fund (including anti-SLAPP support), moderation and reporting tooling, and psychological support treated as core campaign costs from day one, not afterthoughts. Volunteer-facing roles designed to limit personal exposure (institutional accounts, no home-address footprints).
 
+## What still needs doing
+
+- Verified account of the Engelhorn/Guter Rat process: amount, method, outcomes, and media reception across the political spectrum.
+- Case file on attacks against named wealth-tax advocates (Piketty, Saez/Zucman, Patriotic Millionaires members) and which responses worked.
+- Documentation of SLAPP and legal-intimidation patterns against UK wealth journalism, and the state of anti-SLAPP reform.
+- Draft of the standard advocate disclosure template and the consent/aftercare protocol for validator families.
+- Inoculation-message testing plan with [../14-communications/inoculation.md](../14-communications/inoculation.md): does pre-stating the envy/communism attacks measurably blunt them?
+
 ## Sources
 
 1. [Gates, W. Sr. and Collins, C. (2002). *Wealth and Our Commonwealth*. Beacon Press](https://www.beacon.org/Wealth-and-Our-Commonwealth-P108.aspx)

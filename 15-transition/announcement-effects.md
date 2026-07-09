@@ -48,7 +48,26 @@ What survives is the pre-announcement window before the lookback horizon — tra
 
 ## Residual risks
 
-- **Trust settlement rush.** Assets moved into discretionary trusts pre-commencement, hoping to distribute never or later. Answered by the deemed-receipt-on-distribution rule in [grandfathering.md](grandfathering.md), which is the single most important transition provision in the entire scheme.
-- **Emigration rush.** Donors or recipients leaving before commencement. Answered by the exit tax and 10-year tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)); evidence on how much actually moves is in [`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md).
-- **Valuation-date gaming.** Suppressing appraised values during the transition window; treated in [`../07-implementation/valuation.md`](../07-implementation/valuation.md) and [`../07-implementation/gifts-and-timing.md`](../07-implementation/gifts-and-timing.md).
-- **Narrative risk.** The rush itself becomes the story — "capital flees before confiscation." Inoculation strategy in [`../14-communications/inoculation.md`](../14-communications/inoculation.md): pre-announce the *expectation* of a rush and publish the lookback rule with the first draft, so the rush reads as anticipated and priced in, not as the plan unravelling.
+| Residual risk | Vector | Answer | Where treated |
+|---|---|---|---|
+| Trust settlement rush | Assets moved into discretionary trusts pre-commencement, hoping to distribute never or later | Deemed-receipt-on-distribution regardless of settlement date — the single most important transition provision in the scheme | [grandfathering.md](grandfathering.md) |
+| Emigration rush | Donors or recipients leaving before commencement | Exit tax and 10-year residency tail; empirical scale of actual movement is smaller than feared | [`../02-proposal/avoidance.md`](../02-proposal/avoidance.md), [`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md) |
+| Valuation-date gaming | Suppressing appraised values during the transition window | Statutory appraisal methodology; HMRC challenge window; state-equity option as valuation discipline | [`../07-implementation/valuation.md`](../07-implementation/valuation.md), [`../07-implementation/gifts-and-timing.md`](../07-implementation/gifts-and-timing.md) |
+| Insurance and derivative wrappers | Repackaging future transfers as pre-commencement contractual rights | Substance-over-form receipt definition; wrapper piercing | [`../02-proposal/avoidance.md`](../02-proposal/avoidance.md), [`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md) |
+| Narrative risk | The rush itself becomes the story — "capital flees before confiscation" | Pre-announce the *expectation* of a rush and publish the lookback rule with the first draft, so the rush reads as anticipated and priced in, not as the plan unravelling | [`../14-communications/inoculation.md`](../14-communications/inoculation.md) |
+
+## Design rules distilled
+
+1. **No announced-but-uncommenced rate change, ever.** Rate and threshold changes take effect from the despatch box, on the Budget-resolution machinery ([legislative-path-uk.md](legislative-path-uk.md)).
+2. **The lookback window must pre-date foreseeability.** Set N so that the window opens before the policy became a credible manifesto commitment; matching the existing seven-year rule means no one can claim surprise.
+3. **Consume headroom; do not tax the past.** Lookback aggregation stays on the information-use side of the retrospectivity line ([grandfathering.md](grandfathering.md)).
+4. **Publish the whole transition package in the first draft.** Every rule retrofitted after the rush begins is both weaker in law and worse in narrative.
+5. **Budget for the rush in the revenue numbers.** The early-decade base erosion from pre-window transfers is a known input to the bridge arithmetic ([revenue-bridge.md](revenue-bridge.md)), not a surprise to be explained later.
+
+## Sources
+
+1. [HM Treasury / HMRC — Budget resolutions and the Provisional Collection of Taxes Act 1968](https://www.legislation.gov.uk/ukpga/1968/2) — the same-day-effect machinery.
+2. Kopczuk, W. and Slemrod, J. (2003). "Dying to Save Taxes: Evidence from Estate-Tax Returns on the Death Elasticity." *Review of Economics and Statistics* 85(2) — behavioural response to transfer-tax discontinuities (to verify specific estimates).
+3. [OBR — policy costings and behavioural-response methodology for pre-announced tax changes](https://obr.uk/) (episode-specific forestalling magnitudes to verify).
+4. [Pedrick, W. H. (1981). "Oh! To Die Down Under!" *Washington Law Review* 57(1)](https://digitalcommons.law.uw.edu/wlr/vol57/iss1/5/) — Australian pre-abolition behaviour around effective dates.
+5. UK Finance Act 1975 / 1974 White Paper on Capital Transfer Tax — announcement-day charge on lifetime gifts (to verify against Hansard and the Act's commencement provisions).

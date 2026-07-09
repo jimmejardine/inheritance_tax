@@ -45,6 +45,26 @@ Key features of Capital Acquisitions Tax (figures to verify against current Fina
 - **Recent direction of travel is threshold-raising.** Budget politics in the mid-2020s pushed Group A thresholds up in response to house-price salience (to verify) — evidence of the housing pressure operating in the *opposite* direction absent an endowment to change the offer.
 - **No endowment tradition.** Unlike the UK's Child Trust Fund history, Ireland has no asset-based-welfare precedent to build on, though its young-skewing housing anger is a natural constituency.
 
+## Implementation lessons for the Central Register
+
+Details of Irish practice worth importing directly into [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) and [`../07-implementation/administration.md`](../07-implementation/administration.md) (each to verify against current Revenue guidance):
+
+- **Self-assessment with a filing trigger.** A CAT return is required once cumulative benefits pass 80% of the relevant threshold — an elegant device that keeps the vast unaffected majority out of the system entirely while creating an early-warning record for those approaching the line.
+- **Aggregation vintage rules.** Ireland has moved its aggregation start-date several times (benefits since 1991 for current grouping — to verify), showing that a lifetime ledger can be introduced *prospectively* without reconstructing the past: the register starts at enactment, exactly as [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md) proposes.
+- **Gift/inheritance unification.** Gifts and inheritances draw on the same threshold with a small annual gift exemption (€3,000 per donor-donee pair, to verify) — the anti-timing architecture of [`../07-implementation/gifts-and-timing.md`](../07-implementation/gifts-and-timing.md) in miniature.
+- **Payment machinery.** CAT offers statutory instalment arrangements for property that cannot readily be sold — a small-scale precedent for the 30-year business deferral.
+
+## Threshold politics as a preview
+
+The Group A threshold's history — cut sharply after 2008 in fiscal emergency (from over €500k to €225k at trough), then ratcheted back up as house prices recovered (all figures to verify) — is a two-decade natural experiment in exactly the threshold politics this proposal will face. Lessons: thresholds *can* move both ways when the fiscal case demands it; every downward move generated durable resentment because it was unindexed and unaccompanied by any visible benefit; and the political debate reliably centred on "can a child inherit the family home tax-free" — the question the £500k-plus-indexation design in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) is built to answer permanently.
+
+## What to watch
+
+- Whether agricultural/business relief narrows in future Finance Acts — the Irish version of the UK's 2024–25 fight ([uk.md](uk.md)).
+- Housing-driven threshold increases outpacing indexation-equivalent, i.e. the base quietly eroding.
+- Sinn Féin and Social Democrat wealth-taxation positions in coalition negotiations — the likeliest vector for CAT-strengthening proposals (to verify current platforms).
+- EU-level movement: Ireland's corporate-tax experience with Pillar Two shows it ultimately joins coordinated frameworks it would never initiate ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
+
 ## Analytic judgement
 
 Ireland's role in the global case is evidentiary, not vanguard: it is the country every other file cites to show the mechanism works. Its own adoption of the full variant is plausible only inside a coordinated move — most naturally an EU or UK-plus-Ireland framework — at which point its existing CAT machinery would make it the fastest implementer in Europe. Campaign use: lead with "Ireland already taxes inheritances this way; we are changing the rate and giving everyone a share," per [`../06-palatability/case-studies.md`](../06-palatability/case-studies.md).

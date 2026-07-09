@@ -56,3 +56,27 @@ The residual ethical claim is the heir who, under old law, reasonably expected a
 - **The endowment replaces expectation with entitlement.** Every 25-year-old, including the disappointed heir's children, holds a new settled expectation of £50k ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
 
 Transition relief beyond this — e.g. honouring pre-commencement *contractual* obligations funded from trusts (maintenance orders, disabled-dependant provision) — belongs in the carve-out architecture ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)), not in blanket grandfathering.
+
+## Summary of the transition boundary
+
+| Event | Before commencement | After commencement |
+|---|---|---|
+| Outright gift, completed | Untaxed; consumes headroom if within the lookback window ([announcement-effects.md](announcement-effects.md)) | Taxable receipt on the ledger |
+| Bequest (death) | Old law applied | Taxable receipt, whenever the will was written |
+| Trust settled | Settlement itself untouched | Settlement is a nothing for the ledger — but see next rows |
+| Trust distribution | Old law applied | **Receipt on beneficiary's ledger, regardless of settlement date** |
+| Benefit-in-kind from trust (occupation, use, expenses paid) | Old law | Deemed distribution at market value |
+| Trust ten-year anniversary | Existing relevant-property charge | Recalibrated periodic charge (accumulation backstop) |
+| Trust winds up to charity | Old law | Exempt, subject to anti-cycling rules ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) |
+| Emigration of recipient | Old law | Exit tax; 10-year tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) |
+
+One line to hold in every drafting and litigation argument: **the regime taxes no event that was complete before commencement, and exempts no event that occurs after it.**
+
+## Sources
+
+1. [Mirrlees Review, *Tax by Design*, Ch. 15](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — transition discussion for a lifetime-receipts tax.
+2. *National & Provincial Building Society and others v United Kingdom* (ECtHR, 1997) — retrospective tax legislation and A1P1 margin of appreciation (citation to verify).
+3. *United States v. Carlton*, 512 U.S. 26 (1994) — due-process tolerance of retroactive tax legislation with rational purpose.
+4. [HMRC — Trusts and Inheritance Tax: the relevant-property regime (ten-year anniversary and exit charges)](https://www.gov.uk/guidance/trusts-and-inheritance-tax) — the existing machinery the periodic-charge backstop extends.
+5. [HMRC trust statistics](https://www.gov.uk/government/collections/trusts-statistics) — for sizing the pre-commencement trust stock (aggregate figures to verify).
+6. [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm) — cross-country treatment of trusts and transition practice.

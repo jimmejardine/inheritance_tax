@@ -46,6 +46,24 @@ Australia's 1977–79 cascade (Queensland defects, all states follow, federal du
 
 Estate duty effectively ended 1992, gift duty 2011 (to verify); there is no CGT either — NZ taxes wealth transfer not at all, an outlier even in the Anglosphere. Favourable: a genuinely majoritarian unicameral parliament (fastest legislative path in the OECD after the UK), egalitarian self-image, severe housing crisis. Unfavourable: no infrastructure, no live debate, a small open economy across a free-movement ditch from zero-tax Australia. NZ adopts, if ever, as a fast follower inside an Anglosphere or OECD frame — though its institutional nimbleness makes it a conceivable *pilot* jurisdiction ([`../15-transition/pilots.md`](../15-transition/pilots.md)).
 
+## Shared Anglosphere dynamics
+
+Four cross-cutting features make the Anglosphere a single strategic theatre rather than four separate campaigns:
+
+- **A common media and framing market.** The "death tax" coinage crossed from US repeal politics into Australian and British usage within years; attack lines, poll findings, and counter-frames all travel ([`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md)). A framing victory in one country is immediately available in the others — in both directions.
+- **The common-law trust.** The most sophisticated avoidance technology in the world is an Anglosphere export, and every Anglosphere regime would face the same discretionary-trust, offshore-trust, and dynasty-trust problems ([`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md)). US perpetual dynasty trusts in South Dakota and Nevada are the frontier case.
+- **Homeownership as identity.** All four societies built mass-middle-class politics on the owned home, which makes threshold design ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) more electorally sensitive than in renter-normal continental Europe — and makes the young renter cohort's exclusion correspondingly more explosive.
+- **Free movement between them.** CANZUK mobility and the US draw mean each country's wealthy have culturally frictionless exits into the others; unilateral adoption anywhere in the group sharpens the case for group-level coordination ([`../08-capital-flight/exit-options.md`](../08-capital-flight/exit-options.md)).
+
+## Stepping stones by country
+
+| Country | Nearest live stepping stone | Next plausible step |
+|---|---|---|
+| US | Baby-bonds bills (Booker; state pilots — to verify); estate-tax exemption sunset fights | Exemption reduction + grantor-trust and step-up repair; endowment via baby-bonds expansion |
+| Canada | Deemed disposition already in place; recurring capital-gains inclusion-rate fights | Receipts register layered over deemed disposition; principal-residence gain inclusion above a cap |
+| Australia | Superannuation death-benefit taxation debates; Productivity Commission wealth-transfer research (to verify) | CGT on inherited assets (ending the step-up analogue); then a federal receipts tax |
+| NZ | Recurrent CGT/wealth-tax commission proposals (Tax Working Group 2019, to verify) | Any capital taxation at all; NZ must build the *category* before the instrument |
+
 ## Analytic judgement
 
 Rank within the group: **Canada > NZ > Australia > US** for feasibility-of-path, but **US first** for strategic value — an American move would end the tax-competition argument globally ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)), while a Canadian or Kiwi move proves administrability in a settler-society context the Nordics and Ireland cannot. The common Anglosphere lesson is negative space: societies with egalitarian self-images but no living transfer tax show that *absence is self-reinforcing* — each cohort that inherits untaxed becomes a constituency against introduction. This is the strongest argument for urgency anywhere a tax still exists ([uk.md](uk.md)).

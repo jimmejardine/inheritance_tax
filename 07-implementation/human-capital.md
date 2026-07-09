@@ -49,6 +49,19 @@ The honest concession is narrower than it first appears, for three reasons.
 - It does not claim schooling reform is unnecessary — admissions reform, school funding equalisation, and early-years investment are complementary policies argued for by the same evidence base [1][3], but they are **outside this proposal's scope** and must not be bundled into it. A tax proposal that arrives with an education-nationalisation rider hands opponents the "slippery slope" attack pre-written ([`../09-objections/slippery-slope.md`](../09-objections/slippery-slope.md)).
 - It does not claim the untaxable remainder is small. It claims the remainder is *self-limiting* (must be re-earned each generation) where financial inheritance is *self-compounding* — and that taxing the compounding channel is therefore the highest-leverage single intervention available.
 
+## What success looks like across generations
+
+A concrete way to see the claim. Consider a family at the 99th percentile under each regime:
+
+| Generation | Status quo | Under the proposal |
+|---|---|---|
+| G1 (founder) | Builds £20m; buys elite education for G2 | Same |
+| G2 | Elite credentials *plus* £20m (grown); education self-funds from capital; works optionally | Elite credentials plus £500k threshold receipt; funds G3's education from own earnings, if earned |
+| G3 | Credentials + larger fortune; family office; political giving | Credentials only, if G2 earned enough to buy them; capital account reset each generation |
+| G4 | Dynasty: wealth, networks, and capture compound together | A family of well-launched professionals — advantaged, but earning |
+
+The untaxable channel persists in every row of the right-hand column; what vanishes is the *ratchet* — each generation's cultivation must be repurchased out of that generation's taxed labour income. Advantage decays toward the mean instead of compounding away from it. That is the design's actual claim, and it survives the human-capital concession intact.
+
 ## The communication line
 
 The attack will be: "the rich will just buy schools and connections instead, so you punish savers and spare the sharp-elbowed." The response, developed for use in [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md): *we tax what can be handed over; what cannot be handed over must be earned, and earning is not the problem we are solving.* A tax is not obliged to solve every channel of advantage to be worth having — income tax does not capture leisure, yet nobody calls that a reason to abolish it.

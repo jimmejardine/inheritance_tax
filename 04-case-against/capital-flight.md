@@ -6,11 +6,27 @@
 
 ### 1. Mobility is rising, and the tax hits the most mobile cohort
 
-The people whose estates this tax targets are, by construction, the least geographically bound population on earth. They hold second passports and golden visas (Malta, Portugal's former regime, the UAE, Caribbean CBI programmes); their wealth is increasingly in portable or intangible form — financial assets, IP, crypto — rather than land and mills; remote work has severed the last tether between where a fortune is managed and where its owner sleeps. A tax that becomes due decades in the future, at death, gives the target cohort *decades of notice* to restructure residence. No cohort is better advised, better able to bear relocation costs, or more practised at jurisdictional arbitrage. Taxing the rich at death in one country, the objection runs, is like taxing birds in one field.
+The people whose estates this tax targets are, by construction, the least geographically bound population on earth. Three secular trends have raised their mobility within a generation:
+
+| Trend | Mechanism |
+|---|---|
+| Residence-by-investment | Golden visas and citizenship-by-investment (Malta, the UAE, Caribbean CBI programmes, Portugal's former regime) make legal relocation a purchasable product with published price lists |
+| Dematerialised wealth | Financial assets, IP, and crypto — increasingly self-custodied and bearer-like — travel in a way land and mills never could; a hardware wallet crosses any border |
+| Remote work and management | The last tether between where a fortune is managed and where its owner sleeps has been severed; a founder can run a UK company from Dubai indefinitely |
+
+A tax that becomes due decades in the future, at death, gives the target cohort *decades of notice* to restructure residence. No cohort is better advised, better able to bear relocation costs, or more practised at jurisdictional arbitrage. Taxing the rich at death in one country, the objection runs, is like taxing birds in one field.
+
+The objection can also cite live UK experience: the 2024–25 abolition of non-dom status was accompanied by heavily publicised claims of a "millionaire exodus" (Henley & Partners / New World Wealth migration reports), and by high-profile individual departures covered as vindication (to verify — these industry figures are methodologically contested, see below, but they set the media terrain any adopter will fight on; [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md)).
 
 ### 2. The Nordic abolitions were rational policy learning, not plutocratic capture
 
-The proposal's opponents do not need to invoke lobbying conspiracies; they can cite the adopters' own treasuries. Sweden abolished its inheritance and gift tax in 2004 by near-unanimous parliamentary vote, with Social Democratic support, after concluding that the tax raised trivial revenue (well under 1% of receipts — to verify), imposed high compliance costs, and was driving visible emigration of business owners — the IKEA and Tetra Pak founders being the emblematic cases, both domiciled abroad for decades before abolition [1]. Norway (2014) and Austria (2008) reached similar conclusions; Canada replaced its estate tax with deemed-disposition capital-gains treatment as early as 1972. These were small open economies conducting honest cost-benefit analysis on their own data. To propose a far *heavier* tax is to claim to know their fiscal interests better than they did.
+The proposal's opponents do not need to invoke lobbying conspiracies; they can cite the adopters' own treasuries.
+
+- **Sweden (2004)** abolished its inheritance and gift tax by near-unanimous parliamentary vote, with Social Democratic support, after concluding that the tax raised trivial revenue (well under 1% of receipts — to verify), imposed high compliance costs, and was driving visible emigration of business owners — the IKEA and Tetra Pak founders being the emblematic cases, both domiciled abroad for decades before abolition [1].
+- **Norway (2014)** and **Austria (2008)** reached similar conclusions on their own data.
+- **Canada (1972)** replaced its estate tax with deemed-disposition capital-gains treatment — a deliberate, considered substitution, not a capitulation.
+
+These were small open economies conducting honest cost-benefit analysis. The steelman's point is not that abolition was *inevitable* but that it was *reasoned*: the officials closest to the evidence concluded the tax cost more than it raised. To propose a far heavier tax is to claim to know their fiscal interests better than they did.
 
 ### 3. Unilateral adoption is self-harm
 

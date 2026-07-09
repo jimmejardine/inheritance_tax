@@ -59,6 +59,14 @@ Both stories were covered obsessively by the media themselves (and dramatised by
 6. **Court the exceptions.** Not all outlets are dynastically owned: trust-owned (Guardian/Scott Trust), non-profit, and reader-funded models have no proprietor succession at stake, and some proprietor-owned outlets chase under-45 audiences commercially. Media-relations effort should be allocated where the structural conflict is absent.
 7. **Support ownership-transparency and plurality policy.** Media-plurality reviews and foreign/ownership transparency rules are adjacent causes with existing constituencies (Media Reform Coalition and others [2]); the same disclosure norms that serve democracy generally serve this campaign specifically.
 
+## What still needs doing
+
+- Current ownership and reach table for UK national press and US local TV, from the latest Media Reform Coalition and Ofcom publications.
+- Verification of the Rothermere non-dom history and current status, and the final Telegraph ownership disposition.
+- Verified account of the Nevada Murdoch trust ruling (holding, quoted language, appeal status) and the Paramount–Skydance completion.
+- Content analysis of how dynastically owned outlets covered the 2024 APR changes vs trust-owned outlets — a direct test of the proprietor-effect hypothesis for [media-narratives.md](media-narratives.md).
+- Reach data for under-35 news consumption to size the direct-channel opportunity in [../14-communications/channels.md](../14-communications/channels.md).
+
 ## Sources
 
 1. [Ofcom — News Consumption in the UK (annual)](https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand/news-media)

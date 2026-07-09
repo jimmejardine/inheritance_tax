@@ -43,12 +43,30 @@ Sweden and Norway sit next to each other, next to zero-inheritance-tax jurisdict
 
 The survival of the Finnish and Danish taxes, in the same cultural zone and the same capital market, is quiet evidence that the Swedish/Norwegian outcome was contingent, not structurally inevitable.
 
+## Country status board
+
+| Country | Transfer tax today | Rate structure | Notes (all to verify) |
+|---|---|---|---|
+| Sweden | None since 2005 | — | Also abolished wealth tax (2007) and gift tax; capital taxed via ISK and capital-income rates |
+| Norway | None since 2014 | — | Basis continuity at death means heirs inherit latent gains; wealth tax retained — the one Nordic net-wealth tax |
+| Denmark | *Boafgift* retained | 15% close family + 25% surcharge for others; spouses exempt | Estate-based; periodic business-succession relief fights |
+| Finland | *Perintövero* retained | Progressive by kinship class, top ~19–33% | Recipient-based — structurally nearest to this proposal |
+| Iceland | Retained | Flat ~10% above modest threshold | Low salience |
+
+The board shows the "Nordic abolition" story is really a *Swedish-Norwegian* story: half the region never left. Norway's retained net-wealth tax is a further complication for the simple exit-fear narrative — the country that abolished inheritance tax kept the annually recurring wealth tax that mobile owners complain about most (emigration episodes to Switzerland in the early 2020s, to verify), suggesting the 2014 abolition was as much about the *arveavgift*'s specific design failures as about capital flight in principle.
+
 ## What would bring the Nordics back
 
 1. **An EU/OECD floor.** The single dominant factor. Nordic abolition logic was competitive; a multilateral minimum on transfer taxation — the Pillar-Two analogue argued in [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md) — removes the Kamprad scenario's force, because there is nowhere respectable to go. Nordic governments are habitual joiners of such frameworks and would likely over-comply once one existed.
 2. **The endowment pairing fits natively.** A universal capital grant at 25 is, structurally, a Nordic policy: universal, individual, life-cycle-based, administered through existing registers. The Nordic welfare model's gap is precisely *assets* — it universalised income security and services while leaving wealth distribution to the market. Framing the package as completing the model ([`../06-palatability/framing.md`](../06-palatability/framing.md)) reaches Social Democratic parties still embarrassed by 2004.
 3. **Design answers to the specific traumas.** Indexed thresholds (no Stockholm-flat repeats), the 30-year business deferral (no forced sales of family firms), exit taxation with a 10-year tail (Kamprad-proofing) — each Nordic failure has a named fix in [`../02-proposal/`](../02-proposal/README.md).
 4. **A wealth-inequality salience shock.** Nordic *wealth* (as opposed to income) concentration is high and rising and under-discussed (to verify against LWS/credit-data studies); a domestic scandal or Piketty-style national bestseller could supply the window ([crisis-windows.md](crisis-windows.md)).
+
+## Campaign use of the Nordic record
+
+- **Defensive:** when opponents cite Sweden 2004 ([`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)), the answer is specific, not general — un-indexed thresholds, arbitrary business valuation, no endowment, no exit tax, no international floor: five named defects, five named fixes in [`../02-proposal/`](../02-proposal/README.md). The rebuttal script lives in [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md).
+- **Offensive:** Finland and Denmark falsify the claim that modern open economies cannot sustain inheritance taxation next door to abolitionists.
+- **Illustrative:** Kamprad's ownership labyrinth — foundation, Stichting, Liechtenstein entities — is the single best narrative demonstration that the *avoidance industry*, not the tax, is the baroque and wasteful thing ([`../03-case-for/economic-efficiency.md`](../03-case-for/economic-efficiency.md), [`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md)).
 
 ## Analytic judgement
 

@@ -64,4 +64,27 @@ This is the *policy* sequence — what must be built in what order for the machi
 
 ## Honest timing
 
-Adding the phases: **10–20 years from first infrastructure spend to a mature 100% regime**, spanning three to five parliaments. This is not a weakness to be hidden; it is the normal tempo of structural tax reform (the UK's shift from estate duty through CTT to IHT took from 1974 to 1986 merely to *rearrange* the old architecture). Two consequences follow. First, each rung must be worth having even if the ladder stops there — Phases 0–2 all pass that test. Second, the programme must survive changes of government, which is a design constraint on framing and coalition, treated in [`../12-political-adoption/`](../12-political-adoption/README.md) and [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md).
+Adding the phases: **10–20 years from first infrastructure spend to a mature 100% regime**, spanning three to five parliaments. This is not a weakness to be hidden; it is the normal tempo of structural tax reform — the UK's shift from estate duty through Capital Transfer Tax to IHT took from 1974 to 1986 merely to *rearrange* the old architecture, and the corporate global-minimum-tax agreement took roughly a decade from BEPS launch to signed framework.
+
+Two consequences follow:
+
+- **Each rung must be worth having even if the ladder stops there.** Phases 0–2 all pass that test: better registers and beneficial-ownership data serve any tax policy; the basis switch is Mirrlees-orthodox reform on its own merits; Phase 2 is a tax cut for most current payers. A programme whose early steps are only valuable if the last step happens will not survive its first change of government.
+- **The programme must survive changes of government.** That is a design constraint on framing and coalition — the ladder is built so that reversing a completed rung means re-imposing estate-side taxation on ordinary families (Phase 1–2 reversal) or taking a named £50k from every young adult (Phase 3 reversal). The political treatment is in [`../12-political-adoption/`](../12-political-adoption/README.md) and [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md).
+
+## Failure modes of bad sequencing
+
+| Anti-pattern | What goes wrong | Historical echo |
+|---|---|---|
+| Big-bang single act | Entire distributional shock in one announcement; maximal forestalling window and opposition mobilisation; no data to calibrate the rate | The scale of the 1974 CTT ambition and its rapid dilution (to verify legislative history) |
+| Rate before register | 100% rate is unadministrable without lifetime cumulation; avoidance wins the first news cycle | Austria: administration failing killed the tax by judicial route ([`../05-history/abolitions.md`](../05-history/abolitions.md)) |
+| Tax before endowment | Recreates the visible-cost / abstract-benefit asymmetry that preceded every abolition | Sweden, Norway, Australia ([`../05-history/abolitions.md`](../05-history/abolitions.md)) |
+| Endowment before revenue | Fiscal-credibility attack; programme cancelled as unaffordable before the tax matures | Child Trust Fund cancellation 2010 ([pilots.md](pilots.md)) |
+| Waiting for international agreement | Phase 4 as precondition means indefinite delay; unilateral design must hold alone | Corporate-tax reform waited decades for coordination that only followed unilateral moves |
+
+## Sources
+
+1. [Mirrlees Review, *Tax by Design*, Ch. 15 — the lifetime-receipts-tax recommendation underlying Phase 1](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — IFS, 2011.
+2. [Irish Revenue — Capital Acquisitions Tax guidance (the Phase 1 operating model)](https://www.revenue.ie/en/gains-gifts-and-inheritance/index.aspx).
+3. [OECD (2021). *Inheritance Taxation in OECD Countries*. Tax Policy Studies No. 28](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm) — comparative design and reform-path evidence.
+4. [OECD/G20 — Two-Pillar international tax agreement (2021), the Phase 4 template](https://www.oecd.org/tax/beps/) .
+5. UK legislative history of estate duty → Capital Transfer Tax (Finance Act 1975) → Inheritance Tax (Finance Act 1986) — via [legislation.gov.uk](https://www.legislation.gov.uk/) (timing claims to verify).

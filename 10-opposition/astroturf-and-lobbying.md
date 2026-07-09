@@ -70,6 +70,13 @@ The watch brief is not a blacklist: sector bodies have legitimate members with l
 5. **Split the profession.** A recipient-based tax with a Central Register of Receipts ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)) still needs valuers, executors, and compliance advisers. Engage the professional bodies on administrability early; practitioners who help design the regime acquire a stake in its workability. The German experience of practitioner-driven carve-out abuse ([../05-history/abolitions.md](../05-history/abolitions.md)) shows what happens when the profession's only role is adversarial.
 6. **Symmetry audits.** Commission an independent standing tally of declared spending for and against the policy. The expected asymmetry — opponents outspending supporters by an order of magnitude (to verify once observable) — is itself a communicable fact that validates [../01-problem/political-capture.md](../01-problem/political-capture.md): *the money fighting this tax is the money the tax is about.*
 
+## What still needs doing
+
+- Current transparency ratings for the named UK institutes (Who Funds You? successor projects) and any funder disclosures since.
+- Map of the US estate-tax opposition network as it exists now (post-repeal-fight successor organisations, current funding vehicles).
+- STEP's published policy submissions on UK IHT and trust regulation as a baseline for expected positions.
+- Legal review of feasible UK lobbying-register and think-tank disclosure reforms, and their legislative vehicles.
+
 ## Sources
 
 1. [Who Funds You? — transparency ratings of UK think tanks (project reporting hosted via openDemocracy)](https://www.opendemocracy.net/en/who-funds-you/)

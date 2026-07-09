@@ -55,6 +55,17 @@ Self-declaration is the front door; the mesh catches what walks past it. Feeds i
 
 Matching declared receipts against the mesh is a data-reconciliation problem of the kind HMRC's Connect system already performs across income-tax data [10]. Undeclared gifts surface as mismatches; mismatches feed the risk-scored audit queue in [enforcement.md](enforcement.md). Offshore and wrapper-based evasion of the mesh is treated in [trusts-and-vehicles.md](trusts-and-vehicles.md) and, for emigration, deferred entirely to [`../08-capital-flight/`](../08-capital-flight/).
 
+## 6. Worked contrast: advised vs unadvised, old regime vs new
+
+| Scenario | Current UK IHT outcome | This regime |
+|---|---|---|
+| Advised donor gifts £2m across children, survives 7 years | £0 tax | Receipts post to each child's ledger; taxed above each threshold, whenever given |
+| Identical donor dies suddenly at year 2 | Up to 40% on the gifts | Identical to the row above |
+| Donor sprays £325k to each of six descendants | Six nil-rate bands' worth escapes | Each recipient's lifetime headroom absorbs it once, ever |
+| Deathbed transfer of the portfolio | Taxed (no 7-year survival) — punishes only the unlucky | Identical treatment to a gift made 30 years earlier |
+
+The table is the section's argument in miniature: the current regime prices *actuarial luck and advice quality*; lifetime cumulation prices *the amount received*, and nothing else.
+
 ## Research gaps
 
 - Optimal reporting floor for bank-transfer feeds — too low drowns the system, too high invites structuring just beneath it (structuring itself should be an offence, as in US 31 USC §5324).

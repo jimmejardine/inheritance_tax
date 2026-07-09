@@ -55,6 +55,19 @@ An offshore trustee outside the jurisdiction cannot be compelled directly; the r
 
 The rhetorical point for [`../09-objections/avoidance.md`](../09-objections/avoidance.md): every rule in this file is an existing rule somewhere, doing this job now. The proposal's novelty is assembling them on one axis, not inventing machinery.
 
+## Worked example: the warehouse trust
+
+The Harrington 1990 Settlement holds £40m of listed equities for "the descendants of the settlor," none with fixed entitlements. Under current UK rules it pays at most 6% per decade and can drip capital to grandchildren with fresh planning each generation. Under this regime:
+
+| Event | Charge |
+|---|---|
+| Regime commencement | Trust registers; beneficiary class identified (2 children, 5 grandchildren) |
+| Year 3: £1m appointed to a grandchild | Receipt posts to her ledger; £500k within headroom at 0%, £500k taxed at 100% |
+| Year 10: first anniversary, £39m undistributed | Deemed received pro-rata across the seven identifiable beneficiaries; roughly £5.6m each, taxed at 100% above each ledger's remaining headroom, creditable against future distributions |
+| Trustee response | Distribute early to spread across genuine headroom, or wind up — either way the warehouse empties within a generation |
+
+The design intent is visible in the trustee's option set: every path leads to wealth reaching identifiable people and their ledgers within a bounded period. What no path permits is the current equilibrium — capital compounding ownerless across generations at a 6%-per-decade toll.
+
 ## Research gaps
 
 - Behaviour of the existing UK 10-year charge population if the rate rose sharply — how much relevant-property wealth would distribute early vs migrate offshore (to verify with HMRC trust statistics).
