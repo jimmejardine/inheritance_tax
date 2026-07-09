@@ -1,6 +1,10 @@
-# 100% Inheritance Tax: Research Project
+# Universal Inheritance: Research Project
 
-**Working thesis:** A 100% inheritance tax (above a generous per-recipient threshold), paired with a universal citizen's endowment, could be one of the most effective levers to heal the systemic ailments of late-stage capitalism.
+**The offer:** Every one of your children can receive up to £500,000 from you, entirely tax-free. And every citizen — whatever their parents have — receives a £50,000 endowment at 25: a universal inheritance, guaranteed.
+
+**How it is paid for:** a 100% tax on whatever a person *receives* above that £500,000 lifetime threshold. Nobody's life's work is touched; only the excess that would otherwise found a dynasty funds everyone else's start.
+
+**Working thesis:** this pairing — generous family inheritance below the line, universal inheritance above it — could be one of the most effective levers to heal the systemic ailments of late-stage capitalism.
 
 **Our stance:** This is a **pro-capitalist project**. Market capitalism is the best system for organising human effort we know of, and this manifesto exists to keep it that way. Every market mechanism — prices, profits, property, competition, the founder's right to everything they build — is left untouched. The proposal removes the one non-market transaction at the heart of the market system: the hereditary transmission of great fortunes, which rewards birth rather than contribution, entrenches capital against competition, and — left uncorrected — converts market capitalism into dynastic capitalism until the public withdraws its consent from the whole system. Like antitrust, this is a defence of the game against those who would end it. See [00-capitalism/](00-capitalism/).
 
