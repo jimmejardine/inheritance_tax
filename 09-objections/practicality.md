@@ -13,6 +13,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 **Full answer.**
 
 - **The "impossible" is routine.** The UK already values private companies for CGT and the existing 40% IHT; family courts value them in every big divorce; insurers value artworks annually; banks value farms for lending.
+- **The valuation this tax needs is already legally required — and needed only once.** UK personal representatives must value the whole estate to obtain probate even when no tax is due [6]; the US values every inherited asset at death regardless of estate-tax liability, because the heir's capital-gains basis steps up to date-of-death value under IRC §1014 [7]. The proposal attaches a rate to a valuation event the law already compels, once per generation. The famous administrative objection — revaluing everything, every year, against a living owner who restructures against you — belongs to the *annual wealth tax*, and it is one of the reasons this project rejects that instrument ([whataboutery.md](whataboutery.md), [`../03-case-for/wealth-tax-comparison.md`](../03-case-for/wealth-tax-comparison.md)).
 - **What killed historical regimes was not valuation difficulty but valuation *anachronism*** — Austria's 1973-vintage cadastral values frozen for 35 years.
 - **The design here:** mark-to-market for listed assets; RICS-style professional appraisal with rebuttable presumptions for property; capped minority and marketability discounts for private companies; deferred true-up mechanisms (earn-out style) where a sale within a defined window revises the assessed value to the realised price ([`../07-implementation/valuation.md`](../07-implementation/valuation.md), [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)).
 - **Hard categories** — carried interest, IP, crypto, unique digital assets — get dedicated treatment in [`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md).
@@ -73,7 +74,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 Each objection above nominates a real administrative cost and silently compares it against zero. The correct comparison is against the status quo:
 
-- Valuation already happens for every taxable estate, divorce, and insured artwork — the marginal novelty is a *cleaner* rulebook.
+- Valuation already happens at death for every probate estate (taxable or not), for every US inheritance (basis step-up), and between deaths for every divorce and insured artwork — the marginal novelty is a *cleaner* rulebook applied once per generation, not a new annual apparatus.
 - Revenue "waste" already happens to every unhypothecated pound — the endowment is *less* discretionary than the baseline, not more.
 - Admin cost already runs through the existing IHT relief thicket — a one-rate, few-relief design shrinks it.
 
@@ -86,6 +87,8 @@ Each objection above nominates a real administrative cost and silently compares 
 3. [IFS, *Inheritances and inequality over the life cycle: what will they mean for younger generations?* (2021)](https://ifs.org.uk/publications/inheritances-and-inequality-over-life-cycle-what-will-they-mean-younger-generations)
 4. [HMRC, Annual report and accounts 2024 to 2025: financial review](https://www.gov.uk/government/publications/hmrc-annual-report-and-accounts-2024-to-2025/hmrcs-annual-report-and-accounts-2024-to-2025-financial-review)
 5. [NAO, *The administrative cost of the tax system* (2025)](https://www.nao.org.uk/wp-content/uploads/2025/02/the-administrative-cost-of-the-tax-system.pdf)
+6. [GOV.UK — "Valuing the estate of someone who's died": estate valuation required for probate whether or not Inheritance Tax is due](https://www.gov.uk/valuing-estate-of-someone-who-died)
+7. [26 U.S. Code §1014 — stepped-up basis: every inherited asset is valued at date of death irrespective of estate-tax liability](https://www.law.cornell.edu/uscode/text/26/1014)
 
 ## See also
 
