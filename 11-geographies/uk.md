@@ -10,11 +10,11 @@
 | C2 Trust / tax morale | 3 | Middling by OECD standards; declining institutional trust, but high compliance norms |
 | C3 Transfer-tax infrastructure | 5 | IHT live since 1986, Estate Duty lineage to 1894 ([`../05-history/uk-estate-duty.md`](../05-history/uk-estate-duty.md)); valuation practice, case law, and professional ecosystem all exist |
 | C4 Majoritarian institutions | 5 | Single-chamber fiscal supremacy (Parliament Acts); one budget can do it; no referendum requirement |
-| C5 Egalitarian norms | 3 | Ambivalent: strong fairness intuitions coexist with property-owning aspiration and IHT's status as a famously hated tax (to verify polling — [`../06-palatability/polling.md`](../06-palatability/polling.md)) |
-| C6 Housing salience | 5 | Ownership rates for under-40s have collapsed relative to their parents' cohort (to verify); "Bank of Mum and Dad" is a mainstream phrase; see [`../01-problem/housing.md`](../01-problem/housing.md) |
-| C7 Wealth-transfer exposure | 4 | Very large housing-and-pension transfer underway, estimated in the trillions of pounds over coming decades (to verify — [crisis-windows.md](crisis-windows.md)) |
+| C5 Egalitarian norms | 3 | Ambivalent: strong fairness intuitions coexist with property-owning aspiration and IHT's status as a famously hated tax — YouGov found it rated the most unfair of eleven taxes [1] ([`../06-palatability/polling.md`](../06-palatability/polling.md)) |
+| C6 Housing salience | 5 | Homeownership among 25–34-year-olds fell from 55% (1997) to 35% (2017) per the IFS [2]; "Bank of Mum and Dad" is a mainstream phrase; see [`../01-problem/housing.md`](../01-problem/housing.md) |
+| C7 Wealth-transfer exposure | 4 | Very large housing-and-pension transfer underway: industry estimates put UK intergenerational transfers at £5.5 trillion over the 30 years to 2047 [3] ([crisis-windows.md](crisis-windows.md)) |
 | C8 Crisis windows | 4 | Persistent fiscal gap, ageing-cost projections, and repeated "tough choices" budgets keep revenue-side radicalism on the table |
-| C9 Constitutional openness | 5 | No codified constitution; parliamentary sovereignty; A1P1 ECHR property protection is deferential on taxation (to verify case law — [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md)) |
+| C9 Constitutional openness | 5 | No codified constitution; parliamentary sovereignty; on taxation the Strasbourg court allows states a "wide margin of appreciation" under A1P1 (*Gasus Dosier* line of case law) [4] ([`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md)) |
 | C10 National assignment | 5 | IHT is UK-wide and reserved; no sub-national competition channel |
 | **Total** | **44/50** | Highest in this section — see [README.md](README.md) |
 
@@ -26,24 +26,24 @@ The UK is the rare rich democracy where a government with a working majority can
 
 ### An adjacent-proposal ecosystem already exists
 
-The intellectual groundwork is unusually advanced (specifics to verify in each case):
+The intellectual groundwork is unusually advanced:
 
-- **Resolution Foundation** — its Intergenerational Commission proposed a "citizen's inheritance" (a capital grant to young adults funded by reforming inheritance taxation into a lifetime receipts tax).
-- **IPPR** — has proposed replacing IHT with a lifetime gifts-and-inheritance tax on recipients.
-- **Mirrlees Review (IFS)** — canvassed a lifetime-receipts basis as the principled alternative to estate taxation.
-- **Demos and the Fabian Society** — long-running work on asset-based welfare and capital grants, descending from the 2005 Child Trust Fund, Britain's actual (if later cancelled) experiment in universal endowment.
+- **Resolution Foundation** — its Intergenerational Commission (2018) proposed a £10,000 "citizen's inheritance" at age 25, funded by replacing IHT with a lifetime receipts tax levied on recipients [5].
+- **IPPR** — its Commission on Economic Justice proposed replacing IHT with a lifetime donee-based gifts tax: receipts above a £125,000 lifetime allowance taxed as income [6].
+- **Mirrlees Review (IFS)** — canvassed a lifetime-receipts basis as the principled alternative to estate taxation [7].
+- **The Fabian Society** — Nissan and Le Grand's *A Capital Idea* (2000) proposed capital grants for young adults funded by a new tax on inheritance [8], the direct ancestor of the Child Trust Fund (launched 2005, wound up 2011), Britain's actual (if later cancelled) experiment in universal endowment [9].
 
 This proposal is therefore not an import: it is the maximal point on a continuum UK policy institutions have been walking for two decades ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md), [`../05-history/atkinson.md`](../05-history/atkinson.md) — Atkinson's minimum inheritance was a British proposal).
 
 ### The 2024–25 APR/BPR fight as live evidence
 
-The reform of agricultural and business property reliefs announced in the October 2024 Budget (capping full relief, 20% effective rate above the cap, phased from 2026 — details to verify) is the most informative recent event in any country covered by this section. It demonstrates **appetite**: a Labour government judged inheritance-relief narrowing fiscally and politically viable. It equally demonstrates the **backlash template**: tractor convoys in Westminster, sympathetic-farmer human-interest coverage, contested claims about how many farms are affected, and celebrity landowner amplification — a preview of [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md) run at small scale. The design lesson is already incorporated in [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md): the 30-year deferral answers the liquidity story that gave the farm protests their moral force.
+The reform of agricultural and business property reliefs announced in the October 2024 Budget (100% relief capped — at £1m as announced, raised to £2.5m per estate in December 2025 before implementation — with 50% relief above the cap, i.e. an effective rate of up to 20%, from 6 April 2026 [10]) is the most informative recent event in any country covered by this section. It demonstrates **appetite**: a Labour government judged inheritance-relief narrowing fiscally and politically viable. It equally demonstrates the **backlash template**: tractor convoys in Westminster, sympathetic-farmer human-interest coverage, contested claims about how many farms are affected, and celebrity landowner amplification — a preview of [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md) run at small scale. The design lesson is already incorporated in [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md): the 30-year deferral answers the liquidity story that gave the farm protests their moral force.
 
 ## Obstacles, honestly weighed
 
 | Obstacle | Severity | Mitigation |
 |---|---|---|
-| Tabloid environment; IHT routinely polled as "most unfair tax" (to verify) | High | Recipient-based reframing plus endowment-first messaging ([`../06-palatability/framing.md`](../06-palatability/framing.md), [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md)) |
+| Tabloid environment; IHT routinely polled as "most unfair tax" (YouGov 2015; Ipsos 2023) [1][11] | High | Recipient-based reframing plus endowment-first messaging ([`../06-palatability/framing.md`](../06-palatability/framing.md), [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md)) |
 | Farmer and family-firm symbolism (2024–25 preview) | High | Principled deferral and state-equity option ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)); neutralise the auction-day photo |
 | Non-dom / wealth-exit narrative, amplified by 2024–25 non-dom reform coverage | Medium | Evidence on actual elasticities ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)); 10-year exit tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) |
 | London property values push ordinary estates toward any threshold | Medium | £500k *per recipient* plus house-price indexation is set precisely against this ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) |
@@ -69,17 +69,32 @@ Each step is separately survivable at the ballot box; none requires the word "10
 | HMRC | Capable; would need Central Register build ([`../07-implementation/administration.md`](../07-implementation/administration.md)) | Existing gift and trust reporting is the foundation |
 | Labour | Historically cautious post-1992; APR/BPR move shows revealed willingness | Endowment offers a generational-offer narrative it lacks |
 | Conservatives | Committed IHT-cutters; would campaign for repeal | Grandfathering and endowment entrenchment are the defences ([`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)) |
-| Think tanks (Resolution, IPPR, IFS, Demos, Fabians) | Already published adjacent designs (to verify specifics) | The idea's institutional custodians between windows |
+| Think tanks (Resolution, IPPR, IFS, Fabians) | Already published adjacent designs [5][6][7][8] | The idea's institutional custodians between windows |
 | Press (Mail, Telegraph, Express) | Reliably hostile; "death tax" franchise holders | See [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md) |
 | NFU / family-business lobby | Proven mobilisation capacity (2024–25) | The 30-year deferral is addressed to them specifically |
 
 ## What to watch
 
-- Whether the APR/BPR reform survives to implementation intact — the single best predictor of Treasury appetite for the next step.
+- How far the APR/BPR reform is diluted before and after implementation — the cap was already raised from £1m to £2.5m in December 2025 under lobbying pressure [10] — the single best predictor of Treasury appetite for the next step.
 - Any party manifesto adopting a lifetime-receipts basis or a citizen's-inheritance pledge.
-- IHT receipts growth as fiscal drag pulls more estates over the nil-rate band (to verify OBR projections) — rising receipts normalise the tax while sharpening threshold politics.
+- IHT receipts growth as fiscal drag pulls more estates over the nil-rate band — the OBR forecasts receipts of £14.3bn by 2029–30, with roughly one in ten estates liable by 2030–31 [12] — rising receipts normalise the tax while sharpening threshold politics.
 - Non-dom regime outcomes: measured exit numbers versus predicted will calibrate the credibility of the flight narrative either way ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)).
 
 ## Analytic judgement
 
 The UK is the most probable first mover among large economies, but "most probable" here means a realistic path, not a likely near-term event. The path runs: threshold-raising plus receipts-basis reform sold as *abolishing* the hated estate-based IHT for 90%+ of families → a funded citizen's endowment as the visible benefit → rate escalation toward 100% above the lifetime threshold as the endowment builds its constituency. Each step is separately defensible and has an existing UK proposal near it ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)). The symmetric risk — that the same majoritarianism repeals it — makes the endowment pairing, not the tax design, the load-bearing element.
+
+## Sources
+
+1. [YouGov (2015), "Voters in all parties think inheritance tax unfair"](https://yougov.co.uk/politics/articles/11846-inheritance-tax-most-unfair)
+2. [IFS (2018), "The decline of homeownership among young adults"](https://ifs.org.uk/publications/decline-homeownership-among-young-adults)
+3. [Kings Court Trust, "Intergenerational Wealth Transfers" (Passing on the Pounds)](https://www.kctrust.co.uk/wealthtransfer)
+4. [European Court of Human Rights, Factsheet: Taxation and the ECHR](https://www.echr.coe.int/documents/d/echr/fs_taxation_eng)
+5. [Resolution Foundation (2018), Intergenerational Commission final report press release: £10,000 citizen's inheritance funded by a lifetime receipts tax](https://www.resolutionfoundation.org/press-releases/commission-calls-for-a-2-3bn-nhs-levy-and-a-10000-citizens-inheritance-to-build-a-new-generational-contract-for-young-and-old/)
+6. [IPPR (2018), "Replace Inheritance Tax with a new tax on high value gifts"](https://www.ippr.org/media-office/replace-inheritance-tax-with-a-new-tax-on-high-value-gifts)
+7. [Boadway, Chamberlain & Emmerson, "Taxation of Wealth and Wealth Transfers", Mirrlees Review, ch. 8 (IFS)](https://ifs.org.uk/sites/default/files/output_url_files/ch8.pdf)
+8. [Nissan & Le Grand (2000), "A Capital Idea: Helping the Young to Help Themselves" (Fabian Society proposal)](https://link.springer.com/chapter/10.1057/9780230522916_2)
+9. [Wikipedia, "Child trust fund" (launched January 2005; new funds and payments ended January 2011)](https://en.wikipedia.org/wiki/Child_trust_fund)
+10. [GOV.UK (23 December 2025), "Inheritance tax reliefs threshold to rise to £2.5m for farmers and businesses"](https://www.gov.uk/government/news/inheritance-tax-reliefs-threshold-to-rise-to-25m-for-farmers-and-businesses)
+11. [Ipsos (2023), "Inheritance tax seen as an unfair tax but others are prioritised for cuts"](https://www.ipsos.com/en-uk/inheritance-tax-seen-unfair-tax-others-are-prioritised-cuts)
+12. [OBR, "Inheritance tax" (forecasts in depth)](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/inheritance-tax/)

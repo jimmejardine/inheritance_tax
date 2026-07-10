@@ -8,10 +8,10 @@
 |---|---|---|
 | C1 Administration | 4 | Revenue Commissioners administer CAT with self-assessment and lifetime aggregation; strong digital tax administration |
 | C2 Trust / tax morale | 4 | High compliance culture post-1990s reforms; historical amnesty-era cynicism largely faded |
-| C3 Transfer-tax infrastructure | 5 | The world's closest existing analogue: recipient-based, lifetime-cumulative since 1991 group-threshold consolidation (to verify) |
+| C3 Transfer-tax infrastructure | 5 | The world's closest existing analogue: recipient-based, with lifetime cumulation of all benefits within a group threshold since 5 December 1991 [1] |
 | C4 Majoritarian institutions | 4 | Unitary parliamentary state; coalition norm adds friction but Finance Acts move fast; constitutional referendums required only for constitutional change |
 | C5 Egalitarian norms | 3 | Strong fairness discourse, but property ownership is culturally central and land carries historical charge |
-| C6 Housing salience | 5 | Among the most acute housing crises in the OECD; housing has decided recent elections (to verify); young-adult emigration framing |
+| C6 Housing salience | 5 | Among the most acute housing crises in the OECD; housing/homelessness was the top exit-poll issue at the 2024 election (28% overall, 42% of under-34s) [2]; young-adult emigration framing |
 | C7 Wealth-transfer exposure | 3 | Substantial post-Celtic-Tiger property wealth now transferring, but the national balance sheet is smaller and younger than the UK's |
 | C8 Crisis windows | 3 | Currently fiscally comfortable (corporate-tax surpluses), which *weakens* the revenue-need window; housing is the operative crisis |
 | C9 Constitutional openness | 4 | Art. 40.3/43 property rights are qualified by "principles of social justice" and "exigencies of the common good"; courts historically deferential on taxation (to verify against case law) |

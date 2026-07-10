@@ -10,7 +10,7 @@
 | **Income redistribution** | Market outcomes for the living stand in full. Earn a billion, keep a billion — every salary, capital gain, and founder's exit is governed by today's rules, not this proposal. The intervention is at the *start* of lives, not the results of them | [../03-case-for/equal-start.md](../03-case-for/equal-start.md) |
 | **State ownership** | No asset passes into state hands. Estates above threshold are sold to private buyers or transferred in kind; proceeds flow through to citizens as the endowment — private capital, in private hands, privately deployed | [../02-proposal/endowment-delivery.md](../02-proposal/endowment-delivery.md), [../16-second-order/asset-prices.md](../16-second-order/asset-prices.md) |
 | **Anti-success** | The founder keeps every penny for life — ownership, control, and use of everything built. Consumption at any scale, philanthropy at any scale, honours, reinvestment: all open. The one door that closes is dynastic succession above the threshold | [markets-vs-dynasties.md](markets-vs-dynasties.md) |
-| **Anti-family** | Support, education, and £500k/$750k per child pass untaxed — more than most families who pay inheritance tax today can pass under current law, which is why the proposal is a tax *cut* for the typical taxpaying estate (to verify against [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) | [../02-proposal/thresholds.md](../02-proposal/thresholds.md), [../07-implementation/boundary-problem.md](../07-implementation/boundary-problem.md) |
+| **Anti-family** | Support, education, and £500k/$750k per child pass untaxed — more than most families who pay inheritance tax today can pass under current law, which is why the proposal is a tax *cut* for the typical taxpaying estate (unverified — depends on family structure; calculation owed by [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) | [../02-proposal/thresholds.md](../02-proposal/thresholds.md), [../07-implementation/boundary-problem.md](../07-implementation/boundary-problem.md) |
 | **Utopian central design** | One rule change at one transaction. No plan for the economy, no ministry of allocation, no new managed sector. The market — prices, competition, entry — does everything else, exactly as before | [what-capitalism-gets-right.md](what-capitalism-gets-right.md) |
 
 ## Why the reflex misfires
@@ -27,8 +27,8 @@ Boundary-setting invites the fair question: strip away the negatives and what re
 |---|---|
 | A transfer tax at one event | 100% marginal rate on what any person *receives* above a £500k/$750k lifetime threshold — nothing else changes ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)) |
 | A universal inheritance | Every citizen receives £50k/$60k at 25, unconditional — the proceeds privatised to the young, not absorbed by the state ([../02-proposal/endowment.md](../02-proposal/endowment.md)) |
-| A tax cut for most current payers | Recipient thresholds above today's effective per-child allowances mean typical inheritance-taxpaying families pay less (to verify — [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
-| Market-extending | It closes the last exemption from the contribution test and equips ~700,000 new contestants a year with starting capital (figure to verify — [markets-vs-dynasties.md](markets-vs-dynasties.md)) |
+| A tax cut for most current payers | Recipient thresholds above today's effective per-child allowances mean typical inheritance-taxpaying families pay less (unverified — depends on number of recipients; calculation owed by [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
+| Market-extending | It closes the last exemption from the contribution test and equips ~700,000 new contestants a year with starting capital — UK birth cohorts now approaching 25 numbered ~669,000–679,000 a year (ONS, births 2000–02) [1] ([markets-vs-dynasties.md](markets-vs-dynasties.md)) |
 | Conservative in method | One rule, general and prospective, entrenched against caprice ([../02-proposal/constitutional-design.md](../02-proposal/constitutional-design.md)); no discretionary machinery, no ongoing programme to administer beyond collection and disbursement |
 
 ## The positive statement
@@ -58,8 +58,8 @@ Every element earns its word. *Capitalist*: it extends market discipline to the 
 
 ## Verification checklist
 
-- The "tax cut for typical taxpaying families" claim: model current UK IHT incidence (nil-rate bands, residence band, spousal transfers) against per-recipient £500k thresholds — calculation owned by [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
-- The ~700,000 UK 25-year-olds per cohort figure (ONS population estimates).
+- The "tax cut for typical taxpaying families" claim: **still open** — model current UK IHT incidence (nil-rate bands, residence band, spousal transfers) against per-recipient £500k thresholds; calculation owned by [../02-proposal/thresholds.md](../02-proposal/thresholds.md). Note the comparison is not automatic: a single-heir estate of £900k pays nothing under current couple allowances but £400k under the proposal.
+- The ~700,000 UK 25-year-olds per cohort figure: **verified** against ONS birth registrations — UK live births were 679,029 (2000), 669,123 (2001) and 668,777 (2002), so cohorts reaching 25 in the mid-late 2020s are ~670–700k with net migration [1].
 - Confirmation that no element of the design as specified in [../02-proposal/](../02-proposal/README.md) involves state retention of assets beyond the disposal window.
 
 ## Cross-references
@@ -68,3 +68,7 @@ Every element earns its word. *Capitalist*: it extends market discipline to the 
 - The attack playbook these boundaries pre-empt ("death tax," "politics of envy," "communism"): [../10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md), with inoculation doctrine in [../14-communications/inoculation.md](../14-communications/inoculation.md).
 - The full design behind each table row: [../02-proposal/README.md](../02-proposal/README.md).
 - Why the centre-right specifically should claim this policy as its own: [../12-political-adoption/right-parties.md](../12-political-adoption/right-parties.md).
+
+## Sources
+
+1. [ONS — Annual birth rates from 2000 to 2016 (UK live births by year)](https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/annualbirthratesfrom2000to2016)

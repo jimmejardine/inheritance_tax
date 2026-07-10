@@ -40,7 +40,7 @@ Long-form audio is where counterintuitive ideas get three uninterrupted hours �
 
 ### YouTube video-essay ecosystem
 
-The 20–40-minute explainer essay is the native habitat of "here's a radical idea, steelmanned." Generational-injustice and housing content already performs strongly in this ecosystem (to verify with current channel analytics), meaning the audience is pre-assembled. Strategy: brief and resource independent creators rather than building owned channels first — third-party voices carry more trust ([13-movement/messengers.md](../13-movement/messengers.md)) — with the manifesto site as their citation layer.
+The 20–40-minute explainer essay is the native habitat of "here's a radical idea, steelmanned." YouTube is a top-five news source for UK 16–24-year-olds — 37% use it for news (Ofcom, 2025) [1] — and generational-injustice and housing content appears to perform strongly in this ecosystem (unverified — no independent channel analytics located), meaning the audience is plausibly pre-assembled. Strategy: brief and resource independent creators rather than building owned channels first — third-party voices carry more trust ([13-movement/messengers.md](../13-movement/messengers.md)) — with the manifesto site as their citation layer.
 
 ### TikTok / short-form: the natively viral hook
 
@@ -66,3 +66,7 @@ Respectability channels (books, broadsheets, academia) must be seeded *before* m
 
 - Audit current UK creator landscape for aligned/persuadable video essayists and podcast hosts (a [13-movement/messengers.md](../13-movement/messengers.md) casting task).
 - Establish the website's information architecture from this repo's tree; every file here should map to a stable public URL.
+
+## Sources
+
+1. [Ofcom (July 2025). "News consumption in the UK: 2025"](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/adult-and-teen-news-consumption-survey/news-consumption-in-the-uk-2025-research-findings.pdf?v=400636)

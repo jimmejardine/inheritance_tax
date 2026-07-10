@@ -4,11 +4,11 @@
 
 ## Key findings
 
-- The US "death tax" repeal campaign (c. 1993–2001) converted a tax paid by under 2% of estates into a majority-repeal issue and passed phased repeal in EGTRRA 2001 — the masterclass in making an unpopular position popular (dates and incidence to verify) [1].
-- George Osborne's October 2007 pledge to raise the UK IHT threshold to £1m produced one of the sharpest conference-season poll swings on record and contributed to Gordon Brown cancelling an expected election — proof that IHT salience can move national politics in a fortnight (to verify) [2].
-- Switzerland's 2015 federal inheritance-tax initiative (20% above CHF 2m, hypothecated to pensions) was rejected by roughly 71% of voters and every canton — the cleanest modern demonstration of losing the framing war despite a redistributive design (figures to verify) [3].
-- The UK 2024–25 farm-relief protests showed a small, sympathetic hard-case group setting the national narrative against a technically modest reform within days of announcement (to verify) [4].
-- The positive cases prove the ceiling is high: the Child Trust Fund was popular and its abolition barely defended; UK minimum-wage opposition collapsed into all-party consensus within a decade; US same-sex-marriage support roughly doubled in two decades (to verify) [5][6][7].
+- The US "death tax" repeal campaign (c. 1993–2001) converted a tax paid by under 2% of estates into a majority-repeal issue and passed phased repeal in EGTRRA 2001 — the masterclass in making an unpopular position popular [1].
+- George Osborne's October 2007 pledge to raise the UK IHT threshold to £1m produced an immediate reversal of Labour's poll lead and contributed to Gordon Brown cancelling an expected election — Labour never led the polls again that parliament — proof that IHT salience can move national politics in a fortnight [2].
+- Switzerland's 2015 federal inheritance-tax initiative (20% above CHF 2m, hypothecated to pensions) was rejected by 71.0% of voters and every canton — the cleanest modern demonstration of losing the framing war despite a redistributive design [3].
+- The UK 2024–25 farm-relief protests showed a small, sympathetic hard-case group setting the national narrative against a technically modest reform within days of announcement [4].
+- The positive cases prove the ceiling is high: the Child Trust Fund was popular and its abolition barely defended; UK minimum-wage opposition collapsed into all-party consensus within a decade; US same-sex-marriage support roughly doubled in two decades [5][6][7].
 
 ## A. US estate-tax repeal, c. 1993–2001: the masterclass
 
@@ -17,7 +17,7 @@ The full anatomy is in [`../10-opposition/attack-playbook.md`](../10-opposition/
 | Move | What they did | Lesson for us |
 |---|---|---|
 | Renamed the thing | "Death tax," enforced with message discipline across every spokesman (Luntz memos — see [framing.md](framing.md)) | Naming is strategy, not decoration ([`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md)) |
-| Led with hard cases | Family farmers and small-business widows fronted every hearing — even though documented cases of farms actually sold to pay the tax were vanishingly rare (to verify) | Pre-solve and pre-announce the hard cases ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) |
+| Led with hard cases | Family farmers and small-business widows fronted every hearing — even though the American Farm Bureau, challenged by the New York Times in 2001, could not cite a single farm sold to pay the tax [8] | Pre-solve and pre-announce the hard cases ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) |
 | Built an improbable coalition | Minority business associations, women business owners, farm bureaus — not visible billionaires | Messenger diversity beats spokesman wealth ([`../13-movement/messengers.md`](../13-movement/messengers.md)) |
 | Played the long game | ~8 years from fringe to statute; annual votes normalised repeal | Decade horizon, ratchet tactics ([`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md), [`../15-transition/sequencing.md`](../15-transition/sequencing.md)) |
 | Exploited the missing beneficiary | No constituency *received* estate-tax revenue, so no one defended it | The endowment creates the defender class ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)) |
@@ -27,7 +27,7 @@ The defence's failure is equally instructive: proponents answered emotional fami
 
 ## B. UK 2005–07: the IHT panic and the £1m pledge
 
-Rising house prices dragged growing numbers of ordinary southern-English estates over a nominal-ish threshold; the Daily Express and Daily Mail ran sustained abolition campaigns (to verify) [2]. At the October 2007 Conservative conference, Shadow Chancellor George Osborne pledged a £1m threshold, "paid for" by a non-dom levy. The polling reaction was immediate and large; Brown, who had allowed election speculation to build, cancelled — an inflection point in the 2005–10 parliament. Labour matched within weeks via the transferable spousal nil-rate band (to verify) [2].
+Rising house prices dragged growing numbers of ordinary southern-English estates over a nominal-ish threshold; the mid-market press — most prominently the Daily Express's abolition "crusade" — campaigned against the tax [2]. At the October 2007 Conservative conference, Shadow Chancellor George Osborne pledged a £1m threshold, "paid for" by a non-dom levy. The polling reaction was immediate and large; Brown, who had allowed election speculation to build, cancelled — an inflection point in the 2005–10 parliament. Labour matched within days: Alistair Darling's Pre-Budget Report of 9 October 2007 introduced the transferable spousal nil-rate band [2].
 
 Lessons:
 
@@ -37,17 +37,17 @@ Lessons:
 
 ## C. Switzerland 2015: losing with a good design
 
-The "Erbschaftssteuerreform" popular initiative proposed a 20% federal tax on estates above CHF 2m, with revenue hypothecated to the AHV state pension — a generous threshold *and* a named beneficiary, superficially close to this project's logic. It lost ~71–29 with every canton against (to verify) [3]. Why the pairing failed where we predict pairing succeeds:
+The "Erbschaftssteuerreform" popular initiative proposed a 20% federal tax on estates above CHF 2m, with revenue hypothecated to the AHV state pension — a generous threshold *and* a named beneficiary, superficially close to this project's logic. It lost 71.0–29.0 with every canton against [3]. Why the pairing failed where we predict pairing succeeds:
 
 - **The beneficiary was the wrong shape.** Pension-fund top-ups are institutional and diffuse; no individual could point to *their* CHF. Contrast a personal, dated, named £50k account ([framing.md](framing.md) §2).
-- **Retroactivity poisoned it.** The initiative would have counted gifts made after 2012 — before the vote — letting opponents run on legal certainty and family panic rather than distribution (to verify) [3].
+- **Retroactivity poisoned it.** The initiative would have counted gifts made from 1 January 2012 — more than three years before the vote — letting opponents run on legal certainty and family panic rather than distribution [3].
 - **Estate-based, not recipient-based.** CHF 2m per *estate* meant multi-child families were visibly worse off than under this design's per-recipient threshold.
 - **Federalism and business mobilised together.** Cantons defending tax competence plus a "SME killer" campaign — the farm/business hard case again, unneutralised.
-- Direct-democracy base rates matter: Swiss redistributive initiatives almost always fail (to verify), so the 71% overstates transferable opposition — but the campaign dynamics transfer fully. See [`../11-geographies/continental-europe.md`](../11-geographies/continental-europe.md).
+- Direct-democracy base rates matter: Swiss redistributive initiatives almost always fail (1:12 pay-ratio 2013: 65.3% no; CHF 4,000 minimum wage 2014: 76.3% no; basic income 2016: 76.9% no) [9], so the 71% overstates transferable opposition — but the campaign dynamics transfer fully. See [`../11-geographies/continental-europe.md`](../11-geographies/continental-europe.md).
 
 ## D. UK 2024–25: the farm-relief protests
 
-The October 2024 Budget capped agricultural and business property relief (100% relief limited to £1m, 20% effective rate above, from 2026), and within weeks tractor convoys, an NFU campaign, and celebrity farmers had made "the family farm tax" a national story; government fatalities in the narrative war were immediate regardless of the underlying incidence dispute (Treasury vs NFU/CLA numbers on affected farms remained contested) (all to verify) [4]. Lessons, expanded in [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md):
+The October 2024 Budget capped agricultural and business property relief (100% relief limited to £1m, 20% effective rate above, from 2026), and within weeks tractor convoys, an NFU campaign, and celebrity farmers had made "the family farm tax" a national story; government fatalities in the narrative war were immediate regardless of the underlying incidence dispute (Treasury vs NFU/CLA numbers on affected farms remained contested) [4]. Lessons, expanded in [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md):
 
 - The hard case does not need to be numerous, or even correctly described, to dominate; **the burden of proof lands on the taxer within days**.
 - Announcing the levy *before* the protection protocol is sequencing malpractice — the reverse of [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md), which publishes the farm answer first.
@@ -59,7 +59,7 @@ The October 2024 Budget capped agricultural and business property relief (100% r
 
 **Minimum wage (UK, 1999).** Introduced against predictions of mass unemployment and CBI/Conservative opposition; within a decade it was untouchable all-party consensus, and by the 2010s Conservative chancellors were *raising* it competitively [6]. A policy attacked as economically illiterate became a valence issue once the predicted harms failed to appear — the template for surviving the transition years ([`../15-transition/pilots.md`](../15-transition/pilots.md), [`../13-movement/precedents.md`](../13-movement/precedents.md)).
 
-**Marriage equality (US/UK, c. 1996–2015).** US support roughly doubled (Gallup: ~27% in 1996 to ~60%+ by 2015, ~70% by the 2020s, to verify) [7]. The mechanisms — contact ("everyone knows a couple"), generational replacement, values reframing (from liberation to commitment and family), and messenger diversification — are all available to inheritance reform, which similarly needs a *reframe within existing values* rather than new values ([framing.md](framing.md) §5, [`../13-movement/precedents.md`](../13-movement/precedents.md)).
+**Marriage equality (US/UK, c. 1996–2015).** US support roughly doubled (Gallup: 27% in 1996, 60% by May 2015, 70–71% through the 2020s) [7]. The mechanisms — contact ("everyone knows a couple"), generational replacement, values reframing (from liberation to commitment and family), and messenger diversification — are all available to inheritance reform, which similarly needs a *reframe within existing values* rather than new values ([framing.md](framing.md) §5, [`../13-movement/precedents.md`](../13-movement/precedents.md)).
 
 ## F. Cross-case synthesis: the salience-management problem
 

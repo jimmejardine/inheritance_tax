@@ -4,7 +4,7 @@
 
 ## The lesson of "death tax"
 
-The US estate tax affected roughly 2% of estates when the repeal campaign began (to verify), yet repeal polled at supermajority levels. The decisive intervention was linguistic: Republican pollster Frank Luntz advised systematically replacing "estate tax" with "death tax," relocating the mental scene from *a mansion being probated* to *a grieving family being billed at the funeral*. The lesson is not that voters are foolish; it is that the name selects which mental frame does the reasoning. George Lakoff's framing work makes the complementary point: negating a frame activates it ("don't think of an elephant"), so the response to "death tax" cannot be "it's not a death tax" — it must be a *rival name* with its own scene. See [06-palatability/framing.md](../06-palatability/framing.md) for the underlying psychology and [05-history/us-estate-tax.md](../05-history/us-estate-tax.md) for the repeal history.
+The US estate tax fell on roughly the wealthiest 2% of Americans during the repeal campaign, yet repeal polled at nearly 80% when the tax was presented as a "death tax" [1]. The decisive intervention was linguistic: Republican pollster Frank Luntz advised systematically replacing "estate tax" with "death tax," relocating the mental scene from *a mansion being probated* to *a grieving family being billed at the funeral*. The lesson is not that voters are foolish; it is that the name selects which mental frame does the reasoning. George Lakoff's framing work makes the complementary point: negating a frame activates it ("don't think of an elephant"), so the response to "death tax" cannot be "it's not a death tax" — it must be a *rival name* with its own scene. See [06-palatability/framing.md](../06-palatability/framing.md) for the underlying psychology and [05-history/us-estate-tax.md](../05-history/us-estate-tax.md) for the repeal history.
 
 ## Candidate names
 
@@ -41,7 +41,7 @@ The US estate tax affected roughly 2% of estates when the repeal campaign began 
 
 ## Lessons from the two masters
 
-- **Luntz (opposition's playbook):** test words, not arguments; pick the frame that moves the scene to your strongest image; repeat without variation for years. His "death tax" memo is the single most studied artefact in tax communications (to verify exact provenance). We should assume his heirs will run the same discipline against us ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
+- **Luntz (opposition's playbook):** test words, not arguments; pick the frame that moves the scene to your strongest image; repeat without variation for years. Provenance, for the record: the phrase itself was coined by lobbyist Jim Martin in 1993; Luntz's polling showed it provoked far stronger opposition than "estate tax" or "inheritance tax," put it into the Contract with America, and he advised Republicans to stage press conferences "at your local mortuary" [1]. We should assume his heirs will run the same discipline against us ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
 - **Lakoff (our correction):** frames are neurally sticky; repetition entrenches them regardless of truth value; you cannot win inside the opponent's frame, only replace it. Practical consequences: never repeat "death tax"; always answer a hostile question by restating the scene we own (the two 25-year-olds, [narratives.md](narratives.md)) before addressing the substance.
 
 ## Discipline rules
@@ -55,3 +55,7 @@ The US estate tax affected roughly 2% of estates when the repeal campaign began 
 
 - Commission UK message-testing on "Universal Inheritance" vs "Citizen's Endowment" vs "British Birthright" (Tax Justice UK and Demos have adjacent polling — [06-palatability/polling.md](../06-palatability/polling.md)).
 - US retail-name adaptation ("American Inheritance"? "Stakeholder grant" has Ackerman–Alstott lineage, [05-history/ackerman-alstott.md](../05-history/ackerman-alstott.md), but failed to travel — diagnose why before reusing).
+
+## Sources
+
+1. ["Meet Mr. Death." *The American Prospect*, 19 December 2001](https://prospect.org/2001/12/19/meet-mr-death/)

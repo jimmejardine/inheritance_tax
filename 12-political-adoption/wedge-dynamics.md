@@ -51,9 +51,9 @@ Note the symmetry warning: every lever works in reverse against a sloppy adopter
 
 Whichever party adopts must expect the mirror attack. Standing defences:
 
-- **Make members and voters compute their own number.** The single most effective internal de-wedging tool is a personal-exposure calculator: "Will you receive more than £500,000 from all gifts and inheritances in your lifetime?" For ~90%+ of any party's base the answer is no (to verify), and a computed "no" inoculates better than any argument.
+- **Make members and voters compute their own number.** The single most effective internal de-wedging tool is a personal-exposure calculator: "Will you receive more than £500,000 from all gifts and inheritances in your lifetime?" For roughly 90% of any party's base the answer is no — IFS projections for those born in the 1980s put the top tenth of inheritors at around £500,000, against a median inheritance of £136,000 [1] — and a computed "no" inoculates better than any argument.
 - **Pre-recruit the exposed as validators.** A visible handful of people *above* the threshold endorsing the policy ("my kids will be fine with £500k each; the country will not be fine without this") collapses the martyrdom narrative ([../13-movement/messengers.md](../13-movement/messengers.md), the Carnegie lineage in [../05-history/carnegie-1889.md](../05-history/carnegie-1889.md)).
-- **Never defend the tax; always prosecute the alternative.** The debate stance is offensive: opponents are asked to justify the current arrangement — taxing wages at 20–45% while seven-figure windfalls pass at effective rates near zero via reliefs (to verify effective-rate studies; [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)) — not the adopter asked to justify the change.
+- **Never defend the tax; always prosecute the alternative.** The debate stance is offensive: opponents are asked to justify the current arrangement — taxing wages at 20–45% while the very largest estates pay an average effective rate of just 17% (against a 40% headline rate), with a quarter of £10m+ estates paying under 9%, thanks to uncapped reliefs [2][3] ([../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)) — not the adopter asked to justify the change.
 
 ## The "force them to defend billionaire heirs" manoeuvre, formalised
 
@@ -78,3 +78,9 @@ A final discipline for adopters: wedge plays are for opponents, never for intern
 ## Bottom line
 
 The policy's wedge value is a party-strategic asset independent of its merits, and it is symmetric: it will be used by whoever picks it up first, against whoever hesitates. That symmetry is itself the movement's strongest card when briefing any party — the realistic choice on offer is not "adopt or ignore" but "wedge or be wedged" ([../13-movement/theory-of-change.md](../13-movement/theory-of-change.md)).
+
+## Sources
+
+1. [Bourquin, P., Joyce, R. & Sturrock, D., *Inheritances and inequality over the life cycle: what will they mean for younger generations?* (IFS, 2021)](https://ifs.org.uk/publications/inheritances-and-inequality-over-life-cycle-what-will-they-mean-younger-generations)
+2. [IFS, *Reforming inheritance tax* (2023)](https://ifs.org.uk/publications/reforming-inheritance-tax) — effective rate peaks at 25% for £3m–£7.5m estates, falling to 17% for estates of £10m+
+3. [CenTax, "A quarter of £10 million+ estates pay less than 9% Inheritance Tax"](https://centax.org.uk/news-release-a-quarter-of-10-million-estates-pay-less-than-9-inheritance-tax/)

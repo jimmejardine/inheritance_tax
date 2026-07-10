@@ -4,8 +4,8 @@
 
 ## Why stories, not statistics
 
-- **The identifiable-victim effect.** Audiences donate more, and shift attitudes more, in response to one named individual than to statistics describing thousands — and adding statistics to the individual story *reduces* its effect (Small, Loewenstein & Slovic's experimental work; to verify exact effect sizes). The opposition already exploits this: every anti-inheritance-tax story is one named farm family, never a distribution table ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
-- **Narrative transportation.** Absorption in a story lowers counter-arguing; audiences evaluate a story by coherence, not by generating rebuttals as they do with claims (Green & Brock; to verify).
+- **The identifiable-victim effect.** Audiences donate more, and shift attitudes more, in response to one named individual than to statistics describing thousands — and adding statistics to the individual story *reduces* its effect (Small, Loewenstein & Slovic 2007) [1]. The opposition already exploits this: every anti-inheritance-tax story is one named farm family, never a distribution table ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
+- **Narrative transportation.** Absorption in a story lowers counter-arguing; audiences evaluate a story by coherence, not by generating rebuttals as they do with claims (Green & Brock 2000) [2].
 - **The asymmetry we must correct.** The costs of inheritance concentration are statistical (mobility rates, Gini coefficients — [01-problem/](../01-problem/README.md)); the costs of the tax are anecdotal (the farm, the house). Statistics-versus-story is a fight statistics lose. The fix is not better charts; it is better stories on our side, with charts held in reserve as proof points ([channels.md](channels.md) — the repo website as the reference layer).
 
 ## The four canonical narratives
@@ -55,4 +55,9 @@ You are 68. Your house clears the threshold untouched — nothing changes for yo
 ## Open items
 
 - Recruit real, consenting exemplars of each narrative (a real founder who supports the policy; a real farm family satisfied by the carve-out design) — casting is a [13-movement/messengers.md](../13-movement/messengers.md) task.
-- Test Amy/Ben framing against a same-family variant (two cousins) for the family-security audience (to verify which performs better).
+- Test Amy/Ben framing against a same-family variant (two cousins) for the family-security audience — message-test which performs better.
+
+## Sources
+
+1. [Small, D. A., Loewenstein, G., & Slovic, P. (2007). "Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims." *Organizational Behavior and Human Decision Processes*, 102(2), 143–153](https://www.sciencedirect.com/science/article/abs/pii/S0749597806000057)
+2. [Green, M. C., & Brock, T. C. (2000). "The Role of Transportation in the Persuasiveness of Public Narratives." *Journal of Personality and Social Psychology*, 79(5), 701–721](https://www.researchgate.net/publication/12248972_The_Role_of_Transportation_in_the_Persuasiveness_of_Public_Narratives)

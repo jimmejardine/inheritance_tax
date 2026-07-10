@@ -5,7 +5,7 @@
 ## The evidence base
 
 - **McGuire's inoculation theory (1960s).** Original lab finding: "cultural truisms" defended by refuting a weakened counterargument withstood later full-strength attack far better than truisms supported only by positive arguments. The two active ingredients: *threat* (forewarning that an attack is coming, which motivates defence) and *refutational preemption* (a rehearsed counter).
-- **Modern misinformation prebunking.** Van der Linden, Roozenbeek and colleagues extended this to contemporary persuasion: pre-exposing audiences to manipulation *techniques* (fake experts, false dilemmas, emotional exploitation) confers resistance across topics — technique-level inoculation generalises better than claim-by-claim rebuttal (Cambridge misinformation-games research and subsequent field experiments; effect sizes and decay rates to verify).
+- **Modern misinformation prebunking.** Van der Linden, Roozenbeek and colleagues extended this to contemporary persuasion: pre-exposing audiences to manipulation *techniques* (fake experts, false dilemmas, emotional exploitation) confers resistance across topics — technique-level inoculation generalises better than claim-by-claim rebuttal. Short inoculation videos improved manipulation-technique discernment in lab studies and in a YouTube field experiment (Roozenbeek et al. 2022, *Science Advances*) [1]; effects are real but modest and decay within weeks to months unless refreshed (Maertens et al. 2021) [2], and memory-targeting "booster shots" extend their longevity (Nature Communications, 2025) [3].
 - **Two operational corollaries.** (1) Inoculation decays; it needs boosters — periodic re-exposure. (2) It works best *prophylactically*; "therapeutic" debunking after the attack has landed fights an entrenched frame ([naming-and-language.md](naming-and-language.md) on Lakoff: frames repeated are frames strengthened).
 
 ## Why inoculation must precede scale
@@ -19,7 +19,7 @@ The attack playbook contains ten standard lines ([debate-toolkit.md](debate-tool
 | Attack | Weakened form to pre-expose | Attached refutation | Booster content |
 |---|---|---|---|
 | **"Death tax"** (the naming attack) | "They're going to call this a *death tax*. It's a clever phrase — a pollster was paid a lot to find it." | Nobody dead pays anything; the payer is a living person receiving above £500k they didn't earn; and every 25-year-old *receives* £50k ([02-proposal/mechanism.md](../02-proposal/mechanism.md)) | Short-form explainers on how the phrase was manufactured — the Luntz memo story itself is engaging content ([naming-and-language.md](naming-and-language.md)) |
-| **The farm auction** | "You'll see a story about a family farm sold to pay the tax. You'll see it within a week of any debate." | The carve-out is clause one, in statute, with named rollover mechanics — and here is the incidence data on how rare forced farm sales actually are under existing IHT (to verify) ([02-proposal/carveouts.md](../02-proposal/carveouts.md), [09-objections/family.md](../09-objections/family.md)) | Local-press validator pieces by actual farmers ([channels.md](channels.md)); the county paper beats the national campaign here |
+| **The farm auction** | "You'll see a story about a family farm sold to pay the tax. You'll see it within a week of any debate." | The carve-out is clause one, in statute, with named rollover mechanics — and forced farm sales are genuinely rare: US agricultural economist Neil Harl, over decades, "never seen a farm or ranch operation that had to be sold to pay federal estate tax" [4], and HM Treasury forecasts 85% of estates claiming agricultural relief will pay no more tax under the 2026 UK reforms [5] ([02-proposal/carveouts.md](../02-proposal/carveouts.md), [09-objections/family.md](../09-objections/family.md)) | Local-press validator pieces by actual farmers ([channels.md](channels.md)); the county paper beats the national campaign here |
 | **"Politics of envy"** | "They'll say this is envy — that we hate success." | We celebrate every founder and want more of them; what we decline to celebrate is inherited rank. Envy wants what someone earned; this concerns what nobody earned ([03-case-for/ethical.md](../03-case-for/ethical.md)) | The [Founder and the Heir narrative](narratives.md) told by founders themselves |
 
 Note the deliberate exception to the never-repeat-the-frame rule: inside the "they will tell you" construction, naming the attack phrase once is *required* — the forewarning is the vaccine's antigen. The rule against repetition applies to reactive debate, not to controlled prebunking.
@@ -60,5 +60,13 @@ Technique inoculation generalises: an audience that has learned to spot hard-cas
 
 ## Open items
 
-- Verify current effect sizes and decay windows in the prebunking literature (van der Linden et al., *Nature Human Behaviour* and successors) before building the content calendar.
+- Effect sizes and decay windows now verified against the core prebunking literature [1][2][3]; re-check for newer field results before building the content calendar.
 - Message-test the "they will tell you" construction against straight rebuttal formats with UK panels ([06-palatability/polling.md](../06-palatability/polling.md)).
+
+## Sources
+
+1. [Roozenbeek, J., van der Linden, S., Goldberg, B., Rathje, S., & Lewandowsky, S. (2022). "Psychological inoculation improves resilience against misinformation on social media." *Science Advances*, 8(34)](https://www.science.org/doi/10.1126/sciadv.abo6254)
+2. [Maertens, R., Roozenbeek, J., Basol, M., & van der Linden, S. (2021). "Long-term effectiveness of inoculation against misinformation: Three longitudinal experiments." *Journal of Experimental Psychology: Applied*, 27(1), 1–16](https://doi.org/10.1037/xap0000315)
+3. ["Psychological booster shots targeting memory increase long-term resistance against misinformation." *Nature Communications* (2025)](https://www.nature.com/articles/s41467-025-57205-x)
+4. [FactCheck.org (2017). "'Death Tax' Talking Point Won't Die"](https://www.factcheck.org/2017/09/death-tax-talking-point-wont-die/)
+5. [HM Treasury / GOV.UK. "What are the changes to agricultural property relief?"](https://www.gov.uk/government/news/what-are-the-changes-to-agricultural-property-relief)

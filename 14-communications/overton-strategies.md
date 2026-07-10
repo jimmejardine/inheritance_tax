@@ -19,7 +19,7 @@ The idea must ascend a ladder where each rung licenses the next. Skipping rungs 
 | Rung | Artefact | Licenses | Status / owner |
 |---|---|---|---|
 | 1. Academic papers | Peer-reviewed work on recipient-based lifetime taxation and capital endowments | Think tanks to cite without career risk | Lineage already exists: Atkinson, Piketty ([05-history/atkinson.md](../05-history/atkinson.md), [05-history/piketty.md](../05-history/piketty.md)) |
-| 2. Think-tank reports | Costed UK proposal with carve-out design | Broadsheets to cover as news, not opinion | Resolution Foundation/IPPR adjacent work exists (to verify current state); full version needed |
+| 2. Think-tank reports | Costed UK proposal with carve-out design | Broadsheets to cover as news, not opinion | Adjacent work exists: the Resolution Foundation's Intergenerational Commission proposed a £10,000 "citizen's inheritance" at 25 funded by a lifetime receipts tax (2018) [1], and IPPR proposed a £10,000 universal minimum inheritance at 25 via a Citizens' Wealth Fund (2018) [2]; the fully costed version of *this* proposal is still needed |
 | 3. Broadsheet columns | Economist- and conservative-authored op-eds ([channels.md](channels.md)) | Editors and broadcasters to book the topic | Sequencing: FT/Times before Guardian |
 | 4. Select-committee evidence | Written and oral evidence to Treasury Committee inquiries on wealth taxation | MPs to engage without proposing | Requires rungs 1–2 as citations |
 | 5. Backbench adoption | PMQs mentions, ten-minute-rule bills, APPG formation | Frontbench teams to commission internal costings | [12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md) |
@@ -40,7 +40,7 @@ Every element maps directly: Piketty is our book wave's foundation; founder-clas
 
 ## The radical flagship and the anchoring dividend
 
-The deliberately provocative "100%" serves a specific cognitive function: **anchoring**. Negotiation and judgement research (Tversky & Kahneman's anchoring effects; to verify applied-politics literature) shows first numbers drag subsequent judgements toward them. While "100% above £500k" is the debated flagship, an 80–90% top-rate variant — or Piketty's graduated schedule — reads as the *moderate compromise* rather than as confiscation. Compare: absent the flagship, even restoring the UK's historical ~80% top estate rate ([05-history/uk-estate-duty.md](../05-history/uk-estate-duty.md)) would itself be the "extreme" pole of the debate.
+The deliberately provocative "100%" serves a specific cognitive function: **anchoring**. Judgement research shows first numbers drag subsequent estimates toward them (Tversky & Kahneman's anchoring-and-adjustment work) [3]; the extension of anchoring to applied political negotiation is plausible but less directly evidenced (unverified), so we treat it as a working hypothesis rather than a proven lever. While "100% above £500k" is the debated flagship, an 80–90% top-rate variant — or Piketty's graduated schedule — reads as the *moderate compromise* rather than as confiscation. Compare: absent the flagship, even restoring the UK's historical ~80% top estate rate ([05-history/uk-estate-duty.md](../05-history/uk-estate-duty.md)) would itself be the "extreme" pole of the debate.
 
 **When to be radical vs when to be moderate:**
 
@@ -63,3 +63,9 @@ The discipline: the flagship is a *position*, the stepping-stone is a *transacti
 
 - Commission the rung-2 artefact: a fully costed UK think-tank report is the single highest-leverage missing piece.
 - Identify three credible founder-class validators (the UBI lesson: cross-ideological cover comes first from the class expected to object).
+
+## Sources
+
+1. [Resolution Foundation (2018). "The new wealth of our nation: the case for a citizen's inheritance"](https://www.resolutionfoundation.org/publications/the-new-wealth-of-our-nation-the-case-for-a-citizens-inheritance-2/)
+2. [IPPR (2018). "Give £10,000 universal minimum inheritance to all 25-year-olds"](https://www.ippr.org/media-office/give-10-000-universal-minimum-inheritance-to-all-25-year-olds)
+3. [Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124–1131](https://www.cs.tufts.edu/comp/150AIH/pdf/TverskyKa74.pdf)
