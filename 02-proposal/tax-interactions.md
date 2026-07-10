@@ -14,7 +14,7 @@
 
 ## 1. Capital gains at death: end the uplift as a windfall
 
-**Current law is indefensible under *any* inheritance-tax regime.** In the UK, assets rebase to market value at death with no CGT charge (TCGA 1992 s.62 — to verify), so lifetime gains vanish; worse, BPR/APR-relieved assets historically enjoyed *both* the uplift *and* 100% IHT relief — a double benefit the OTS recommended ending, with forgone revenue of the order of £1–2bn/year (OTS CGT review — to verify) [1]. In the US, §1014 stepped-up basis erases accrued gains at death at a cost estimated in the tens of billions of dollars annually (JCT tax-expenditure lists — to verify) [2], and is the keystone of "buy, borrow, die" planning.
+**Current law is indefensible under *any* inheritance-tax regime.** In the UK, assets rebase to market value at death with no CGT charge ([TCGA 1992 s.62](https://www.legislation.gov.uk/ukpga/1992/12/section/62) — to verify), so lifetime gains vanish; worse, BPR/APR-relieved assets historically enjoyed *both* the uplift *and* 100% IHT relief — a double benefit the OTS recommended ending, with forgone revenue of the order of £1–2bn/year (OTS CGT review — to verify) [1]. In the US, [§1014](https://www.law.cornell.edu/uscode/text/26/1014) stepped-up basis erases accrued gains at death at a cost estimated in the tens of billions of dollars annually (JCT tax-expenditure lists — to verify) [2], and is the keystone of "buy, borrow, die" planning.
 
 **Our rule** (restating [`mechanism.md`](mechanism.md) §7 with the boundary made precise):
 

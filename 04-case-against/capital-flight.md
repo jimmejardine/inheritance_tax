@@ -92,10 +92,10 @@ The full design response — exit taxes, situs rules, friction inventory, retent
 
 ## Sources
 
-1. Henrekson & Waldenström, "Inheritance Taxation in Sweden, 1885–2004: The Role of Ideology, Family Firms and Tax Avoidance," *Economic History Review* (2016); see [`../05-history/abolitions.md`](../05-history/abolitions.md).
-2. Lindblom, *Politics and Markets* (Basic Books, 1977); Lindblom, "The Market as Prison," *Journal of Politics* 44(2), 1982.
-3. Przeworski & Wallerstein, "Structural Dependence of the State on Capital," *American Political Science Review* 82(1), 1988.
-4. Moretti & Wilson, "Taxing Billionaires: Estate Taxes and the Geographical Location of the Ultra-Wealthy," *AEJ: Economic Policy* (2023).
+1. [Henrekson & Waldenström, "Inheritance Taxation in Sweden, 1885–2004: The Role of Ideology, Family Firms and Tax Avoidance," *Economic History Review* (2016)](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.12280); see [`../05-history/abolitions.md`](../05-history/abolitions.md).
+2. [Lindblom, *Politics and Markets* (Basic Books, 1977)](https://archive.org/details/politicsmarketsw0000char); [Lindblom, "The Market as Prison," *Journal of Politics* 44(2), 1982](https://www.journals.uchicago.edu/doi/abs/10.2307/2130588).
+3. [Przeworski & Wallerstein, "Structural Dependence of the State on Capital," *American Political Science Review* 82(1), 1988](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/structural-dependence-of-the-state-on-capital/34F49B8D6C5D400D62C72C623BD4BF77).
+4. [Moretti & Wilson, "Taxing Billionaires: Estate Taxes and the Geographical Location of the Ultra-Wealthy," *AEJ: Economic Policy* (2023)](https://www.aeaweb.org/articles?id=10.1257/pol.20200685).
 5. [Advani, Burgherr & Summers — CAGE/Warwick work on UK non-dom reform](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/).
-6. Young, *The Myth of Millionaire Tax Flight* (Stanford, 2017); Young & Varner, *National Tax Journal* (2011).
-7. Kleven, Landais & Saez, "Taxation and International Migration of Superstars," *AER* 103(5), 2013; Kleven, Landais, Saez & Schultz, *QJE* 129(1), 2014.
+6. [Young, *The Myth of Millionaire Tax Flight* (Stanford, 2017)](https://www.sup.org/books/sociology/myth-millionaire-tax-flight); [Young & Varner, *National Tax Journal* (2011)](https://www.journals.uchicago.edu/doi/10.17310/ntj.2011.2.02).
+7. [Kleven, Landais & Saez, "Taxation and International Migration of Superstars," *AER* 103(5), 2013](https://www.aeaweb.org/articles?id=10.1257/aer.103.5.1892); [Kleven, Landais, Saez & Schultz, *QJE* 129(1), 2014](https://academic.oup.com/qje/article-abstract/129/1/333/1899540).

@@ -89,13 +89,13 @@ Residual standing: a country adopting this policy will have visibly fewer centur
 
 ## Sources
 
-1. Hall & Soskice, *Varieties of Capitalism* (Oxford, 2001).
-2. Pérez-González, "Inherited Control and Firm Performance," *American Economic Review* 96(5), 2006.
-3. Bennedsen, Nielsen, Pérez-González & Wolfenzon, "Inside the Family Firm," *Quarterly Journal of Economics* 122(2), 2007.
+1. [Hall & Soskice, *Varieties of Capitalism* (Oxford, 2001)](https://global.oup.com/academic/product/varieties-of-capitalism-9780199247752).
+2. [Pérez-González, "Inherited Control and Firm Performance," *American Economic Review* 96(5), 2006](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559).
+3. [Bennedsen, Nielsen, Pérez-González & Wolfenzon, "Inside the Family Firm," *Quarterly Journal of Economics* 122(2), 2007](https://academic.oup.com/qje/article-abstract/122/2/647/1942108).
 4. [OTS Inheritance Tax Review — Second Report (2019)](https://www.gov.uk/government/publications/ots-inheritance-tax-review-simplifying-the-design-of-the-tax); Resolution Foundation on AIM-share IHT shelters.
 5. [IFS — "Reforming Inheritance Tax" (2023)](https://ifs.org.uk/publications/reforming-inheritance-tax); IFS work on APR and farmland prices (2024).
 6. [Congressional Research Service — QFOBI, RL30600](https://crsreports.congress.gov/).
 7. [Bundesverfassungsgericht — 1 BvL 21/12 (17 Dec 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html).
 8. [HMRC — Instalment option for IHT (IHTM30191)](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191); Irish Revenue CAT instalment arrangements.
-9. Bloom & Van Reenen, "Measuring and Explaining Management Practices Across Firms and Countries," *QJE* 122(4), 2007; [World Management Survey](https://worldmanagementsurvey.org/).
+9. [Bloom & Van Reenen, "Measuring and Explaining Management Practices Across Firms and Countries," *QJE* 122(4), 2007](https://academic.oup.com/qje/article-abstract/122/4/1351/1850493); [World Management Survey](https://worldmanagementsurvey.org/).
 10. See also [`../05-history/abolitions.md`](../05-history/abolitions.md) on the Swedish and Austrian family-business politics.

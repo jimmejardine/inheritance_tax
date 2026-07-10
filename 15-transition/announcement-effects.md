@@ -67,7 +67,7 @@ What survives is the pre-announcement window before the lookback horizon — tra
 ## Sources
 
 1. [HM Treasury / HMRC — Budget resolutions and the Provisional Collection of Taxes Act 1968](https://www.legislation.gov.uk/ukpga/1968/2) — the same-day-effect machinery.
-2. Kopczuk, W. and Slemrod, J. (2003). "Dying to Save Taxes: Evidence from Estate-Tax Returns on the Death Elasticity." *Review of Economics and Statistics* 85(2) — behavioural response to transfer-tax discontinuities (to verify specific estimates).
+2. [Kopczuk, W. and Slemrod, J. (2003). "Dying to Save Taxes: Evidence from Estate-Tax Returns on the Death Elasticity." *Review of Economics and Statistics* 85(2)](https://direct.mit.edu/rest/article/85/2/256/57378/Dying-to-Save-Taxes-Evidence-from-Estate-Tax) — behavioural response to transfer-tax discontinuities (to verify specific estimates).
 3. [OBR — policy costings and behavioural-response methodology for pre-announced tax changes](https://obr.uk/) (episode-specific forestalling magnitudes to verify).
 4. [Pedrick, W. H. (1981). "Oh! To Die Down Under!" *Washington Law Review* 57(1)](https://digitalcommons.law.uw.edu/wlr/vol57/iss1/5/) — Australian pre-abolition behaviour around effective dates.
-5. UK Finance Act 1975 / 1974 White Paper on Capital Transfer Tax — announcement-day charge on lifetime gifts (to verify against Hansard and the Act's commencement provisions).
+5. [UK Finance Act 1975](https://www.legislation.gov.uk/ukpga/1975/7) / 1974 White Paper on Capital Transfer Tax — announcement-day charge on lifetime gifts (to verify against Hansard and the Act's commencement provisions).

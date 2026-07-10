@@ -77,4 +77,4 @@ Three years of "employment" post £468,000 to the son's lifetime ledger — near
 4. [Finance Act 1986 s.102 — gifts with reservation of benefit; HMRC IHTM14301](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14301)
 5. [Insolvency Act 1986 s.423 — transactions defrauding creditors](https://www.legislation.gov.uk/ukpga/1986/45/section/423)
 6. [FCA Listing Rules / UK Corporate Governance Code — related-party transactions and board independence](https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/)
-7. Perez-Gonzalez, F. (2006), "Inherited Control and Firm Performance", *American Economic Review* — evidence that heir-CEO succession underperforms professional succession.
+7. [Perez-Gonzalez, F. (2006), "Inherited Control and Firm Performance", *American Economic Review*](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559) — evidence that heir-CEO succession underperforms professional succession.

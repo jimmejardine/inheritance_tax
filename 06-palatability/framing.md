@@ -89,12 +89,12 @@ Each risk argues for the same discipline: frames must be load-bearing restatemen
 
 ## Sources
 
-1. Graetz, M. & Shapiro, I., *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005) — the standard account of the repeal campaign and its language *(details to verify)*
+1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts) — the standard account of the repeal campaign and its language *(details to verify)*
 2. Luntz, F., "The Language of the 21st Century" and related memos on "death tax" usage *(primary texts to verify)*
 3. [Kahneman, D. & Tversky, A., "Prospect Theory," Econometrica (1979)](https://www.jstor.org/stable/1914185); Thaler, R., endowment-effect literature
 4. [Benabou, R. & Ok, E., "Social Mobility and the Demand for Redistribution: The POUM Hypothesis," QJE (2001)](https://academic.oup.com/qje/article/116/2/447/1904143)
-5. [Alesina, A., Stantcheva, S. & Teso, E., "Intergenerational Mobility and Preferences for Redistribution," AER (2018)](https://www.aeaweb.org/articles?id=10.1257/aer.20162015); Alesina & Angeletos, "Fairness and Redistribution," AER (2005)
-6. Almås, I., Cappelen, A. & Tungodden, B., "Cutthroat Capitalism versus Cuddly Socialism," JPE (2020) — effort/luck fairness views *(to verify)*
+5. [Alesina, A., Stantcheva, S. & Teso, E., "Intergenerational Mobility and Preferences for Redistribution," AER (2018)](https://www.aeaweb.org/articles?id=10.1257/aer.20162015); [Alesina & Angeletos, "Fairness and Redistribution," AER (2005)](https://www.aeaweb.org/articles?id=10.1257/0002828054825655)
+6. [Almås, I., Cappelen, A. & Tungodden, B., "Cutthroat Capitalism versus Cuddly Socialism," JPE (2020)](https://www.journals.uchicago.edu/doi/abs/10.1086/705551) — effort/luck fairness views *(to verify)*
 7. [Graham, J., Haidt, J. et al., Moral Foundations Theory](https://moralfoundations.org/); Haidt, J., *The Righteous Mind* (2012)
 
 ---

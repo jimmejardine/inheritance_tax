@@ -25,7 +25,7 @@ Sources for the legislative chronology: [1][2].
 
 ## The temporary duties: war taxes with a moral rider
 
-All three pre-1916 episodes were war-finance measures, repealed once the emergency passed [1]. Their significance is constitutional and rhetorical: the Supreme Court upheld death duties (Scholey v. Rew, 1875; Knowlton v. Moore, 1900) as excises on the *transfer*, not direct taxes on property — the doctrinal foundation everything since rests on, and a fact worth holding against the modern litigation threats surveyed in [../10-opposition/legal-challenges.md](../10-opposition/legal-challenges.md) [2].
+All three pre-1916 episodes were war-finance measures, repealed once the emergency passed [1]. Their significance is constitutional and rhetorical: the Supreme Court upheld death duties ([Scholey v. Rew, 1875](https://supreme.justia.com/cases/federal/us/90/331/); [Knowlton v. Moore, 1900](https://supreme.justia.com/cases/federal/us/178/41/)) as excises on the *transfer*, not direct taxes on property — the doctrinal foundation everything since rests on, and a fact worth holding against the modern litigation threats surveyed in [../10-opposition/legal-challenges.md](../10-opposition/legal-challenges.md) [2].
 
 ## 1916 and the escalation
 
@@ -78,6 +78,6 @@ Throughout the whole arc, IRC §1014 has granted heirs a **stepped-up basis**: u
 1. [Jacobson, D., Raub, B. and Johnson, B. (IRS Statistics of Income). "The Estate Tax: Ninety Years and Counting." *SOI Bulletin* (2007)](https://www.irs.gov/pub/irs-soi/ninetyestate.pdf) — legislative chronology and rate/exemption tables.
 2. [Joint Committee on Taxation (2015 and later). *History, Present Law, and Analysis of the Federal Wealth Transfer Tax System* (JCX series)](https://www.jct.gov/) — rates, exemptions, and structural analysis.
 3. [Roosevelt, F. D. (19 June 1935). Message to Congress on Tax Revision. American Presidency Project](https://www.presidency.ucsb.edu/) — quotation to verify.
-4. Cooper, G. (1979). *A Voluntary Tax? New Perspectives on Sophisticated Estate Tax Avoidance*. Brookings Institution.
+4. [Cooper, G. (1979). *A Voluntary Tax? New Perspectives on Sophisticated Estate Tax Avoidance*. Brookings Institution](https://www.brookings.edu/books/a-voluntary-tax/).
 5. [Saez, E. and Zucman, G. (2016). "Wealth Inequality in the United States since 1913." *Quarterly Journal of Economics* 131(2)](https://doi.org/10.1093/qje/qjw004) — wealth-share series; contested, see [piketty.md](piketty.md).
-6. Graetz, M. and Shapiro, I. (2005). *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth*. Princeton University Press — the 2001 repeal campaign.
+6. [Graetz, M. and Shapiro, I. (2005). *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth*. Princeton University Press](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts) — the 2001 repeal campaign.

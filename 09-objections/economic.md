@@ -12,7 +12,7 @@ Rules of engagement apply throughout: concede what is true, give the one-sentenc
 
 **Full answer.** The objection assumes people accumulate primarily *in order to* leave estates. The evidence points the other way:
 
-- **Most estates are not planned.** Wojciech Kopczuk's body of work on estate taxation finds a large share of estates show no evidence of active planning; accumulation among the wealthy is better explained by precaution, the utility of control, status, and the momentum of compounding than by dynastic intent (magnitudes to verify).
+- **Most estates are not planned.** [Wojciech Kopczuk's body of work on estate taxation](https://www.nber.org/papers/w18584) finds a large share of estates show no evidence of active planning; accumulation among the wealthy is better explained by precaution, the utility of control, status, and the momentum of compounding than by dynastic intent (magnitudes to verify).
 - **Founders describe their motivation as building, autonomy, and competition** — none of which the tax touches, because it takes effect only at death and only on what each *recipient* gets above a lifetime £500,000 ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
 - **The family channel stays generous.** A founder with three children can still direct £1.5m to them, plus unlimited spousal and charitable transfers ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)).
 - **History does not cooperate with the objection.** The era of peak US estate taxation (~77% top rate, 1941–76) coincided with vigorous American entrepreneurship — suggestive rather than causal, but fatal to the claim that high death duties and dynamism cannot coexist (to verify against founding-rate data).
@@ -28,9 +28,9 @@ Rules of engagement apply throughout: concede what is true, give the one-sentenc
 **Full answer.** Four points:
 
 - **Capital is transferred, not burned.** The tax is levied at the moment of transfer: the factories, shares, and buildings continue to exist; ownership passes (via the Treasury and the endowment) rather than the assets evaporating.
-- **Theory cuts both ways.** Donors above the threshold may save less, but heirs who expect smaller windfalls save and work more (the inverse of the "Carnegie effect" documented by Holtz-Eakin, Joulfaian and Rosen, who found large inheritances reduce recipients' labour supply — to verify), and 25-year-olds receiving the endowment add saving and investment at the point of highest marginal return.
+- **Theory cuts both ways.** Donors above the threshold may save less, but heirs who expect smaller windfalls save and work more (the inverse of the "Carnegie effect" documented by [Holtz-Eakin, Joulfaian and Rosen](https://academic.oup.com/qje/article/108/2/413/1917556), who found large inheritances reduce recipients' labour supply — to verify), and 25-year-olds receiving the endowment add saving and investment at the point of highest marginal return.
 - **The natural experiment runs in reverse.** The countries that *abolished* inheritance taxes (Sweden 2004, Norway 2014, Austria 2008) recorded no discernible savings or investment dividend attributable to repeal ([`../05-history/abolitions.md`](../05-history/abolitions.md); to verify against post-repeal national accounts).
-- **Inherited capital is allocated worse.** The corporate-succession literature — Pérez-González (2006) on US firms, Bennedsen, Nielsen, Pérez-González and Wolfenzon (2007) on Danish firms, and the Villalonga–Amit family-firm work (magnitudes to verify) — consistently finds heir-CEO succession *reduces* firm performance relative to outside management. Recycling above-threshold capital away from heirs and toward endowment-funded new entrants is plausibly an allocative improvement, not a loss.
+- **Inherited capital is allocated worse.** The corporate-succession literature — [Pérez-González (2006)](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559) on US firms, [Bennedsen, Nielsen, Pérez-González and Wolfenzon (2007)](https://academic.oup.com/qje/article-abstract/122/2/647/1942108) on Danish firms, and the [Villalonga–Amit family-firm work](https://www.sciencedirect.com/science/article/abs/pii/S0304405X05001157) (magnitudes to verify) — consistently finds heir-CEO succession *reduces* firm performance relative to outside management. Recycling above-threshold capital away from heirs and toward endowment-funded new entrants is plausibly an allocative improvement, not a loss.
 
 The second-order macro effects are worked through in [`../16-second-order/macro.md`](../16-second-order/macro.md).
 
@@ -52,7 +52,7 @@ On leaving:
 
 On never starting — the objection's weakest leg:
 
-- The entrepreneurship literature consistently finds *access to capital* is a binding constraint on business formation: Evans and Jovanovic on liquidity constraints, and Blanchflower–Oswald's finding that receiving an inheritance or gift raises the probability of becoming self-employed (to verify).
+- The entrepreneurship literature consistently finds *access to capital* is a binding constraint on business formation: [Evans and Jovanovic](https://ideas.repec.org/a/ucp/jpolec/v97y1989i4p808-27.html) on liquidity constraints, and [Blanchflower–Oswald's finding](https://www.nber.org/papers/w3252) that receiving an inheritance or gift raises the probability of becoming self-employed (to verify).
 - That finding is usually cited *for* inheritance; read properly it shows capital access, not inheritance per se, drives entry — and a universal £50,000 at 25 ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)) extends that entry ticket from the lucky few to every citizen.
 - The plausible net effect on founder numbers is therefore positive.
 

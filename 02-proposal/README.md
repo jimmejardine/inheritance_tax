@@ -49,7 +49,7 @@ The nine files describe one policy, not nine. The logic chain:
 - **Not a "death tax."** The tax falls on the recipient, not the estate. Nothing is taken from the deceased.
 - **Not confiscation of ordinary inheritance.** 90%+ of current recipients would be entirely unaffected at the baseline threshold; those who are affected are by construction receiving sums several times the median lifetime earning capacity.
 - **Not state revenue-grabbing.** Proceeds are hypothecated to the universal endowment; general revenue receives only the surplus once every 25-year-old has been paid.
-- **Not unprecedented.** Every element has a historical analogue: Ireland's Capital Acquisitions Tax is recipient-based; the Mirrlees Review proposed a lifetime-receipts tax; Paine, Atkinson, Ackerman–Alstott, and Piketty all paired a transfer tax with a universal grant.
+- **Not unprecedented.** Every element has a historical analogue: [Ireland's Capital Acquisitions Tax](https://www.revenue.ie/en/gains-gifts-and-inheritance/index.aspx) is recipient-based; the [Mirrlees Review](https://ifs.org.uk/mirrlees-review) proposed a lifetime-receipts tax; Paine, Atkinson, Ackerman–Alstott, and Piketty all paired a transfer tax with a universal grant.
 
 ## Variants considered and rejected (at this pass)
 
@@ -59,13 +59,13 @@ The nine files describe one policy, not nine. The logic chain:
 | £250k tighter threshold | Bites into ordinary inherited homes in the South East; raises political attack surface without proportionate gain |
 | £1m looser threshold | Weakens the dynastic-break effect; would reduce the endowment funding base substantially |
 | Flat 100% from £1 (no threshold) | No political coalition; no mechanism to distinguish dynastic from ordinary family transfer |
-| Age 18 or 21 endowment | Child Trust Fund dormancy evidence, and prefrontal-development literature, favour age 25 |
+| Age 18 or 21 endowment | [Child Trust Fund](https://www.gov.uk/child-trust-funds) dormancy evidence, and prefrontal-development literature, favour age 25 |
 | Conditional (housing / education only) endowment | Paternalism, administrative cost, weaker ownership framing; cash-transfer evidence does not support earmarking |
 | State-level assignment (US) | Australia's 1977–79 cascade shows sub-national inheritance taxation is self-destructive |
 
 ## What still needs doing
 
-- **Micro-simulation** of the £500k threshold against IFS and SCF distributional data to refine the revenue estimate and share of recipients affected — [revenue-model.md](revenue-model.md) flags every figure that depends on it.
+- **Micro-simulation** of the £500k threshold against IFS and [SCF](https://www.federalreserve.gov/econres/scfindex.htm) distributional data to refine the revenue estimate and share of recipients affected — [revenue-model.md](revenue-model.md) flags every figure that depends on it.
 - **Benefit-interaction regulations** — the tapered capital rules sketched in [tax-interactions.md](tax-interactions.md) §4 need DWP-grade modelling.
 - **Constitutional counsel** on the German Art. 14 accommodation and US excise framing set out in [constitutional-design.md](constitutional-design.md) §7.
 - **Legal drafting** of the Central Register of Receipts provisions and their interaction with probate.

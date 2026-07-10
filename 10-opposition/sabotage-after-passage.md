@@ -75,6 +75,6 @@ Every hollowing strategy works by keeping losses invisible. Hypothecation invert
 
 ## Sources
 
-1. [Congressional Research Service — history of US estate tax exemption and rate changes, EGTRRA (2001) through TCJA (2017) and subsequent legislation](https://crsreports.congress.gov/)
-2. [HMRC / IFS analyses of the UK inheritance-tax nil-rate band freeze and fiscal drag](https://ifs.org.uk/)
-3. [Center on Budget and Policy Priorities / GAO — IRS funding trends and audit-rate decline, 2010–2021, and Inflation Reduction Act funding changes](https://www.cbpp.org/)
+1. [Congressional Research Service — history of US estate tax exemption and rate changes, EGTRRA (2001) through TCJA (2017) and subsequent legislation](https://www.congress.gov/crs-product/R48183)
+2. [HMRC / IFS analyses of the UK inheritance-tax nil-rate band freeze and fiscal drag](https://ifs.org.uk/publications/reforming-inheritance-tax)
+3. [Center on Budget and Policy Priorities / GAO — IRS funding trends and audit-rate decline, 2010–2021, and Inflation Reduction Act funding changes](https://www.cbpp.org/research/federal-tax/the-need-to-rebuild-the-depleted-irs)

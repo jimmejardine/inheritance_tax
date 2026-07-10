@@ -11,7 +11,7 @@ Scores are additive across the ten criteria (max 50), per the [scorecard method]
 | 1 | UK | 44 | — | Most probable first mover among large economies; path via receipts-basis reform + endowment | [uk.md](uk.md) |
 | 2 | South Korea | 42 | Momentum currently toward rate *cuts* | Highest-rate incumbent; anti-dynastic politics could flip a scandal window upward | [korea-japan.md](korea-japan.md) |
 | 3 | Netherlands | 41 | Coalition friction | Underrated: recipient-based tax, no constitutional review, severe housing crisis | [continental-europe.md](continental-europe.md) |
-| 4 | Ireland | 40 | Small open economy — second mover | The operating analogue: CAT is this proposal's skeleton at 33% | [ireland.md](ireland.md) |
+| 4 | Ireland | 40 | Small open economy — second mover | The operating analogue: [CAT](https://www.revenue.ie/en/gains-gifts-and-inheritance/gift-and-inheritance-tax-cat/index.aspx) is this proposal's skeleton at 33% | [ireland.md](ireland.md) |
 | 5 | Japan | 40 | Low domestic salience | Quiet-convergence case: base-broadening under ageing fiscal pressure | [korea-japan.md](korea-japan.md) |
 | 6 | Finland / Denmark | 39 | Consensus institutions | Live taxes in the highest-capacity states; fast upgraders under an EU/OECD floor | [nordics.md](nordics.md) |
 | 7 | Canada | 37 | Reintroduction discount (partial — deemed disposition exists) | Death already a taxable event; receipts tax could layer on without repeal | [anglosphere.md](anglosphere.md) |
@@ -20,8 +20,8 @@ Scores are additive across the ten criteria (max 50), per the [scorecard method]
 | 10 | France | 35 | "Confiscatory" constitutional doctrine; hostile polling | Intellectual home (Piketty, Blanchard–Tirole) with a legal-political ceiling | [continental-europe.md](continental-europe.md) |
 | 11 | Australia | 34 | Reintroduction discount; contaminated debate | 1977–79 cascade is the canonical federal failure mode; long-window only | [anglosphere.md](anglosphere.md) |
 | 12 | United States | 30 | Veto-point saturation (C4 = 1) | Improbable adopter, decisive prize: a US move ends global tax competition | [anglosphere.md](anglosphere.md) |
-| 13 | Germany | 26 | **Gated: Art. 14 GG inheritance guarantee** | Implements a floor at whatever ceiling the constitution allows; never a 100% rate unamended | [continental-europe.md](continental-europe.md) |
-| 14 | Switzerland | 24 | **Gated: referendum veto (2015: ~71% no, to verify) + cantonal assignment** | Definitive consensus-institution refusal; price in as adversary | [unlikely-and-havens.md](unlikely-and-havens.md) |
+| 13 | Germany | 26 | **Gated: [Art. 14 GG](https://www.gesetze-im-internet.de/gg/art_14.html) inheritance guarantee** | Implements a floor at whatever ceiling the constitution allows; never a 100% rate unamended | [continental-europe.md](continental-europe.md) |
+| 14 | Switzerland | 24 | **Gated: referendum veto ([2015: ~71% no](https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20150614/erbschaftssteuerreform.html), to verify) + cantonal assignment** | Definitive consensus-institution refusal; price in as adversary | [unlikely-and-havens.md](unlikely-and-havens.md) |
 | 15 | Singapore, Gulf, Monaco, dependencies | ≤29 | Refusal is the business model | Containment targets, not persuasion targets | [unlikely-and-havens.md](unlikely-and-havens.md) |
 
 ## Headline findings

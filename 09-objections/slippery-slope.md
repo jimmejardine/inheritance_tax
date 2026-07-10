@@ -34,7 +34,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 | Central planning | Absent — the state is a pipe from taxed bequests to citizen grants ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)) |
 | Confiscation of lifetime earnings | Absent — 0% on everything anyone earns, holds, or spends while alive |
 
-What remains is a rule about *transmission at death*, a domain the state has always regulated — primogeniture, entail, intestacy, the existing 40% IHT. The lineage matters rhetorically: Carnegie wrote that "the man who dies thus rich dies disgraced" and endorsed steep death duties in *The Gospel of Wealth* ([`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)); Roosevelt, a Republican, proposed graduated inheritance taxation in 1906 to protect market capitalism from dynastic corrosion ([`../05-history/roosevelt-1906.md`](../05-history/roosevelt-1906.md)).
+What remains is a rule about *transmission at death*, a domain the state has always regulated — primogeniture, entail, intestacy, the existing 40% IHT. The lineage matters rhetorically: Carnegie wrote that "the man who dies thus rich dies disgraced" and endorsed steep death duties in [*The Gospel of Wealth*](https://www.carnegie.org/about/our-history/gospelofwealth/) ([`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)); Roosevelt, a Republican, proposed graduated inheritance taxation in 1906 to protect market capitalism from dynastic corrosion ([`../05-history/roosevelt-1906.md`](../05-history/roosevelt-1906.md)).
 
 The strongest one-liner in debate: *communists want the state to own the capital; we want your kids to own some.*
 

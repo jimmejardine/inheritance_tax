@@ -103,12 +103,12 @@ Our design keeps the business intact (deferral, not forced sale) while ensuring 
 6. [US GAO — "Estate Tax: Special-Use Valuation under IRC §2032A" (GAO-15-440)](https://www.gao.gov/products/gao-15-440)
 7. Design of this project; draws on BPR 2-year and APR 7-year rules extended.
 8. [HMRC — "Conditional Exemption Tax Incentive Scheme"](https://www.gov.uk/guidance/capital-taxation-and-tax-exempt-heritage-assets)
-9. [IFS — "Death and Taxes and Pensions" (2023)](https://ifs.org.uk/publications/death-and-taxes-and-pensions); HM Treasury, Autumn Budget 2024.
+9. [IFS — "Death and Taxes and Pensions" (2023)](https://ifs.org.uk/publications/death-and-taxes-and-pensions); [HM Treasury, Autumn Budget 2024](https://www.gov.uk/government/publications/autumn-budget-2024).
 10. See `../05-history/abolitions.md` in this repo.
 11. [IRS — "Private foundation minimum distribution requirements — IRC §4942"](https://www.irs.gov/charities-non-profits/private-foundations/taxes-on-failure-to-distribute-income-private-foundations)
-12. Rob Reich, *Just Giving: Why Philanthropy is Failing Democracy and How It Can Do Better* (Princeton, 2018); Linsey McGoey, *No Such Thing as a Free Gift* (Verso, 2015).
+12. Rob Reich, [*Just Giving: Why Philanthropy is Failing Democracy and How It Can Do Better*](https://press.princeton.edu/books/paperback/9780691202273/just-giving) (Princeton, 2018); Linsey McGoey, [*No Such Thing as a Free Gift*](https://www.versobooks.com/products/129-no-such-thing-as-a-free-gift) (Verso, 2015).
 13. [Resolution Foundation — "Inheritance Tax and the AIM market" (2020)](https://www.resolutionfoundation.org/publications/)
 14. [OTS Inheritance Tax Review — First Report (2018)](https://www.gov.uk/government/publications/ots-inheritance-tax-review-overview-of-the-tax-and-dealing-with-it)
 15. [Congressional Research Service — "Qualified Family-Owned Business Interest Deduction" (RL30600)](https://crsreports.congress.gov/)
-16. [Bundesverfassungsgericht — 1 BvL 21/12 (17 Dec 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html); Erbschaftsteuerreformgesetz 2016.
+16. [Bundesverfassungsgericht — 1 BvL 21/12 (17 Dec 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html); [Erbschaftsteuerreformgesetz 2016](https://www.bundesfinanzministerium.de/Content/DE/Gesetzestexte/Gesetze_Gesetzesvorhaben/Abteilungen/Abteilung_IV/18_Legislaturperiode/Gesetze_Verordnungen/2016-11-09-Gesetz-zur-Anpassung-des-ErbStG-an-BVerfG/0-Gesetz.html).
 17. [IFS — "The effects of Agricultural Property Relief on farmland prices" (2024)](https://ifs.org.uk/publications); Sutton Trust, "Land and inheritance" (2022).

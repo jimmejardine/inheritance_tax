@@ -8,12 +8,12 @@ Philanthropic funders with current or historical inequality programmes (all prog
 
 | Funder | Relevance | Notes |
 |---|---|---|
-| Joseph Rowntree Foundation / Charitable Trust (UK) | Core poverty and wealth-inequality funder; JRCT funds structural-change work | Distinct entities with different rules; JRCT historically more political-economy-friendly |
-| Open Society Foundations | Funds economic-justice and fiscal-fairness work internationally | High capacity; carries its own attack surface (see below) |
-| Omidyar Network / Luminos-adjacent vehicles | "Reimagining capitalism" programme funds heterodox economics | LLC structure allows non-charitable grants |
-| Ford Foundation | Long-standing inequality focus | US-centred; large-grant capable |
-| Friends Provident Foundation, Barrow Cadbury (UK) | Fund economic-systems-change work at smaller scale | Realistic first-grant scale for phase 1 |
-| Wealthy individual defectors | Patriotic Millionaires orbit ([messengers.md](messengers.md)) | Fastest money; highest irony hazard |
+| [Joseph Rowntree Foundation](https://www.jrf.org.uk/) / [Charitable Trust](https://www.jrct.org.uk/) (UK) | Core poverty and wealth-inequality funder; JRCT funds structural-change work | Distinct entities with different rules; JRCT historically more political-economy-friendly |
+| [Open Society Foundations](https://www.opensocietyfoundations.org/) | Funds economic-justice and fiscal-fairness work internationally | High capacity; carries its own attack surface (see below) |
+| [Omidyar Network](https://www.omidyar.com/our-work/new-economy) / Luminos-adjacent vehicles | "Reimagining capitalism" programme funds heterodox economics | LLC structure allows non-charitable grants |
+| [Ford Foundation](https://www.fordfoundation.org/) | Long-standing inequality focus | US-centred; large-grant capable |
+| [Friends Provident Foundation](https://friendsprovidentfoundation.org/), [Barrow Cadbury](https://barrowcadbury.org.uk/) (UK) | Fund economic-systems-change work at smaller scale | Realistic first-grant scale for phase 1 |
+| Wealthy individual defectors | [Patriotic Millionaires](https://patrioticmillionaires.org/) orbit ([messengers.md](messengers.md)) | Fastest money; highest irony hazard |
 
 Phase-1 need is modest — one funded fellowship inside a host institution ([organisational-forms.md](organisational-forms.md)) — which widens the realistic funder pool considerably.
 
@@ -43,7 +43,7 @@ The opposition's cheapest attack is the astroturf allegation — that the moveme
 | Membership / small recurring donors | Slowest to build | Highest | None | Strongest — proves a constituency exists |
 | Earned income (events, publications, training) | Medium | Medium | None | Modest |
 
-Small recurring money is strategically different in kind: it cannot be withdrawn by one decision, it demonstrates to parties that voters care enough to pay ([12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md)), and every donor is a captured contact for the recruitment ladder ([recruitment.md](recruitment.md), ring 4). Precedents: 38 Degrees and MoveOn sustain campaigning on small-donor bases; membership-funded journalism (e.g. openDemocracy, Novara — to verify models) shows the same for content operations. Target trajectory: grant-dominated in phases 1–2, membership covering core costs by phase 3 ([organisational-forms.md](organisational-forms.md)).
+Small recurring money is strategically different in kind: it cannot be withdrawn by one decision, it demonstrates to parties that voters care enough to pay ([12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md)), and every donor is a captured contact for the recruitment ladder ([recruitment.md](recruitment.md), ring 4). Precedents: [38 Degrees](https://home.38degrees.org.uk/) and [MoveOn](https://front.moveon.org/) sustain campaigning on small-donor bases; membership-funded journalism (e.g. [openDemocracy](https://www.opendemocracy.net/), [Novara](https://novaramedia.com/) — to verify models) shows the same for content operations. Target trajectory: grant-dominated in phases 1–2, membership covering core costs by phase 3 ([organisational-forms.md](organisational-forms.md)).
 
 ## What we do not take
 
@@ -61,5 +61,5 @@ Per the two-organisation model ([organisational-forms.md](organisational-forms.m
 ## Open questions for verification
 
 - Current inequality-programme priorities at JRF/JRCT, Omidyar, Ford, OSF (programmes cycle; verify within 12 months of approach).
-- UK Electoral Commission non-party campaigner spending thresholds, and US (c)(4) donor-disclosure state variations — both constrain the phase-3 campaign vehicle's fundraising ([organisational-forms.md](organisational-forms.md)).
+- UK [Electoral Commission](https://www.electoralcommission.org.uk/our-guidance/campaigner/non-party-campaigner) non-party campaigner spending thresholds, and US (c)(4) donor-disclosure state variations — both constrain the phase-3 campaign vehicle's fundraising ([organisational-forms.md](organisational-forms.md)).
 - Sector-norm figures for funder-concentration caps.

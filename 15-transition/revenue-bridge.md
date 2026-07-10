@@ -74,5 +74,5 @@ The shape — reserve build, a roughly decade-long financed gap peaking in the t
 2. [ONS — population by single year of age (cohort sizing for the endowment)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration) — figures to verify.
 3. [HMRC — Inheritance Tax statistics (current yield baseline)](https://www.gov.uk/government/collections/inheritance-tax-statistics) .
 4. [OBR — fiscal-rules commentary and long-run fiscal sustainability reports](https://obr.uk/) — classification and rules interaction.
-5. Atkinson, A. B. (2015). *Inequality: What Can Be Done?* — the paired minimum-inheritance/capital-endowment financing discussion.
+5. [Atkinson, A. B. (2015). *Inequality: What Can Be Done?*](https://www.hup.harvard.edu/books/9780674979789) — the paired minimum-inheritance/capital-endowment financing discussion.
 6. [Resolution Foundation / Intergenerational Commission — intergenerational wealth-flow estimates](https://www.resolutionfoundation.org/) — scale of UK inheritance flows (to verify against latest releases).

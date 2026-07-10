@@ -22,7 +22,7 @@ An inheritance tax taken alone produces a visible loser (the bereaved heir, howe
 - **Bruce Ackerman & Anne Alstott, *The Stakeholder Society* (1999).** $80,000 stake at adulthood, funded by a 2% wealth tax; ~$150,000 in 2026 dollars [2].
 - **Anthony Atkinson, *Inequality: What Can Be Done?* (2015).** Proposed a "minimum inheritance" paid to every citizen at adulthood, financed by lifetime capital-receipts tax [3].
 - **Thomas Piketty, *Capital and Ideology* (2019).** €120,000 at age 25, financed by progressive wealth and inheritance taxation (up to ~90% at the top) [4].
-- **Darrick Hamilton & William Darity, "Baby Bonds" (2010–).** Birth grants scaled by parental wealth, maturing at 18, racial-wealth-gap framing; enacted in Connecticut (2023) [5].
+- **Darrick Hamilton & William Darity, "Baby Bonds" (2010–).** Birth grants scaled by parental wealth, maturing at 18, racial-wealth-gap framing; enacted in [Connecticut (2023)](https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2023/06-2023/Governor-Lamont-and-Treasurer-Russell-Build-Awareness-for-Connecticut-Baby-Bonds) [5].
 
 ## 3. Amount
 
@@ -40,14 +40,14 @@ The endowment is **unconditional**. Earmarking (housing-only, education-only) wo
 - create administrative cost and fraud surface;
 - signal distrust of the recipient, undermining the ownership framing.
 
-The UK Child Trust Fund (conditional-*ish*, tax-wrapped) produced dormancy [8]; the Alaska Permanent Fund Dividend (unconditional since 1982) has ~100% take-up and broad political protection [10]. Cash-transfer evidence — GiveDirectly RCTs in Kenya, Finland's basic income trial — finds no systematic dissipation on vices and consistent investment in durables, education, and enterprise [9].
+The UK Child Trust Fund (conditional-*ish*, tax-wrapped) produced dormancy [8]; the Alaska Permanent Fund Dividend (unconditional since 1982) has ~100% take-up and broad political protection [10]. Cash-transfer evidence — GiveDirectly RCTs in Kenya, [Finland's basic income trial](https://stm.fi/en/-/perustulokokeilun-tulokset-tyollisyysvaikutukset-vahaisia-toimeentulo-ja-psyykkinen-terveys-koettiin-paremmaksi) — finds no systematic dissipation on vices and consistent investment in durables, education, and enterprise [9].
 
 ## 6. Delivery mechanism
 
 A government-administered individual endowment account is opened at birth (UK: HMRC record linked to NINO; US: Treasury account linked to SSN). Annual statements issued from age 16. Claim window opens at 25; uncollected balances roll forward with wage indexation. Interaction:
 
 - **Student loans:** optional direct write-off against outstanding balance.
-- **Housing:** eligible for deposit under existing Help-to-Buy/Lifetime ISA rules.
+- **Housing:** eligible for deposit under existing Help-to-Buy/[Lifetime ISA](https://www.gov.uk/lifetime-isa) rules.
 - **Means-tested benefits:** disregarded as capital for 24 months after receipt (mirrors existing Child Trust Fund treatment [8]) to avoid the benefits trap.
 
 ## 7. Fiscal arithmetic

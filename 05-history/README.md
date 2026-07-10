@@ -6,16 +6,16 @@
 
 | File | Subject |
 |---|---|
-| [paine-1797.md](paine-1797.md) | *Agrarian Justice* — the ground-rent justification and the original tax-plus-endowment pairing |
-| [mill-1848.md](mill-1848.md) | *Principles of Political Economy* — the recipient-based cap on lifetime receipts |
-| [carnegie-1889.md](carnegie-1889.md) | "The Gospel of Wealth" — the capitalist's case; the "Carnegie effect" |
-| [roosevelt-1906.md](roosevelt-1906.md) | TR's 1906 message and 1910 New Nationalism — the republican right-flank lineage |
+| [paine-1797.md](paine-1797.md) | [*Agrarian Justice*](https://www.thomaspaine.org/writings/1796/agrarian-justice) — the ground-rent justification and the original tax-plus-endowment pairing |
+| [mill-1848.md](mill-1848.md) | [*Principles of Political Economy*](https://oll.libertyfund.org/titles/mill-principles-of-political-economy-ashley-ed) — the recipient-based cap on lifetime receipts |
+| [carnegie-1889.md](carnegie-1889.md) | ["The Gospel of Wealth"](https://www.carnegie.org/about/our-history/gospelofwealth/) — the capitalist's case; the "Carnegie effect" |
+| [roosevelt-1906.md](roosevelt-1906.md) | [TR's 1906 message](https://www.presidency.ucsb.edu/documents/sixth-annual-message-4) and [1910 New Nationalism](https://teachingamericanhistory.org/document/the-new-nationalism/) — the republican right-flank lineage |
 | [us-estate-tax.md](us-estate-tax.md) | US federal estate tax, 1797–present — the 77% plateau and the forty-year dismantling |
 | [uk-estate-duty.md](uk-estate-duty.md) | UK death duties, 1894–present — real dynastic break-up, then relief-creep self-destruction |
 | [abolitions.md](abolitions.md) | Why Sweden, Norway, Austria, Canada, Australia and Russia dismantled their taxes — the eight design errors |
-| [piketty.md](piketty.md) | *Capital in the Twenty-First Century* and *Capital and Ideology* — the empirical revival and the €120k endowment |
-| [ackerman-alstott.md](ackerman-alstott.md) | *The Stakeholder Society* — the $80k stake and the payback-at-death design |
-| [atkinson.md](atkinson.md) | *Inequality: What Can Be Done?* — the lifetime capital receipts tax and minimum inheritance |
+| [piketty.md](piketty.md) | [*Capital in the Twenty-First Century*](https://www.hup.harvard.edu/books/9780674430006) and [*Capital and Ideology*](https://www.hup.harvard.edu/books/9780674980822) — the empirical revival and the €120k endowment |
+| [ackerman-alstott.md](ackerman-alstott.md) | [*The Stakeholder Society*](https://yalebooks.yale.edu/book/9780300082609/the-stakeholder-society/) — the $80k stake and the payback-at-death design |
+| [atkinson.md](atkinson.md) | [*Inequality: What Can Be Done?*](https://www.hup.harvard.edu/books/9780674979789) — the lifetime capital receipts tax and minimum inheritance |
 
 ## The chronological narrative
 
@@ -38,7 +38,7 @@
 - **Thomas Piketty, *Capital in the Twenty-First Century* (2013).** The empirical case: r > g and the U-shaped return of inheritance flows toward Belle Époque levels. See [piketty.md](piketty.md).
 - **Anthony Atkinson, *Inequality: What Can Be Done?* (2015).** A progressive lifetime capital receipts tax funding a universal minimum inheritance — the technical template this project adopts. See [atkinson.md](atkinson.md).
 - **Piketty, *Capital and Ideology* (2019).** A concrete proposal: ~€120,000 to every 25-year-old, funded by inheritance and wealth taxes with rates to 90%, under a philosophy of "temporary ownership". See [piketty.md](piketty.md).
-- **Daniel Markovits, *The Meritocracy Trap* (2019).** Frames inherited *human-capital* advantage as the key transmission mechanism, not just financial wealth — taken up in [../01-problem/meritocracy-legitimacy.md](../01-problem/meritocracy-legitimacy.md) and [../07-implementation/human-capital.md](../07-implementation/human-capital.md).
+- **Daniel Markovits, [*The Meritocracy Trap*](https://www.penguinrandomhouse.com/books/548174/the-meritocracy-trap-by-daniel-markovits/) (2019).** Frames inherited *human-capital* advantage as the key transmission mechanism, not just financial wealth — taken up in [../01-problem/meritocracy-legitimacy.md](../01-problem/meritocracy-legitimacy.md) and [../07-implementation/human-capital.md](../07-implementation/human-capital.md).
 
 ## Pattern worth foregrounding
 

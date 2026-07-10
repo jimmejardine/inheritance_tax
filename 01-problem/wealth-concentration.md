@@ -55,6 +55,6 @@ Three caveats apply. First, survey-based series (SCF, WAS, HFCS) under-capture t
 13. [Alvaredo, Garbinti, Piketty — "On the Share of Inheritance in Aggregate Wealth" (WID working paper)](https://wid.world/document/on-the-share-of-inheritance-in-aggregate-wealth-europe-and-the-usa-1900-2010/)
 14. [Resolution Foundation — "Inheritocracy"](https://www.resolutionfoundation.org/publications/inheritocracy/)
 15. [Feiveson & Sabelhaus — "How Does Intergenerational Wealth Transmission Affect Wealth Concentration?" (FEDS Notes)](https://www.federalreserve.gov/econres/notes/feds-notes/how-does-intergenerational-wealth-transmission-affect-wealth-concentration-20180601.html)
-16. Clark, G. (2014). *The Son Also Rises: Surnames and the History of Social Mobility*. Princeton University Press.
+16. [Clark, G. (2014). *The Son Also Rises: Surnames and the History of Social Mobility*. Princeton University Press.](https://press.princeton.edu/books/hardcover/9780691162546/the-son-also-rises)
 17. [Clark & Cummins — "Intergenerational Wealth Mobility in England, 1858–2012" (Economic Journal, 2015)](https://onlinelibrary.wiley.com/doi/10.1111/ecoj.12165)
 18. [Barone & Mocetti — "Intergenerational Mobility in the Very Long Run: Florence 1427–2011" (Review of Economic Studies, 2021)](https://academic.oup.com/restud/article/88/4/1863/5871444)

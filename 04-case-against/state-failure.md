@@ -79,7 +79,7 @@ The business carve-out makes the state a preferred-equity holder in thousands of
 ## What would change the assessment
 
 - **Against the proposal:** documented endowment raids or threshold ratchets in any early-adopting jurisdiction; evidence that the independent-fund model fails to insulate the equity portfolio from ministerial direction (the Norwegian fund's governance record is the live test case — to verify ongoing assessments); a pattern of valuation corruption emerging even in high-capacity administrations once stakes reach 100%.
-- **For the proposal:** continued resilience of universal entitlements against retrenchment relative to targeted programmes (the existing comparative welfare-state literature — Korpi & Palme's "paradox of redistribution" — already points this way, to verify applicability); successful multi-decade operation of the deferral book by an existing administration analogue, e.g. Irish CAT instalments or the UK's post-2024 APR arrangements.
+- **For the proposal:** continued resilience of universal entitlements against retrenchment relative to targeted programmes (the existing comparative welfare-state literature — [Korpi & Palme's "paradox of redistribution"](https://ideas.repec.org/p/lis/liswps/174.html) — already points this way, to verify applicability); successful multi-decade operation of the deferral book by an existing administration analogue, e.g. Irish CAT instalments or the UK's post-2024 APR arrangements.
 
 ## Verdict
 
@@ -95,10 +95,10 @@ Quick-fire versions: [`../09-objections/practicality.md`](../09-objections/pract
 
 ## Sources
 
-1. Brennan & Buchanan, *The Power to Tax: Analytical Foundations of a Fiscal Constitution* (Cambridge, 1980).
-2. Niskanen, *Bureaucracy and Representative Government* (1971); Tullock, "The Welfare Costs of Tariffs, Monopolies, and Theft," *Western Economic Journal* (1967).
-3. Seltzer & Anderson, "The Dark Side of Numbers: The Role of Population Data Systems in Human Rights Abuses," *Social Research* 68(2), 2001; Scott, *Seeing Like a State* (Yale, 1998).
+1. [Brennan & Buchanan, *The Power to Tax: Analytical Foundations of a Fiscal Constitution* (Cambridge, 1980)](https://oll.libertyfund.org/titles/brennan-the-collected-works-of-james-m-buchanan-vol-9-the-power-to-tax).
+2. [Niskanen, *Bureaucracy and Representative Government* (1971)](https://www.routledge.com/Bureaucracy-and-Representative-Government/Niskanen/p/book/9780202309590); [Tullock, "The Welfare Costs of Tariffs, Monopolies, and Theft," *Western Economic Journal* (1967)](https://onlinelibrary.wiley.com/doi/10.1111/j.1465-7295.1967.tb01923.x).
+3. [Seltzer & Anderson, "The Dark Side of Numbers: The Role of Population Data Systems in Human Rights Abuses," *Social Research* 68(2), 2001](https://philpapers.org/rec/SELTDS); [Scott, *Seeing Like a State* (Yale, 1998)](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/).
 4. On the Road Fund raid: standard fiscal-history accounts of Churchill's 1926 Budget (to verify precise sequence and 1937 abolition).
 5. UK National Audit Office and DCMS reviews of National Lottery additionality (to verify specific reports).
-6. Hayek, "The Use of Knowledge in Society," *AER* 35(4), 1945; on IRI and state holding companies, standard Italian political-economy literature (to verify characterisation).
+6. [Hayek, "The Use of Knowledge in Society," *AER* 35(4), 1945](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945); on IRI and state holding companies, standard Italian political-economy literature (to verify characterisation).
 7. Cross-references: [`../02-proposal/endowment.md`](../02-proposal/endowment.md); [`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md); [`../11-geographies/adoption-criteria.md`](../11-geographies/adoption-criteria.md).

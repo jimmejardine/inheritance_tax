@@ -75,7 +75,7 @@ Both stories were covered obsessively by the media themselves (and dramatised by
 
 1. [Ofcom — News Consumption in the UK (annual)](https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand/news-media)
 2. [Media Reform Coalition — Who Owns the UK Media?](https://www.mediareform.org.uk/media-ownership)
-3. [UK press reporting on the Rothermere family's historic non-domiciled status (to verify current position)](https://www.theguardian.com/media)
-4. [Reporting on Sinclair Broadcast Group's must-run segments and family control](https://www.nytimes.com/)
+3. [UK press reporting on the Rothermere family's historic non-domiciled status (to verify current position)](https://bylinetimes.com/2022/04/14/britains-foreign-media-oligarchy/)
+4. [Reporting on Sinclair Broadcast Group's must-run segments and family control](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script)
 5. [Reporting on In re Doe 1 Trust (Nevada probate proceedings over the Murdoch Family Trust, 2024)](https://www.nytimes.com/2024/12/09/business/media/murdoch-family-trust-ruling.html)
-6. [Reporting on the Redstone succession and Paramount–Skydance transaction](https://www.wsj.com/)
+6. [Reporting on the Redstone succession and Paramount–Skydance transaction](https://www.cnbc.com/2024/07/08/paramount-skydance-merger.html)

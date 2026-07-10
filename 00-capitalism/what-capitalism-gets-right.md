@@ -64,7 +64,7 @@ Sincerity cuts both ways, so three non-claims for the record. First, this is not
 ## Verification checklist
 
 - McCloskey's ~30x / ~3,000% Great Enrichment magnitudes and dating, against *Bourgeois Equality* (2016).
-- Global life-expectancy series 1900–2020; Sen's famine-and-democracy finding (*Development as Freedom*, 1999).
+- Global life-expectancy series 1900–2020; Sen's famine-and-democracy finding ([*Development as Freedom*](https://sen.scholars.harvard.edu/publications/development-freedom), 1999).
 - World Bank extreme-poverty series: headcount ratio 1980 vs latest, at the current international poverty line; the "more exits after 1980 than all prior history" formulation.
 - Nordhaus (2004) producer-retention estimate (commonly cited as ~2.2% of innovation surplus) and its methodology.
 - Standard famine mortality ranges for Soviet collectivisation and the Great Leap Forward.
@@ -72,10 +72,10 @@ Sincerity cuts both ways, so three non-claims for the record. First, this is not
 
 ## Sources
 
-1. McCloskey, D. (2016). *Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World*. University of Chicago Press.
+1. McCloskey, D. (2016). [*Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World*](https://press.uchicago.edu/ucp/books/book/chicago/B/bo22655327.html). University of Chicago Press.
 2. [World Bank, Poverty and Inequality Platform](https://pip.worldbank.org/) — extreme-poverty headcount series (to verify).
-3. Hayek, F. A. (1945). "The Use of Knowledge in Society." *American Economic Review* 35(4).
-4. Schumpeter, J. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers.
-5. Nordhaus, W. (2004). "Schumpeterian Profits in the American Economy: Theory and Measurement." NBER Working Paper 10433.
-6. Friedman, M. (1962). *Capitalism and Freedom*. University of Chicago Press.
-7. Standard references: Kornai, *The Socialist System* (1992); Courtois et al., *The Black Book of Communism* (1997) — mortality figures contested in detail, direction not.
+3. Hayek, F. A. (1945). ["The Use of Knowledge in Society."](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945) *American Economic Review* 35(4).
+4. Schumpeter, J. (1942). [*Capitalism, Socialism and Democracy*](https://archive.org/details/capitalismsocial00schu). Harper & Brothers.
+5. Nordhaus, W. (2004). ["Schumpeterian Profits in the American Economy: Theory and Measurement."](https://www.nber.org/papers/w10433) NBER Working Paper 10433.
+6. Friedman, M. (1962). [*Capitalism and Freedom*](https://press.uchicago.edu/ucp/books/book/chicago/C/bo68666099.html). University of Chicago Press.
+7. Standard references: Kornai, [*The Socialist System*](https://press.princeton.edu/books/paperback/9780691003931/the-socialist-system) (1992); Courtois et al., [*The Black Book of Communism*](https://www.hup.harvard.edu/books/9780674076082) (1997) — mortality figures contested in detail, direction not.

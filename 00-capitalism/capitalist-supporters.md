@@ -66,8 +66,8 @@ Three qualifications, so the lineage is used accurately rather than talismanical
 
 ## Sources
 
-1. Smith, A. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book III, ch. 2 — on entails and primogeniture.
-2. Buffett, W. — interviews and Berkshire shareholder letters; *Fortune* (1986) on inheritance (quotes to verify).
-3. Gates, W. H. Sr. and Collins, C. (2002). *Wealth and Our Commonwealth: Why America Should Tax Accumulated Fortunes*. Beacon Press.
+1. Smith, A. (1776). [*An Inquiry into the Nature and Causes of the Wealth of Nations*](https://gutenberg.org/files/3300/3300-h/3300-h.htm), Book III, ch. 2 — on entails and primogeniture.
+2. Buffett, W. — interviews and Berkshire shareholder letters; [*Fortune* (1986)](https://fortune.com/2012/11/21/should-you-leave-it-all-to-the-children/) on inheritance (quotes to verify).
+3. Gates, W. H. Sr. and Collins, C. (2002). [*Wealth and Our Commonwealth: Why America Should Tax Accumulated Fortunes*](https://www.beacon.org/Wealth-and-Our-Commonwealth-P187.aspx). Beacon Press.
 4. [The Giving Pledge](https://givingpledge.org/) — signatory list and letters.
-5. Hayek, F. A. (1960). *The Constitution of Liberty*. University of Chicago Press. Friedman, M. (1962). *Capitalism and Freedom*. University of Chicago Press.
+5. Hayek, F. A. (1960). [*The Constitution of Liberty*](https://press.uchicago.edu/ucp/books/book/chicago/C/bo9253956.html). University of Chicago Press. Friedman, M. (1962). [*Capitalism and Freedom*](https://press.uchicago.edu/ucp/books/book/chicago/C/bo68666099.html). University of Chicago Press.

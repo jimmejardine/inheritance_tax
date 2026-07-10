@@ -75,8 +75,8 @@ One line to hold in every drafting and litigation argument: **the regime taxes n
 ## Sources
 
 1. [Mirrlees Review, *Tax by Design*, Ch. 15](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — transition discussion for a lifetime-receipts tax.
-2. *National & Provincial Building Society and others v United Kingdom* (ECtHR, 1997) — retrospective tax legislation and A1P1 margin of appreciation (citation to verify).
-3. *United States v. Carlton*, 512 U.S. 26 (1994) — due-process tolerance of retroactive tax legislation with rational purpose.
+2. [*National & Provincial Building Society and others v United Kingdom* (ECtHR, 1997)](https://hudoc.echr.coe.int/eng?i=001-58109) — retrospective tax legislation and A1P1 margin of appreciation (citation to verify).
+3. [*United States v. Carlton*, 512 U.S. 26 (1994)](https://supreme.justia.com/cases/federal/us/512/26/) — due-process tolerance of retroactive tax legislation with rational purpose.
 4. [HMRC — Trusts and Inheritance Tax: the relevant-property regime (ten-year anniversary and exit charges)](https://www.gov.uk/guidance/trusts-and-inheritance-tax) — the existing machinery the periodic-charge backstop extends.
 5. [HMRC trust statistics](https://www.gov.uk/government/collections/trusts-statistics) — for sizing the pre-commencement trust stock (aggregate figures to verify).
 6. [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm) — cross-country treatment of trusts and transition practice.

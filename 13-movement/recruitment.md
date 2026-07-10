@@ -4,7 +4,7 @@
 
 ## The concentric-circle model
 
-People do not join movements; they accept escalating asks. Each ring below is defined by the size of the ask it has accepted. The organising task is to move people inward one ring at a time — the "ladder of engagement" from community-organising practice, and the leadership-development logic of Marshall Ganz's "snowflake" model, in which every member is developed into a recruiter of further members rather than remaining a consumer of the campaign (to verify attribution and canonical description).
+People do not join movements; they accept escalating asks. Each ring below is defined by the size of the ask it has accepted. The organising task is to move people inward one ring at a time — the "ladder of engagement" from community-organising practice, and the leadership-development logic of [Marshall Ganz](https://www.hks.harvard.edu/faculty/marshall-ganz)'s "snowflake" model, in which every member is developed into a recruiter of further members rather than remaining a consumer of the campaign (to verify attribution and canonical description).
 
 | Ring | Who | Approx. target size at maturity | The ask |
 |---|---|---|---|
@@ -25,7 +25,7 @@ People do not join movements; they accept escalating asks. Each ring below is de
 
 ### Ring 2 — Contributors
 
-- **Where found:** university economics and law departments; tax-professional bodies (CIOT, STEP in the UK; ABA tax section in the US — to verify openness); journalists on wealth beats; comms professionals sympathetic to inequality causes.
+- **Where found:** university economics and law departments; tax-professional bodies ([CIOT](https://www.tax.org.uk/), [STEP](https://www.step.org/) in the UK; [ABA tax section](https://www.americanbar.org/groups/taxation/) in the US — to verify openness); journalists on wealth beats; comms professionals sympathetic to inequality causes.
 - **The ask:** one bounded, prestigious task — peer-review a chapter, model a revenue estimate, draft an avoidance memo, design a message test.
 - **Conversion mechanism:** the bounded ask itself. Experts rarely "join movements" but readily accept a well-specified request that respects their time and yields a citable output.
 - **What they need:** professional cover (association with a credible institution, not a fringe campaign — see [organisational-forms.md](organisational-forms.md)), named credit or guaranteed anonymity as they prefer, and a research agenda worth their career time. For academic economists specifically, the offer is a **new research programme**: inheritance flows, endowment effects ([16-second-order/](../16-second-order/README.md)), and behavioural responses are under-studied and publishable — the movement supplies questions, data access, and audience.
@@ -58,7 +58,7 @@ The most valuable recruits are people whose current position argues *against* th
 | Wealth managers, private bankers | How dynastic wealth actually behaves — flight realism for [08-capital-flight/evidence.md](../08-capital-flight/evidence.md) | Family offices, private banks; disillusioned mid-career leavers | Background briefings; "what would actually make your ex-clients stay" |
 | Academic economists | Credibility, modelling, the inside track | Public-economics groups; early-career researchers needing a distinctive agenda | A funded, publishable research programme |
 | Inheritance-industry professionals (probate, insurance) | Operational realism for [07-implementation/administration.md](../07-implementation/administration.md) | Professional bodies, trade press | Consultation on administrability |
-| Wealthy would-be inheritors and founders | The messenger asset — treated fully in [messengers.md](messengers.md) | Patriotic Millionaires and adjacent networks | Public testimony, funding, doors |
+| Wealthy would-be inheritors and founders | The messenger asset — treated fully in [messengers.md](messengers.md) | [Patriotic Millionaires](https://patrioticmillionaires.org/) and adjacent networks | Public testimony, funding, doors |
 
 Doctrine for handling defectors: (1) **anonymity first** — most will help privately years before speaking publicly; build the graduated path. (2) **Never burn a source** for a news cycle. (3) **Verify** — a fake or exaggerated defector story is a gift to [10-opposition/media-narratives.md](../10-opposition/media-narratives.md).
 

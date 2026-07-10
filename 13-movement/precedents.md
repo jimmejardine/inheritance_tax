@@ -12,7 +12,7 @@ Arguably the fastest major value-shift in modern democratic politics: from fring
 - **Generational patience as explicit strategy.** Campaigners knew cohort replacement was running in their favour and built institutions designed to last until it did. Inheritance reform has the same demographic tailwind: the priced-out young age into the electorate's centre ([12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md)).
 - **Incremental legal stepping-stones** (civil partnerships → marriage) that normalised without satisfying — the model for [12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 
-### The $15 minimum wage (Fight for $15)
+### The $15 minimum wage ([Fight for $15](https://fightforaunion.org/))
 
 From a 2012 fast-food walkout demand widely called impossible to enacted law in many US states and cities within a decade (to verify scope). Transferable mechanisms:
 
@@ -44,7 +44,7 @@ Warren's 2% wealth tax polled at supermajority levels, including among Republica
 
 ### The opponent's success: death-tax repeal as an organising case study
 
-The 2001 US estate-tax repeal is usually told as a framing story ("death tax"); the deeper lesson is organisational (full treatment in [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md); details to verify against Graetz & Shapiro, *Death by a Thousand Cuts*):
+The 2001 US estate-tax repeal is usually told as a framing story ("death tax"); the deeper lesson is organisational (full treatment in [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md); details to verify against Graetz & Shapiro, [*Death by a Thousand Cuts*](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts)):
 
 - A **patient coalition** (small-business federations, farm bureaus, trade associations, family-dynasty funders) assembled over ~15 years before the legislative window.
 - **Front constituencies with hard-case credibility** — farmers and small businesses fronted a campaign whose financial engine was a handful of the wealthiest families (to verify) — the astroturf model our transparency doctrine inverts ([funding.md](funding.md)).

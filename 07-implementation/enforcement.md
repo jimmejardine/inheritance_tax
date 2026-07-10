@@ -77,12 +77,12 @@ Cross-border information flows ride CRS/FATCA and their extension to transfer re
 
 ## Sources
 
-1. [IRS — tax-gap studies showing compliance by information-reporting category](https://www.irs.gov/statistics/irs-the-tax-gap); Kleven et al. (2011), "Unwilling or Unable to Cheat?", *Econometrica* — Danish audit experiment.
+1. [IRS — tax-gap studies showing compliance by information-reporting category](https://www.irs.gov/statistics/irs-the-tax-gap); [Kleven et al. (2011), "Unwilling or Unable to Cheat?", *Econometrica*](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9113) — Danish audit experiment.
 2. [FA 2010 Sch 10 / HMRC offshore penalty regime — up to 200% for category 3 jurisdictions](https://www.gov.uk/government/publications/compliance-checks-penalties-for-offshore-non-compliance-ccfs17)
 3. [US IRC §7623(b) — whistleblower awards; IRS Whistleblower Office annual reports; Bradley Birkenfeld/UBS award (2012)](https://www.irs.gov/compliance/whistleblower-office)
 4. [HMRC — discretionary payments for information; NAO commentary](https://www.nao.org.uk/reports/)
 5. [TMA 1970 ss.34–36 — 4/6/20-year assessment windows](https://www.legislation.gov.uk/ukpga/1970/9); [US IRC §6501(c) — no limitation for fraud or non-filing](https://www.law.cornell.edu/uscode/text/26/6501)
 6. [Finance (No. 2) Act 2017 Sch 16 — penalties for enablers of defeated tax avoidance](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16); [DOTAS — disclosure of tax avoidance schemes](https://www.gov.uk/guidance/disclosure-of-tax-avoidance-schemes-overview)
 7. [Criminal Finances Act 2017 Part 3 — corporate failure to prevent facilitation of tax evasion](https://www.legislation.gov.uk/ukpga/2017/22/part/3)
-8. [DOJ Tax Division — criminal enforcement policy](https://www.justice.gov/tax); HMRC criminal-investigation policy.
+8. [DOJ Tax Division — criminal enforcement policy](https://www.justice.gov/tax); [HMRC criminal-investigation policy](https://www.gov.uk/government/publications/criminal-investigation/hmrc-criminal-investigation-policy).
 9. [OECD/Council of Europe — Convention on Mutual Administrative Assistance in Tax Matters, Arts. 11–16 (assistance in recovery)](https://www.oecd.org/tax/exchange-of-tax-information/convention-on-mutual-administrative-assistance-in-tax-matters.htm)

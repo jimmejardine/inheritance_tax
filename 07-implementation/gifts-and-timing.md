@@ -68,7 +68,7 @@ The table is the section's argument in miniature: the current regime prices *act
 
 ## Research gaps
 
-- Optimal reporting floor for bank-transfer feeds — too low drowns the system, too high invites structuring just beneath it (structuring itself should be an offence, as in US 31 USC §5324).
+- Optimal reporting floor for bank-transfer feeds — too low drowns the system, too high invites structuring just beneath it (structuring itself should be an offence, as in US [31 USC §5324](https://www.law.cornell.edu/uscode/text/31/5324)).
 - Evidence on gift-timing elasticity around regime changes beyond Sweden (Norway 2014 abolition; German reform windows) — to verify magnitudes for the transition modelling.
 - Whether the deemed-receipt presumption on unexplained wealth needs a statutory floor to stay ECHR/due-process-proof.
 
@@ -80,7 +80,7 @@ The table is the section's argument in miniature: the current regime prices *act
 4. [HM Treasury / HMRC — anti-forestalling practice in Finance Bills (e.g. announcement-day effect for avoidance measures)](https://www.gov.uk/government/collections/tax-policy-making)
 5. [Money Laundering Regulations 2017 (UK)](https://www.legislation.gov.uk/uksi/2017/692/contents); [FinCEN — currency transaction reporting](https://www.fincen.gov/)
 6. [Criminal Finances Act 2017 — unexplained wealth orders](https://www.legislation.gov.uk/ukpga/2017/22/contents)
-7. [HMRC — discovery assessment powers, TMA 1970 s.29](https://www.legislation.gov.uk/ukpga/1970/9/section/29); *Holland v United States*, 348 U.S. 121 (1954) (net-worth method).
+7. [HMRC — discovery assessment powers, TMA 1970 s.29](https://www.legislation.gov.uk/ukpga/1970/9/section/29); [*Holland v United States*, 348 U.S. 121 (1954)](https://supreme.justia.com/cases/federal/us/348/121/) (net-worth method).
 8. [OECD — Common Reporting Standard](https://www.oecd.org/tax/automatic-exchange/common-reporting-standard/)
 9. [Companies House — people with significant control register](https://www.gov.uk/guidance/people-with-significant-control-pscs)
 10. [HMRC Connect data-matching system — NAO and press coverage](https://www.nao.org.uk/reports/)

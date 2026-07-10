@@ -44,10 +44,10 @@ The manifesto's central move, and this section's contribution, is to reframe inh
 1. [Carnegie, A. (1889). "The Gospel of Wealth." *North American Review*](https://www.carnegie.org/about/our-history/gospelofwealth/)
 2. [Frank, R. (2007). *Richistan*. Crown](https://www.penguinrandomhouse.com/books/79316/richistan-by-robert-frank/)
 3. [Collins, C. (2016). *Born on Third Base*. Chelsea Green](https://www.chelseagreen.com/product/born-on-third-base/)
-4. Williams, R. & Preisser, V. (2003) *Preparing Heirs*; Pearne, D., clinical writings on inherited wealth; Sullivan, P., "Wealth Matters" columns, *New York Times*.
-5. [Patriotic Millionaires](https://patrioticmillionaires.org/); [Resource Generation](https://resourcegeneration.org/); Abigail Disney public writings and interviews, *The Atlantic*, *The Cut*, 2019–2023.
+4. [Williams, R. & Preisser, V. (2003) *Preparing Heirs*](https://rdrpublishers.com/products/preparing-heirs-five-steps-to-a-successful-transition-of-family-wealth-and-values-by-roy-williams-and-vic-preisser); Pearne, D., clinical writings on inherited wealth; [Sullivan, P., "Wealth Matters" columns, *New York Times*](https://www.nytimes.com/column/wealth-matters).
+5. [Patriotic Millionaires](https://patrioticmillionaires.org/); [Resource Generation](https://resourcegeneration.org/); [Abigail Disney public writings and interviews, *The Atlantic*, *The Cut*, 2019–2023](https://abigaildisney.com/writing/i-was-taught-from-a-young-age-to-protect-my-dynastic-wealth/).
 6. [Deci, E. L. & Ryan, R. M. (2000). "Self-Determination Theory and the Facilitation of Intrinsic Motivation." *American Psychologist*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 7. [Holtz-Eakin, D., Joulfaian, D. & Rosen, H. S. (1993). "The Carnegie Conjecture." *QJE* 108(2)](https://academic.oup.com/qje/article-abstract/108/2/413/1843844)
 8. Resource Generation / Patriotic Millionaires organisational materials (see [5]).
 9. Cross-reference: [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
-10. Bradley, S., research on "sudden money" and financial transitions.
+10. [Bradley, S., research on "sudden money" and financial transitions](https://www.wiley.com/en-us/Sudden+Money%3A+Managing+a+Financial+Windfall-p-9780471380863).

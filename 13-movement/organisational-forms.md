@@ -13,7 +13,7 @@
 
 ### Phase 1: the hosted programme
 
-Renting credibility is an order of magnitude cheaper than building it. A programme on inheritance and universal endowments inside an established institute inherits its host's press contacts, peer-review norms, and official access on day one. Candidate hosts (UK): Resolution Foundation, IPPR, Demos, the Fairness Foundation, or a university centre such as LSE's International Inequalities Institute; (US): Roosevelt Institute, Washington Center for Equitable Growth (fit and openness to verify). Note the precedent: the concrete UK proposal closest to ours — a £10,000 citizen's inheritance — came from exactly this form, a Resolution Foundation commission output (to verify details; see [05-history/ackerman-alstott.md](../05-history/ackerman-alstott.md) and [05-history/atkinson.md](../05-history/atkinson.md) for the intellectual lineage).
+Renting credibility is an order of magnitude cheaper than building it. A programme on inheritance and universal endowments inside an established institute inherits its host's press contacts, peer-review norms, and official access on day one. Candidate hosts (UK): [Resolution Foundation](https://www.resolutionfoundation.org/), [IPPR](https://www.ippr.org/), [Demos](https://demos.co.uk/), the [Fairness Foundation](https://fairnessfoundation.com/about), or a university centre such as LSE's [International Inequalities Institute](https://www.lse.ac.uk/international-inequalities); (US): [Roosevelt Institute](https://rooseveltinstitute.org/), [Washington Center for Equitable Growth](https://equitablegrowth.org/) (fit and openness to verify). Note the precedent: the concrete UK proposal closest to ours — a £10,000 citizen's inheritance — came from exactly this form, a Resolution Foundation commission output (to verify details; see [05-history/ackerman-alstott.md](../05-history/ackerman-alstott.md) and [05-history/atkinson.md](../05-history/atkinson.md) for the intellectual lineage).
 
 Trade-off: the host's brand caps the radicalism of what can be published. A hosted programme can normalise "reform inheritance taxation and fund a citizen's endowment"; it likely cannot lead with "100%". That is acceptable in phase 1 — see the Overton sequencing in [14-communications/overton-strategies.md](../14-communications/overton-strategies.md) and stepping-stone logic in [12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 
@@ -31,8 +31,8 @@ These constraints are load-bearing for structure; get counsel before incorporati
 
 | Jurisdiction | Vehicle | Can do | Cannot do |
 |---|---|---|---|
-| UK | Registered charity (Charity Commission) | Research, education, policy analysis; some campaigning if ancillary to charitable purposes (CC9 guidance) | Political purposes as its *raison d'être*; party-political support |
-| UK | Non-charitable company / unincorporated campaign | Unrestricted campaigning; regulated election spending (Electoral Commission rules) | Tax reliefs of charity status |
+| UK | Registered charity (Charity Commission) | Research, education, policy analysis; some campaigning if ancillary to charitable purposes ([CC9 guidance](https://www.gov.uk/government/publications/speaking-out-guidance-on-campaigning-and-political-activity-by-charities-cc9)) | Political purposes as its *raison d'être*; party-political support |
+| UK | Non-charitable company / unincorporated campaign | Unrestricted campaigning; regulated election spending ([Electoral Commission](https://www.electoralcommission.org.uk/our-guidance/campaigner/non-party-campaigner) rules) | Tax reliefs of charity status |
 | US | 501(c)(3) | Research, education; insubstantial lobbying (or 501(h) election limits) | Any electoral intervention; substantial lobbying |
 | US | 501(c)(4) | Unlimited lobbying; some electoral activity | Tax-deductible donations |
 
@@ -65,7 +65,7 @@ Implication: the mature US structure is the standard paired (c)(3)/(c)(4); the U
 
 ## The respectability + radical flank model
 
-Mature movements run two organisations deliberately: a credentialed insider institution officials can safely cite, and an independent, louder flank that shifts the perceived centre. Research on radical-flank effects suggests a (non-violent) radical flank can *increase* support for moderate factions by making them look reasonable (evidence mixed and context-dependent — to verify against current social-movement literature). Historical pattern: abolition, suffrage, civil rights, and climate (Greenpeace/EJF vs. green think-tanks) all exhibit the pairing.
+Mature movements run two organisations deliberately: a credentialed insider institution officials can safely cite, and an independent, louder flank that shifts the perceived centre. Research on [radical-flank effects](https://academic.oup.com/pnasnexus/article/1/3/pgac110/6633666) suggests a (non-violent) radical flank can *increase* support for moderate factions by making them look reasonable (evidence mixed and context-dependent — to verify against current social-movement literature). Historical pattern: abolition, suffrage, civil rights, and climate ([Greenpeace](https://www.greenpeace.org/international/)/EJF vs. green think-tanks) all exhibit the pairing.
 
 Doctrine:
 

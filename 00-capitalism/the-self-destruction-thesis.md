@@ -72,8 +72,8 @@ A senior-analyst claim should state its own disconfirmers. The thesis weakens if
 
 ## Sources
 
-1. Schumpeter, J. (1942). *Capitalism, Socialism and Democracy*, Part II. Harper & Brothers.
-2. Piketty, T. (2014). *Capital in the Twenty-First Century*. Harvard University Press — r > g and inheritance-flow series.
-3. [Roosevelt, F. D. (1935). Message to Congress on Tax Revision](https://www.presidency.ucsb.edu/) — "inherited economic power" framing (to verify).
-4. Marx, K. (1867). *Capital*, Vol. I — concentration and centralisation chapters, read as forecast to be falsified.
-5. Turchin, P. (2023). *End Times* — elite overproduction and instability; see [../01-problem/elite-overproduction.md](../01-problem/elite-overproduction.md).
+1. Schumpeter, J. (1942). [*Capitalism, Socialism and Democracy*](https://archive.org/details/capitalismsocial00schu), Part II. Harper & Brothers.
+2. Piketty, T. (2014). [*Capital in the Twenty-First Century*](https://www.hup.harvard.edu/books/9780674430006). Harvard University Press — r > g and inheritance-flow series.
+3. [Roosevelt, F. D. (1935). Message to Congress on Tax Revision](https://www.presidency.ucsb.edu/documents/message-congress-tax-revision) — "inherited economic power" framing (to verify).
+4. Marx, K. (1867). [*Capital*, Vol. I](https://www.marxists.org/archive/marx/works/1867-c1/) — concentration and centralisation chapters, read as forecast to be falsified.
+5. Turchin, P. (2023). [*End Times*](https://www.penguinrandomhouse.com/books/703238/end-times-by-peter-turchin/) — elite overproduction and instability; see [../01-problem/elite-overproduction.md](../01-problem/elite-overproduction.md).

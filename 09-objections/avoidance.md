@@ -41,7 +41,7 @@ The environment has also changed under the objection's feet: the Common Reportin
 
 ## "It'll only catch the moderately rich; the billionaires escape"
 
-**Concede first.** This described the abolished regimes accurately — incidence inversely correlated with wealth above the threshold was their deepest legitimacy failure, and offshore-evasion research (Alstadsæter, Johannesen and Zucman) finds evasion rising steeply with wealth (to verify).
+**Concede first.** This described the abolished regimes accurately — incidence inversely correlated with wealth above the threshold was their deepest legitimacy failure, and offshore-evasion research ([Alstadsæter, Johannesen and Zucman](https://www.aeaweb.org/articles?id=10.1257/aer.20172043)) finds evasion rising steeply with wealth (to verify).
 
 **One-line answer.** That was a fact about *those designs* — estate-based, gift-leaky, trust-blind, domestically informed — not about inheritance taxation as such, and the billionaire-specific escape routes each have a named fix.
 

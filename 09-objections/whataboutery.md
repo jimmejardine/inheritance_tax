@@ -18,7 +18,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 ## "Why not a wealth tax instead?"
 
-**Concede first.** The Saez–Zucman case for annual wealth taxation targets the same underlying problem — concentrated stocks — and a modest annual levy polls well; the two instruments are intellectual cousins, not rivals.
+**Concede first.** The [Saez–Zucman case for annual wealth taxation](https://www.brookings.edu/articles/progressive-wealth-taxation/) targets the same underlying problem — concentrated stocks — and a modest annual levy polls well; the two instruments are intellectual cousins, not rivals.
 
 **One-line answer.** An annual wealth tax must solve the valuation problem for every asset, every person, every year, while the living owner actively restructures against it — this proposal solves it once per lifetime, against an owner who is dead.
 

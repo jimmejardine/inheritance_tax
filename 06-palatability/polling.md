@@ -90,12 +90,12 @@ All quantitative claims above are drawn from general knowledge of the literature
 1. [YouGov — UK tax fairness trackers](https://yougov.co.uk/) *(specific waves to verify)*
 2. [Ipsos — UK attitudes to taxation](https://www.ipsos.com/en-uk) *(specific waves to verify)*
 3. [Gallup — estate tax question series](https://news.gallup.com/) *(to verify)*
-4. NPR/Kaiser/Kennedy School poll on taxes (2003); Slemrod, "The Role of Misconceptions in Support for Regressive Tax Reform" (2006) *(to verify)*
+4. [NPR/Kaiser/Kennedy School poll on taxes (2003)](https://www.kff.org/public-opinion/survey-of-americans-views-on-taxes/); [Slemrod, "The Role of Misconceptions in Support for Regressive Tax Reform" (2006)](https://www.journals.uchicago.edu/doi/10.17310/ntj.2006.1.03) *(to verify)*
 5. [Kuziemko, Norton, Saez & Stantcheva, "How Elastic Are Preferences for Redistribution?" AER (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130360)
 6. [Fisman, Gladstone, Kuziemko & Naidu, "Do Americans Want to Tax Wealth?" J. Public Economics (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0047272720301243)
 7. [Bastani & Waldenström, "Perceptions of Inherited Wealth and the Support for Inheritance Taxation," Economica (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ecca.12367)
-8. [Resolution Foundation, *A New Generational Contract* (2018)](https://www.resolutionfoundation.org/advanced/a-new-generational-contract/); IPPR Commission on Economic Justice (2018)
-9. Institut für Demoskopie Allensbach; Forsa — German tax-attitude series *(to verify)*
+8. [Resolution Foundation, *A New Generational Contract* (2018)](https://www.resolutionfoundation.org/advanced/a-new-generational-contract/); [IPPR Commission on Economic Justice (2018)](https://www.ippr.org/articles/prosperity-and-justice)
+9. [Institut für Demoskopie Allensbach](https://www.ifd-allensbach.de/); [Forsa](https://www.forsa.de/) — German tax-attitude series *(to verify)*
 10. [Stantcheva, "Understanding Tax Policy: How Do People Reason?" QJE (2021)](https://academic.oup.com/qje/article/136/4/2309/6363701)
-11. Gross, Lorek & Richter, survey-experimental work on inheritance-tax framing in Germany (2017) *(citation to verify)*
-12. Pew Research Center; Data for Progress — baby-bond polling *(to verify)*
+11. [Gross, Lorek & Richter, survey-experimental work on inheritance-tax framing in Germany (2017)](https://link.springer.com/article/10.1007/s10888-016-9344-4) *(citation to verify)*
+12. Pew Research Center; [Data for Progress](https://www.dataforprogress.org/polling-the-left-agenda) — baby-bond polling *(to verify)*

@@ -19,7 +19,7 @@ Two properties make these narratives durable. They are *pre-loaded*: decades of 
 
 ## Live case study: the UK APR/BPR reform protests, 2024–25
 
-In the October 2024 Budget, the UK government announced a cap on agricultural property relief and business property relief — reported as a combined £1m of fully relieved assets per estate, with an effective 20% inheritance-tax rate above that, from April 2026 (to verify all parameters against Finance Act text). What followed is the best recent natural experiment in hard-case media capture:
+In the October 2024 Budget, the UK government announced a cap on [agricultural property relief and business property relief](https://www.gov.uk/government/publications/reforms-to-agricultural-property-relief-and-business-property-relief) — reported as a combined £1m of fully relieved assets per estate, with an effective 20% inheritance-tax rate above that, from April 2026 (to verify all parameters against Finance Act text). What followed is the best recent natural experiment in hard-case media capture:
 
 - **Speed.** Within weeks, tractors were in Westminster and the story had a name ("the family farm tax") — the renaming move from [attack-playbook.md](attack-playbook.md) executed almost immediately.
 - **Contested arithmetic.** The Treasury's position was that a large majority of estates claiming the reliefs would be unaffected, citing figures in the low hundreds of affected estates per year (to verify); the NFU and CLA countered with much larger estimates of farms notionally above the cap (to verify). Media coverage largely reported the dispute as unresolvable, which favours the side with the pictures.
@@ -77,4 +77,4 @@ The 2024 APR episode reached stage 4 within roughly a month (to verify): "the fa
 ## Sources
 
 1. [BBC News — coverage of the November 2024 farmer protests over inheritance tax relief changes](https://www.bbc.co.uk/news)
-2. [Institute for Fiscal Studies — analysis of the 2024 Budget changes to agricultural and business property reliefs](https://ifs.org.uk/)
+2. [Institute for Fiscal Studies — analysis of the 2024 Budget changes to agricultural and business property reliefs](https://ifs.org.uk/articles/inheritance-tax-and-farms-0)

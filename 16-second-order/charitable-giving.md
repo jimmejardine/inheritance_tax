@@ -28,7 +28,7 @@ For calibration: US estates above $50m already leave a substantial fraction to c
 |---|---|---|
 | Core claim | Plutocratic power persists, relabelled | Carnegie's intended outcome achieved |
 | Mechanism | Perpetual foundations extend donor control past death; unaccountable, tax-advantaged, self-perpetuating boards | Surplus fortunes administered for public benefit during and shortly after life, rather than transmitted as private dynastic power |
-| Key text | Rob Reich, *Just Giving* (2018): foundations are "institutional oddities" in a democracy — donor-directed, perpetual, unaccountable [4] | Carnegie, *The Gospel of Wealth* (1889): the man who dies rich "dies disgraced"; Carnegie explicitly endorsed near-confiscatory death duties as the enforcement mechanism (see [`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)) |
+| Key text | Rob Reich, *Just Giving* (2018): foundations are "institutional oddities" in a democracy — donor-directed, perpetual, unaccountable [4] | Carnegie, [*The Gospel of Wealth* (1889)](https://www.carnegie.org/publications/the-gospel-of-wealth/): the man who dies rich "dies disgraced"; Carnegie explicitly endorsed near-confiscatory death duties as the enforcement mechanism (see [`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)) |
 | Exhibits | Gates Foundation endowment ~$75bn (to verify); Wellcome Trust ~£38bn (to verify); US foundation sector >$1tn in assets (to verify) — each a power centre no voter can remove | Carnegie's libraries, Rockefeller's universities, Wellcome's science funding: durable public goods no legislature would have funded |
 
 Both readings are partly right, which is why the design cannot be laissez-faire about the charitable channel.
@@ -39,7 +39,7 @@ Both readings are partly right, which is why the design cannot be laissez-faire 
 
 1. **Anti-cycling rule.** Assets that flow to a charity and back to the donor's family or controlled entities trigger full crystallisation plus penalty.
 2. **Control test.** Foundations with donor-family board majorities, family-adjacent grant-making, or material family employment income are recharacterised as private vehicles and taxed.
-3. **Payout floor.** Minimum 5% annual qualifying distribution, mirroring US IRC §4942 — endowment hoarding is not public benefit.
+3. **Payout floor.** Minimum 5% annual qualifying distribution, mirroring US [IRC §4942](https://www.law.cornell.edu/uscode/text/26/4942) — endowment hoarding is not public benefit.
 4. **Sunset requirement (proposed).** Foundations receiving exempt bequests above a size threshold must adopt a spend-down horizon — full distribution within a fixed period (candidate range: 30–80 years after the founder's death). Precedents: the Gates Foundation's own commitment to spend down within 20 years of its founders' deaths (to verify) [5]; Julius Rosenwald's deliberately terminating fund (fully spent by 1948); Atlantic Philanthropies' completed spend-down (2020). Perpetuity should be the regulated exception (operating charities, land trusts), not the default.
 
 ## 5. The perpetuity problem, honestly stated
@@ -66,8 +66,8 @@ The honest formulation for the manifesto: *the policy does not abolish big phila
 
 ## Sources
 
-1. Joulfaian, D. — estate-tax charitable bequest studies, US Treasury OTA papers and *National Tax Journal* (various) (to verify specific estimates)
-2. Bakija, J. & Gale, W. — work on estate taxation and charitable giving, Brookings/NBER (to verify)
-3. HMRC / charity-sector analyses of the FA 2012 36% reduced rate (to verify)
-4. Reich, R. *Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better* (Princeton, 2018)
-5. Gates Foundation spend-down commitment, foundation statements (to verify current terms)
+1. [Joulfaian, D. — estate-tax charitable bequest studies, US Treasury OTA papers and *National Tax Journal* (various)](https://home.treasury.gov/system/files/131/WP-92.pdf) (to verify specific estimates)
+2. [Bakija, J. & Gale, W. — work on estate taxation and charitable giving, Brookings/NBER](https://www.nber.org/papers/w9661) (to verify)
+3. [HMRC / charity-sector analyses of the FA 2012 36% reduced rate](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm45030) (to verify)
+4. [Reich, R. *Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better* (Princeton, 2018)](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
+5. [Gates Foundation spend-down commitment, foundation statements](https://www.gatesfoundation.org/ideas/media-center/press-releases/2025/05/25th-anniversary-announcement) (to verify current terms)

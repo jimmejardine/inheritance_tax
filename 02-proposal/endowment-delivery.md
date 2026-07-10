@@ -37,7 +37,7 @@ The threat model is not primarily benefit fraud (eligibility is a birth-register
 
 | Threat | Defence |
 |---|---|
-| Advance-fee / "unlock your endowment early" lending | **Statutory anti-assignment:** contracts secured on an unpaid endowment are void (precedent: 42 U.S.C. §407 for Social Security; UK pension assignment bans — to verify); no legal market in endowment advances can exist |
+| Advance-fee / "unlock your endowment early" lending | **Statutory anti-assignment:** contracts secured on an unpaid endowment are void (precedent: [42 U.S.C. §407](https://www.law.cornell.edu/uscode/text/42/407) for Social Security; UK pension assignment bans — to verify); no legal market in endowment advances can exist |
 | Account-takeover and APP fraud at claim | 30-day cooling period between claim and first transfer above a de minimis (figure illustrative: £1,000); confirmation-of-payee-only destinations; delayed-execution default on first large withdrawal |
 | Fake investment products targeting the cohort | FCA/SEC financial-promotion rules extended to name endowment recipients as a protected audience; annual pre-payout warning campaign timed to each cohort |
 | Mis-selling by regulated firms | Optional **advice voucher**: a funded session with a regulated adviser, redeemable in the claim year; adviser conduct rules apply |

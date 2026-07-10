@@ -68,13 +68,13 @@ The equilibrium is the point: an honest family with genuinely lost keys is never
 - CARF implementation timelines and coverage gaps by jurisdiction (to verify current state; DeFi and unhosted-wallet reporting remain contested).
 - Empirical base rates of genuine key loss for estimating the suspended-receipts population.
 - Whether the vesting-deferral rule for carry needs an interest charge to remove deferral advantage.
-- How executor digital-asset discovery duties interact with device-encryption law (compelled-decryption limits differ sharply between UK RIPA s.49 powers and US Fifth Amendment doctrine).
+- How executor digital-asset discovery duties interact with device-encryption law (compelled-decryption limits differ sharply between UK [RIPA s.49](https://www.legislation.gov.uk/ukpga/2000/23/section/49) powers and US Fifth Amendment doctrine).
 
 ## Sources
 
 1. [Chainalysis — Crypto Crime Reports; use of chain analysis in enforcement](https://www.chainalysis.com/reports/); UK NCA and IRS-CI seizure practice.
 2. [OECD — Crypto-Asset Reporting Framework and amendments to the CRS (2022)](https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm)
 3. [STEP — digital assets guidance for practitioners](https://www.step.org/); Law Society practice notes on digital assets in estates.
-4. Coverage of music-catalogue acquisitions (Hipgnosis, Sony/Dylan, Springsteen) — market pricing of royalty streams (to verify multiples).
+4. [Coverage of music-catalogue acquisitions (Hipgnosis, Sony/Dylan, Springsteen)](https://www.cnbc.com/2022/01/24/bob-dylan-sells-recorded-music-catalog-to-sony-music-entertainment.html) — market pricing of royalty streams (to verify multiples).
 5. [*Estate of Michael J. Jackson v. Commissioner*, T.C. Memo. 2021-48](https://www.ustaxcourt.gov/) — image-and-likeness valuation dispute.
 6. [US IRC §409A and equity-compensation valuation practice](https://www.law.cornell.edu/uscode/text/26/409A)

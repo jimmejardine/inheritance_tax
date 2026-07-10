@@ -22,7 +22,7 @@
 | Cerulli (2024 revision) | US | to 2048 | ~$105–124tn (to verify) | Upward revision driven by post-2020 asset prices [1] |
 | Kings Court Trust / CEBR | UK | ~2017–2047 | ~£5.5tn (to verify) | Commissioned research; dated but widely cited [2] |
 | Resolution Foundation | UK | flow, annual | Inheritance flow ≈ doubled as share of national income since 1970s | Best-grounded UK series [3] |
-| UBS Billionaire Ambitions | Global, billionaires only | 20–30 years | ~$5.2tn of billionaire wealth to transfer | Covered in [wealth-concentration.md](wealth-concentration.md) |
+| [UBS Billionaire Ambitions](https://www.ubs.com/global/en/media/display-page-ndp/en-20231130-the-great-wealth-transfer.html) | Global, billionaires only | 20–30 years | ~$5.2tn of billionaire wealth to transfer | Covered in [wealth-concentration.md](wealth-concentration.md) |
 
 All industry figures should be re-verified against current releases before publication; the qualitative claim — the largest transfer in history, by an order of magnitude in nominal terms — is robust to any plausible revision.
 

@@ -27,7 +27,7 @@ Each recipient has a **single running total** of taxable receipts, net of exempt
 
 ## 3. Liability and nexus
 
-The recipient owes the tax where **either** (a) the recipient is UK resident or UK domiciled/deemed-domiciled at the tax point, **or** (b) the asset transferred is UK-situated (UK land, shares in UK-incorporated companies, UK bank deposits, tangible UK chattels). The US parallel substitutes US tax residence / citizenship for (a) and US-situated property for (b), tracking the existing §2104 IRC situs rules.
+The recipient owes the tax where **either** (a) the recipient is UK resident or UK domiciled/deemed-domiciled at the tax point, **or** (b) the asset transferred is UK-situated (UK land, shares in UK-incorporated companies, UK bank deposits, tangible UK chattels). The US parallel substitutes US tax residence / citizenship for (a) and US-situated property for (b), tracking the existing [§2104 IRC](https://www.law.cornell.edu/uscode/text/26/2104) situs rules.
 
 **Exit tax.** On ceasing UK/US tax residence, the individual is treated as receiving at market value all previously-received assets still held, to the extent they exceed residual threshold headroom; any 100% charge crystallises at that date. A **10-year residency tail** preserves liability on gifts and bequests made to or by the individual within ten years of departure, irrespective of subsequent residence.
 

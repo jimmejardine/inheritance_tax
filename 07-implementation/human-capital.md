@@ -75,6 +75,6 @@ The attack will be: "the rich will just buy schools and connections instead, so 
 
 ## Sources
 
-1. Daniel Markovits, *The Meritocracy Trap* (Penguin Press, 2019).
-2. Annette Lareau, *Unequal Childhoods: Class, Race, and Family Life* (University of California Press, 2003).
+1. [Daniel Markovits, *The Meritocracy Trap* (Penguin Press, 2019)](https://www.penguinrandomhouse.com/books/548174/the-meritocracy-trap-by-daniel-markovits/).
+2. [Annette Lareau, *Unequal Childhoods: Class, Race, and Family Life* (University of California Press, 2003)](https://www.ucpress.edu/books/unequal-childhoods).
 3. [Sutton Trust — research on educational mobility and private-school earnings premia](https://www.suttontrust.com/our-research/); Raj Chetty et al., Opportunity Insights mobility studies, [opportunityinsights.org](https://opportunityinsights.org/).

@@ -6,7 +6,7 @@
 
 Paine wrote *Agrarian Justice* in the winter of 1795–96 and published it in 1797, in the aftermath of the Terror — during which he had been imprisoned in the Luxembourg and narrowly escaped the guillotine — and of the Directory's suppression of Gracchus Babeuf's *Conspiracy of Equals*, which had demanded outright community of property [1][2]. The immediate provocation was a sermon by Richard Watson, Bishop of Llandaff, titled "The Wisdom and Goodness of God in having made both Rich and Poor," to which Paine's preface replies directly that God made neither: "He made only male and female; and He gave them the earth for their inheritance" (quote to verify) [1].
 
-The pamphlet is therefore a deliberate third way, positioned against both Babeuf's agrarian communism and the complacent defence of existing property. Paine had also absorbed the social-arithmetic tradition of his Girondin ally the Marquis de Condorcet, whose *Esquisse* (1795) sketched public schemes of old-age insurance and grants to the young funded on actuarial principles [2][3]. Paine's contribution was to fuse Condorcet's social-insurance machinery with a distinctive *property-theoretic* justification.
+The pamphlet is therefore a deliberate third way, positioned against both Babeuf's agrarian communism and the complacent defence of existing property. Paine had also absorbed the social-arithmetic tradition of his Girondin ally the Marquis de Condorcet, whose [*Esquisse*](https://en.wikipedia.org/wiki/Sketch_for_a_Historical_Picture_of_the_Progress_of_the_Human_Mind) (1795) sketched public schemes of old-age insurance and grants to the young funded on actuarial principles [2][3]. Paine's contribution was to fuse Condorcet's social-insurance machinery with a distinctive *property-theoretic* justification.
 
 ## The argument: ground-rent on a common inheritance
 
@@ -35,7 +35,7 @@ Two design features deserve emphasis. First, Paine ran the numbers: the pamphlet
 
 ## Reception and disappearance
 
-*Agrarian Justice* landed with little force. Paine's public standing had been wrecked in Britain by his conviction for seditious libel (1792) and in the Anglophone world generally by the deist controversy over *The Age of Reason*; he died in New York in 1809 ostracised, and the pamphlet was buried with his reputation [2]. Nineteenth-century radicalism took other channels — Paine's near-contemporary Thomas Spence attacked him from the left for compensating rather than reclaiming the land, and the land question flowed toward George's *Progress and Poverty* (1879) rather than toward endowment schemes [3].
+*Agrarian Justice* landed with little force. Paine's public standing had been wrecked in Britain by his conviction for seditious libel (1792) and in the Anglophone world generally by the deist controversy over [*The Age of Reason*](https://www.gutenberg.org/ebooks/3743); he died in New York in 1809 ostracised, and the pamphlet was buried with his reputation [2]. Nineteenth-century radicalism took other channels — Paine's near-contemporary Thomas Spence attacked him from the left for compensating rather than reclaiming the land, and the land question flowed toward George's [*Progress and Poverty*](https://www.gutenberg.org/ebooks/55308) (1879) rather than toward endowment schemes [3].
 
 The idea's two-century dormancy ended only when late-twentieth-century academics rediscovered it: Ackerman and Alstott open *The Stakeholder Society* with Paine, and Atkinson and Piketty both cite him as the origin of the "minimum inheritance" (see [ackerman-alstott.md](ackerman-alstott.md), [atkinson.md](atkinson.md), [piketty.md](piketty.md)) [3][4]. The lesson of the dormancy is sobering and strategic: an idea this coherent can vanish for 200 years if its messenger is discredited on unrelated grounds — a point developed in [../13-movement/messengers.md](../13-movement/messengers.md) and [../10-opposition/personal-attacks.md](../10-opposition/personal-attacks.md).
 
@@ -52,9 +52,9 @@ Placing Paine correctly requires the surrounding tradition, since opponents will
 
 | Figure | Work | Relation to Paine's scheme |
 |---|---|---|
-| William Ogilvie | *Essay on the Right of Property in Land* (1781) | Prior statement of a universal birthright share in land value; no endowment mechanism |
+| William Ogilvie | [*Essay on the Right of Property in Land*](https://archive.org/details/bim_eighteenth-century_an-essay-on-the-right-of_ogilvie-william_1781) (1781) | Prior statement of a universal birthright share in land value; no endowment mechanism |
 | Condorcet | *Esquisse d'un tableau historique* (1795) | Actuarial social insurance — old-age funds and capital for the young — that Paine adapted |
-| Thomas Spence | *The Rights of Infants* (1797) | Attacked Paine *from the left*: land should be reclaimed into parish ownership outright, with all rents distributed as dividends, not compensated by a one-off grant |
+| Thomas Spence | [*The Rights of Infants*](https://www.marxists.org/history/england/britdem/people/spence/infants/infants.htm) (1797) | Attacked Paine *from the left*: land should be reclaimed into parish ownership outright, with all rents distributed as dividends, not compensated by a one-off grant |
 | Henry George | *Progress and Poverty* (1879) | Redirected the same ground-rent logic into an annual land-value tax; the endowment element disappears |
 
 The Spence exchange matters strategically: Paine's scheme was the *moderate* position in its own moment — compensation within a property regime, against confiscation of the regime itself. That positioning is recoverable today; see [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md).
@@ -68,13 +68,13 @@ Before manifesto use, confirm against the 1797 text and standard biographies:
 - All quotations flagged above (preface reply to Watson; "ground-rent"; "natural inheritance"; the anti-"invidious distinctions" universality passage).
 - Paine's estimates of national capital and annual mortality in the actuarial tables, and whether the fund was to be national or administered locally.
 - The publication sequence (Paris French edition vs London English edition, both 1797) and the pamphlet's contemporary circulation figures, which are sometimes overstated.
-- The relationship to Paine's earlier welfare arithmetic in *Rights of Man* Part II (1792), which proposed child allowances and old-age pensions from progressive taxation — the *Agrarian Justice* scheme is its property-theoretic radicalisation.
+- The relationship to Paine's earlier welfare arithmetic in [*Rights of Man*](https://www.gutenberg.org/ebooks/3742) Part II (1792), which proposed child allowances and old-age pensions from progressive taxation — the *Agrarian Justice* scheme is its property-theoretic radicalisation.
 - Condorcet's specific mechanisms in the *Esquisse* and whether Paine acknowledged the debt directly.
 - Whether the levy was framed as one-tenth of the *whole* estate or one-tenth of the *net* value after debts — the base definition matters for the lineage claim.
 
 ## Sources
 
 1. [Paine, T. (1797). *Agrarian Justice*. Full text at the Thomas Paine National Historical Association / Project Gutenberg](https://www.gutenberg.org/ebooks/31271) — primary source; all quotations to be verified against this text.
-2. Keane, J. (1995). *Tom Paine: A Political Life*. Bloomsbury — biographical and French-Revolution context.
-3. Cunliffe, J. and Erreygers, G. (eds.) (2004). *The Origins of Universal Grants: An Anthology of Historical Writings on Basic Capital and Basic Income*. Palgrave — Paine, Condorcet, Spence lineage.
-4. Ackerman, B. and Alstott, A. (1999). *The Stakeholder Society*. Yale University Press — modern rediscovery and attribution.
+2. [Keane, J. (1995). *Tom Paine: A Political Life*. Bloomsbury](https://www.johnkeane.net/books/tom-paine-a-political-life/) — biographical and French-Revolution context.
+3. [Cunliffe, J. and Erreygers, G. (eds.) (2004). *The Origins of Universal Grants: An Anthology of Historical Writings on Basic Capital and Basic Income*. Palgrave](https://www.palgrave.com/gp/book/9781403918963) — Paine, Condorcet, Spence lineage.
+4. [Ackerman, B. and Alstott, A. (1999). *The Stakeholder Society*. Yale University Press](https://yalebooks.yale.edu/book/9780300082609/the-stakeholder-society/) — modern rediscovery and attribution.

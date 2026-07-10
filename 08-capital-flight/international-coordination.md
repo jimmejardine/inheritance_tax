@@ -16,7 +16,7 @@
 |---|---|---|---|
 | **FATCA (2010)** | US withholding compulsion forcing worldwide reporting of US persons' accounts | Operating since 2014 | Demonstrated that a large economy can *unilaterally* conscript global banks; the template for defensive measures [1] |
 | **CRS (2014)** | Automatic exchange of financial-account data among 100+ jurisdictions | Operating; expanding to crypto via CARF | Makes offshore receipts visible to the recipient's residence jurisdiction — the exact data a receipts tax needs [1] |
-| **CARF** | Crypto-Asset Reporting Framework extending CRS to digital assets | Adoption from ~2026–27 (to verify) | Closes the most-cited novel-asset gap ([`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md)) |
+| **[CARF](https://www.oecd.org/en/publications/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc.html)** | Crypto-Asset Reporting Framework extending CRS to digital assets | Adoption from ~2026–27 (to verify) | Closes the most-cited novel-asset gap ([`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md)) |
 | **Beneficial-ownership registers** | Identify natural persons behind companies and trusts | UK PSC register (2016); EU AMLD registers (CJEU limited *public* access 2022, restored for legitimate interest under AMLD6); US Corporate Transparency Act (litigation-battered — status to verify) | Defeats the nominee/shell layer between donor and recipient [5] |
 | **Pillar Two (2021)** | 15% minimum effective corporate tax with IIR/UTPR top-up mechanics | EU directive in force 2024; ~35+ jurisdictions legislating (to verify); US participation unresolved | The institutional proof and the mechanical template [2] |
 
@@ -39,7 +39,7 @@ Precedents for each element exist; what is missing is only the political assembl
 |---|---|---|
 | **OECD Inclusive Framework** | Extend the Pillar structure to personal transfer taxation | Natural home; slow; requires G7/G20 sponsorship — the Zucman/G20 billionaire-tax track is the opening [3] |
 | **EU directive** | Direct-tax directives need unanimity; enhanced cooperation (9+ states) is the workaround, precedent-tested with the FTT attempt | Enhanced cooperation among willing members (plausibly the Franco-German-Spanish-Benelux core) is the realistic EU path |
-| **UN framework convention on tax** | The 2023–24 UN tax convention process, driven by the Global South | Longer horizon; valuable as normative pressure and as a venue havens cannot veto |
+| **[UN framework convention on tax](https://financing.desa.un.org/unfcitc)** | The 2023–24 UN tax convention process, driven by the Global South | Longer horizon; valuable as normative pressure and as a venue havens cannot veto |
 | **Bilateral/plurilateral treaty** | A purpose-built minimum-inheritance-tax convention among a small coalition, open for accession | Fastest credible route: UK+EU-core+US covers the decisive share of inheritable wealth ([game-theory.md](game-theory.md)) |
 | **Model-treaty update** | Saving clauses preserving exit tails; credit ordering for situs-state tax | Low-cost housekeeping a first mover does immediately ([exit-tax-design.md](exit-tax-design.md)) |
 
@@ -50,7 +50,7 @@ Coordination is an amplifier, not a precondition. The first mover, alone, can:
 1. **Operate the dual nexus** — residence or situs, either sufficient ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) §5); no other state's consent required.
 2. **Run the 10-year tail and exit charge** — domestic law, CJEU-compliant drafting per [exit-tax-design.md](exit-tax-design.md).
 3. **Exploit CRS data already flowing** — the receipts ledger ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)) consumes existing exchange streams.
-4. **Apply defensive measures to blacklisted havens** — FATCA-style withholding on transfers routed via non-cooperative jurisdictions; the EU non-cooperative-jurisdictions list supplies the vehicle.
+4. **Apply defensive measures to blacklisted havens** — FATCA-style withholding on transfers routed via non-cooperative jurisdictions; the [EU non-cooperative-jurisdictions list](https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/) supplies the vehicle.
 5. **Condition market access** — the City of London/Wall Street lesson of FATCA: financial-centre gravity converts domestic reporting rules into global ones.
 6. **Publish the accession treaty** — a ready-to-sign floor convention lowers the next adopter's cost and signals the cascade intent.
 

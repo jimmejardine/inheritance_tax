@@ -89,13 +89,13 @@ Quick-fire versions of the freedom objections are handled at [`../09-objections/
 
 ## Sources
 
-1. Nozick, *Anarchy, State, and Utopia* (Basic Books, 1974), ch. 7.
-2. Locke, *Second Treatise of Government* (1689), ch. V; Blackstone, *Commentaries on the Laws of England* (1765–69), Bk. II.
-3. Burke, *Reflections on the Revolution in France* (1790).
-4. Sandel, *Liberalism and the Limits of Justice* (Cambridge, 1982); MacIntyre, *After Virtue* (1981); Schoeman on family autonomy, *Ethics* 91 (1980).
-5. Mauss, *The Gift* (1925); on bequest as meaning, see also Halliday, *The Inheritance of Wealth: Justice, Equality, and the Right to Bequeath* (Oxford, 2018) — the best single scholarly treatment of both sides of this file.
-6. Mill, *Principles of Political Economy* (1848), Bk. II ch. 2; Bk. V ch. 9.
-7. Murphy & Nagel, *The Myth of Ownership: Taxes and Justice* (Oxford, 2002).
-8. Nozick, *The Examined Life* (Simon & Schuster, 1989), ch. on inheritance.
-9. Rawls, *A Theory of Justice* (Harvard, 1971), §§11–14 (priority of fair equality of opportunity).
-10. Dworkin, *Sovereign Virtue* (Harvard, 2000), chs. 2 and 9 (hypothetical insurance and inheritance).
+1. [Nozick, *Anarchy, State, and Utopia* (Basic Books, 1974), ch. 7](https://www.basicbooks.com/titles/robert-nozick/anarchy-state-and-utopia/9780465051007/).
+2. [Locke, *Second Treatise of Government* (1689), ch. V](https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed); [Blackstone, *Commentaries on the Laws of England* (1765–69), Bk. II](https://avalon.law.yale.edu/subject_menus/blackstone.asp).
+3. [Burke, *Reflections on the Revolution in France* (1790)](https://oll.libertyfund.org/titles/burke-reflections-on-the-revolution-in-france).
+4. [Sandel, *Liberalism and the Limits of Justice* (Cambridge, 1982)](https://www.cambridge.org/core/books/liberalism-and-the-limits-of-justice/6800BAC97E92FF5D64FF99DE858A900C); [MacIntyre, *After Virtue* (1981)](https://undpress.nd.edu/9780268035044/after-virtue/); [Schoeman on family autonomy, *Ethics* 91 (1980)](https://www.journals.uchicago.edu/doi/10.1086/292199).
+5. [Mauss, *The Gift* (1925)](https://www.routledge.com/The-Gift-The-Form-and-Reason-for-Exchange-in-Archaic-Societies/Mauss/p/book/9780415267496); on bequest as meaning, see also [Halliday, *The Inheritance of Wealth: Justice, Equality, and the Right to Bequeath* (Oxford, 2018)](https://global.oup.com/academic/product/the-inheritance-of-wealth-9780198803355) — the best single scholarly treatment of both sides of this file.
+6. [Mill, *Principles of Political Economy* (1848), Bk. II ch. 2; Bk. V ch. 9](https://oll.libertyfund.org/titles/mill-principles-of-political-economy-ashley-ed).
+7. [Murphy & Nagel, *The Myth of Ownership: Taxes and Justice* (Oxford, 2002)](https://global.oup.com/academic/product/the-myth-of-ownership-9780195176568).
+8. [Nozick, *The Examined Life* (Simon & Schuster, 1989), ch. on inheritance](https://www.simonandschuster.com/books/The-Examined-Life/Robert-Nozick/9780671725013).
+9. [Rawls, *A Theory of Justice* (Harvard, 1971), §§11–14 (priority of fair equality of opportunity)](https://www.hup.harvard.edu/books/9780674000780).
+10. [Dworkin, *Sovereign Virtue* (Harvard, 2000), chs. 2 and 9 (hypothetical insurance and inheritance)](https://www.hup.harvard.edu/books/9780674008106).

@@ -77,6 +77,6 @@ Honesty requires the converse. Friction does not stop: (a) the young founder who
 ## Sources
 
 1. [Young, C. (2017). *The Myth of Millionaire Tax Flight*. Stanford University Press; Young et al. (2016), *American Sociological Review* 81(3)](https://www.sup.org/books/title/?id=28471)
-2. [Moretti, E. & Wilson, D. (2023). "Taxing Billionaires." *AEJ: Applied Economics* 15(2)](https://www.aeaweb.org/articles?id=10.1257/app.20200685)
+2. [Moretti, E. & Wilson, D. (2023). "Taxing Billionaires." *AEJ: Applied Economics* 15(2)](https://www.aeaweb.org/articles?id=10.1257/pol.20200685)
 3. [OECD (2021). *Inheritance Taxation in OECD Countries*. OECD Tax Policy Studies No. 28](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm)
 4. [Henrekson, M. & Waldenström, D. (2014). *Inheritance Taxation in Sweden, 1885–2004*. IFN Working Paper No. 1032](https://www.ifn.se/wfiles/wp/wp1032.pdf)

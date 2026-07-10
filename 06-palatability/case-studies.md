@@ -88,12 +88,12 @@ The positive cases invert the sequence: minimum wage and marriage equality won b
 
 ## Sources
 
-1. Graetz, M. & Shapiro, I., *Death by a Thousand Cuts* (Princeton, 2005); Gale & Slemrod, Brookings estate-tax analyses *(details to verify)*
-2. Contemporary reporting of the October 2007 Conservative conference and pre-budget report response; Seldon & Lodge, *Brown at 10* *(episode details to verify)*
+1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts); [Gale & Slemrod, Brookings estate-tax analyses](https://www.brookings.edu/books/rethinking-estate-and-gift-taxation/) *(details to verify)*
+2. Contemporary reporting of the October 2007 Conservative conference and pre-budget report response; [Seldon & Lodge, *Brown at 10*](https://www.bitebackpublishing.com/books/brown-at-10) *(episode details to verify)*
 3. [Swiss Federal Chancellery — Volksabstimmung vom 14. Juni 2015, Erbschaftssteuerinitiative](https://www.bk.admin.ch/ch/d/pore/va/20150614/index.html) *(result figures to verify)*
-4. Autumn Budget 2024 (HM Treasury); NFU and CLA campaign materials; contemporaneous coverage of APR/BPR reform protests *(incidence dispute to verify)*
-5. HMRC Child Trust Fund statistics; NAO reporting on dormant CTF accounts *(to verify)*
-6. Low Pay Commission retrospectives on the National Minimum Wage (1999–) *(to verify)*
+4. [Autumn Budget 2024 (HM Treasury)](https://www.gov.uk/government/publications/autumn-budget-2024); [NFU](https://www.nfuonline.com/hot-topics/stop-the-family-farm-tax/) and CLA campaign materials; contemporaneous coverage of APR/BPR reform protests *(incidence dispute to verify)*
+5. [HMRC Child Trust Fund statistics](https://www.gov.uk/government/collections/child-trust-fund-statistics); [NAO reporting on dormant CTF accounts](https://www.nao.org.uk/wp-content/uploads/2023/03/investigation-into-child-trust-funds.pdf) *(to verify)*
+6. [Low Pay Commission retrospectives on the National Minimum Wage (1999–)](https://www.gov.uk/government/publications/20-years-of-the-national-minimum-wage) *(to verify)*
 7. [Gallup — U.S. same-sex marriage trend series](https://news.gallup.com/poll/117328/marriage.aspx) *(figures to verify)*
 
 ---

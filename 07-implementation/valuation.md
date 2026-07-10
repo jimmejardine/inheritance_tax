@@ -12,7 +12,7 @@ At a 40% rate, shaving 25% off a declared value saves the taxpayer 10p in the po
 |---|---|---|---|
 | Listed securities | Mark-to-market, 5-day average around tax point | Automatic (market data) | None material |
 | Cash, deposits | Face value | Bank reporting | None |
-| Real estate | RICS Red Book (UK) / USPAP-certified (US) appraisal; rebuttable presumption | HMRC/IRS re-appraisal right, 24 months | Frozen or stale values (Austrian *Einheitswerte*) [1] |
+| Real estate | [RICS Red Book](https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/valuation-standards/red-book/red-book-global) (UK) / [USPAP](https://appraisalfoundation.org/pages/uspap)-certified (US) appraisal; rebuttable presumption | HMRC/IRS re-appraisal right, 24 months | Frozen or stale values (Austrian *Einheitswerte*) [1] |
 | Private business | Statutory methodology (DCF + comparables); mandatory state review above £2m/$3m | District Valuer / IRS Engineering & Valuation programme | Discount stacking, sham "trading" recharacterisation |
 | Art, collectibles | Registered-appraiser valuation cross-checked against insurance schedules and auction databases | Sampling audit of top decile of declared values | Insurance value ≫ declared probate value |
 | Crypto and digital | Regulated-exchange reference price at tax point | Chain analysis, exchange reporting — see [digital-and-novel-assets.md](digital-and-novel-assets.md) | "Lost key" claims |
@@ -82,7 +82,7 @@ The arithmetic to communicate publicly: with even a 1-in-10 audit chance and a 1
 
 1. [Verfassungsgerichtshof Österreich — G 54/06 (2007), inheritance tax struck down over *Einheitswerte*](https://www.vfgh.gv.at/)
 2. [Bundesverfassungsgericht — 1 BvL 21/12 (17 Dec 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html)
-3. [Henrekson & Waldenström (2014), *Inheritance Taxation in Sweden, 1885–2004*, IFN WP 1032](https://www.ifn.se/wfiles/wp/wp1032.pdf); French *dation en paiement* (Code général des impôts, art. 1716 bis).
+3. [Henrekson & Waldenström (2014), *Inheritance Taxation in Sweden, 1885–2004*, IFN WP 1032](https://www.ifn.se/wfiles/wp/wp1032.pdf); French *dation en paiement* ([Code général des impôts, art. 1716 bis](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036428719)).
 4. [*Estate of Elkins v. Commissioner*, 767 F.3d 443 (5th Cir. 2014)](https://www.courtlistener.com/opinion/2680533/estate-of-elkins-v-commr/)
 5. [HMRC — IHTM09731: related property (IHTA 1984 s.161)](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm09731)
 6. [US IRC §6695A — appraiser penalties](https://www.law.cornell.edu/uscode/text/26/6695A); GAO and TIGTA reviews of IRS appraisal enforcement.

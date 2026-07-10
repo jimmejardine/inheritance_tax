@@ -72,10 +72,10 @@ Expected sequence:
 
 ## Sources
 
-1. [*Knowlton v. Moore*, 178 U.S. 41 (1900); *New York Trust Co. v. Eisner*, 256 U.S. 345 (1921)](https://supreme.justia.com/cases/federal/us/178/41/)
+1. [*Knowlton v. Moore*, 178 U.S. 41 (1900)](https://supreme.justia.com/cases/federal/us/178/41/); [*New York Trust Co. v. Eisner*, 256 U.S. 345 (1921)](https://supreme.justia.com/cases/federal/us/256/345/)
 2. [*A. Magnano Co. v. Hamilton*, 292 U.S. 40 (1934)](https://supreme.justia.com/cases/federal/us/292/40/)
 3. [*Moore v. United States*, 602 U.S. ___ (2024)](https://www.supremecourt.gov/opinions/23pdf/22-800_jrek.pdf)
-4. [*Gasus Dosier- und Fördertechnik GmbH v Netherlands* (1995); *National & Provincial Building Society v UK* (1997) — ECtHR A1P1 taxation jurisprudence](https://hudoc.echr.coe.int/)
+4. [*Gasus Dosier- und Fördertechnik GmbH v Netherlands* (1995)](https://hudoc.echr.coe.int/eng?i=001-57918); [*National & Provincial Building Society v UK* (1997)](https://hudoc.echr.coe.int/eng?i=001-58109) — ECtHR A1P1 taxation jurisprudence
 5. [*N.K.M. v Hungary*, App. no. 66529/11 (ECtHR, 2013)](https://hudoc.echr.coe.int/eng?i=001-119704)
-6. [CJEU: *Jäger*, C-256/06 (2008); *Welte*, C-181/12 (2013) — inheritances as movements of capital under Art. 63 TFEU](https://curia.europa.eu/)
+6. CJEU: [*Jäger*, C-256/06 (2008)](https://curia.europa.eu/juris/liste.jsf?language=en&num=C-256/06); [*Welte*, C-181/12 (2013)](https://curia.europa.eu/juris/liste.jsf?num=C-181%2F12&language=EN) — inheritances as movements of capital under Art. 63 TFEU
 7. [Bundesverfassungsgericht, judgment of 17 December 2014 — 1 BvL 21/12 (inheritance-tax business reliefs unconstitutional)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html)

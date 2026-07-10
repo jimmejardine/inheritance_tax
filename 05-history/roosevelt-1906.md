@@ -26,7 +26,7 @@ Note the argument's shape: size itself changes the *kind* of thing a fortune is 
 
 ## Reception and fate
 
-Congress did not act in 1906–09; the proposal was radical for the Republican mainstream, and Roosevelt's own party split over his progressive turn, culminating in the 1912 Bull Moose insurgency (whose platform retained the graduated inheritance tax) [1]. Enactment came under Wilson: the **Revenue Act of 1916** established the permanent federal estate tax, driven proximately by preparedness financing but drawing directly on the decade of legitimation Roosevelt had provided — the arc is traced in [us-estate-tax.md](us-estate-tax.md) [5]. Structurally, Congress chose an *estate* tax (on what the dead leave) rather than Roosevelt's graduated *inheritance* tax (sensitive to who receives); the significance of that wrong turn is a running theme of this project ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)).
+Congress did not act in 1906–09; the proposal was radical for the Republican mainstream, and Roosevelt's own party split over his progressive turn, culminating in the 1912 Bull Moose insurgency (whose [platform](https://www.presidency.ucsb.edu/documents/progressive-party-platform-1912) retained the graduated inheritance tax) [1]. Enactment came under Wilson: the **Revenue Act of 1916** established the permanent federal estate tax, driven proximately by preparedness financing but drawing directly on the decade of legitimation Roosevelt had provided — the arc is traced in [us-estate-tax.md](us-estate-tax.md) [5]. Structurally, Congress chose an *estate* tax (on what the dead leave) rather than Roosevelt's graduated *inheritance* tax (sensitive to who receives); the significance of that wrong turn is a running theme of this project ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)).
 
 ## The conservative availability of this lineage
 
@@ -73,8 +73,8 @@ The six-to-ten-year lag between presidential advocacy and statute — with an in
 
 ## Sources
 
-1. Morris, E. (2001). *Theodore Rex*. Random House — political context of the 1906 message.
+1. [Morris, E. (2001). *Theodore Rex*. Random House](https://www.penguinrandomhouse.com/books/117455/theodore-rex-by-edmund-morris/) — political context of the 1906 message.
 2. [Roosevelt, T. (14 April 1906). "The Man with the Muck-Rake." Speech, Washington DC](https://www.presidency.ucsb.edu/) — primary source; quotation to verify.
 3. [Roosevelt, T. (3 December 1906). Sixth Annual Message to Congress. American Presidency Project](https://www.presidency.ucsb.edu/documents/sixth-annual-message-4) — primary source.
-4. [Roosevelt, T. (31 August 1910). "The New Nationalism." Osawatomie, Kansas](https://teachingamericanhistory.org/document/new-nationalism-speech/) — primary source.
+4. [Roosevelt, T. (31 August 1910). "The New Nationalism." Osawatomie, Kansas](https://teachingamericanhistory.org/document/the-new-nationalism/) — primary source.
 5. [Joint Committee on Taxation / IRS SOI historical materials on the Revenue Act of 1916](https://www.irs.gov/statistics/soi-tax-stats-historical-data-tables) — legislative aftermath.
