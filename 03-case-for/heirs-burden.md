@@ -10,6 +10,7 @@
 - Empirical labour-economics work (Holtz-Eakin, Joulfaian & Rosen 1993) shows that large inheritances sharply reduce labour-force participation, which the authors frame as direct evidence *for* Carnegie's psychological claim [7].
 - Heir-led organisations — Resource Generation, Patriotic Millionaires, Abigail Disney's public advocacy, Chuck Collins' "Wealth for the Common Good" — treat redistribution of inherited fortunes as a matter of personal liberation, not altruistic sacrifice [3][5][8].
 - The proposed design preserves ordinary family transmission below the threshold; the "liberation" claim applies only to the portion of inheritance that crosses from generous provision into dynastic entrenchment [9].
+- The harms do not wait for the money: the credible *expectation* of a fortune distorts careers, mortgages the heir's autonomy to the donor's approval, and at the margin curdles into "inheritance impatience" and elder abuse — the anticipation channel has its own file, [expectant-heirs.md](expectant-heirs.md).
 
 ## 1. Carnegie's curse of great wealth
 
@@ -35,7 +36,11 @@ The design does not abolish inheritance. Below £500k lifetime per recipient, tr
 
 The most persuasive witnesses are heirs themselves. Resource Generation organises young people with inherited wealth around redistribution; Patriotic Millionaires lobbies openly for higher taxes on their own class; Abigail Disney has written and spoken repeatedly about the psychic damage of the Disney fortune; Chuck Collins has made the auto-biographical case in book length [3][5][8]. Their testimony is not decisive on its own, but it breaks the assumption that this policy is something done *to* heirs rather than *for* some of them.
 
-## 7. A virtue-ethics framing
+## 7. Before the money arrives
+
+Everything above concerns the heir who has received. The companion file [expectant-heirs.md](expectant-heirs.md) traces the same harms back to the *forecast*: the career chosen in the fortune's shadow, the adult life spent on the leash of a revocable will, the family-firm prince-in-waiting, and the documented pathologies of "inheritance impatience". Its design payoff matters for this file's argument: because the tax caps expectations at announcement, the liberation argued for here arrives for expectant heirs immediately — a generation before the first estates are taxed.
+
+## 8. A virtue-ethics framing
 
 The manifesto's central move, and this section's contribution, is to reframe inheritance tax from zero-sum redistribution to positive-sum liberation. The non-heir gains a fair start; the heir gains the conditions of a flourishing life — work that matters, relationships untainted by suspicion, a self built rather than inherited. On this reading, a 100% tax above the threshold is not a punishment of the fortunate. It is, in Carnegie's own idiom, the removal of a curse.
 

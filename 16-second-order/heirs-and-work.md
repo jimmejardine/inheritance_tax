@@ -27,7 +27,7 @@ This is the labour-supply side of the argument made on welfare grounds in [`../0
 
 ## 3. The expectation effect: behaviour changes decades before the death
 
-The under-studied half of the mechanism. People who *expect* substantial inheritances behave differently long before receiving them:
+The under-studied half of the mechanism — treated in full, including the psychological, family-power, and elder-abuse dimensions, in [`../03-case-for/expectant-heirs.md`](../03-case-for/expectant-heirs.md). The labour-economics core: people who *expect* substantial inheritances behave differently long before receiving them:
 
 - **Career selection and effort.** An expected seven-figure backstop rationally reduces investment in hard, high-variance careers — or, in the aristocratic pattern, in any career. "Waiting for dead men's shoes" is a medieval phrase for a modern phenomenon. US Health and Retirement Study panel evidence shows inheritance receipt raises the probability of retiring earlier than planned by 4.4 percentage points (about 12% relative to baseline) over an eight-year window — though the effect is strongest for *unexpected* inheritances, so direct evidence that mere expectation reduces mid-career effort remains thin [5].
 - **Housing and location choices** anchor to the expected family asset rather than to the labour market.

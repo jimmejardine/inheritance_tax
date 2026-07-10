@@ -1,6 +1,6 @@
 # 03 — The Case For
 
-**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment; four reinforcements deepen them with the formal optimal-tax literature, the civic-republican constitutional argument, the positive case for the endowment itself, and the historical record of the proposal's components in action. The nine files converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics, republican, empirical-historical) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
+**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment; six reinforcements deepen them with the formal optimal-tax literature, the civic-republican constitutional argument, the positive case for the endowment itself, the historical record of the proposal's components in action, the instrument-choice comparison with wealth taxes, and the anticipation harms borne by expectant heirs. The eleven files converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics, republican, empirical-historical) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
 
 This section builds the positive case. The diagnostic evidence lives in [`../01-problem/`](../01-problem/); the design specification lives in [`../02-proposal/`](../02-proposal/); the historical case is in [`../05-history/`](../05-history/); the strongest counterarguments are steelmanned in [`../04-case-against/`](../04-case-against/).
 
@@ -14,7 +14,7 @@ This section builds the positive case. The diagnostic evidence lives in [`../01-
 | 4 | Civic | [meritocratic-legitimacy.md](meritocratic-legitimacy.md) | Carnegie, Sandel, Wooldridge | Dynasty violates capitalism's own self-justification; removing it is the conservative repair |
 | 5 | Heir-focused | [heirs-burden.md](heirs-burden.md) | Virtue ethics, self-determination theory | Large unearned fortunes harm their recipients; the tax is positive-sum, not zero-sum |
 
-## The four reinforcements
+## The six reinforcements
 
 Each reinforcement takes one pillar's strongest thread and develops it to full depth:
 
@@ -25,6 +25,7 @@ Each reinforcement takes one pillar's strongest thread and develops it to full d
 | 8 | Endowment | [equal-start.md](equal-start.md) | The grant half of every pillar | Rawls, Dworkin, and the capabilities approach all imply a capital grant; redistributing *starts* rather than *flows* legitimises the market outcomes that follow |
 | 9 | Empirical-historical | [historical-precedents-of-success.md](historical-precedents-of-success.md) | All pillars | Every component of the proposal has been tried at scale — dynastic breaks, 70–80% transfer taxes, mass capital grants — and the predicted catastrophes did not occur |
 | 10 | Instrument choice | [wealth-tax-comparison.md](wealth-tax-comparison.md) | Pillar 3 (structural) | The proposal is categorically not a wealth tax, and beats the annual wealth tax on efficiency, administration, migration, and survival — while honestly conceding what the wealth tax does better (it bites now) |
+| 11 | Anticipation | [expectant-heirs.md](expectant-heirs.md) | Pillar 5 (heir-focused) | The harms begin at the *forecast*, not the receipt — career distortion, the parental leash, the family-firm waiting room, inheritance impatience — and because the tax binds at announcement, its liberation of expectant heirs arrives a generation before its revenue |
 
 ## Why all five matter together
 

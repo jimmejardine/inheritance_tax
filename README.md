@@ -52,7 +52,7 @@ The premise comes first, then sixteen sections answer four questions in order: *
 
 | Path | Purpose |
 |---|---|
-| [03-case-for/](03-case-for/) | Nine chapters for: ethics, economic efficiency, meritocracy, r > g, the heir's own interest, optimal-tax theory, democratic renewal, the equal start, precedents of success |
+| [03-case-for/](03-case-for/) | Eleven chapters for: ethics, economic efficiency, meritocracy, r > g, the heir's own interest (received *and* merely expected), optimal-tax theory, democratic renewal, the equal start, precedents of success, and why this beats a wealth tax |
 | [04-case-against/](04-case-against/) | The five strongest objections **steelmanned** — family business, capital flight, bequest motive, liberty, state failure — with honest residuals left standing |
 | [08-capital-flight/](08-capital-flight/) | The biggest objection given its own deep treatment: migration evidence, exit options, anchors, exit-tax design, retention, international coordination |
 | [16-second-order/](16-second-order/) | Honest futures analysis of life after adoption: philanthropy surge, asset prices, heirs' work, endowment outcomes, family culture, macro effects — welcome and unwelcome |
