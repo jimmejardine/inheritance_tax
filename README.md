@@ -1,16 +1,27 @@
 # Universal Inheritance: Research Project
 
-**The offer:** Every one of your children can receive up to £500,000 from you, entirely tax-free. And every citizen — whatever their parents have — receives a £50,000 endowment at 25: a universal inheritance, guaranteed.
+## TLDR;
 
-**How it is paid for:** a 100% tax on whatever a person *receives* above that £500,000 lifetime threshold. Nobody's life's work is touched; only the excess that would otherwise found a dynasty funds everyone else's start.
+**The offer.** Every one of your children can receive up to **£500,000 from you, entirely tax-free** — for most families who pay inheritance tax today, that is a tax *cut*. And every citizen, whatever their parents have, receives a **£50,000 endowment at 25**: a universal inheritance, guaranteed.
 
-**Working thesis:** this pairing — generous family inheritance below the line, universal inheritance above it — could be one of the most effective levers to heal the systemic ailments of late-stage capitalism.
+**How it is paid for.** A 100% tax on whatever a person *receives* above that £500,000 lifetime threshold. Nothing is taken from the dead; nobody's life's work is touched while they live; the tax falls only on the windfall an heir did nothing to earn, above a threshold most will never reach. Only the excess that would otherwise found a dynasty funds everyone else's start. [The full specification →](02-proposal/)
 
-**Our stance:** This is a **pro-capitalist project**. Market capitalism is the best system for organising human effort we know of, and this manifesto exists to keep it that way. Every market mechanism — prices, profits, property, competition, the founder's right to everything they build — is left untouched. The proposal removes the one non-market transaction at the heart of the market system: the hereditary transmission of great fortunes, which rewards birth rather than contribution, entrenches capital against competition, and — left uncorrected — converts market capitalism into dynastic capitalism until the public withdraws its consent from the whole system. Like antitrust, this is a defence of the game against those who would end it. See [00-capitalism/](00-capitalism/).
+**Why now.** The largest wealth transfer in history — roughly $85–100 trillion in the US alone — is underway, and 2023 was reportedly the first year in which heirs acquired more billionaire wealth than founders created. The median American first-time homebuyer was 28 in 1991; she is 38 now. When the return on owning assets outruns the growth of wages, effort stops being the way up — and every ailment we file under "late-stage capitalism" (immobility, unaffordable housing, political capture, the quiet fatalism of the young) traces back to the same root: capital compounding across generations, largely untaxed at the moment of transfer. [The diagnosis →](01-problem/)
 
-This repository builds an evidence-based case — including the strongest counterarguments — structured as a navigable hierarchy of markdown notes. It is intended to form the basis of a long-form manifesto that moves the idea toward mainstream respectability.
+**This is a pro-capitalist project.** Markets, prices, profits, competition, the founder's right to everything they build — all untouched. What goes is the one transaction capitalism itself would never approve: the transfer of vast capital with no price, no competition, and no contribution test, to allocators chosen by birth. Like antitrust, this is a defence of the game against those who would end it. [Why capitalists should want this →](00-capitalism/)
 
-Start with the [executive summary](00-executive-summary.md).
+Some things a fly-by sceptic probably doesn't know:
+
+- **The idea is older, and more capitalist, than you think.** Thomas Paine proposed exactly this tax-plus-endowment pairing in 1797; John Stuart Mill originated the recipient-based cap; Andrew Carnegie and Theodore Roosevelt made the capitalist and conservative cases. Anglo-American top rates reached 77–80% in the mid-20th century — decades of strong growth and high mobility. [The lineage →](05-history/)
+- **Inheritance tax is the most hated tax in every country polled — and the most persuadable.** Opposition rests on people wildly overestimating who pays. In the landmark experiment, one paragraph of information on actual incidence roughly *tripled* support — the largest framing effect measured for any tax. [What the polling actually says →](06-palatability/polling.md)
+- **"The rich will just leave" is weaker than it sounds.** The wealthy are embedded elites — late-career, married, business-anchored — and even the single most inconvenient study, on billionaires fleeing US state estate taxes, concluded the tax *still raised more than the migration lost*. [The capital-flight evidence →](08-capital-flight/)
+- **Wealth is roughly twice as heritable as income**, in every country with the data — which is why income-focused mobility policy keeps under-shooting. [Mobility →](01-problem/mobility.md)
+- **The endowment is the tax's bodyguard.** Hundreds of thousands of new 25-year-old stakeholders every year make repeal politically prohibitive — the design answer to the fate of every inheritance tax that came before. [Entrenchment →](02-proposal/constitutional-design.md)
+- **We steelman the case against ourselves.** The five strongest objections — family business, capital flight, the bequest motive, liberty, state failure — are given their best form, and where a residual survives, we say so. [The case against →](04-case-against/)
+
+**Lead with the universal inheritance. The 100% rate is how it is paid for.** That ordering — a generous family inheritance below the line, a universal one above it — is the whole political design, and this repository builds the evidence-based case for it: diagnosis, full mechanism, honest objections, and the strategy for making it mainstream. Quantitative claims carry "(to verify)" flags in the linked files pending a primary-source pass.
+
+**Start with the [executive summary](00-executive-summary.md), or dive in below.**
 
 ## The premise and the four questions
 
