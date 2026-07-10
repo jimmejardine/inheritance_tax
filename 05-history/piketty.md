@@ -12,10 +12,10 @@
 
 For this project the load-bearing empirics are Piketty's inheritance series for France (the 2011 *QJE* paper underlying the book's Chapter 11) [2]:
 
-| Measure (France; figures to verify against Piketty 2011) | 19th c. / 1900–10 | ~1950 | ~2010 |
+| Measure (France; verified against Piketty 2011 [2] and Piketty–Zucman 2015 [6]) | 19th c. / 1900–10 | Mid-century trough | ~2010 |
 |---|---|---|---|
-| Annual flow of inheritances and gifts, % of national income | 20–25% | ~4–5% | ~15%, trending up |
-| Share of total wealth attributable to inheritance | ~80–90% | (trough mid-century, ~45–50%) | ~60–70%, projected toward 80–90% by 2050–2100 under central scenarios |
+| Annual flow of inheritances and gifts, % of national income | 20–25% (1820–1910) | <5% (1950) | ~15%, trending up; might reach 20–25% by 2050 [2] |
+| Share of total wealth attributable to inheritance | 80–90% | ~35–45% (c. 1970) | 60–70% (65–75% on the micro-based definition), and "might return to 80%–90% during the 21st century" [6] |
 
 The rhetorical force is the U-shape: the mid-century world in which self-made wealth predominated — the world the post-war generations mistook for capitalism's normal state — was the anomaly. On current trends the twenty-first century reverts to a society of *rentiers* and well-placed heirs; Piketty's coinage "patrimonial capitalism" names the destination [1][2]. This is the master empirical warrant for [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md) and [../01-problem/rentier-economy.md](../01-problem/rentier-economy.md).
 
@@ -23,14 +23,14 @@ The rhetorical force is the U-shape: the mid-century world in which self-made we
 
 Where *Capital21* offered a "utopian" global wealth tax, *Capital and Ideology* (French 2019; English 2020) is concrete. Its "participatory socialism" package includes [3]:
 
-- **Universal capital endowment ("inheritance for all"):** ~€120,000 to every citizen at age 25 — calibrated as 60% of average adult wealth (~€200,000 in France at writing; figures to verify) [3].
-- **Funding: twin progressive taxes** on inheritance and on annual wealth holdings, each with rates rising from ~0.1–5% at average-wealth multiples to **60–90% on the largest fortunes** (schedule to verify) — together yielding on the order of 5% of national income for the endowment [3].
-- **Temporary ownership** as the governing philosophy: beyond modest scale, private property is a *social relation held on licence*; large holdings should circulate back to society each generation rather than persist. "Private property becomes temporary rather than permanent" (paraphrase; quote to verify) [3].
+- **Universal capital endowment ("inheritance for all"):** €120,000 to every citizen at age 25 — calibrated as 60% of average adult wealth (implying ~€200,000 per adult in France at writing) [3][7][8].
+- **Funding: twin progressive taxes** on inheritance and on annual wealth holdings — Table 17.1's schedule rises from 0.1% (annual property tax) and 5% (inheritance tax) around average wealth to **90% on both at 10,000 times average wealth** (60–80% at 100–1,000 times) — together yielding on the order of 5% of national income for the endowment [3][8][9].
+- **Temporary ownership** as the governing philosophy: beyond modest scale, private property is a *social relation held on licence*; large holdings should circulate back to society each generation rather than persist. Piketty's own formulation of the pillar: "temporary property, i.e. the permanent circulation of property through progressive taxation and inheritance for all" [10].
 - Accompanying measures — employee board representation, "educational justice," reversal of what he documents as the left's capture by graduates ("Brahmin left" vs "merchant right") — that place the tax inside a broader political sociology relevant to [../12-political-adoption/left-parties.md](../12-political-adoption/left-parties.md).
 
 ## Reception and criticism
 
-*Capital21* sold over 2.5 million copies (figure to verify) — an unprecedented event for a data-dense economics tome — and moved inheritance from the seminar room to the front page. The serious criticisms, which this project must carry rather than wave away:
+*Capital21* sold over 2.5 million copies by the end of 2017 [11] — an unprecedented event for a data-dense economics tome — and moved inheritance from the seminar room to the front page. The serious criticisms, which this project must carry rather than wave away:
 
 | Critique | Content | Status |
 |---|---|---|
@@ -60,16 +60,11 @@ The differences are strategic, not doctrinal: a single-instrument, single-kink d
 - **The endowment calibration.** €120k at 25 brackets our £50k from above; Ackerman–Alstott's $80k ([ackerman-alstott.md](ackerman-alstott.md)) brackets from the side — the design space is charted.
 - **A reception playbook** — and a warning that measurement disputes will be weaponised; pre-emption in [../09-objections/whataboutery.md](../09-objections/whataboutery.md) and [../14-communications/inoculation.md](../14-communications/inoculation.md).
 
-## Verification checklist
+## Verification status
 
-- The French inheritance-flow series (20–25% of national income c. 1900; ~4–5% c. 1950; ~15% c. 2010) and the inherited-share-of-wealth series, against Piketty (2011) and the *Capital21* technical appendix.
-- The *Capital and Ideology* endowment figure (€120,000), its calibration (60% of ~€200,000 average adult wealth), the 60–90% top-rate schedule, and the ~5%-of-national-income funding envelope, against Ch. 17 and its tables.
-- The "temporary ownership"/"private property becomes temporary" formulation — exact wording and location.
-- Sales figures for *Capital21* (~2.5m copies is widely reported; source it or drop it).
-- The current state of the Auten–Splinter vs PSZ exchange, which has continued past both original papers — check for post-2024 replies before quoting either side as settled.
-- Replications of the inheritance-flow U-curve outside France — Atkinson's UK series, Schinke for Germany, Ohlsson–Roine–Waldenström for Sweden (citations to verify) — since the manifesto should not rest the empirical case on one country.
-- Piketty's own estimates of what his 90% top rate would raise, for comparison against the revenue arithmetic in [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
-- Whether *Capital and Ideology*'s endowment is recipient-lifetime-cumulative on the tax side or transfer-by-transfer — the structural comparison table depends on it.
+- **Confirmed:** the French inheritance-flow series (20–25% of national income 1820–1910; <5% in 1950; ~15% by 2010; possibly 20–25% by 2050) against the QJE 2011 abstract [2]; the inherited-share-of-wealth series against Piketty–Zucman (2015) [6]; the endowment (€120,000 at 25 = 60% of average adult wealth), the Table 17.1 schedule (to 90% at 10,000× average wealth) and the ~5%-of-national-income envelope [7][8][9]; the "temporary ownership" formulation in Piketty's own words [10]; sales of over 2.5m copies by end-2017 [11].
+- **U-curve replications confirmed and cited:** Atkinson for the UK [12], Schinke for Germany (flow ~15% of national income in 1911, <2% mid-century, >10% by 2009) [13], Ohlsson–Roine–Waldenström for Sweden [14] — the manifesto need not rest the empirical case on one country.
+- **Still open:** the current state of the Auten–Splinter vs PSZ exchange — check for post-2024 replies before quoting either side as settled; Piketty's own estimates of what his 90% top rate would raise, for comparison against [../02-proposal/thresholds.md](../02-proposal/thresholds.md); whether *Capital and Ideology*'s tax base is recipient-lifetime-cumulative or transfer-by-transfer (unverified) — the structural comparison table depends on it.
 
 ## Sources
 

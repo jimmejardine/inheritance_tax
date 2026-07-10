@@ -21,7 +21,7 @@ Scores are additive across the ten criteria (max 50), per the [scorecard method]
 | 11 | Australia | 34 | Reintroduction discount; contaminated debate | 1977–79 cascade is the canonical federal failure mode; long-window only | [anglosphere.md](anglosphere.md) |
 | 12 | United States | 30 | Veto-point saturation (C4 = 1) | Improbable adopter, decisive prize: a US move ends global tax competition | [anglosphere.md](anglosphere.md) |
 | 13 | Germany | 26 | **Gated: [Art. 14 GG](https://www.gesetze-im-internet.de/gg/art_14.html) inheritance guarantee** | Implements a floor at whatever ceiling the constitution allows; never a 100% rate unamended | [continental-europe.md](continental-europe.md) |
-| 14 | Switzerland | 24 | **Gated: referendum veto ([2015: ~71% no](https://www.admin.ch/gov/de/start/dokumentation/abstimmungen/20150614/erbschaftssteuerreform.html), to verify) + cantonal assignment** | Definitive consensus-institution refusal; price in as adversary | [unlikely-and-havens.md](unlikely-and-havens.md) |
+| 14 | Switzerland | 24 | **Gated: referendum veto ([2015: 71% no](https://www.swissinfo.ch/eng/democracy/inheritance-tax-initiative-roundly-defeated/41484540); [2025: 78% no](https://swissobserver.com/en/news/swiss-voters-overwhelmingly-reject-inheritance-tax-and-compulsory-civic-duty/)) + cantonal assignment** | Definitive consensus-institution refusal; price in as adversary | [unlikely-and-havens.md](unlikely-and-havens.md) |
 | 15 | Singapore, Gulf, Monaco, dependencies | ≤29 | Refusal is the business model | Containment targets, not persuasion targets | [unlikely-and-havens.md](unlikely-and-havens.md) |
 
 ## Headline findings
@@ -47,7 +47,7 @@ The scenarios are complements, not rivals: any first move improves the game-theo
 ## How to read this section
 
 - Scores answer "how hard is the terrain," not "who is campaigning" — a high score with no movement (Netherlands) still needs the movement-building of [`../13-movement/`](../13-movement/README.md).
-- Every score rests on country facts flagged **(to verify)** in the underlying file; treat the ranking as stable to single-cell revisions but not yet to systematic fact-checking.
+- Every score rests on country facts in the underlying file; these have now been checked against primary sources (see each file's Sources section), with the residual gaps marked **(unverified)** — treat the ranking as stable to single-cell revisions.
 - The US's low rank coexists with its highest strategic value ([anglosphere.md](anglosphere.md)) — likelihood and importance are different columns, and only likelihood is ranked here.
 - Timing lives in [crisis-windows.md](crisis-windows.md): the ranking says *where*, the windows file says *when*, and [`../12-political-adoption/`](../12-political-adoption/README.md) says *through whom*.
 
@@ -60,7 +60,7 @@ The scenarios are complements, not rivals: any first move improves the game-theo
 
 ## What still needs doing
 
-- Verify every flagged claim: cantonal and country rate tables, the 2015 Swiss margin, Korean reform-bill status, Japanese 2015 base-broadening figures, Irish threshold history, German relief statistics, wealth-transfer magnitudes.
+- Verify the remaining flagged claims in the country files: country rate tables, Japanese 2015 base-broadening figures, Irish threshold history, German relief statistics. (Now verified: the Swiss 2015 and 2025 margins and cantonal map, Korean reform-bill status, US exemption law, Australian/NZ abolition dates, and the headline wealth-transfer magnitudes — see the Sources sections of [unlikely-and-havens.md](unlikely-and-havens.md), [anglosphere.md](anglosphere.md), [adoption-criteria.md](adoption-criteria.md), [crisis-windows.md](crisis-windows.md).)
 - Commission or locate comparative polling on inheritance taxation across the top-ten candidates ([`../06-palatability/polling.md`](../06-palatability/polling.md)).
 - Legal memoranda on the two gates: scope of Art. 14 GG at high marginal rates; French confiscatory-doctrine headroom for a threshold-protected receipts tax.
 - A proper quantitative pass on the scorecards once country facts are verified — the current scores are structured judgement and should graduate to a documented rubric.

@@ -20,13 +20,13 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 | Hold the right asset class | Stale/asymmetric valuation | Mark-to-market and appraisal with capped discounts ([`../07-implementation/valuation.md`](../07-implementation/valuation.md)) |
 | Move assets offshore | Purely domestic information | CRS/FATCA automatic exchange; dual nexus; exit tail ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) |
 
-The environment has also changed under the objection's feet: the Common Reporting Standard (100+ jurisdictions exchanging account data since 2017) and FATCA mean tax authorities now receive offshore financial information automatically — the Kamprad-era assumption that foreign assets were invisible is dead (coverage details to verify). Avoidance will not be zero. It does not need to be — see the final section below.
+The environment has also changed under the objection's feet: the Common Reporting Standard (over 100 jurisdictions exchanging account data automatically, with the first exchanges in 2017 [1]) and FATCA mean tax authorities now receive offshore financial information automatically — HMRC alone receives data on around 9 million offshore accounts from over 100 jurisdictions [2]. The Kamprad-era assumption that foreign assets were invisible is dead. Avoidance will not be zero. It does not need to be — see the final section below.
 
 **Deep treatment:** [`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) · [`../07-implementation/enforcement.md`](../07-implementation/enforcement.md) · [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)
 
 ## "Lawyers will run rings round HMRC"
 
-**Concede first.** The resource asymmetry is real: top private-client teams out-gun and out-pay revenue authorities, and HMRC's compliance resources have been repeatedly squeezed (to verify staffing/yield figures).
+**Concede first.** The resource asymmetry is real: top private-client teams out-gun and out-pay revenue authorities. HMRC's wealthy-individuals compliance team runs to about 910 full-time staff covering some 850,000 wealthy taxpayers, and its dedicated unit for those with assets over £10m was disbanded in 2017 [2].
 
 **One-line answer.** The same asymmetry applies to every tax the state nonetheless collects successfully; the answer is bright-line design that starves lawyers of raw material, plus enforcement funding that pays for itself.
 
@@ -35,13 +35,13 @@ The environment has also changed under the objection's feet: the Common Reportin
 - **Planning industries feed on complexity.** Reliefs, definitions, elections, and boundaries are where the arbitrage lives. UK IHT is a planner's paradise precisely because of its relief thicket (BPR, APR, normal-expenditure-out-of-income, seven-year taper).
 - **This proposal is structurally hostile terrain:** one threshold, one rate above it, few reliefs, all receipts cumulated for life, a general anti-abuse rule, and DOTAS-style promoter disclosure extended to transfer schemes ([`../07-implementation/enforcement.md`](../07-implementation/enforcement.md)).
 - **A 0%/100% kink with no relief cliff-edges gives less to lawyer around** than a 40% rate with a dozen doors marked "exempt."
-- **Enforcement is a choice, not a constant.** Compliance spending on wealthy non-compliance has among the highest returns per pound in tax administration (to verify against HMRC/IRS yield-per-staff estimates), and the endowment gives every 25-year-old voter a direct stake in funding it ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
+- **Enforcement is a choice, not a constant.** Compliance spending on wealthy non-compliance has among the highest returns per pound in tax administration — HMRC's compliance work on wealthy taxpayers yielded £5.2bn in 2023–24, up from £2.2bn in 2019–20, against costs of roughly £350m [2] — and the endowment gives every 25-year-old voter a direct stake in funding it ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
 
 **Deep treatment:** [`../07-implementation/enforcement.md`](../07-implementation/enforcement.md) · [`../07-implementation/administration.md`](../07-implementation/administration.md)
 
 ## "It'll only catch the moderately rich; the billionaires escape"
 
-**Concede first.** This described the abolished regimes accurately — incidence inversely correlated with wealth above the threshold was their deepest legitimacy failure, and offshore-evasion research ([Alstadsæter, Johannesen and Zucman](https://www.aeaweb.org/articles?id=10.1257/aer.20172043)) finds evasion rising steeply with wealth (to verify).
+**Concede first.** This described the abolished regimes accurately — incidence inversely correlated with wealth above the threshold was their deepest legitimacy failure, and offshore-evasion research ([Alstadsæter, Johannesen and Zucman](https://www.aeaweb.org/articles?id=10.1257/aer.20172043)) finds evasion rising steeply with wealth: the richest 0.01% of households evade about 25% of their taxes, against under 5% detected on average in random audits [3].
 
 **One-line answer.** That was a fact about *those designs* — estate-based, gift-leaky, trust-blind, domestically informed — not about inheritance taxation as such, and the billionaire-specific escape routes each have a named fix.
 
@@ -75,11 +75,18 @@ The moderately rich, conversely, are largely *below* a £500k-per-recipient thre
 
 A closing move worth naming, because it answers this whole file at once.
 
-- Income tax is evaded — the UK tax gap runs to tens of billions of pounds a year (to verify) — and nobody concludes income tax should be abolished.
+- Income tax is evaded — HMRC put the 2023–24 UK tax gap at £46.8 billion, 5.3% of theoretical liabilities [4] — and nobody concludes income tax should be abolished.
 - VAT is defrauded; VAT stays. Benefits are over- and under-claimed; benefits stay.
 - Only for taxes on wealth transfer is "some people will avoid it" treated as decisive. That is asymmetric perfectionism: demanding of this tax a standard (zero leakage) demanded of no other.
 
 The real bar is the one every tax meets or fails on: does it collect most of its base at acceptable cost with incidence that runs in the intended direction? The design work in sections [02](../02-proposal/README.md), [07](../07-implementation/README.md) and [08](../08-capital-flight/README.md) exists to clear that bar, not the imaginary one.
+
+## Sources
+
+1. [OECD, Automatic Exchange of Information: exchange relationships](https://www.oecd.org/en/topics/sub-issues/international-standards-on-tax-transparency/automatic-exchange-of-information-exchange-relationships.html)
+2. [National Audit Office, *Collecting the right tax from wealthy individuals* (May 2025)](https://www.nao.org.uk/reports/collecting-the-right-tax-from-wealthy-individuals/)
+3. [Alstadsæter, Johannesen and Zucman, "Tax Evasion and Inequality", *American Economic Review* 109(6), 2019](https://www.aeaweb.org/articles?id=10.1257/aer.20172043)
+4. [HMRC, *Measuring tax gaps 2025 edition* (estimates for 2023–24)](https://www.gov.uk/government/statistics/measuring-tax-gaps)
 
 ## See also
 

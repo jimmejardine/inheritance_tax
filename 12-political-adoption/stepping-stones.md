@@ -27,15 +27,15 @@ A qualifying step must pass four tests:
 
 ### Step 1 — Relief closure
 
-The natural first move in almost any political weather: relief abuse is documented, the beneficiaries are concentrated at the very top, and defenders must argue for tax planning rather than farming (the actual working-farm cases are protected by redesign, not by the old relief — [../02-proposal/carveouts.md](../02-proposal/carveouts.md), [../04-case-against/family-business.md](../04-case-against/family-business.md)). UK precedent shows even partial APR/BPR tightening is politically survivable though noisy (recent UK budget experience — to verify details and outcome). A right party can execute step 1 as revenue-protection; a left party as fairness.
+The natural first move in almost any political weather: relief abuse is documented, the beneficiaries are concentrated at the very top, and defenders must argue for tax planning rather than farming (the actual working-farm cases are protected by redesign, not by the old relief — [../02-proposal/carveouts.md](../02-proposal/carveouts.md), [../04-case-against/family-business.md](../04-case-against/family-business.md)). UK precedent shows even partial APR/BPR tightening is politically survivable though noisy: the Autumn Budget 2024 capped 100% relief on agricultural and business property (50% relief above the cap — an effective 20% rate on death) from April 2026, drew sustained farmer protests, and was adjusted rather than abandoned, with the combined 100% allowance later raised from £1m to £2.5m [1][2]. A right party can execute step 1 as revenue-protection; a left party as fairness.
 
 ### Step 2 — Recipient basis (the Ireland model)
 
-Ireland's Capital Acquisitions Tax has taxed cumulative receipts by beneficiary, with kinship-graded thresholds, since 1976 (to verify), making this the least speculative step on the list: a functioning, decades-old, common-law precedent ([../11-geographies/ireland.md](../11-geographies/ireland.md)). The switch can be executed **revenue-neutral and rate-neutral**, which is the cover story's strength — "we are changing who the taxpayer is, not how much is paid." Strategically it is the keystone step: once the taxable unit is the recipient, every subsequent debate is about *how much may one person receive untaxed* — ground on which the full scheme eventually wins by arithmetic ([../06-palatability/framing.md](../06-palatability/framing.md)).
+Ireland's Capital Acquisitions Tax has taxed cumulative receipts by beneficiary, with kinship-graded thresholds, since 1976 [3][4], making this the least speculative step on the list: a functioning, decades-old, common-law precedent ([../11-geographies/ireland.md](../11-geographies/ireland.md)). The switch can be executed **revenue-neutral and rate-neutral**, which is the cover story's strength — "we are changing who the taxpayer is, not how much is paid." Strategically it is the keystone step: once the taxable unit is the recipient, every subsequent debate is about *how much may one person receive untaxed* — ground on which the full scheme eventually wins by arithmetic ([../06-palatability/framing.md](../06-palatability/framing.md)).
 
 ### Step 3 — The receipts ledger
 
-Boring by design, and should be presented as plumbing: a register of large gifts and inheritances received, pre-populated from probate and land-registry data ([../07-implementation/administration.md](../07-implementation/administration.md)). Its quiet function is decisive — lifetime cumulation is impossible without it, and once it exists, "the data was already there" removes the strongest practicality objection to the full scheme ([../09-objections/practicality.md](../09-objections/practicality.md)). Precedent framing: the pensions dashboard and HMRC's existing gift-disclosure rules on death (to verify current seven-year disclosure mechanics).
+Boring by design, and should be presented as plumbing: a register of large gifts and inheritances received, pre-populated from probate and land-registry data ([../07-implementation/administration.md](../07-implementation/administration.md)). Its quiet function is decisive — lifetime cumulation is impossible without it, and once it exists, "the data was already there" removes the strongest practicality objection to the full scheme ([../09-objections/practicality.md](../09-objections/practicality.md)). Precedent framing: the pensions dashboard and HMRC's existing gift-disclosure rules on death — executors must already report all gifts made in the seven years before death on schedule IHT403 [5].
 
 ### Step 4 — Threshold indexation
 
@@ -43,7 +43,7 @@ Superficially a *concession* to inheritance-tax opponents — which is exactly i
 
 ### Step 5 — Pilot endowment
 
-Precedents: the UK Child Trust Fund (2005–2011, universal at birth, abolished before maturity — its dormancy and account-loss problems are design lessons, not refutations), and US baby-bond programmes (Connecticut enacted 2021, DC's programme, and federal proposals — to verify statuses and amounts). The pilot should differ from CTF in the ways [../02-proposal/endowment.md](../02-proposal/endowment.md) specifies: paid at 25, not drip-fed from birth; substantial enough to be life-shaping; and — critically for the ratchet — *visibly funded from wealth-transfer receipts*, even if only notionally at pilot scale, to install the "their windfall funds your start" pairing in public accounting ([../16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md)).
+Precedents: the UK Child Trust Fund (2005–2011, universal at birth, abolished before maturity — its dormancy and account-loss problems are design lessons, not refutations), and US baby-bond programmes — Connecticut enacted the first state programme in 2021 and launched it in July 2023, with $3,200 at birth for children covered by Medicaid [6]; Washington DC enacted a programme in 2021 but subsequently defunded it, with full repeal proposed in the FY2026 budget — a reversal-risk lesson [7]; the federal Booker–Pressley American Opportunity Accounts Act ($1,000 at birth plus up to $2,000 a year by family income) remains unpassed [8]. The pilot should differ from CTF in the ways [../02-proposal/endowment.md](../02-proposal/endowment.md) specifies: paid at 25, not drip-fed from birth; substantial enough to be life-shaping; and — critically for the ratchet — *visibly funded from wealth-transfer receipts*, even if only notionally at pilot scale, to install the "their windfall funds your start" pairing in public accounting ([../16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md)).
 
 ### Step 6 — Top-rate progression
 
@@ -51,7 +51,7 @@ Once steps 1–4 are in place, rate rises at the very top become serial applicat
 
 ### Step 7 — International floor
 
-Modelled explicitly on the OECD Pillar Two corporate minimum tax (agreed 2021 — to verify implementation status): automatic information exchange on cross-border inheritances, a minimum effective rate floor, and situs/exit rules coordination ([../08-capital-flight/international-coordination.md](../08-capital-flight/international-coordination.md), [../08-capital-flight/exit-tax-design.md](../08-capital-flight/exit-tax-design.md)). Sequencing is flexible — treaty work runs in parallel — but visible progress here must *precede* step 6's upper reaches, because "they'll all leave" is the objection that kills top rates ([../09-objections/avoidance.md](../09-objections/avoidance.md), [../08-capital-flight/evidence.md](../08-capital-flight/evidence.md)).
+Modelled explicitly on the OECD Pillar Two corporate minimum tax — agreed by 136 jurisdictions in October 2021 and in force in the EU, UK, Japan and other jurisdictions for accounting periods from 2024 [9][10]: automatic information exchange on cross-border inheritances, a minimum effective rate floor, and situs/exit rules coordination ([../08-capital-flight/international-coordination.md](../08-capital-flight/international-coordination.md), [../08-capital-flight/exit-tax-design.md](../08-capital-flight/exit-tax-design.md)). Sequencing is flexible — treaty work runs in parallel — but visible progress here must *precede* step 6's upper reaches, because "they'll all leave" is the objection that kills top rates ([../09-objections/avoidance.md](../09-objections/avoidance.md), [../08-capital-flight/evidence.md](../08-capital-flight/evidence.md)).
 
 ## Sequencing logic
 
@@ -80,3 +80,16 @@ Candour within the project: this is deliberate incrementalism toward a destinati
 ## Bottom line
 
 The full scheme is one policy but seven votes, and only the last vote is about 100%. Each of the first six is winnable now or soon, by different parties for different selfish reasons, on cover stories that are true. The movement's discipline is to sell steps, bank ratchets, and never make a minister carry the map.
+
+## Sources
+
+1. [House of Commons Library, *Changes to agricultural and business property reliefs for inheritance tax* (CBP-10181)](https://commonslibrary.parliament.uk/research-briefings/cbp-10181/)
+2. [HM Treasury/HMRC, "Summary of reforms to agricultural property relief and business property relief"](https://www.gov.uk/government/publications/agricultural-property-relief-and-business-property-relief-reforms/summary-of-reforms-to-agricultural-property-relief-and-business-property-relief)
+3. [Capital Acquisitions Tax Act, 1976 (Irish Statute Book)](https://www.irishstatutebook.ie/eli/1976/act/8/enacted/en/html)
+4. [Revenue (Ireland), "CAT group thresholds"](https://www.revenue.ie/en/gains-gifts-and-inheritance/cat-thresholds-rates-and-aggregation-rules/cat-thresholds.aspx) — cumulative lifetime thresholds by kinship group (Group A €400,000; B €40,000; C €20,000)
+5. [HMRC, Schedule IHT403: Gifts and other transfers of value](https://assets.publishing.service.gov.uk/media/5f60b44cd3bf7f7234487bf0/IHT403-05-20.pdf)
+6. [Institute on Race, Power and Political Economy, "Baby Bonds in Connecticut"](https://racepowerpolicy.org/baby-bonds/baby-bonds-in-connecticut/)
+7. [DC Fiscal Policy Institute, "DC Council Should Restore Funding for the Baby Bonds Program"](https://www.dcfpi.org/all/restore-funding-for-and-protect-the-integrity-of-the-baby-bonds-program/)
+8. [S.441 — American Opportunity Accounts Act, 118th Congress (Congress.gov)](https://www.congress.gov/bill/118th-congress/senate-bill/441)
+9. [OECD, Global Anti-Base Erosion Model Rules (Pillar Two)](https://www.oecd.org/en/topics/sub-issues/global-minimum-tax/global-anti-base-erosion-model-rules-pillar-two.html)
+10. [Grant Thornton, "Pillar 2: Updates from key jurisdictions" (2024)](https://www.grantthornton.com/insights/articles/tax/2024/key-updates-on-the-global-implementation-of-pillar-2)

@@ -14,7 +14,7 @@ Every one of these outcomes destroys precisely the thing the estate embodied —
 
 Who buys a distress-sold family firm? Not another family — they face the same tax on their own eventual succession. The natural buyers are private-equity funds, listed corporates, and institutional aggregators: entities that never die and therefore never pay the tax. A 100% inheritance tax on family capital, with no answer to the liquidity problem, operates as a *subsidy to immortal capital*.
 
-Farmland consolidates into institutional portfolios; the *Mittelstand* firm becomes a bolt-on acquisition; the high street veterinary practice joins a roll-up. The policy that set out to break dynastic concentration instead accelerates the concentration of the corporate form — arguably a worse form, since a dynasty at least has a local name and reputational skin in the game. This is not hypothetical: critics of the UK's 2024 Agricultural Property Relief reform made exactly this argument, and the televised farm-auction imagery it produced is the standard opening move against any death duty (to verify specific coverage claims).
+Farmland consolidates into institutional portfolios; the *Mittelstand* firm becomes a bolt-on acquisition; the high street veterinary practice joins a roll-up. The policy that set out to break dynastic concentration instead accelerates the concentration of the corporate form — arguably a worse form, since a dynasty at least has a local name and reputational skin in the game. This is not hypothetical: critics of the UK's 2024 Agricultural Property Relief reform made exactly this argument, and the televised imagery it produced — thousands of farmers marching on Westminster in November 2024, with the NFU claiming most working farms could be caught — is the standard opening move against any death duty [12].
 
 ### 3. The stewardship case for family ownership
 
@@ -23,7 +23,7 @@ The strongest positive version of the objection comes from the German-speaking w
 | Claimed advantage | Mechanism |
 |---|---|
 | Long investment horizons | Owners answer to grandchildren, not quarterly earnings calls |
-| Employment stability | Documented lower layoff propensity in downturns among family firms (to verify) |
+| Employment stability | Documented lower layoff propensity in downturns among family firms [11] |
 | Regional rootedness | Headquarters and reinvestment stay in the founding town |
 | Reputational capital | The family name on the gate disciplines quality and conduct |
 | Resistance to short-termist finance | No exit-seeking shareholders forcing sale or leverage |
@@ -42,7 +42,7 @@ The obvious answer — exempt operating businesses — has been tried, and the r
 |---|---|---|
 | UK BPR | Too generous | AIM-share portfolios and recharacterised property companies marketed explicitly as IHT shelters; relief flowed to passive wealth, not working firms [4] |
 | UK APR | Too generous | Farmland prices inflated by non-farming purchasers buying tax shelter; genuine farmers priced out of expansion [5] |
-| US QFOBI (IRC §2057) | Too narrow | So hedged with tests that only ~415 estates claimed it in its peak year; heavily litigated; repealed 2004 [6] |
+| US QFOBI (IRC §2057) | Too narrow | So hedged with tests that only 1,114 estates of 2001 decedents — about 1% of estate-tax filers — claimed it; heavily litigated; repealed for deaths after 2003 [6] |
 | German business relief | Too generous | Struck down by the Constitutional Court in 2014 as unconstitutionally favourable to large enterprises [7] |
 
 The steelman's conclusion: there is no stable middle. A relief tight enough to exclude shelters excludes real businesses; a relief wide enough to protect real businesses becomes the avoidance route that guts the tax ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) documents this as the deepest cause of prior abolitions). Either way, the family-business boundary is where the policy dies.
@@ -51,15 +51,15 @@ The steelman's conclusion: there is no stable middle. A relief tight enough to e
 
 The objection assumes that heir succession is worth protecting on efficiency grounds. The empirical literature is strikingly hostile to that assumption:
 
-- **Pérez-González (2006, *AER*)** finds that US firms passing the CEO role to a family heir underperform those hiring outside managers, with the deficit concentrated in heirs who attended less selective colleges (to verify magnitudes).
-- **Bennedsen, Nielsen, Pérez-González & Wolfenzon (2007, *QJE*)**, using the gender of the first-born child as an instrument in Danish data, find family-CEO successions cause substantial declines in firm profitability relative to unrelated-CEO successions (to verify magnitudes).
-- **Bloom & Van Reenen's** World Management Survey work consistently finds primogeniture-managed family firms score among the worst on management practices across countries — family *ownership* with professional management scores far better [10].
+- **Pérez-González (2006, *AER*)** finds that US firms passing the CEO role to a family heir underperform those hiring outside managers in operating profitability and market-to-book ratios, with the deficit concentrated in heirs who attended less selective colleges [2].
+- **Bennedsen, Nielsen, Pérez-González & Wolfenzon (2007, *QJE*)**, using the gender of the first-born child as an instrument in Danish data, find family-CEO succession causes operating profitability on assets to fall by at least four percentage points relative to unrelated-CEO successions [3].
+- **Bloom & Van Reenen's** World Management Survey work consistently finds primogeniture-managed family firms score among the worst on management practices across countries — family *ownership* with professional management scores far better [9].
 - The patient-capital advantages in the table above attach mainly to family *ownership and values*, not to family *management by birthright*; the literatures are routinely conflated by lobby groups.
 
 Two honest qualifications:
 
 1. This evidence concerns heir *management*, whereas the tax bites heir *ownership*. A policy defence built on the management literature must explain why passive heir ownership is also objectionable — and that answer lives in [`../01-problem/rentier-economy.md`](../01-problem/rentier-economy.md) and [`../03-case-for/meritocratic-legitimacy.md`](../03-case-for/meritocratic-legitimacy.md), not in these studies. Citing Pérez-González against the *Mittelstand* argument without this step is the kind of slippage this section exists to avoid.
-2. Forced-sale horror stories under *existing* estate taxes are rarer than the rhetoric implies — US Treasury and CBO analyses repeatedly found very few farm estates with genuine liquidity crises (to verify) — but existing taxes have rates of 40% with wide reliefs. A 100% rate cannot borrow that comfort without argument; the liquidity mathematics genuinely worsen with the rate, which is why the deferral architecture below is load-bearing rather than decorative.
+2. Forced-sale horror stories under *existing* estate taxes are rarer than the rhetoric implies — the CBO found the vast majority of farm and business estates owing tax had the liquid assets to pay it, and counted only 13 farm estates (2000 data) that would have faced a genuine shortfall at a $3.5m exemption [13] — but existing taxes have rates of 40% with wide reliefs. A 100% rate cannot borrow that comfort without argument; the liquidity mathematics genuinely worsen with the rate, which is why the deferral architecture below is load-bearing rather than decorative.
 
 ## The proposal's answer, and what it costs
 
@@ -77,7 +77,7 @@ The honest accounting of what this answer costs:
 ## What would change the assessment
 
 - **Against the proposal:** evidence that deferral-encumbered firms systematically fail or under-invest relative to matched controls (the post-2024 UK APR reform will generate exactly this natural experiment — to monitor); evidence that voluntary first-generation sales flow overwhelmingly to private-equity consolidators rather than management buy-outs, employee ownership, or trade diversity; a demonstration that the active-business boundary cannot hold against recharacterisation even without a relief to shelter into ([`../07-implementation/boundary-problem.md`](../07-implementation/boundary-problem.md)).
-- **For the proposal:** growth of the employee-ownership-trust exit route as a succession alternative (UK EOT adoptions have grown rapidly since 2014 — to verify figures), which would supply a non-dynastic, non-PE buyer class and directly blunt the consolidation perversity; continued accumulation of heir-underperformance findings across countries.
+- **For the proposal:** growth of the employee-ownership-trust exit route as a succession alternative (from a standing start in 2014 to some 1,300 employee-owned businesses by the end of 2022 on Employee Ownership Association data [14]), which would supply a non-dynastic, non-PE buyer class and directly blunt the consolidation perversity; continued accumulation of heir-underperformance findings across countries.
 
 ## Verdict
 
@@ -94,8 +94,12 @@ Residual standing: a country adopting this policy will have visibly fewer centur
 3. [Bennedsen, Nielsen, Pérez-González & Wolfenzon, "Inside the Family Firm," *Quarterly Journal of Economics* 122(2), 2007](https://academic.oup.com/qje/article-abstract/122/2/647/1942108).
 4. [OTS Inheritance Tax Review — Second Report (2019)](https://www.gov.uk/government/publications/ots-inheritance-tax-review-simplifying-the-design-of-the-tax); Resolution Foundation on AIM-share IHT shelters.
 5. [IFS — "Reforming Inheritance Tax" (2023)](https://ifs.org.uk/publications/reforming-inheritance-tax); IFS work on APR and farmland prices (2024).
-6. [Congressional Research Service — QFOBI, RL30600](https://crsreports.congress.gov/).
+6. [Gangi & Raub, "Utilization of Special Estate Tax Provisions for Family-Owned Farms and Closely Held Businesses," IRS Statistics of Income](https://www.irs.gov/pub/irs-soi/spestate.pdf).
 7. [Bundesverfassungsgericht — 1 BvL 21/12 (17 Dec 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2014/12/ls20141217_1bvl002112en.html).
 8. [HMRC — Instalment option for IHT (IHTM30191)](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30191); Irish Revenue CAT instalment arrangements.
 9. [Bloom & Van Reenen, "Measuring and Explaining Management Practices Across Firms and Countries," *QJE* 122(4), 2007](https://academic.oup.com/qje/article-abstract/122/4/1351/1850493); [World Management Survey](https://worldmanagementsurvey.org/).
 10. See also [`../05-history/abolitions.md`](../05-history/abolitions.md) on the Swedish and Austrian family-business politics.
+11. [Ellul, Pagano & Schivardi, "Employment and Wage Insurance within Firms: Worldwide Evidence," *Review of Financial Studies* 31(4), 2018](https://academic.oup.com/rfs/article-abstract/31/4/1298/4110800); [summary at VoxEU/CEPR](https://cepr.org/voxeu/columns/employment-and-wage-insurance-within-firms-worldwide-evidence); Sraer & Thesmar (2007, *JEEA*) find the same pattern in French heir-managed firms.
+12. [Al Jazeera, "Why have British farmers marched on UK's Parliament?" (20 November 2024)](https://www.aljazeera.com/features/2024/11/20/why-have-british-farmers-marched-on-uks-parliament).
+13. [CBO, *Effects of the Federal Estate Tax on Farms and Small Businesses* (July 2005)](https://www.cbo.gov/publication/16897).
+14. [Employee Ownership Association figures on EOT growth (summary)](https://goeo.uk/blog/how-many-employee-ownership-trusts-are-there-in-the-uk).

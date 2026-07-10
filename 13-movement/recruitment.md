@@ -4,7 +4,7 @@
 
 ## The concentric-circle model
 
-People do not join movements; they accept escalating asks. Each ring below is defined by the size of the ask it has accepted. The organising task is to move people inward one ring at a time — the "ladder of engagement" from community-organising practice, and the leadership-development logic of [Marshall Ganz](https://www.hks.harvard.edu/faculty/marshall-ganz)'s "snowflake" model, in which every member is developed into a recruiter of further members rather than remaining a consumer of the campaign (to verify attribution and canonical description).
+People do not join movements; they accept escalating asks. Each ring below is defined by the size of the ask it has accepted. The organising task is to move people inward one ring at a time — the "ladder of engagement" from community-organising practice, and the leadership-development logic of [Marshall Ganz](https://www.hks.harvard.edu/faculty/marshall-ganz)'s "snowflake" model, in which every member is developed into a recruiter of further members rather than remaining a consumer of the campaign — the interdependent leadership-team structure Ganz designed for the 2008 Obama campaign's grassroots organisation.
 
 | Ring | Who | Approx. target size at maturity | The ask |
 |---|---|---|---|
@@ -25,7 +25,7 @@ People do not join movements; they accept escalating asks. Each ring below is de
 
 ### Ring 2 — Contributors
 
-- **Where found:** university economics and law departments; tax-professional bodies ([CIOT](https://www.tax.org.uk/), [STEP](https://www.step.org/) in the UK; [ABA tax section](https://www.americanbar.org/groups/taxation/) in the US — to verify openness); journalists on wealth beats; comms professionals sympathetic to inequality causes.
+- **Where found:** university economics and law departments; tax-professional bodies ([CIOT](https://www.tax.org.uk/), [STEP](https://www.step.org/) in the UK; [ABA tax section](https://www.americanbar.org/groups/taxation/) in the US — openness to movement-adjacent asks unverified); journalists on wealth beats; comms professionals sympathetic to inequality causes.
 - **The ask:** one bounded, prestigious task — peer-review a chapter, model a revenue estimate, draft an avoidance memo, design a message test.
 - **Conversion mechanism:** the bounded ask itself. Experts rarely "join movements" but readily accept a well-specified request that respects their time and yields a citable output.
 - **What they need:** professional cover (association with a credible institution, not a fringe campaign — see [organisational-forms.md](organisational-forms.md)), named credit or guaranteed anonymity as they prefer, and a research agenda worth their career time. For academic economists specifically, the offer is a **new research programme**: inheritance flows, endowment effects ([16-second-order/](../16-second-order/README.md)), and behavioural responses are under-studied and publishable — the movement supplies questions, data access, and audience.

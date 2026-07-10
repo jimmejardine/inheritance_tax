@@ -17,7 +17,7 @@ Three consequences follow:
 | Party family | The problem they already have | What the policy offers them | Chief risk from their chair | De-risking design feature |
 |---|---|---|---|---|
 | Left (Labour, Democrats, SPD) | "How will you pay for it?" credibility gap; young non-voters | Fully-funded signature deliverable; turnout engine | "Tax bombshell" attacks; farmer/small-business marginals | 90%+ of voters never pay; carve-outs in [../02-proposal/carveouts.md](../02-proposal/carveouts.md) |
-| Right (Conservatives, GOP, CDU) | Ageing voter base; asset-poor young reject them; inequality attack line | Revenue to cut hated taxes; manufacture of future asset-owning voters; permanent neutralisation of the inequality attack | Donor revolt; base accusations of betrayal | "Tax cut for ordinary families" framing (0% below £500k vs 40% above ~£325k today — to verify); property-owning-democracy lineage |
+| Right (Conservatives, GOP, CDU) | Ageing voter base; asset-poor young reject them; inequality attack line | Revenue to cut hated taxes; manufacture of future asset-owning voters; permanent neutralisation of the inequality attack | Donor revolt; base accusations of betrayal | "Tax cut for ordinary families" framing (0% below £500k per recipient, vs today's 40% above a £325,000 nil-rate band — £500,000 where the £175,000 residence nil-rate band applies, both frozen until April 2031 [1][2]); property-owning-democracy lineage |
 | Centrists / liberals (Lib Dems, D66, en-marche-style) | No distinctive big idea; squeezed positioning | Equality-of-opportunity flagship; coalition bargaining chip | Perceived radicalism vs centrist brand | Mill lineage ([../05-history/mill-1848.md](../05-history/mill-1848.md)); "opportunity" not "confiscation" language |
 | All parties | Opponent coalitions to split | Wedge that divides asset-rich donors from asset-poor voters on the other side | Same wedge applied back | Design choices in [wedge-dynamics.md](wedge-dynamics.md) |
 
@@ -62,7 +62,7 @@ The section is designed to be read two ways:
 
 ## Research gaps for this section
 
-- Systematic evidence on **policy theft**: how often, and under what conditions, incumbent parties adopt challenger or opposition policies (issue-ownership and accommodation literatures — to verify key references).
+- Systematic evidence on **policy theft**: how often, and under what conditions, incumbent parties adopt challenger or opposition policies. The canonical entry points are Petrocik's issue-ownership theory [3] and Meguid's work on mainstream-party accommodation of niche-party issues [4][5]; a systematic synthesis applied to tax policy specifically remains to be done.
 - **UK constituency-level modelling** of endowment beneficiaries versus threshold-exposed inheritors, to convert [electoral-arithmetic.md](electoral-arithmetic.md) from direction to numbers.
 - **Interview evidence from former special advisers** on what actually moved tax policy onto frontbench agendas (supports [policy-entrepreneurs.md](policy-entrepreneurs.md)).
 - Comparative record of **citizens' assemblies on tax** questions specifically, as distinct from social questions (Ireland precedent is social; the transfer is asserted, not demonstrated).
@@ -79,3 +79,11 @@ The section is designed to be read two ways:
 - [stepping-stones.md](stepping-stones.md) — the seven incremental adoptables, each valuable alone, each a ratchet
 
 The section's one-sentence version: parties will adopt this policy when it is the cheapest available answer to a problem they already have, and every file above is about lowering that price for a specific buyer.
+
+## Sources
+
+1. [gov.uk — How Inheritance Tax works: thresholds, rules and allowances](https://www.gov.uk/inheritance-tax)
+2. [Professional Adviser (26 November 2025) — "Budget 25: IHT nil rate bands frozen until 2031"](https://www.professionaladviser.com/news/4522426/budget-iht-nil-rate-bands-frozen-2031)
+3. [Petrocik, J. R. (1996). "Issue Ownership in Presidential Elections, with a 1980 Case Study." *American Journal of Political Science* 40(3): 825–850](https://doi.org/10.2307/2111797)
+4. [Meguid, B. M. (2005). "Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success." *American Political Science Review* 99(3): 347–359](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/competition-between-unequals-the-role-of-mainstream-party-strategy-in-niche-party-success/74958063576E765C21430A8CB57DCC1B)
+5. [Meguid, B. M. (2008). *Party Competition between Unequals: Strategies and Electoral Fortunes in Western Europe*. Cambridge University Press](https://www.cambridge.org/core/books/party-competition-between-unequals/0FE7C0230AE07780E36415DA7EAFF47F)

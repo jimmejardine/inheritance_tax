@@ -6,11 +6,11 @@
 
 Under the current regime, a large estate's assets typically pass to heirs with little or no market transaction (and, in the US, a stepped-up basis rewarding retention). Under the proposal, above-threshold value must be converted: sold to pay the tax, transferred in-specie to the state fund, or given to charity (which itself typically diversifies). The result is structurally higher turnover of previously locked assets. Whether higher turnover moves *prices* depends on each market's depth and on who absorbs the supply — hence the asset-by-asset treatment below.
 
-One overarching caution: annual death-driven asset flows are small relative to total asset stocks. Roughly £100bn+ of UK wealth is inherited annually (to verify) against a household wealth stock of ~£15tn (to verify) — under 1% a year. Steady-state price effects are therefore modest in deep markets; the sharper effects are in thin, relief-distorted markets (farmland, AIM shares, trophy assets) and in the transition period.
+One overarching caution: annual death-driven asset flows are small relative to total asset stocks. Over £100bn a year now passes in UK inheritances and gifts [5], against a household wealth stock of £13.6tn (ONS Wealth and Assets Survey, April 2020 to March 2022) [6] — under 1% a year. Steady-state price effects are therefore modest in deep markets; the sharper effects are in thin, relief-distorted markets (farmland, AIM shares, trophy assets) and in the transition period.
 
 ## 2. Housing
 
-**Supply side.** Estates selling houses rather than transmitting them, plus earlier downsizing by the elderly ([savings-consumption.md](savings-consumption.md) §4), increases effective supply — concentrated in exactly the large-family-home segment that is under-occupied ([`../01-problem/housing.md`](../01-problem/housing.md)). Downward pressure starts at the top end (prime London/SE, where inherited property is most concentrated) and filters down as chains lengthen: the filtering literature supports the mechanism, though filtering is slow and leaky (to verify) [1].
+**Supply side.** Estates selling houses rather than transmitting them, plus earlier downsizing by the elderly ([savings-consumption.md](savings-consumption.md) §4), increases effective supply — concentrated in exactly the large-family-home segment that is under-occupied ([`../01-problem/housing.md`](../01-problem/housing.md)). Downward pressure starts at the top end (prime London/SE, where inherited property is most concentrated) and filters down as chains lengthen: the filtering literature supports the mechanism, though filtering is slow and leaky — Rosenthal estimates US housing filters down the income distribution at about 2.5% a year for rental stock but only about 0.5% for owner-occupied homes [1].
 
 **Demand side.** The universal endowment adds first-time-buyer purchasing power at the entry level — an offsetting upward pressure examined seriously in [endowment-effects.md](endowment-effects.md) §5. The net distributional twist is a *rotation*: top-end prices soften, entry-level prices firm, the ratio between them compresses.
 
@@ -19,12 +19,12 @@ One overarching caution: annual death-driven asset flows are small relative to t
 ## 3. Equities
 
 - **Dispersal of concentrated stakes.** Founding-family blocks liquidate over a generational cycle instead of compounding; free float rises; ownership disperses toward institutions, pension funds, and (via the endowment) the young. Price impact of block disposals is small in deep listed markets, larger for illiquid mid-caps; the deferred-payment machinery and optional state equity stake in [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) exist precisely to prevent forced fire-sales.
-- **The AIM distortion unwinds.** UK AIM shares currently trade with a premium capitalising Business Property Relief — portfolios are marketed explicitly as "IHT solutions" (to verify) [2]. Removing relief-driven demand deflates that premium: unwelcome for incumbent holders, welcome for price integrity.
+- **The AIM distortion unwinds.** UK AIM shares currently trade with a premium capitalising Business Property Relief — portfolios are marketed explicitly as "IHT solutions"; the OTS concluded that for third-party investors in AIM-traded shares the relief "is not necessary" to prevent business break-up, and the IFS puts the cost of relief on AIM shares at around £1.1bn a year [2]. Removing relief-driven demand deflates that premium: unwelcome for incumbent holders, welcome for price integrity.
 - **Governance effect** (control, not price): covered in [dynasties-and-power.md](dynasties-and-power.md).
 
 ## 4. Farmland — the underappreciated pro-farmer argument
 
-UK farmland persistently trades at prices yielding well under 2% on agricultural returns (to verify) [3], because Agricultural Property Relief makes land a near-perfect IHT shelter: buy land, farm it nominally, pass it tax-free. APR demand from investors and estate-planners is capitalised into the price, which:
+UK farmland persistently trades at prices yielding well under 2% on agricultural returns — average English farm rents of £174–253 per hectare (2024/25) against average GB sale prices of about £31,200 per hectare imply a gross rental yield below 1% [3] — because Agricultural Property Relief makes land a near-perfect IHT shelter: buy land, farm it nominally, pass it tax-free. APR demand from investors and estate-planners is capitalised into the price, which:
 
 - prices working farmers and new entrants out of land they could service from farming income;
 - rewards "land banking" over production;
@@ -32,7 +32,7 @@ UK farmland persistently trades at prices yielding well under 2% on agricultural
 
 Remove the shelter (the proposal replaces APR with deferred payment for genuine working farms — [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) and farmland prices should fall toward agricultural-yield value. **Losers: land bankers, institutional shelter-buyers, estates.** **Winners: tenant farmers, new entrants, county-council smallholdings, anyone who farms for a living.** The 2024–25 UK APR-reform protests framed relief restriction as anti-farmer; the second-order analysis says sustained relief is what makes farms unaffordable to farmers. This argument is underused and belongs in [`../06-palatability/framing.md`](../06-palatability/framing.md) and [`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md).
 
-Confidence: medium–high on direction; magnitude depends on how much of the price is relief capitalisation versus amenity and development-option value (to verify — a researchable number).
+Confidence: medium–high on direction; magnitude depends on how much of the price is relief capitalisation versus amenity and development-option value (unverified — a researchable number).
 
 ## 5. Art, collectibles, and trophy assets
 
@@ -61,7 +61,9 @@ Note the asymmetry: *relief-capitalisation effects (farmland, AIM) arrive fast* 
 
 ## Sources
 
-1. Filtering literature — Rosenthal, S. "Are Private Markets and Filtering a Viable Source of Low-Income Housing?" *AER* (2014) (to verify)
-2. Resolution Foundation and OTS analyses of Business Property Relief and the AIM market (to verify)
-3. Savills / Knight Frank farmland market surveys; RICS farmland price-to-earnings analyses (to verify)
-4. IFS, *Reforming Inheritance Tax* (2023) — relief capitalisation discussion (to verify)
+1. [Rosenthal, S. — "Are Private Markets and Filtering a Viable Source of Low-Income Housing? Estimates from a 'Repeat Income' Model," *American Economic Review* 104(2), 2014, pp. 687–706](https://www.aeaweb.org/articles?id=10.1257/aer.104.2.687)
+2. [OTS, *Inheritance Tax Review — second report: Simplifying the design of Inheritance Tax* (2019)](https://www.gov.uk/government/publications/ots-inheritance-tax-review-simplifying-the-design-of-the-tax); [IFS, *Reforming Inheritance Tax* (2023)](https://ifs.org.uk/publications/reforming-inheritance-tax)
+3. [Defra, *Farm Rents in England, 2024/25*](https://www.gov.uk/government/statistics/farm-rents/farm-rents-in-england-202425-statistics-notice); [RICS/RAU Farmland Market Report, H1 2025](https://www.rics.org/content/dam/ricsglobal/documents/market-surveys/Final-RICS-RAU-Farmland-Market-Report-H1-2025.pdf)
+4. [IFS, *Reforming Inheritance Tax* (2023) — reliefs and their effects](https://ifs.org.uk/publications/reforming-inheritance-tax)
+5. [Demos — "Inheritances are the £100 billion elephant in the room" (2023)](https://demos.co.uk/blogs/inheritances-are-the-100-billion-elephant-in-the-room-in-talk-of-british-decline/)
+6. [ONS — Privately owned wealth in the UK (Wealth and Assets Survey, April 2020 to March 2022)](https://www.ons.gov.uk/aboutus/transparencyandgovernance/privatelyownedwealthintheuk)

@@ -33,7 +33,7 @@ The self-destruction thesis is not an import from capitalism's critics. Its stro
 |---|---|---|
 | Joseph Schumpeter, *Capitalism, Socialism and Democracy* (1942) | Capitalism's very success erodes the institutions and social attitudes that sustain it; it would be destroyed not by failure but by the by-products of triumph — including the hardening of its winners into a protective, entrepreneurial-no-longer class | Capitalism's greatest theorist of innovation |
 | Karl Marx | Treated honestly: the theorist who *counted on* exactly this dynamic — capital concentrating, immiseration and delegitimation proceeding, until expropriation. His mechanism was real even where his remedy was catastrophic | The adversary whose forecast the tax exists to falsify |
-| The mid-century democracies | US top estate rate 77% (1941–76); UK death duties near 80%; enacted by broadly capitalist legislatures, in part explicitly as system-preservation against revolutionary and fascist alternatives (motive and rates to verify — [../05-history/us-estate-tax.md](../05-history/us-estate-tax.md), [../05-history/uk-estate-duty.md](../05-history/uk-estate-duty.md)) | Practitioners, not theorists: they ran the remedy and capitalism thrived |
+| The mid-century democracies | US top estate rate 77% (1941–76) [6]; UK estate duty 80% by 1949, its marginal peak 85% in 1969 (capped at 80% of the estate) [7]; enacted by broadly capitalist legislatures, with explicitly anti-dynastic framing — FDR's 1935 message attacked "inherited economic power" as "inconsistent with the ideals of this generation" [3] ([../05-history/us-estate-tax.md](../05-history/us-estate-tax.md), [../05-history/uk-estate-duty.md](../05-history/uk-estate-duty.md)) | Practitioners, not theorists: they ran the remedy and capitalism thrived |
 | Theodore Roosevelt (1906–10) | Hereditary fortunes as a menace to republican government; the inheritance tax as the anti-aristocratic instrument ([../05-history/roosevelt-1906.md](../05-history/roosevelt-1906.md)) | Republican president, trust-buster, no socialist |
 
 Marx deserves the honest paragraph. His economics failed on wages, on the falling rate of profit, on the immiseration of workers under market growth — the Great Enrichment refuted him empirically. But his political sociology of *untreated* capital concentration — wealth begetting power begetting delegitimation begetting rupture — describes channels A–C uncomfortably well. The choice he denied was possible is precisely the one this proposal takes: keep the market engine, break the dynastic transmission. Every generation that inherits little and builds much is a standing refutation of historical materialism. A 100% inheritance tax is, among other things, the most anti-Marxist policy available: it removes the mechanism his prophecy requires.
@@ -52,7 +52,7 @@ The system's actual history is a sequence of pro-market interventions against it
 |---|---|---|
 | Antitrust (Sherman 1890 onward) | Winners ending competition | Constitutive of markets, not opposed to them |
 | Central banking as lender of last resort | Self-amplifying panics | Standard equipment of every capitalist economy |
-| Deposit insurance (US 1933 onward) | Bank runs destroying sound institutions | Ended the run as a routine event (to verify) |
+| Deposit insurance (US 1933 onward) | Bank runs destroying sound institutions | Ended the run as a routine event — deposit insurance "sharply reduced the frequency of bank runs that once were common in the U.S." [8] |
 | Securities regulation and audited accounts | Fraud destroying the trust markets price on | The precondition of deep capital markets |
 | Seatbelts-and-safety-rules class of interventions | Markets externalising lethal costs | Bought legitimacy at trivial efficiency cost |
 
@@ -65,15 +65,18 @@ A senior-analyst claim should state its own disconfirmers. The thesis weakens if
 ## Verification checklist
 
 - Schumpeter's argument in Part II of *Capitalism, Socialism and Democracy* — confirm the "destroyed by its success" framing and the obsolescence-of-the-entrepreneur passages.
-- The system-preservation motive for 1930s–40s estate taxation (legislative record, FDR's 1935 tax message "inherited economic power" language — to verify).
-- US 77% top estate rate dates (1941–1976) and UK ~80% peak death-duty rates.
-- FDIC's effect on bank-run frequency; Sherman Act dating.
+- FDR's 1935 tax message: **verified** — Message to Congress on Tax Revision, 19 June 1935: "Such inherited economic power is as inconsistent with the ideals of this generation as inherited political power was inconsistent with the ideals of the generation which established our Government" [3]. The broader claim that mid-century rates were motivated by fear of revolutionary/fascist alternatives remains an interpretive judgement; the anti-dynastic framing itself is on the record.
+- US and UK peak rates: **verified** — US top estate rate 77% from the Revenue Act of 1941 until the Tax Reform Act of 1976 (IRS) [6]; UK estate duty top rate 80% from 1949, marginal peak 85% in 1969 subject to an 80%-of-estate cap [7].
+- FDIC's effect on bank-run frequency: **verified** — deposit insurance sharply reduced run frequency; US bank failures collapsed after 1933 [8]. Sherman Act dating (1890) — standard.
 - Heir-underperformance citations (Pérez-González 2006; Bennedsen et al. 2007) — owned by [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md).
 
 ## Sources
 
 1. Schumpeter, J. (1942). [*Capitalism, Socialism and Democracy*](https://archive.org/details/capitalismsocial00schu), Part II. Harper & Brothers.
 2. Piketty, T. (2014). [*Capital in the Twenty-First Century*](https://www.hup.harvard.edu/books/9780674430006). Harvard University Press — r > g and inheritance-flow series.
-3. [Roosevelt, F. D. (1935). Message to Congress on Tax Revision](https://www.presidency.ucsb.edu/documents/message-congress-tax-revision) — "inherited economic power" framing (to verify).
+3. [Roosevelt, F. D. (19 June 1935). Message to Congress on Tax Revision](https://www.presidency.ucsb.edu/documents/message-congress-tax-revision) — "inherited economic power" framing.
 4. Marx, K. (1867). [*Capital*, Vol. I](https://www.marxists.org/archive/marx/works/1867-c1/) — concentration and centralisation chapters, read as forecast to be falsified.
 5. Turchin, P. (2023). [*End Times*](https://www.penguinrandomhouse.com/books/703238/end-times-by-peter-turchin/) — elite overproduction and instability; see [../01-problem/elite-overproduction.md](../01-problem/elite-overproduction.md).
+6. [Jacobson, D., Raub, B. and Johnson, B. (IRS Statistics of Income). "The Estate Tax: Ninety Years and Counting"](https://www.irs.gov/pub/irs-soi/ninetyestate.pdf) — US rate history, including the 77% top rate 1941–1976.
+7. [History of inheritance taxes in the United Kingdom — estate duty rate tables](https://en.wikipedia.org/wiki/History_of_inheritance_taxes_in_the_United_Kingdom) — 80% top rate (1949); 85% marginal peak (1969) capped at 80% of the estate.
+8. [Brookings Institution — "How does deposit insurance work?"](https://www.brookings.edu/articles/how-does-deposit-insurance-work/) — deposit insurance and the post-1933 decline of bank runs.

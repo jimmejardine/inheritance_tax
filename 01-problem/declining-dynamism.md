@@ -4,11 +4,11 @@
 
 ## Key findings
 
-- The canonical dynamism literature (Decker, Haltiwanger, Jarmin & Miranda) documents a secular decline in the US startup rate from roughly 12–13% of all firms in the early 1980s to around 8% by the 2010s, with the employment share of young firms (aged five or under) falling by roughly a third over the same period (exact figures to verify against the BDS series) [1][2].
+- The canonical dynamism literature (Decker, Haltiwanger, Jarmin & Miranda) documents a secular decline in the US startup rate from about 13% of all firms in the late 1980s to about 8% two decades later, with the share of US employment accounted for by young firms declining by almost 30% over the last 30 years of the series [1][2].
 - Job reallocation rates — the sum of job creation and destruction, the standard churn measure — fell by roughly a quarter in the US between the late 1980s and mid-2010s, with the decline spreading from retail into the previously dynamic high-tech sector after 2000 [1][3].
 - Akcigit & Ates' "Ten Facts on Declining Business Dynamism" synthesis adds falling labour share, rising concentration and markups, a widening productivity gap between frontier and laggard firms, and declining knowledge diffusion from leaders to followers — a pattern they model as reduced *catch-up* by entrants against entrenched incumbents [4].
-- Worker mobility has fallen in parallel: US interstate migration roughly halved between the 1980s and 2010s (Census/CPS series), and job-to-job transition rates declined materially — both classic symptoms of an economy with fewer new opportunities worth moving for [5].
-- Ownership of productive and housing assets is ageing. The median age of US small-business owners and of landlords has risen steadily; UK private landlords are majority 55+ per the English Private Landlord Survey (to verify), and the average age at which founders' equity is ultimately transferred keeps rising with longevity [6][7].
+- Worker mobility has fallen in parallel: US interstate migration has fallen continuously since the 1980s — the 2011 rate stood 53% below its 1948–71 average on the CPS series (Molloy, Smith & Wozniak) — and job-to-job transition rates declined materially; both are classic symptoms of an economy with fewer new opportunities worth moving for [5].
+- Ownership of productive and housing assets is ageing. The median age of US small-business owners and of landlords has risen steadily; almost two-thirds (64%) of English private landlords are aged 55 or over and the median landlord is 59, per the English Private Landlord Survey 2024, and the average age at which founders' equity is ultimately transferred keeps rising with longevity [6][7].
 - The "gerontocracy of capital": because wealth peaks late in life and lives are longer, an ever-larger share of the capital stock is controlled by owners in or near retirement, whose rational portfolio posture is capital preservation — low-risk, yield-seeking, illiquid-property-heavy. This is the demand side of the rentier drift documented in [rentier-economy.md](rentier-economy.md).
 - Post-2020 caveat: US business applications surged from 2020 onward (Census Business Formation Statistics), and whether this marks a durable reversal or a pandemic-era reshuffle is genuinely unresolved; the honest position is that three decades of decline have been followed by roughly four years of contested recovery [8].
 - Cross-country evidence (OECD DynEmp) shows declining entry and young-firm shares in most member economies, indicating the driver is structural across the rich world rather than a US regulatory idiosyncrasy [9].
@@ -19,10 +19,10 @@
 
 | Indicator | ~1980s | ~2010s | Source |
 |---|---|---|---|
-| US startup rate (new firms / all firms) | ~12–13% | ~8% | BDS / Decker et al. (to verify) [1] |
-| Young-firm (≤5y) employment share | ~19% | ~11% (to verify) | BDS [2] |
+| US startup rate (new firms / all firms) | ~13% (late 1980s) | ~8% (late 2000s) | BDS / Decker et al. [1] |
+| Young-firm (≤5y) employment share | — | down almost 30% over 30 years | BDS / Decker et al. [1][2] |
 | Job reallocation rate | — | down ~25% from late-1980s level | Decker et al. [3] |
-| US interstate migration rate | ~3% p.a. | ~1.5% p.a. (to verify) | Census/CPS [5] |
+| US interstate migration rate | — | 2011 rate 53% below 1948–71 average | CPS / Molloy et al. [5] |
 | Average US markup | ~1.21 | ~1.61 | De Loecker et al., see [rentier-economy.md](rentier-economy.md) |
 
 **Where inheritance enters the causal chain.** The dynamism literature's standard explanations — regulation, demographics, market power, diffusion — mostly do not name inheritance. The argument of this chapter is that dynastic and ageing ownership is an underweighted common factor operating through three channels:
@@ -44,7 +44,7 @@ Causality should be stated honestly: no study cleanly identifies inheritance con
 
 None of these excludes the allocation-for-preservation channel; the honest summary is that ageing, concentration, and dynasticism are entangled drivers of the same syndrome, and inheritance policy is the only lever among them that redistributes *control* of capital toward the entry-prone young.
 
-**Housing lock as dynamism drag.** A second, under-noticed channel runs through the housing chapter: high price-to-earnings ratios and insider/outsider segmentation reduce labour mobility (workers cannot move to opportunity in high-productivity, high-price cities), and Hsieh & Moretti estimate spatial misallocation from housing constraints has cost the US economy a substantial share of aggregate growth since the 1960s (magnitude contested; to verify) [14]. Since housing exclusion is downstream of the deposit-inheritance channel ([housing.md](housing.md), [asset-price-feedback.md](asset-price-feedback.md)), part of the measured mobility decline in finding 4 above is plausibly inheritance-mediated.
+**Housing lock as dynamism drag.** A second, under-noticed channel runs through the housing chapter: high price-to-earnings ratios and insider/outsider segmentation reduce labour mobility (workers cannot move to opportunity in high-productivity, high-price cities), and Hsieh & Moretti's headline estimate was that housing constraints lowered aggregate US growth by 36% between 1964 and 2009 [14] — though a published replication (Greaney, *AEJ: Macroeconomics* 2026) documents coding errors and unit-dependence in the model that shrink the effect by two orders of magnitude, so the direction is defensible but the magnitude is genuinely contested [15]. Since housing exclusion is downstream of the deposit-inheritance channel ([housing.md](housing.md), [asset-price-feedback.md](asset-price-feedback.md)), part of the measured mobility decline in finding 4 above is plausibly inheritance-mediated.
 
 **Founder age and the myth of the young disruptor.** Azoulay, Jones, Kim & Miranda find the average age of successful US startup founders is about 45, and that prior industry experience — not inherited capital — predicts success [12]. This cuts in the proposal's favour twice: it undermines the claim that large private fortunes are needed to seed ventures (successful founders are mid-career operators, not trust-fund 25-year-olds), and it implies the binding constraint on entry is access to *some* capital at the right moment, not the existence of dynastic pools.
 
@@ -59,12 +59,10 @@ None of these excludes the allocation-for-preservation channel; the honest summa
 
 ## Verification checklist
 
-- Exact BDS startup-rate and young-firm employment-share figures for the endpoints used (early 1980s vs 2010s), from the current BDS release.
+Resolved (2026-07): startup-rate and young-firm employment endpoints (Decker et al. / BDS); interstate migration decline (Molloy, Smith & Wozniak); landlord age distribution (EPLS 2024); Hsieh–Moretti magnitude (now cited with the Greaney replication caveat). Still open:
+
 - Job reallocation decline magnitude and dating per the most recent Decker–Haltiwanger update.
-- US interstate migration rates for both endpoints (CPS ASEC series).
-- English Private Landlord Survey age distribution of landlords, latest wave.
 - Post-2020 business-application surge: latest BFS data and any peer-reviewed assessment of whether high-propensity applications translated into employer firms.
-- Hsieh–Moretti misallocation magnitude — the original estimate was revised in later corrigenda; cite the corrected figure.
 
 ## Sources
 
@@ -72,8 +70,8 @@ None of these excludes the allocation-for-preservation channel; the honest summa
 2. [US Census Bureau — Business Dynamics Statistics](https://www.census.gov/programs-surveys/bds.html)
 3. [Decker, R. et al. (2016). "Declining Business Dynamism: What We Know and the Way Forward." *AER P&P* 106(5)](https://www.aeaweb.org/articles?id=10.1257/aer.p20161050)
 4. [Akcigit, U., Ates, S. (2021). "Ten Facts on Declining Business Dynamism and Lessons from Endogenous Growth Theory." *AEJ: Macro* 13(1)](https://www.aeaweb.org/articles?id=10.1257/mac.20180449)
-5. [Molloy, R., Smith, C., Wozniak, A. (2011–2017). Declining migration and labor market fluidity research (Fed/Brookings)](https://www.brookings.edu/articles/understanding-declining-fluidity-in-the-u-s-labor-market/)
-6. [English Private Landlord Survey (DLUHC)](https://www.gov.uk/government/collections/english-private-landlord-survey)
+5. [Molloy, R., Smith, C., Wozniak, A. (2013). "Declining Migration within the US: The Role of the Labor Market." FEDS 2013-27](https://www.federalreserve.gov/pubs/feds/2013/201327/index.html)
+6. [English Private Landlord Survey 2024: main report (MHCLG)](https://www.gov.uk/government/statistics/english-private-landlord-survey-2024-main-report/english-private-landlord-survey-2024-main-report)
 7. [SBA / Census — Annual Business Survey, owner demographics](https://www.census.gov/programs-surveys/abs.html)
 8. [US Census Bureau — Business Formation Statistics](https://www.census.gov/econ/bfs/index.html)
 9. [OECD — DynEmp: Measuring job creation by start-ups and young firms](https://www.oecd.org/sti/dynemp.htm)
@@ -82,3 +80,4 @@ None of these excludes the allocation-for-preservation channel; the honest summa
 12. [Azoulay, P., Jones, B., Kim, J.D., Miranda, J. (2020). "Age and High-Growth Entrepreneurship." *AER: Insights* 2(1)](https://www.aeaweb.org/articles?id=10.1257/aeri.20180582)
 13. [Karahan, F., Pugsley, B., Şahin, A. (2019). "Demographic Origins of the Startup Deficit." NBER WP 25874](https://www.nber.org/papers/w25874)
 14. [Hsieh, C.-T., Moretti, E. (2019). "Housing Constraints and Spatial Misallocation." *AEJ: Macro* 11(2)](https://www.aeaweb.org/articles?id=10.1257/mac.20170388)
+15. [Greaney, B. (2026). "Housing Constraints and Spatial Misallocation: Comment." *AEJ: Macro* 18(2)](https://www.aeaweb.org/articles?id=10.1257/mac.20230141)

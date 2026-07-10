@@ -88,13 +88,15 @@ The positive cases invert the sequence: minimum wage and marriage equality won b
 
 ## Sources
 
-1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts); [Gale & Slemrod, Brookings estate-tax analyses](https://www.brookings.edu/books/rethinking-estate-and-gift-taxation/) *(details to verify)*
-2. Contemporary reporting of the October 2007 Conservative conference and pre-budget report response; [Seldon & Lodge, *Brown at 10*](https://www.bitebackpublishing.com/books/brown-at-10) *(episode details to verify)*
-3. [Swiss Federal Chancellery — Volksabstimmung vom 14. Juni 2015, Erbschaftssteuerinitiative](https://www.bk.admin.ch/ch/d/pore/va/20150614/index.html) *(result figures to verify)*
-4. [Autumn Budget 2024 (HM Treasury)](https://www.gov.uk/government/publications/autumn-budget-2024); [NFU](https://www.nfuonline.com/hot-topics/stop-the-family-farm-tax/) and CLA campaign materials; contemporaneous coverage of APR/BPR reform protests *(incidence dispute to verify)*
-5. [HMRC Child Trust Fund statistics](https://www.gov.uk/government/collections/child-trust-fund-statistics); [NAO reporting on dormant CTF accounts](https://www.nao.org.uk/wp-content/uploads/2023/03/investigation-into-child-trust-funds.pdf) *(to verify)*
-6. [Low Pay Commission retrospectives on the National Minimum Wage (1999–)](https://www.gov.uk/government/publications/20-years-of-the-national-minimum-wage) *(to verify)*
-7. [Gallup — U.S. same-sex marriage trend series](https://news.gallup.com/poll/117328/marriage.aspx) *(figures to verify)*
+1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts); incidence: [CRS, *Estate Tax Options* (R41203)](https://www.everycrsreport.com/reports/R41203.html)
+2. [House of Commons Library, *Inheritance Tax* (SN00093)](https://researchbriefings.parliament.uk/ResearchBriefing/Summary/SN00093); [Prospect, "What if... Gordon Brown had called an election in 2007?"](https://www.prospectmagazine.co.uk/politics/47471/what-if...-gordon-brown-had-called-an-election-in-2007); [currybet.net, "The Daily Express Inheritance Tax 'Crusade'" (Oct 2007)](https://www.currybet.net/cbet_blog/2007/10/the-daily-express-inheritance.php)
+3. [Federal vote of 14 June 2015, Erbschaftssteuerinitiative — results (29.0% yes, 71.0% no; no canton in favour)](https://en.wikipedia.org/wiki/2015_Swiss_referendums); retroactivity from 1 January 2012: [MLL Legal, "The proposed introduction of a national inheritance and gift tax"](https://www.mll-news.com/the-proposed-introduction-of-a-national-inheritance-and-gift-tax-and-its-impact-on-succession-planning/?lang=en)
+4. [House of Commons Library, *Changes to agricultural and business property reliefs for inheritance tax* (CBP-10181)](https://commonslibrary.parliament.uk/research-briefings/cbp-10181/); [Institute for Government, "The agricultural property relief row is a warning to the Treasury"](https://www.instituteforgovernment.org.uk/comment/agricultural-property-relief-treasury)
+5. [IFS, "Coming of age: Labour's Child Trust Funds"](https://ifs.org.uk/articles/coming-age-labours-child-trust-funds); [NAO, *Investigation into Child Trust Funds* (2023)](https://www.nao.org.uk/wp-content/uploads/2023/03/investigation-into-child-trust-funds.pdf)
+6. [Low Pay Commission, *20 years of the National Minimum Wage* (2019)](https://www.gov.uk/government/publications/20-years-of-the-national-minimum-wage)
+7. [Gallup — LGBTQ+ rights historical trends](https://news.gallup.com/poll/1651/gay-lesbian-rights.aspx); [Gallup, "U.S. Same-Sex Marriage Support Holds at 71% High" (2023)](https://news.gallup.com/poll/506636/sex-marriage-support-holds-high.aspx)
+8. [CBPP, "Impact of Estate Tax on Small Businesses and Farms Is Minimal"](https://www.cbpp.org/research/impact-of-estate-tax-on-small-businesses-and-farms-is-minimal) — includes the 2001 New York Times / Farm Bureau finding
+9. Swiss federal votes on redistributive initiatives: [basic income, June 2016 — 76.9% no](https://en.wikipedia.org/wiki/2016_Swiss_referendums); [1:12 pay-ratio initiative, Nov 2013 — 65.3% no](https://www.lexology.com/library/detail.aspx?g=510c2f4c-070d-446f-af23-d17d9f04e195); [minimum wage, May 2014 — 76.3% no (SWI swissinfo)](https://www.swissinfo.ch/eng/archive-democracy/vote-june-6_basic-income-plan-awaits-voters-verdict/42200378)
 
 ---
 

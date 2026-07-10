@@ -38,13 +38,13 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 ## "It raises trivial revenue, so why bother"
 
-**Concede first.** Historically true: every abolished regime raised under 0.5% of tax receipts, and current UK IHT brings in roughly £7–8bn a year (to verify) — real money, but small against a ~£1tn tax take.
+**Concede first.** Historically true: every abolished regime raised under 0.5% of tax receipts, and current UK IHT brought in £8.2bn in 2024–25 [1] — real money, but small against a ~£1tn tax take.
 
 **One-line answer.** Those regimes were 40%-with-loopholes taxes on a relief-riddled base; a 100% rate above £500k per recipient on the full annual inheritance flow is a different fiscal object — and even at pessimistic yield, the primary objective is structural (no more dynasties), which the tax achieves whether or not the Treasury gets rich.
 
 **Full answer.**
 
-- **The base matters more than the rate history suggests.** Annual UK wealth transfers at death and by major gift run to well over £100bn and are projected to grow as the largest-ever cohort of housing and pension wealth passes on (to verify against ONS/IFS inheritance-flow projections; revenue modelling in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
+- **The base matters more than the rate history suggests.** The annual flow of UK inheritances now exceeds £100bn, having roughly doubled in real terms every 20 years since 1979 [2], and is projected to keep growing as the largest-ever cohort of housing and pension wealth passes on [3] (revenue modelling in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
 - **Taxing the slice above £500k per recipient at 100%** plausibly yields an order of magnitude more than the current regime — enough to fund the endowment, which is the fiscal test that matters ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)).
 - **The deeper answer refuses the frame:** this is a *distributional-primary* tax, not a revenue-primary one. Income tax exists to raise money; this exists to stop the formation of hereditary economic dynasties ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md), [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)).
 - **Judging it purely on yield is like judging the smoking ban on cigarette-duty receipts.**
@@ -59,7 +59,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **Full answer.**
 
-- **Benchmarks:** HMRC's overall cost of collection runs at well under a penny per pound, and even the worst-ratio taxes sit at a few pence (to verify against HMRC annual accounts; cost-to-collect benchmarking belongs in [`../07-implementation/administration.md`](../07-implementation/administration.md)).
+- **Benchmarks:** HMRC's overall cost of collection was 0.51 pence per pound of revenue in 2024–25 [4], and even the worst-ratio taxes sit at a few pence (self-assessed income tax cost 2.14p per pound in 2023–24 [5]; cost-to-collect benchmarking belongs in [`../07-implementation/administration.md`](../07-implementation/administration.md)).
 - **Why the historical ratios were ugly:** relief-layering multiplied assessment work while shrinking the taxable remainder — cost stayed, yield left.
 - **This design runs the arithmetic the other way:**
   - the 0/100 kink eliminates rate-banding computation;
@@ -78,6 +78,14 @@ Each objection above nominates a real administrative cost and silently compares 
 - Admin cost already runs through the existing IHT relief thicket — a one-rate, few-relief design shrinks it.
 
 "Hard" is not an argument against a policy whose alternative is also hard; the question is always *harder than what we already do?* — and the answer, per the files linked above, is no.
+
+## Sources
+
+1. [OBR, Inheritance tax — forecasts in depth](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/inheritance-tax/)
+2. [Demos, "Inheritances are the £100 billion elephant in the room in talk of British decline" (2023)](https://demos.co.uk/blogs/inheritances-are-the-100-billion-elephant-in-the-room-in-talk-of-british-decline/)
+3. [IFS, *Inheritances and inequality over the life cycle: what will they mean for younger generations?* (2021)](https://ifs.org.uk/publications/inheritances-and-inequality-over-life-cycle-what-will-they-mean-younger-generations)
+4. [HMRC, Annual report and accounts 2024 to 2025: financial review](https://www.gov.uk/government/publications/hmrc-annual-report-and-accounts-2024-to-2025/hmrcs-annual-report-and-accounts-2024-to-2025-financial-review)
+5. [NAO, *The administrative cost of the tax system* (2025)](https://www.nao.org.uk/wp-content/uploads/2025/02/the-administrative-cost-of-the-tax-system.pdf)
 
 ## See also
 

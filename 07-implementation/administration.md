@@ -26,16 +26,16 @@ Probate is the natural checkpoint for death-time transfers, and the regime stren
 
 ## 4. Staffing and capacity
 
-The receipt-side design economises on the scarcest resource — skilled valuers and investigators — because (a) the long tail of estates is automated end-to-end, (b) mandatory review concentrates expert effort on the small Tier-3 population ([valuation.md](valuation.md) §7), and (c) the taxpayer holding the asset has less informational advantage than an executor valuing someone else's affairs. Capacity needs concentrate in: the valuation office (District Valuer / IRS Engineering & Valuation), trust and offshore specialists, and data engineering for the mesh. The cautionary tale is the chronic under-resourcing that hollowed out US estate-tax audit coverage over the 2010s — IRS estate-tax specialist headcount fell even as planning sophistication rose [4]; the regime's funding rule should hard-wire administration funding as a percentage of assessed liabilities, insulating it from the appropriations sabotage anticipated in [`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md).
+The receipt-side design economises on the scarcest resource — skilled valuers and investigators — because (a) the long tail of estates is automated end-to-end, (b) mandatory review concentrates expert effort on the small Tier-3 population ([valuation.md](valuation.md) §7), and (c) the taxpayer holding the asset has less informational advantage than an executor valuing someone else's affairs. Capacity needs concentrate in: the valuation office (District Valuer / IRS Engineering & Valuation), trust and offshore specialists, and data engineering for the mesh. The cautionary tale is the chronic under-resourcing that hollowed out IRS enforcement over the 2010s — the IRS lost a third of its auditors between 2010 and 2017 even as planning sophistication rose [4]; the regime's funding rule should hard-wire administration funding as a percentage of assessed liabilities, insulating it from the appropriations sabotage anticipated in [`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md).
 
 ## 5. Cost to collect
 
-Directional benchmarks (all to verify against current HMRC/IRS publications):
+Directional benchmarks:
 
 | Tax | Cost-to-yield, order of magnitude |
 |---|---|
-| UK IHT historically | ~1% [5] |
-| UK income tax (PAYE-dominated) | well under 1% [5] |
+| UK IHT | ~0.7% (£35m administration on £5.3bn receipts, 2019 data) [5] |
+| UK income tax | 0.72p per £ overall (2019); PAYE 0.33p vs self-assessment 2.14p (2023–24) [5] |
 | Complex self-assessed taxes generally | low single-digit % |
 | This regime, projected | ~1–2% initially, falling as the Register matures |
 
@@ -70,7 +70,7 @@ Neither child pays anything, meets a valuer, or files more than a confirmation s
 
 ## Research gaps
 
-- Actual current HMRC IHT and IRS estate-tax cost-to-yield and headcount figures (to verify §5 table).
+- IRS estate-tax-specific cost-to-yield and specialist-headcount figures — not found in current published IRS reporting (UK figures now cited in §5).
 - Identity-assurance coverage for Register onboarding of non-filers — lessons from Child Trust Fund dormancy and endowment design.
 - Volume modelling: expected annual Receipts Returns by tier under the £500k threshold.
 
@@ -79,7 +79,7 @@ Neither child pays anything, meets a valuer, or files more than a confirmation s
 1. [HMRC — PAYE Real Time Information programme](https://www.gov.uk/government/publications/real-time-information-improving-the-operation-of-pay-as-you-earn)
 2. [NAO / press coverage of HMRC's Connect data-matching system](https://www.nao.org.uk/reports/)
 3. [HMRC — probate and IHT process (IHT400/IHT421); personal representative liability, IHTM30000](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm30000)
-4. [TIGTA and ProPublica reporting on declining IRS estate-and-gift audit resources](https://www.propublica.org/series/gutting-the-irs) (to verify current figures)
-5. [HMRC Annual Report and Accounts — cost-of-collection tables](https://www.gov.uk/government/collections/hmrcs-annual-report-and-accounts)
+4. [ProPublica — "How the IRS Was Gutted" (2018): IRS auditor headcount down a third from 2010 to 2017; 42% fall in audit rate](https://www.propublica.org/article/how-the-irs-was-gutted)
+5. [Burgherr (2020), *The costs of administering a wealth tax*, Wealth Tax Commission BP126 — IHT administration ~£35m vs £5.3bn receipts (0.66%); income tax 0.72p/£ (HMRC 2019)](https://www.wealthandpolicy.com/wp/BP126_AdministrationCosts.pdf); [NAO (2025), *The administrative cost of the tax system* — overall 0.51p/£ (2023–24); PAYE 0.33p vs self-assessment 2.14p](https://www.nao.org.uk/reports/the-administrative-cost-of-the-tax-system/)
 6. [OTS — Inheritance Tax Review, First and Second Reports (2018–19)](https://www.gov.uk/government/publications/ots-inheritance-tax-review-simplifying-the-design-of-the-tax)
 7. [First-tier Tribunal (Tax Chamber)](https://www.gov.uk/courts-tribunals/first-tier-tribunal-tax); [IRS Independent Office of Appeals](https://www.irs.gov/appeals); [US Tax Court](https://www.ustaxcourt.gov/)

@@ -6,8 +6,8 @@
 
 - UK median house price is approximately £290,000 (ONS HPI, 2024), so a £500k threshold is ~1.7× median housing wealth — enough to fully absorb a typical inherited home in almost every region outside inner London [1].
 - £500,000 equals ~14× UK median gross annual earnings of ~£35,000 (ONS ASHE 2023) [2]; $750,000 equals ~13× US median earnings of ~$59,000 (BLS) [3].
-- Roughly half of UK adults receive no inheritance at all; the median inheritance among those who do receive one is under £11,000 (Resolution Foundation, "Inheritocracy") [4].
-- IFS estimates that only the top ~10% of inheritances received exceed £280,000; the fraction above £500,000 per recipient is in the low single digits [5].
+- Inheritance receipt is rare and typically small: only 4% of GB adults received an inheritance of £1,000+ over 2014–16, with a median receipt of £11,000 (ONS, 2018) [9]; among recipients, half got £10,000 or less and only 10% got over £100,000 (Resolution Foundation, *Passing on*, 2018) [4].
+- On IFS lifetime projections for the 1980s-born (the highest-inheriting cohort yet), the median lifetime inheritance is ~£136,000, the top 25% exceed ~£284,000, and only the top 10% exceed ~£495,000 — for the 1960s-born the top-10% cut-off is ~£269,000 [5]. A £500k per-recipient threshold therefore sits at roughly the 90th percentile of projected receipts even for the 1980s cohort.
 - Aggregate annual inheritance flow in the UK is projected to roughly double from ~£100bn to ~£200bn by the 2040s (IFS) [5]; the US SCF transfer module shows a similarly top-heavy distribution [6].
 - CPI-only indexation would erode the threshold because UK house prices have outpaced CPI by ~1.5–2 percentage points annually over four decades (ONS) [1] — the same drift that neutered Sweden's and Norway's nominal thresholds before abolition (see `../05-history/abolitions.md`).
 - A £500k threshold rewards distributive estate planning: four children inherit £2m tax-free; two inherit £1m tax-free.
@@ -24,16 +24,16 @@ Three anchors converge on this range:
 
 **(b) Wage multiples.** £500,000 ≈ 14× UK median full-time earnings (ONS ASHE) [2]; $750,000 ≈ 13× US median earnings (BLS) [3]. Both are well above typical lifetime savings capacity for a median household, so the threshold cannot credibly be characterised as targeting the middle class.
 
-**(c) Recipient distribution.** IFS analysis of inheritances received finds the 90th percentile of individual inheritance receipts at roughly £280,000 (real terms, 2010s cohort data) [5]. Resolution Foundation puts typical receipts far lower [4]. A £500k lifetime threshold therefore leaves comfortably above 90% of current recipients entirely untaxed even before behavioural redistribution.
+**(c) Recipient distribution.** IFS projections put the 90th percentile of lifetime inheritance receipts for the 1980s-born at roughly £495,000 (median ~£136,000; 75th percentile ~£284,000), and lower for earlier cohorts (1960s-born 90th percentile: ~£269,000) [5]. Actual receipts to date are far smaller still: the median inheritance among 2014–16 recipients was £11,000 (ONS) [9]. A £500k lifetime threshold therefore leaves roughly 90% of even the highest-inheriting projected cohort entirely untaxed — and materially more of every earlier cohort — before any behavioural redistribution.
 
 **Tradeoff variants.**
 
-- *£250k (tighter):* captures perhaps the top ~15–20% of individual receipts [5]; politically riskier because it bites into ordinary inherited homes in the South East.
-- *£1m (looser):* captures only the top ~2–3% of receipts; revenue and dynastic-break effect substantially weaker. Acceptable if paired with a larger citizen's endowment, but departs from the Resolution Foundation "inheritocracy" framing.
+- *£250k (tighter):* captures roughly the top quarter of projected 1980s-born lifetime receipts (75th percentile ≈ £284,000) [5]; politically riskier because it bites into ordinary inherited homes in the South East.
+- *£1m (looser):* sits well above the projected 90th percentile of receipts (~£495,000 for the 1980s-born [5]); the precise share of recipients above £1m is unpublished but plausibly only the top few per cent (unverified). Revenue and dynastic-break effect substantially weaker; acceptable only if paired with a larger citizen's endowment.
 
 ## 3. How many people would pay
 
-**UK.** Resolution Foundation finds that among millennials, about half will receive any inheritance, and the median receipt is modest [4]. IFS micro-data suggests fewer than ~5–7% of individual recipients would cross £500k in lifetime cumulative receipts, with precise figures *requiring modelling* on a cumulative lifetime basis rather than single-event basis [5].
+**UK.** Only 4% of GB adults received an inheritance of £1,000+ in the two years to mid-2016, and the median receipt was £11,000 [9]; even on IFS lifetime projections for the 1980s-born, a fifth will inherit less than £10,000 [5]. IFS projections imply around 10% of the 1980s-born would cross £500k in lifetime cumulative receipts (top decile cut-off ~£495,000), with smaller shares for earlier cohorts [5]; precise figures *require modelling* on a cumulative lifetime basis rather than single-event basis.
 
 **US.** The Federal Reserve SCF transfer module and CBO analysis show ~20–25% of households receive any transfer, with the top 1% of heirs receiving more than 40% of the aggregate [6][8]. Roughly the top 3–5% of recipients would exceed $750k cumulatively — again, exact figure *requires modelling*.
 
@@ -57,12 +57,12 @@ This is precisely the failure mode documented in `../05-history/abolitions.md`: 
 
 | Threshold | % UK recipients affected (approx.) | % aggregate flow above threshold (approx.) | Notes |
 |---|---|---|---|
-| £250,000 | ~10–15% | ~55–65% | Captures typical SE home; politically harder |
-| **£500,000** | **~3–7%** | **~30–40%** | **Proposal baseline** |
+| £250,000 | ~10–25% | ~55–65% | Captures typical SE home; politically harder |
+| **£500,000** | **~5–10%** | **~30–40%** | **Proposal baseline** |
 | £750,000 | ~2–4% | ~20–30% | Middle variant |
 | £1,000,000 | ~1–2% | ~15–20% | Weakens dynastic-break effect |
 
-Ranges derived from IFS and Resolution Foundation distributions [4][5]; precise figures *require micro-simulation* on cumulative lifetime receipts, which existing published work does not fully provide.
+Ranges derived from ONS receipt data, Resolution Foundation analysis and IFS cohort projections [4][5][9] — the lower ends reflect receipts to date, the upper ends the IFS 1980s-born projections; precise figures *require micro-simulation* on cumulative lifetime receipts, which existing published work does not fully provide.
 
 ## 7. Distributional framing
 
@@ -79,8 +79,9 @@ Combined with the unconditional £50,000 citizen's endowment at 25, the policy e
 1. [ONS — UK House Price Index](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/previousReleases)
 2. [ONS — Annual Survey of Hours and Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/previousReleases)
 3. [BLS — Usual Weekly Earnings of Wage and Salary Workers](https://www.bls.gov/news.release/wkyeng.toc.htm)
-4. [Resolution Foundation — "Inheritocracy"](https://www.resolutionfoundation.org/publications/inheritocracy/)
-5. [Institute for Fiscal Studies — "Inheritances and inequality"](https://ifs.org.uk/publications/inheritances-and-inequality-within-generations)
+4. [Corlett, A. (2018). *Passing on: options for reforming inheritance taxation*. Resolution Foundation, Intergenerational Commission](https://www.resolutionfoundation.org/publications/passing-on-options-for-reforming-inheritance-taxation/)
+5. [Bourquin, P., Joyce, R. & Sturrock, D. (2020). *Inheritances and inequality within generations*. IFS Report R173](https://ifs.org.uk/publications/inheritances-and-inequality-within-generations)
 6. [Federal Reserve — Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm)
 7. [National Association of Realtors — Existing-Home Sales data](https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales)
 8. [Congressional Budget Office — "Understanding Federal Estate and Gift Taxes"](https://www.cbo.gov/publication/57129)
+9. [ONS (30 October 2018). "Intergenerational transfers: the distribution of inheritances, gifts and loans, Great Britain: 2014 to 2016"](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/intergenerationaltransfersthedistributionofinheritancesgiftsandloans/2018-10-30)

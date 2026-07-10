@@ -9,10 +9,10 @@ A newspaper editorialising against this tax is not analogous to a newspaper edit
 | Owner / family | Asset | Dynastic salience |
 |---|---|---|
 | Murdoch family | News Corp / Fox (The Sun, The Times, WSJ, Fox News) | Succession contested in open court, 2024 (below); control structured through a family trust |
-| Rothermere (Harmsworth) family | DMGT (Daily Mail, Mail on Sunday, Metro, i) | Fourth-generation hereditary control; historically associated with non-dom tax status (to verify current position) [3] |
-| Barclay family | Telegraph titles (until the 2023–25 ownership dispute and sale process) | Offshore ownership structures; intra-family succession litigation (to verify final disposition) |
+| Rothermere (Harmsworth) family | DMGT (Daily Mail, Mail on Sunday, Metro, i) | Fourth-generation hereditary control; long-reported non-domiciled tax status inherited from his father's Paris residency, with the group held via the Jersey-based Rothermere Continuation Limited [3] |
+| Barclay family | Telegraph titles (until the 2023–25 ownership dispute and sale process) | Offshore ownership structures; intra-family succession litigation; the RedBird Capital purchase agreed in May 2025 collapsed that November, leaving ownership unresolved [7] |
 | Lebedev family | Independent, Evening Standard (historic stakes) | Wealth of overseas origin; peerage controversy |
-| US local TV (Sinclair — Smith family; and other family-controlled groups) | Hundreds of local stations | Family-controlled consolidation with documented must-run editorial practices (to verify) [4] |
+| US local TV (Sinclair — Smith family; and other family-controlled groups) | Hundreds of local stations | Family-controlled consolidation with documented must-run editorial practices [4] |
 
 A useful precedent for owner-as-campaigner already exists in the historical record: Frank Blethen, family owner of the Seattle Times, personally organised the newspaper industry's lobbying for US estate-tax repeal — see [attack-playbook.md](attack-playbook.md).
 
@@ -30,7 +30,7 @@ The conflict extends beyond editorial pages. Proprietors' interests shape covera
 
 Concentration data ([../01-problem/political-capture.md](../01-problem/political-capture.md)) show a handful of proprietors reaching a majority of the UK news-consuming public [1][2]. But three countervailing facts shape strategy:
 
-- **Print's persuasive reach is declining and ageing.** The audiences most exposed to proprietor-controlled front pages skew old; the endowment's beneficiary generation gets news predominantly from social and video platforms (Reuters Institute data — to verify current shares) [1]. Hostile press dominance is a diminishing asset.
+- **Print's persuasive reach is declining and ageing.** The audiences most exposed to proprietor-controlled front pages skew old; the endowment's beneficiary generation gets news predominantly from social and video platforms — across 48 markets in 2025, 44% of 18–24s and 38% of 25–34s named social media and video networks as their main news source [8]. Hostile press dominance is a diminishing asset.
 - **Broadcast still sets the shared agenda — and is regulated.** Ofcom due impartiality means the UK's most-consumed news (TV bulletins) cannot campaign; the fight there is over question framing and guest selection, which preparation can win.
 - **Endorsement effects are real but bounded.** The evidence on media persuasion (e.g. Fox News effects literature) supports meaningful but not deterministic influence; policies with strong material constituencies have survived press hostility before — the strategic bet made explicit in [../12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md).
 
@@ -46,8 +46,8 @@ Concentration data ([../01-problem/political-capture.md](../01-problem/political
 
 Two recent, exhaustively documented cases make the abstract argument — that dynastic succession concentrates unaccountable power in unchosen heirs — concrete and vivid:
 
-- **Murdoch (Nevada, 2024).** Rupert Murdoch petitioned to amend the family's irrevocable trust to entrench Lachlan Murdoch's control against his siblings; a Nevada probate commissioner ruled against the change in December 2024, in a decision reported to have used strikingly critical language about the manoeuvre (to verify quotes and appeal status) [5]. The spectacle: control of a globally significant news and political apparatus determined by intra-family litigation among heirs, none elected, none market-tested.
-- **Redstone (2015–2024).** Competency litigation over Sumner Redstone's control of Viacom/CBS, followed by Shari Redstone's negotiation of the Paramount–Skydance sale (to verify completion details) — a decade in which major media assets' governance turned on one family's internal conflicts [6].
+- **Murdoch (Nevada, 2024–25).** Rupert Murdoch petitioned to amend the family's irrevocable trust to entrench Lachlan Murdoch's control against his siblings; in December 2024 a Nevada probate commissioner ruled against the change, finding Rupert and Lachlan had acted in "bad faith" and describing the plan as a "carefully crafted charade" [5]. The dispute was settled in September 2025: the trust was dissolved, Lachlan took control of News Corp and Fox through a new trust running to 2050, and the three dissenting siblings were bought out for roughly $1.1bn each [9]. The spectacle: control of a globally significant news and political apparatus determined by intra-family litigation among heirs, none elected, none market-tested.
+- **Redstone (2015–2025).** Competency litigation over Sumner Redstone's control of Viacom/CBS, followed by Shari Redstone's sale of the family's controlling stake — the Paramount–Skydance merger completed on 7 August 2025 [6] — a decade in which major media assets' governance turned on one family's internal conflicts.
 
 Neither case required any wrongdoing to make the point: even a smooth succession hands agenda-setting power over national discourse to whoever happens to be born next in line. The litigated cases merely make visible what quiet successions conceal.
 
@@ -56,8 +56,7 @@ Both stories were covered obsessively by the media themselves (and dramatised by
 ## What still needs doing
 
 - Current ownership and reach table for UK national press and US local TV, from the latest Media Reform Coalition and Ofcom publications.
-- Verification of the Rothermere non-dom history and current status, and the final Telegraph ownership disposition.
-- Verified account of the Nevada Murdoch trust ruling (holding, quoted language, appeal status) and the Paramount–Skydance completion.
+- The Telegraph's eventual ownership disposition (unresolved since the RedBird deal collapsed in November 2025 [7]), and the Rothermere family's tax position following the UK's 2025 abolition of the non-dom regime.
 - Content analysis of how dynastically owned outlets covered the 2024 APR changes vs trust-owned outlets — a direct test of the proprietor-effect hypothesis for [media-narratives.md](media-narratives.md).
 - Reach data for under-35 news consumption to size the direct-channel opportunity in [../14-communications/channels.md](../14-communications/channels.md).
 
@@ -73,9 +72,12 @@ Both stories were covered obsessively by the media themselves (and dramatised by
 
 ## Sources
 
-1. [Ofcom — News Consumption in the UK (annual)](https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand/news-media)
+1. [Ofcom — News Consumption in the UK: 2025 (research findings, 21 July 2025)](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/adult-and-teen-news-consumption-survey/news-consumption-in-the-uk-2025-research-findings.pdf)
 2. [Media Reform Coalition — Who Owns the UK Media?](https://www.mediareform.org.uk/media-ownership)
-3. [UK press reporting on the Rothermere family's historic non-domiciled status (to verify current position)](https://bylinetimes.com/2022/04/14/britains-foreign-media-oligarchy/)
-4. [Reporting on Sinclair Broadcast Group's must-run segments and family control](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script)
-5. [Reporting on In re Doe 1 Trust (Nevada probate proceedings over the Murdoch Family Trust, 2024)](https://www.nytimes.com/2024/12/09/business/media/murdoch-family-trust-ruling.html)
-6. [Reporting on the Redstone succession and Paramount–Skydance transaction](https://www.cnbc.com/2024/07/08/paramount-skydance-merger.html)
+3. [Bright, S. (2022). "Britain's Foreign Media Oligarchy." *Byline Times*, 14 April 2022 — the Rothermere non-dom status and Jersey holding structure](https://bylinetimes.com/2022/04/14/britains-foreign-media-oligarchy/)
+4. [NPR (2 April 2018) — "Sinclair Broadcast Group Forces Nearly 200 Station Anchors To Read Same Script"](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script)
+5. [CNN (9 December 2024) — Nevada probate commissioner rules against Rupert Murdoch's bid to change the family trust ("carefully crafted charade"; "bad faith")](https://www.cnn.com/2024/12/09/media/robert-murdoch-family-trust)
+6. [Paramount Skydance Corporation, Form 8-K12B (7 August 2025) — completion of the Skydance–Paramount merger](https://www.sec.gov/Archives/edgar/data/2041610/000119312525175046/d841914d8k12b.htm)
+7. [CNN (14 November 2025) — The Telegraph sale collapses as RedBird drops its bid](https://www.cnn.com/2025/11/14/media/telegraph-uk-redbird-sale-collapse)
+8. [Reuters Institute Digital News Report 2025 — overview and key findings](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary)
+9. [Al Jazeera (9 September 2025) — Murdoch trust settlement: Lachlan control to 2050; siblings bought out](https://www.aljazeera.com/economy/2025/9/9/rupert-murdoch-seals-deal-passing-control-of-media-empire-to-eldest-son)

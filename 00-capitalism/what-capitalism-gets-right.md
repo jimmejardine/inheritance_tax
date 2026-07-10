@@ -4,13 +4,13 @@
 
 ## The great enrichment
 
-For most of recorded history, material life was static. Real income per person in 1700 was not meaningfully different from real income per person in antiquity; the great mass of humanity lived at or near subsistence, and had always done so. Then, beginning in north-west Europe around 1800 and spreading outward, average real incomes rose by a factor of roughly thirty — Deirdre McCloskey's "Great Enrichment," an increase of about 3,000% against a historical baseline of approximately zero (magnitudes to verify against McCloskey's *Bourgeois Equality*, 2016) [1]. Nothing else in the economic record resembles it. Life expectancy, literacy, height, leisure, and survival of childhood all moved with it.
+For most of recorded history, material life was static. Real income per person in 1700 was not meaningfully different from real income per person in antiquity; the great mass of humanity lived at or near subsistence, and had always done so. Then, beginning in north-west Europe around 1800 and spreading outward, average real incomes rose by a factor of roughly thirty — Deirdre McCloskey's "Great Enrichment," an increase of about 3,000% against a historical baseline of approximately zero [1]. Nothing else in the economic record resembles it. Life expectancy, literacy, height, leisure, and survival of childhood all moved with it.
 
 The enrichment coincided with — and, on the McCloskey account, was caused by — the emergence of societies that granted ordinary people liberty to innovate, trade, and profit, and dignity in doing so. Whatever weight one gives institutions, ideas, or accumulation in the causal story, the correlation is not contested: the enrichment happened where and when market capitalism did.
 
 ## The poverty collapse
 
-The twentieth century's closing decades extended the enrichment to most of humanity. The share of the world's population living in extreme absolute poverty fell from roughly 40%+ in 1980 to under 10% by the late 2010s (World Bank $2.15/day line; figures to verify) [2] — the fastest and largest escape from destitution ever recorded, overwhelmingly driven by the marketisation of China, India, and much of the developing world. More people exited extreme poverty in the forty years after 1980 than in all prior history combined (to verify). Critics of capitalism must account for this; we simply acknowledge it.
+The twentieth century's closing decades extended the enrichment to most of humanity. The share of the world's population living in extreme absolute poverty fell from roughly 44% in 1981 to under 9% by 2019 (World Bank $2.15/day line, 2017 PPP; the line was raised to $3.00/day in June 2025) [2] — the fastest and largest escape from destitution ever recorded, overwhelmingly driven by the marketisation of China, India, and much of the developing world. More people exited extreme poverty in the forty years after 1980 than in all prior history combined (unverified). Critics of capitalism must account for this; we simply acknowledge it.
 
 ## The mechanisms, and why they work
 
@@ -21,7 +21,7 @@ The record above is not luck. Each of capitalism's core mechanisms solves a prob
 | The price system | Aggregates dispersed, tacit, local knowledge no planner can collect; a continuously updated signal of relative scarcity | Hayek, "The Use of Knowledge in Society" (1945) [3] |
 | Competitive entry and creative destruction | Keeps incumbents honest; routes capital and custom from the less to the more productive; makes innovation an existential requirement, not an option | Schumpeter, *Capitalism, Socialism and Democracy* (1942) [4] |
 | Profit and loss | A feedback mechanism with teeth — failure releases resources rather than entombing them | Mises–Hayek calculation debate [3] |
-| Consumer surplus diffusion | Innovators capture only a small fraction of the value they create; the remainder accrues to everyone as cheaper, better goods — Nordhaus estimates producers retain on the order of 2% of the social surplus from innovation (figure to verify against Nordhaus 2004) [5] | Nordhaus, "Schumpeterian Profits in the American Economy" (2004) |
+| Consumer surplus diffusion | Innovators capture only a small fraction of the value they create; the remainder accrues to everyone as cheaper, better goods — Nordhaus estimates producers captured about 2.2% of the social surplus from innovation over 1948–2001 [5] | Nordhaus, "Schumpeterian Profits in the American Economy" (2004) |
 | Dispersed economic power | Many independent centres of wealth mean no single gatekeeper for employment, credit, publication, or dissent — the economic precondition of political pluralism | Friedman, *Capitalism and Freedom* (1962) [6] |
 
 Two of these deserve a sentence more. Hayek's price-system argument is the deepest: the knowledge needed to run an economy does not exist in collectable form — it lives in millions of minds as local, perishable circumstance — and prices are the only known technology for mobilising it. And Nordhaus's finding is the most under-appreciated: capitalism is routinely accused of letting innovators keep too much, when the measured reality is that they keep almost nothing — the consumer gets the smartphone, the vaccine, the search engine, at a price wildly below its value. That is the system working *for the many*, by design.
@@ -30,8 +30,8 @@ Two of these deserve a sentence more. Hayek's price-system argument is the deepe
 
 The material record understates the case, because capitalism's by-products are as valuable as its output:
 
-- **Longevity and health.** Global life expectancy roughly doubled between 1900 and 2020, from ~32 to ~72 years (to verify against UN/Our World in Data series) — driven by the prosperity, sanitation, agronomy, and pharmaceutical innovation that market economies generated and diffused.
-- **The taming of famine.** Peacetime famine has effectively disappeared from market democracies; the twentieth century's great famines occurred almost exclusively under command economies or war (Sen's finding on famine and open societies — to verify).
+- **Longevity and health.** Global life expectancy more than doubled between 1900 and 2021, from 32 to 71 years (Our World in Data) [8] — driven by the prosperity, sanitation, agronomy, and pharmaceutical innovation that market economies generated and diffused.
+- **The taming of famine.** Peacetime famine has effectively disappeared from market democracies; the twentieth century's great famines occurred almost exclusively under command economies or war — Sen: "no famine has ever taken place in the history of the world in a functioning democracy" [9].
 - **Peaceful cooperation among strangers.** The market is a machine for making strangers useful to each other without requiring them to share a tribe, creed, or politics. Doux commerce is an old observation (Montesquieu, Smith) but a real one: trade substitutes exchange for raiding.
 - **Exit as a human right.** Where employers, lenders, and sellers compete, every worker and customer holds the quiet power to walk away. Competition is the only reliable protector of the person with no connections — which is precisely why entrenched incumbents dislike it.
 
@@ -39,7 +39,7 @@ These goods are not decorations on the growth statistics; they are what the grow
 
 ## The alternatives, stated plainly
 
-Every attempted systemic alternative failed, and failed in the same way. Central planning was tried at continental scale, for decades, across different cultures — the Soviet Union, Maoist China, and their satellites — and produced chronic shortage, technological stagnation outside the military sector, environmental catastrophe, and, in its collectivisation episodes, famines that killed tens of millions (to verify against standard histories) [7]. The comparison is not rhetorical: Germany and Korea each ran the controlled experiment, one people split between the two systems, and the results diverged so far they were visible from space. The calculation problem Mises and Hayek identified in the 1920s–40s was not answered; it was demonstrated.
+Every attempted systemic alternative failed, and failed in the same way. Central planning was tried at continental scale, for decades, across different cultures — the Soviet Union, Maoist China, and their satellites — and produced chronic shortage, technological stagnation outside the military sector, environmental catastrophe, and, in its collectivisation episodes, famines that killed tens of millions — best estimates run 15–55 million dead in China's Great Leap famine (1959–61) and 5–8 million in the Soviet famine of 1932–33 [7]. The comparison is not rhetorical: Germany and Korea each ran the controlled experiment, one people split between the two systems, and the results diverged so far they were visible from space. The calculation problem Mises and Hayek identified in the 1920s–40s was not answered; it was demonstrated.
 
 This project draws the obvious conclusion and holds it firmly: the market economy is not one policy option among several. It is the only mechanism known to generate broad prosperity, and proposals that would replace it — however morally energised — carry a burden of proof their historical record cannot meet. Our proposal replaces nothing. See [what-this-is-not.md](what-this-is-not.md).
 
@@ -63,19 +63,21 @@ Sincerity cuts both ways, so three non-claims for the record. First, this is not
 
 ## Verification checklist
 
-- McCloskey's ~30x / ~3,000% Great Enrichment magnitudes and dating, against *Bourgeois Equality* (2016).
-- Global life-expectancy series 1900–2020; Sen's famine-and-democracy finding ([*Development as Freedom*](https://sen.scholars.harvard.edu/publications/development-freedom), 1999).
-- World Bank extreme-poverty series: headcount ratio 1980 vs latest, at the current international poverty line; the "more exits after 1980 than all prior history" formulation.
-- Nordhaus (2004) producer-retention estimate (commonly cited as ~2.2% of innovation surplus) and its methodology.
-- Standard famine mortality ranges for Soviet collectivisation and the Great Leap Forward.
-- East/West Germany and North/South Korea income divergence ratios at reunification/present.
+- McCloskey's Great Enrichment magnitudes: **verified** — a factor of roughly 30, "on the order of 3,000%", is McCloskey's own repeated formulation [1].
+- Global life-expectancy series: **verified** — 32 years (1900) to 71 years (2021), Our World in Data [8]. Sen's famine-and-democracy finding: **verified** — [*Development as Freedom*](https://sen.scholars.harvard.edu/publications/development-freedom) (1999) [9].
+- World Bank extreme-poverty series: **verified** — ~44% (1981) to 8.5–9% (2019) at the $2.15/day 2017 PPP line [2]. The "more exits after 1980 than all prior history" formulation: **unverified** — no authoritative source found stating the comparison in this form.
+- Nordhaus (2004) producer-retention estimate: **verified** — 2.2% of innovation surplus, 1948–2001, non-farm business sector [5].
+- Famine mortality ranges: **verified** — Great Leap Forward 15–55m (most-cited ~30m); Soviet 1932–33 famine ~5–8m [7].
+- East/West Germany and North/South Korea income divergence ratios at reunification/present — still open.
 
 ## Sources
 
 1. McCloskey, D. (2016). [*Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World*](https://press.uchicago.edu/ucp/books/book/chicago/B/bo22655327.html). University of Chicago Press.
-2. [World Bank, Poverty and Inequality Platform](https://pip.worldbank.org/) — extreme-poverty headcount series (to verify).
+2. [World Bank, Poverty and Inequality Platform](https://pip.worldbank.org/) — extreme-poverty headcount series; see also [Our World in Data — Poverty](https://ourworldindata.org/poverty).
 3. Hayek, F. A. (1945). ["The Use of Knowledge in Society."](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945) *American Economic Review* 35(4).
 4. Schumpeter, J. (1942). [*Capitalism, Socialism and Democracy*](https://archive.org/details/capitalismsocial00schu). Harper & Brothers.
 5. Nordhaus, W. (2004). ["Schumpeterian Profits in the American Economy: Theory and Measurement."](https://www.nber.org/papers/w10433) NBER Working Paper 10433.
 6. Friedman, M. (1962). [*Capitalism and Freedom*](https://press.uchicago.edu/ucp/books/book/chicago/C/bo68666099.html). University of Chicago Press.
-7. Standard references: Kornai, [*The Socialist System*](https://press.princeton.edu/books/paperback/9780691003931/the-socialist-system) (1992); Courtois et al., [*The Black Book of Communism*](https://www.hup.harvard.edu/books/9780674076082) (1997) — mortality figures contested in detail, direction not.
+7. Standard references: Kornai, [*The Socialist System*](https://press.princeton.edu/books/paperback/9780691003931/the-socialist-system) (1992); Courtois et al., [*The Black Book of Communism*](https://www.hup.harvard.edu/books/9780674076082) (1997) — mortality figures contested in detail, direction not; famine ranges per [Britannica — Holodomor](https://www.britannica.com/event/Holodomor) and standard Great Leap famine estimates.
+8. [Our World in Data — Life Expectancy](https://ourworldindata.org/life-expectancy).
+9. Sen, A. (1999). [*Development as Freedom*](https://sen.scholars.harvard.edu/publications/development-freedom). Knopf.

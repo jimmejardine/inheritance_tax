@@ -16,13 +16,13 @@ The people whose estates this tax targets are, by construction, the least geogra
 
 A tax that becomes due decades in the future, at death, gives the target cohort *decades of notice* to restructure residence. No cohort is better advised, better able to bear relocation costs, or more practised at jurisdictional arbitrage. Taxing the rich at death in one country, the objection runs, is like taxing birds in one field.
 
-The objection can also cite live UK experience: the 2024–25 abolition of non-dom status was accompanied by heavily publicised claims of a "millionaire exodus" (Henley & Partners / New World Wealth migration reports), and by high-profile individual departures covered as vindication (to verify — these industry figures are methodologically contested, see below, but they set the media terrain any adopter will fight on; [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md)).
+The objection can also cite live UK experience: the 2024–25 abolition of non-dom status was accompanied by heavily publicised claims of a "millionaire exodus" (Henley & Partners / New World Wealth migration reports), and by high-profile individual departures covered as vindication (these industry figures are methodologically contested — see below and [8] — but they set the media terrain any adopter will fight on; [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md)).
 
 ### 2. The Nordic abolitions were rational policy learning, not plutocratic capture
 
 The proposal's opponents do not need to invoke lobbying conspiracies; they can cite the adopters' own treasuries.
 
-- **Sweden (2004)** abolished its inheritance and gift tax by near-unanimous parliamentary vote, with Social Democratic support, after concluding that the tax raised trivial revenue (well under 1% of receipts — to verify), imposed high compliance costs, and was driving visible emigration of business owners — the IKEA and Tetra Pak founders being the emblematic cases, both domiciled abroad for decades before abolition [1].
+- **Sweden (2004)** abolished its inheritance and gift tax by unanimous parliamentary vote, under a Social Democratic government, after concluding that the tax raised trivial revenue (roughly 0.15% of GDP at repeal — well under 1% of receipts [1]), imposed high compliance costs, and was driving visible emigration of business owners — the IKEA and Tetra Pak founders being the emblematic cases, both domiciled abroad for decades before abolition [1].
 - **Norway (2014)** and **Austria (2008)** reached similar conclusions on their own data.
 - **Canada (1972)** replaced its estate tax with deemed-disposition capital-gains treatment — a deliberate, considered substitution, not a capitulation.
 
@@ -40,15 +40,15 @@ The most sophisticated form of the objection is structural, and it comes from th
 
 The migration-elasticity literature is real but consistently smaller than the rhetoric:
 
-| Study | Setting | Finding (to verify magnitudes) |
+| Study | Setting | Finding |
 |---|---|---|
 | Kleven, Landais & Saez (2013, *AER*) | European footballers | High mobility — but for a uniquely portable, young, contract-based profession |
 | Kleven, Landais, Saez & Schultz (2014, *QJE*) | Danish preferential scheme for foreign high earners | Large elasticity for *foreigners*; near-zero for domestic top earners |
-| Moretti & Wilson (2023, *AEJ*) | US billionaires and state estate taxes | Detectable estate-tax-motivated moves, yet most billionaires *stay*, and adopting states still collect net revenue on cost-benefit analysis [4] |
+| Moretti & Wilson (2023, *AEJ*) | US billionaires and state estate taxes | Real mobility — about 35% of billionaires left estate-tax states after 2001, and sensitivity rises with age — yet most *stay*, and the tax remains revenue-positive for the vast majority of states [4] |
 | Advani, Burgherr & Summers (UK, 2022–23) | Non-dom reform 2017 | Migration response far smaller than industry forecasts; most affected stayed [5] |
 | Young & Varner (California/New Jersey millionaire taxes) | US state income taxes | "Millionaire migration" largely a myth at observed rates; the rich are embedded, not footloose [6] |
 
-A methodological caution applies to the exodus headlines specifically: the widely cited Henley/New World Wealth "millionaire migration" figures are produced by a relocation-services firm from social-media and property sampling, not administrative data, and academic examinations of actual tax-record responses (Advani et al. on the 2017 non-dom reform) found departures a small fraction of industry forecasts [5] (to verify the 2025-cycle data as it emerges).
+A methodological caution applies to the exodus headlines specifically: the widely cited Henley/New World Wealth "millionaire migration" figures are produced by a relocation-services firm from social-media and property sampling, not administrative data, and academic examinations of actual tax-record responses (Advani et al. on the 2017 non-dom reform) found departures a small fraction of industry forecasts [5]; a 2025 forensic review of the Henley/New World Wealth reports found them built on LinkedIn-profile sampling, with statistical anomalies their publisher answered by dropping the underlying "millionaire database" from the next edition rather than defending it [8].
 
 Three structural points weigh against the objection's strongest reading:
 
@@ -60,13 +60,13 @@ Three structural points weigh against the objection's strongest reading:
 
    Each step has a real probability of non-completion; the product is small. People who merely *say* they will leave over tax vastly outnumber those who do.
 2. **The embedded rich.** The Nordic evidence cuts less cleanly than the steelman claims: what Sweden lacked was not enforcement capacity in general but this *design* — its tax had nominal-frozen thresholds, weak trust rules, and no exit tail. Its abolition is better read as the failure of a badly built tax than of inheritance taxation per se ([`../05-history/abolitions.md`](../05-history/abolitions.md) makes this case in detail; honest readers should note it is *our* reading, contested by the Swedish policymakers themselves).
-3. **The structural-dependence thesis is contested on its own terrain.** Przeworski and Wallerstein's own formal result was that structural dependence constrains taxation of *investment* far more than taxation of *consumption out of wealth* — and a death-time transfer tax on heirs is closer to the latter: it does not reduce the return on any marginal investment made in life [3]. Swank and others have found the predicted automatic punishment of redistributive policy weak in the data (to verify). The threat is real but not omnipotent; states tax capital every day.
+3. **The structural-dependence thesis is contested on its own terrain.** Przeworski and Wallerstein's own formal result was that structural dependence constrains taxation of *investment* far more than taxation of *consumption out of wealth* — and a death-time transfer tax on heirs is closer to the latter: it does not reduce the return on any marginal investment made in life [3]. Swank and others have found the predicted automatic punishment of redistributive policy weak in the data [9]. The threat is real but not omnipotent; states tax capital every day.
 
 ## The honest residual
 
 A determined unilateral adopter **will lose some fortunes**. Some founders will leave at the announcement; some emigrations will succeed; rival jurisdictions will advertise. The correct frame is not "no flight" but *tolerable loss*: the policy succeeds if revenue retained plus dynastic concentration broken exceeds the value of fortunes lost, on the Moretti–Wilson logic that even leaky state estate taxes are revenue-positive [4]. Three further concessions belong on the record:
 
-- The loss is front-loaded (announcement window) and concentrated in the liquid-financial tail; land, housing, and operating businesses — the majority of UK estate value (to verify share) — cannot emigrate.
+- The loss is front-loaded (announcement window) and concentrated in the liquid-financial tail; land, housing, and operating businesses — the bulk of UK estate value: residential property alone is roughly half of the estate value reported to HMRC [10] — cannot emigrate.
 - The Lindblom-type investment channel cannot be refuted in advance; it can only be managed by credibility, pace, and the endowment's countervailing popularity ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md), [`../15-transition/sequencing.md`](../15-transition/sequencing.md)).
 - International coordination would transform the problem, and its absence is a genuine cost of moving first ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md); the Pillar-Two corporate-tax floor is the proof-of-concept that coordination on mobile bases is possible, not that it is imminent).
 
@@ -75,7 +75,7 @@ A determined unilateral adopter **will lose some fortunes**. Some founders will 
 The verdict below should move if any of the following emerges:
 
 - administrative-data evidence (not industry surveys) of large, sustained outflows of *domestic* wealthy residents in response to transfer-tax severity, at magnitudes approaching industry forecasts;
-- evidence that exit taxes and residence tails are unenforceable in practice at scale — e.g. systematic non-collection under the US expatriation regime (IRC §877A) or the proposed UK tail (to verify enforcement records);
+- evidence that exit taxes and residence tails are unenforceable in practice at scale — e.g. systematic non-collection under the US expatriation regime (IRC §877A) — where a 2020 TIGTA audit already found 41% of expatriates failing to file the required exit-tax forms and high-net-worth expatriates apparently not paying [11] — or the proposed UK tail;
 - a rival-jurisdiction dynamic in which post-adoption departures visibly cluster among *founders of operating businesses* rather than holders of liquid portfolios — the loss category the tolerable-loss framing below cannot absorb.
 
 Conversely, successful Pillar-Two-style coordination on any personal-wealth base would remove most of the objection's remaining force ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
@@ -92,10 +92,14 @@ The full design response — exit taxes, situs rules, friction inventory, retent
 
 ## Sources
 
-1. [Henrekson & Waldenström, "Inheritance Taxation in Sweden, 1885–2004: The Role of Ideology, Family Firms and Tax Avoidance," *Economic History Review* (2016)](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.12280); see [`../05-history/abolitions.md`](../05-history/abolitions.md).
+1. [Henrekson & Waldenström, "Inheritance Taxation in Sweden, 1885–2004: The Role of Ideology, Family Firms and Tax Avoidance," *Economic History Review* (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ehr.12280); [Ydstedt, "How high-tax Sweden abolished its disastrous inheritance tax" (IEA, 2015)](https://iea.org.uk/blog/how-high-tax-sweden-abolished-its-disastrous-inheritance-tax/); see [`../05-history/abolitions.md`](../05-history/abolitions.md).
 2. [Lindblom, *Politics and Markets* (Basic Books, 1977)](https://archive.org/details/politicsmarketsw0000char); [Lindblom, "The Market as Prison," *Journal of Politics* 44(2), 1982](https://www.journals.uchicago.edu/doi/abs/10.2307/2130588).
 3. [Przeworski & Wallerstein, "Structural Dependence of the State on Capital," *American Political Science Review* 82(1), 1988](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/structural-dependence-of-the-state-on-capital/34F49B8D6C5D400D62C72C623BD4BF77).
 4. [Moretti & Wilson, "Taxing Billionaires: Estate Taxes and the Geographical Location of the Ultra-Wealthy," *AEJ: Economic Policy* (2023)](https://www.aeaweb.org/articles?id=10.1257/pol.20200685).
-5. [Advani, Burgherr & Summers — CAGE/Warwick work on UK non-dom reform](https://warwick.ac.uk/fac/soc/economics/research/centres/cage/).
+5. [Advani, Burgherr & Summers, "Taxation and Migration by the Super-Rich"](https://arunadvani.com/papers/AdvaniBurgherrSummers2025_TaxationAndMigrationByTheSuperRich.pdf) (CAGE/Warwick; IZA DP 16432).
 6. [Young, *The Myth of Millionaire Tax Flight* (Stanford, 2017)](https://www.sup.org/books/sociology/myth-millionaire-tax-flight); [Young & Varner, *National Tax Journal* (2011)](https://www.journals.uchicago.edu/doi/10.17310/ntj.2011.2.02).
 7. [Kleven, Landais & Saez, "Taxation and International Migration of Superstars," *AER* 103(5), 2013](https://www.aeaweb.org/articles?id=10.1257/aer.103.5.1892); [Kleven, Landais, Saez & Schultz, *QJE* 129(1), 2014](https://academic.oup.com/qje/article-abstract/129/1/333/1899540).
+8. [Tax Policy Associates, "Henley & Partners' millionaire-migration reports — fabricated?" (July 2025)](https://taxpolicy.org.uk/2025/07/27/henley-partners-millionaire-migration-report-analysis/); [Tax Justice Network, "Study behind millionaire exodus claims drops author and numbers after fake data accusations"](https://taxjustice.net/press/millionaire-exodus-study-drops-author-and-numbers-after-fake-data-accusations/).
+9. [Swank, *Global Capital, Political Institutions, and Policy Change in Developed Welfare States* (Cambridge, 2002)](https://www.cambridge.org/core/books/global-capital-political-institutions-and-policy-change-in-developed-welfare-states/44B0CAB0796B7649967692B8449D39FF).
+10. [HMRC, Inheritance Tax liabilities statistics: commentary](https://www.gov.uk/government/statistics/inheritance-tax-liabilities-statistics/inheritance-tax-liabilities-statistics-commentary).
+11. [Holland & Knight, "TIGTA Tasks IRS with Enhanced Enforcement of Noncompliant Expatriates" (2020)](https://www.hklaw.com/en/insights/publications/2020/11/tigta-tasks-irs-with-enhanced-enforcement-of-noncompliant-expatriates).

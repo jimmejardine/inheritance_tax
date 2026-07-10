@@ -66,4 +66,4 @@ The transition is survivable if — and only if — it is designed *before* anno
 
 ## Status
 
-First pass from general knowledge. Quantitative claims (forestalling-episode magnitudes, CTF dormancy figures, cohort sizes, all revenue-bridge numbers) are marked "(to verify)" in the individual files and require primary-source confirmation — HMRC/OBR/ONS data for the UK, JCT/CBO and state-programme records for the US — before manifesto use.
+Fact-checked July 2026. The flagged quantitative and historical claims (forestalling episodes, CTF dormancy, cohort sizes, legislative and constitutional mechanics, US state and pilot-programme status) have been verified against primary sources — legislation.gov.uk, HMRC/GOV.UK, NAO, ONS, OBR, CRS, FinCEN/Federal Register, state-programme records, and the academic literature — and corrected figures now carry citations in each file. Two kinds of gap remain: items marked "(unverified)", and the revenue-bridge cashflow table, which is deliberately illustrative pending the micro-simulation specified in [revenue-bridge.md](revenue-bridge.md).

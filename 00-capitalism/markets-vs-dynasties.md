@@ -30,7 +30,7 @@ This is not a moral flourish; it is a definitional observation. The one large tr
 
 Market capitalism's boast is that no one commands capital without answering for it. The founder answers to customers and investors; the CEO to the board; the fund manager to clients; even the state borrower answers to the bond market. The heir alone commands large capital having passed no test and owing no account — selected by a mechanism (the will) that cannot respond to performance even in principle, since its author is dead.
 
-The predictable result is measurable. Heir-controlled capital underperforms: second-generation-managed family firms show productivity and profitability declines relative to professionally managed peers, and inherited-CEO appointments are associated with significant performance deterioration (effect sizes and studies collected in [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md) and [../01-problem/declining-dynamism.md](../01-problem/declining-dynamism.md); to verify against [Pérez-González 2006](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559) and [Bennedsen et al. 2007](https://academic.oup.com/qje/article-abstract/122/2/647/1942108)). A capitalist who cared only about allocative efficiency — nothing about fairness — would still flag the heir as the system's weakest allocator.
+The predictable result is measurable. Heir-controlled capital underperforms: Pérez-González (2006) finds US firms that appoint family-connected CEOs underperform in operating profitability and market-to-book ratios relative to firms promoting unrelated CEOs [1], and Bennedsen et al. (2007), using Danish succession data with the departing CEO's first-child gender as an instrument, find family-CEO successions cause operating return on assets to fall by at least 4 percentage points around the transition [2] (effect sizes and further studies collected in [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md) and [../01-problem/declining-dynamism.md](../01-problem/declining-dynamism.md)). A capitalist who cared only about allocative efficiency — nothing about fairness — would still flag the heir as the system's weakest allocator.
 
 ## Rentier drift: the dynastic equilibrium
 
@@ -55,7 +55,7 @@ The founder keeps and controls everything for life. They may spend it, give it t
 
 ## The Buddenbrooks pattern and the founder era
 
-The two columns are visible in the historical record as alternating eras. Periods of high churn — the US in the decades after its founders abolished entail and primogeniture, the post-war decades when 70–80% transfer taxes were live, the first internet generation — put founders atop the wealth distribution: new names, new industries, fortunes traceable to identifiable acts of creation. Periods of low transfer taxation produce the opposite signature: the [*Buddenbrooks*](https://www.penguinrandomhouse.com/books/107272/buddenbrooks-by-thomas-mann-translated-by-john-edwards-introduction-by-t-j-reed/) pattern (Mann's chronicle of a merchant dynasty's generational decay), in which the same names persist while the underlying enterprise decays into rent collection. The diagnostic statistic is the inherited share of top wealth — rising again across the OECD after its mid-century trough, with 2023 reportedly the first modern year in which new billionaire wealth came more from inheritance than from founding ([UBS billionaire-ambitions report](https://www.ubs.com/global/en/media/display-page-ndp/en-20231130-great-wealth-transfer.html), to verify; series owned by [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)).
+The two columns are visible in the historical record as alternating eras. Periods of high churn — the US in the decades after its founders abolished entail and primogeniture, the post-war decades when 70–80% transfer taxes were live, the first internet generation — put founders atop the wealth distribution: new names, new industries, fortunes traceable to identifiable acts of creation. Periods of low transfer taxation produce the opposite signature: the [*Buddenbrooks*](https://www.penguinrandomhouse.com/books/107272/buddenbrooks-by-thomas-mann-translated-by-john-edwards-introduction-by-t-j-reed/) pattern (Mann's chronicle of a merchant dynasty's generational decay), in which the same names persist while the underlying enterprise decays into rent collection. The diagnostic statistic is the inherited share of top wealth — rising again across the OECD after its mid-century trough, with 2023 the first year in the nine editions of UBS's billionaire survey in which new billionaires accumulated more wealth by inheritance ($150.8bn to 53 heirs) than by entrepreneurship ($140.7bn to 84 self-made billionaires) [3] (series owned by [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)).
 
 The point for a pro-capitalist reader: the founder era is not the natural state to which markets return if left alone. It was, where it existed, partly the *product* of dynastic-break policy — and it is the era every admirer of capitalism actually admires ([../03-case-for/historical-precedents-of-success.md](../03-case-for/historical-precedents-of-success.md)).
 
@@ -69,10 +69,16 @@ The status quo is not "capitalism with low taxes." It is a slow, compounding tra
 
 ## Verification checklist
 
-- Heir-underperformance effect sizes: Pérez-González (2006), *AER*, on inherited-CEO firms; Bennedsen et al. (2007), *QJE*, on family-CEO successions in Denmark — figures owned by [../16-second-order/dynasties-and-power.md](../16-second-order/dynasties-and-power.md).
-- UBS Billionaire Ambitions Report (2023): inherited vs founded new billionaire wealth crossover.
+Resolved (July 2026): Pérez-González (2006) and Bennedsen et al. (2007) confirmed against the published articles — family-CEO succession reduces performance, with a ≥4pp fall in operating return on assets in the Danish instrumental-variable study [1][2]; UBS Billionaire Ambitions 2023 inheritance-vs-entrepreneurship crossover confirmed ($150.8bn inherited vs $140.7bn self-made among new billionaires) [3]. Still open:
+
 - Inherited share of top wealth across the OECD, mid-century trough to present (Piketty–Zucman series).
 - US startup-rate decline series cited via [../01-problem/declining-dynamism.md](../01-problem/declining-dynamism.md).
+
+## Sources
+
+1. [Pérez-González, F. (2006). "Inherited Control and Firm Performance." *American Economic Review* 96(5): 1559–1588](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559)
+2. [Bennedsen, M., Nielsen, K. M., Pérez-González, F. & Wolfenzon, D. (2007). "Inside the Family Firm: The Role of Families in Succession Decisions and Performance." *Quarterly Journal of Economics* 122(2): 647–691](https://academic.oup.com/qje/article-abstract/122/2/647/1942108)
+3. [UBS (November 2023). *Billionaire Ambitions Report 2023: The Great Wealth Transfer*](https://www.ubs.com/global/en/media/display-page-ndp/en-20231130-great-wealth-transfer.html)
 
 ## Cross-references
 

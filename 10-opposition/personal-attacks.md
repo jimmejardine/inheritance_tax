@@ -22,7 +22,7 @@ The strategic function of all four attacks is identical: to change the question 
 - **The stakes are personal for the attackers.** Opponents with nine-figure estates rationally spend on discrediting individuals; it is cheaper than winning the argument. Funding routes in [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
 - **The hypocrisy trap is near-universal.** Almost anyone senior enough to front a campaign has property, pensions, or expected inheritances above the median. Opponents will frame ordinary middle-class assets as disqualifying — while their own funders' fortunes stay invisible.
 - **Endowment-generation advocates are attackable from the other side.** Young spokespeople will be framed as entitled ("they want free money"); the counter is the same disclosure-and-judo structure, inverted: "Yes — I would receive the endowment. So would every 25-year-old, including my critics' children."
-- **Precedents.** Thomas Piketty's personal finances and book royalties became a standard deflection in coverage of [*Capital in the Twenty-First Century*](https://www.hup.harvard.edu/books/9780674430006); wealth-tax advocates in several countries have faced the "give it away yourself, then" retort as the default interview gambit. Conversely, wealthy advocates who *lead* with their status — Bill Gates Sr. and the Responsible Wealth network in the US estate-tax fight, the Patriotic Millionaires, and Marlene Engelhorn, the Austrian heiress who handed €25m to a citizens' council to redistribute in 2024 (to verify amount) — have proven notably resistant to it [1][2][3].
+- **Precedents.** Thomas Piketty's personal finances and book royalties became a standard deflection in coverage of [*Capital in the Twenty-First Century*](https://www.hup.harvard.edu/books/9780674430006); wealth-tax advocates in several countries have faced the "give it away yourself, then" retort as the default interview gambit. Conversely, wealthy advocates who *lead* with their status — Bill Gates Sr. and the Responsible Wealth network in the US estate-tax fight, the Patriotic Millionaires, and Marlene Engelhorn, the Austrian heiress who handed €25m to a citizens' council that distributed it to 77 Austrian organisations in June 2024 — have proven notably resistant to it [1][2][3].
 
 ## The Engelhorn model
 
@@ -52,13 +52,13 @@ Not everyone needs the same armour:
 
 ## The harassment tier
 
-Prominent tax-justice campaigners, academics, and journalists covering wealth have experienced coordinated online abuse, legal intimidation (including SLAPP-style defamation threats, a documented pattern in UK wealth journalism — to verify specific cases), and occasional physical-security concerns. Assume a mainstream campaign for this proposal will face the same, concentrated on its most visible women and minority spokespeople, consistent with the general pattern of online harassment research (to verify against current literature) [4].
+Prominent tax-justice campaigners, academics, and journalists covering wealth have experienced coordinated online abuse, legal intimidation (SLAPP-style defamation suits, a documented pattern in UK wealth journalism — the oligarch and Rosneft litigation against Catherine Belton's *Putin's People* and ENRC's suit against Tom Burgis's *Kleptopia* are the reference cases [5]), and occasional physical-security concerns. Assume a mainstream campaign for this proposal will face the same, concentrated on its most visible women and minority spokespeople, consistent with online-harassment research: Pew (2021) found women far likelier than men to face online sexual harassment (16% vs 5%; 33% of women under 35), and Black and Hispanic targets far likelier to attribute harassment to their race or ethnicity [4].
 
 ## What still needs doing
 
-- Verified account of the Engelhorn/Guter Rat process: amount, method, outcomes, and media reception across the political spectrum.
+- Media reception of the Engelhorn/Guter Rat process across the political spectrum (amount, method, and outcomes now confirmed [3]).
 - Case file on attacks against named wealth-tax advocates (Piketty, Saez/Zucman, Patriotic Millionaires members) and which responses worked.
-- Documentation of SLAPP and legal-intimidation patterns against UK wealth journalism, and the state of anti-SLAPP reform.
+- The current state of UK anti-SLAPP reform (the case pattern itself is documented [5]).
 - Draft of the standard advocate disclosure template and the consent/aftercare protocol for validator families.
 - Inoculation-message testing plan with [../14-communications/inoculation.md](../14-communications/inoculation.md): does pre-stating the envy/communism attacks measurably blunt them?
 
@@ -76,5 +76,6 @@ Prominent tax-justice campaigners, academics, and journalists covering wealth ha
 
 1. [Gates, W. Sr. and Collins, C. (2002). *Wealth and Our Commonwealth*. Beacon Press](https://www.beacon.org/Wealth-and-Our-Commonwealth-P108.aspx)
 2. [Patriotic Millionaires — organisational site and public letters](https://patrioticmillionaires.org/)
-3. [Reporting on Marlene Engelhorn and the Guter Rat (Good Council) citizens' redistribution process, 2024](https://www.theguardian.com/world/2024/jan/09/austrian-heiress-marlene-engelhorn-give-away-fortune)
-4. [Research on coordinated online harassment of public-facing advocates and journalists (e.g. Pew Research Center, Online Harassment studies)](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/)
+3. [CNN (18 June 2024) — Marlene Engelhorn's Guter Rat (Good Council) distributes her €25m to 77 organisations](https://www.cnn.com/2024/06/18/europe/austrian-heiress-wealth-climate-left-wing-intl); [Guter Rat — the results](https://guterrat.info/en/die-ergebnisse/)
+4. [Pew Research Center (2021). *The State of Online Harassment*](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/)
+5. [UK Anti-SLAPP Coalition — the Catherine Belton / *Putin's People* cases](https://antislapp.uk/project/catherine-belton/)

@@ -1,6 +1,6 @@
 # Endowment Delivery
 
-**Executive summary.** Paying £50,000 to roughly 700,000 people a year is an operational programme, not a line in a Budget: the day the first cohort is paid, it becomes the largest concentrated transfer to young adults any state has attempted, and every fraudster, predatory lender, and mis-seller will know the date. This file specifies the delivery vehicle, the scam-protection architecture, eligibility and migration edge cases, and cohort-fairness at commencement — while preserving the unconditionality commitment of [`endowment.md`](endowment.md): everything below is default architecture and protection from third parties, never conditions on the recipient.
+**Executive summary.** Paying £50,000 to each year's cohort of 25-year-olds — roughly 700,000–900,000 people, depending on how the §5 residence rules cut the ~890,000 residents aged 25 at the latest ONS count [8] — is an operational programme, not a line in a Budget: the day the first cohort is paid, it becomes the largest concentrated transfer to young adults any state has attempted, and every fraudster, predatory lender, and mis-seller will know the date. This file specifies the delivery vehicle, the scam-protection architecture, eligibility and migration edge cases, and cohort-fairness at commencement — while preserving the unconditionality commitment of [`endowment.md`](endowment.md): everything below is default architecture and protection from third parties, never conditions on the recipient.
 
 ## Key commitments
 
@@ -22,12 +22,12 @@
 | Matched drawdown | State tops up balances left invested | Rewards patience | Adds fiscal cost; regressive (patient recipients skew affluent) | Rejected at this pass |
 | **Default investment wrapper + full withdrawal right** | Endowment sits invested in a default fund; recipient may withdraw any amount, any time, after claim | Inertia protects without compelling; one account for statements from 16; benefits disregard attaches cleanly ([`tax-interactions.md`](tax-interactions.md) §4) | Requires fund governance (supplied by [`constitutional-design.md`](constitutional-design.md) §3) | **Adopted** |
 
-**Reconciliation with unconditionality.** The distinction is doing real work and must be policed in drafting: a *condition* restricts what the recipient may do with their money; a *default* sets where the money sits until they act, at zero cost to act. The recipient's right to 100% cash on demand from age 25 is absolute and justiciable. Behavioural-economics precedent — auto-enrolment raised UK pension participation from ~55% to ~88% (to verify) without compelling anyone [1] — shows defaults deliver most of the protective benefit of mandates with none of the coercion.
+**Reconciliation with unconditionality.** The distinction is doing real work and must be policed in drafting: a *condition* restricts what the recipient may do with their money; a *default* sets where the money sits until they act, at zero cost to act. The recipient's right to 100% cash on demand from age 25 is absolute and justiciable. Behavioural-economics precedent — auto-enrolment raised workplace pension participation among eligible UK employees from 55% (2012) to 88% (2020) without compelling anyone [1] — shows defaults deliver most of the protective benefit of mandates with none of the coercion.
 
 ## 2. The account lifecycle
 
-1. **At birth/registration:** account opened automatically against the NINO/SSN record (Child Trust Fund precedent: ~6.3m accounts opened automatically, 2002–2011 — to verify [2]).
-2. **From 16:** annual statements showing the projected grant; financial-education tie-in at school (the CTF's great failure was dormancy through invisibility — ~£1.7bn unclaimed [2]; statements and a claim ritual are the fix).
+1. **At birth/registration:** account opened automatically against the NINO/SSN record (Child Trust Fund precedent: 6.3m accounts opened 2002–2011, ~1.7m of them set up automatically by HMRC where parents did not act [2]).
+2. **From 16:** annual statements showing the projected grant; financial-education tie-in at school (the CTF's great failure was dormancy through invisibility — over £1.7bn left unclaimed by almost a million young adults [9]; statements and a claim ritual are the fix).
 3. **At 25:** claim window opens; identity-verified claim via the same Gateway/IRS-account rails as [`mechanism.md`](mechanism.md) §6. Unclaimed balances roll forward wage-indexed, no expiry ([`endowment.md`](endowment.md) §6).
 4. **Post-claim:** funds remain in the default wrapper until withdrawn; partial withdrawals free and unlimited after the cooling period.
 
@@ -37,7 +37,7 @@ The threat model is not primarily benefit fraud (eligibility is a birth-register
 
 | Threat | Defence |
 |---|---|
-| Advance-fee / "unlock your endowment early" lending | **Statutory anti-assignment:** contracts secured on an unpaid endowment are void (precedent: [42 U.S.C. §407](https://www.law.cornell.edu/uscode/text/42/407) for Social Security; UK pension assignment bans — to verify); no legal market in endowment advances can exist |
+| Advance-fee / "unlock your endowment early" lending | **Statutory anti-assignment:** contracts secured on an unpaid endowment are void (precedent: [42 U.S.C. §407](https://www.law.cornell.edu/uscode/text/42/407) for Social Security; [section 91 of the Pensions Act 1995](https://www.legislation.gov.uk/ukpga/1995/26/section/91) for UK occupational pensions); no legal market in endowment advances can exist |
 | Account-takeover and APP fraud at claim | 30-day cooling period between claim and first transfer above a de minimis (figure illustrative: £1,000); confirmation-of-payee-only destinations; delayed-execution default on first large withdrawal |
 | Fake investment products targeting the cohort | FCA/SEC financial-promotion rules extended to name endowment recipients as a protected audience; annual pre-payout warning campaign timed to each cohort |
 | Mis-selling by regulated firms | Optional **advice voucher**: a funded session with a regulated adviser, redeemable in the claim year; adviser conduct rules apply |
@@ -49,7 +49,7 @@ None of these restricts what the recipient may ultimately do — the uncondition
 
 The support offer is information-rich and mandate-free: statements from 16, a claim-year guidance session (Pension Wise precedent — free, impartial, optional [3]), the advice voucher, and published cohort outcome statistics ([`constitutional-design.md`](constitutional-design.md) §4). Evidence from unconditional transfers — Alaska PFD, GiveDirectly, cited in [`endowment.md`](endowment.md) §5 — does not support fears of systematic dissipation, and the communications strategy should say so pre-emptively rather than defensively ([`../14-communications/inoculation.md`](../14-communications/inoculation.md)). Longer-run behavioural effects are tracked in [`../16-second-order/endowment-effects.md`](../16-second-order/endowment-effects.md) and [`../16-second-order/heirs-and-work.md`](../16-second-order/heirs-and-work.md).
 
-**Student debt.** An offset option lets recipients redeem the endowment against their loan balance at par. It is offered, never defaulted: under income-contingent UK loans, early repayment is value-destroying for low lifetime earners who would never repay in full, and rational mainly for high earners (IFS analysis of Plan 2 repayment — to verify [4]). The claim-flow guidance must present this asymmetry; a state that nudged all graduates to repay would be transferring endowment value straight back to itself. US federal loans, being non-income-contingent in the main, make the offset more often rational — guidance differs by jurisdiction.
+**Student debt.** An offset option lets recipients redeem the endowment against their loan balance at par. It is offered, never defaulted: under income-contingent UK loans, early repayment is value-destroying for low lifetime earners who would never repay in full, and rational mainly for high earners (IFS analysis of Plan 2 repayment: only around half of the 2022/23 cohort will ever repay in full, and for those who never repay the principal, extra payments reduce only the sum written off at year 30 [4]). The claim-flow guidance must present this asymmetry; a state that nudged all graduates to repay would be transferring endowment value straight back to itself. US federal loans, being non-income-contingent in the main, make the offset more often rational — guidance differs by jurisdiction.
 
 ## 5. Eligibility and migration edge cases
 
@@ -59,7 +59,7 @@ Baseline rule (parameters open, to be set in legislation): entitlement vests at 
 |---|---|
 | Citizen living abroad at 25 | Entitlement preserved; claimable on taking up residence (aligns the grant with participation in the society funding it); no expiry |
 | Arrival at 24 with settled status | Not eligible at 25; residence-years accrue toward a later claim (design choice: entitlement at the *later* of 25 and satisfying residence) |
-| Refugees granted protection | Residence clock runs from asylum application date (to verify against precedent in benefits law) |
+| Refugees granted protection | Residence clock runs from asylum application date (analogous precedent in benefits law: refugee child benefit claims made promptly after grant are backdated to the date of the asylum claim [10]) |
 | Dual nationals / overlapping foreign schemes | Claim requires declaration of comparable foreign grants; offset only if a treaty partner operates a mirror scheme ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)) |
 | Irish citizens in the UK (CTA) / cross-border workers | Follow residence, not nationality |
 | Emigration shortly after claiming | No clawback — the grant is unconditional; the receipts-tax exit rules ([`avoidance.md`](avoidance.md) §4) are the anti-arbitrage backstop on the tax side |
@@ -68,13 +68,13 @@ The rule's purpose is to prevent birth-tourism-style arbitrage without creating 
 
 ## 6. Commencement and cohort fairness
 
-Any start date creates a neighbour problem: the person who turned 26 the week before receives nothing while funding the scheme through taxes for decades. A cliff invites lasting resentment in a large, politically active cohort. Design: a **commencement taper** — illustrative schedule: those aged 26 at commencement receive £40k, 27 → £30k, 28 → £20k, 29 → £10k, 30+ → nil, payable immediately. Cost: roughly one additional year's endowment spend spread over the taper (illustrative: ~£70bn total across four cohorts at UK scale — a one-off transition cost sitting alongside the revenue ramp in [`revenue-model.md`](revenue-model.md) §5 and [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)). The taper does not extend indefinitely backwards; the honest answer to the 45-year-old is that every reform has a start, and they are compensated through the tax cuts in [`tax-interactions.md`](tax-interactions.md) §7 and the system their children inherit. Sequencing detail: [`../15-transition/sequencing.md`](../15-transition/sequencing.md) and [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md).
+Any start date creates a neighbour problem: the person who turned 26 the week before receives nothing while funding the scheme through taxes for decades. A cliff invites lasting resentment in a large, politically active cohort. Design: a **commencement taper** — illustrative schedule: those aged 26 at commencement receive £40k, 27 → £30k, 28 → £20k, 29 → £10k, 30+ → nil, payable immediately. Cost: roughly one additional year's endowment spend spread over the taper (illustrative: ~£70–90bn total across four cohorts at UK scale, depending on eligible-cohort size — a one-off transition cost sitting alongside the revenue ramp in [`revenue-model.md`](revenue-model.md) §5 and [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)). The taper does not extend indefinitely backwards; the honest answer to the 45-year-old is that every reform has a start, and they are compensated through the tax cuts in [`tax-interactions.md`](tax-interactions.md) §7 and the system their children inherit. Sequencing detail: [`../15-transition/sequencing.md`](../15-transition/sequencing.md) and [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md).
 
 ## 7. Administrative precedents
 
 | Precedent | What it proves | What it warns |
 |---|---|---|
-| UK Child Trust Fund (2002–11) [2] | Auto-opening millions of accounts against birth records works at low cost | Invisibility breeds dormancy (~£1.7bn unclaimed); engagement must be designed, not assumed |
+| UK Child Trust Fund (2002–11) [2] | Opening millions of accounts against birth records works at low cost (HMRC auto-opened ~1.7m where parents did not act) | Invisibility breeds dormancy (over £1.7bn unclaimed [9]); engagement must be designed, not assumed |
 | Alaska Permanent Fund Dividend (1982–) [5] | Annual mass payment (~600k+ applications) is routine after four decades; near-universal take-up | Application-based model needs a fraud unit; dividend politics are noisy ([`constitutional-design.md`](constitutional-design.md) §6) |
 | NEST / auto-enrolment (2012–) [1] | Default funds at national scale, low cost, high inertia benefit | — |
 | Sweden AP7 Såfa default fund [6] | A state default investment option can coexist with full individual choice | Choice-overload in the wider PPM menu depressed engagement — keep the menu short |
@@ -82,10 +82,13 @@ Any start date creates a neighbour problem: the person who turned 26 the week be
 
 ## Sources
 
-1. [The Pensions Regulator / DWP — Automatic enrolment evaluation reports](https://www.gov.uk/government/collections/automatic-enrolment-evaluation-reports) — participation rates (to verify).
-2. [National Audit Office — *Investigation into Child Trust Funds* (2023)](https://www.nao.org.uk/reports/investigation-into-child-trust-funds/).
+1. [DWP — Workplace pension participation and savings trends of eligible employees: 2009 to 2020](https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2020/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2020) — participation of eligible employees rose from 55% (2012) to 88% (2020).
+2. [National Audit Office — *Investigation into Child Trust Funds* (2023)](https://www.nao.org.uk/reports/investigation-into-child-trust-funds/) — 6.3m children born 2002–2011 received CTFs; HMRC set up ~1.7m accounts (28%) where parents did not act.
 3. [MoneyHelper / Pension Wise — service model](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-wise).
-4. [IFS — student loan repayment analysis](https://ifs.org.uk/education-spending/higher-education) (to verify current Plan-year figures).
+4. [IFS — *Options for changing Plan 2 student loans: costs, benefits, and distributional effects* (2026)](https://ifs.org.uk/publications/options-changing-plan-2-student-loans-costs-benefits-and-distributional-effects) — around half of the 2022/23 Plan 2 cohort repay in full; low earners' repayments are unaffected by balance-reducing changes because the balance is written off.
 5. [Alaska Department of Revenue — Permanent Fund Dividend Division, annual reports](https://pfd.alaska.gov/).
 6. [AP7 — Såfa default option in the Swedish premium pension](https://www.ap7.se/english/).
 7. [Norges Bank Investment Management — Government Pension Fund Global](https://www.nbim.no/en/).
+8. [ONS — Population estimates for the UK, mid-year](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates) — mid-2024: 892,223 residents aged 25.
+9. [House of Commons Public Accounts Committee — "Almost a million young adults entitled to unclaimed Child Trust Funds worth £1.7bn" (2023)](https://committees.parliament.uk/committee/127/public-accounts-committee/news/196653/almost-a-million-young-adults-entitled-to-unclaimed-child-trust-funds-worth-17bn/).
+10. [CPAG — Benefits for new refugees](https://cpag.org.uk/welfare-rights/benefits-scotland/more-info/benefits-migrants-factsheets/new-refugees) — child benefit claimed within three months of refugee status is treated as claimed on the date of the asylum application.

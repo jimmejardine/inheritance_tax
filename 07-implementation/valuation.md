@@ -70,7 +70,7 @@ No tax authority can audit every return; the goal is that undervaluation is nega
 - **Penalty gradient tied to the size of the miss:** revisions under 10% are treated as good-faith; 10–25% attracts the tax plus 30%; over 25% attracts the tax plus 100% and appraiser referral; fraudulent valuation goes to the criminal track in [enforcement.md](enforcement.md).
 - **No limitation period for concealed assets** (see [enforcement.md](enforcement.md)) — an undervaluation that depends on the state never noticing has no safe harbour date.
 
-The arithmetic to communicate publicly: with even a 1-in-10 audit chance and a 100%-of-tax penalty, undervaluing by 25% has negative expected value for any risk-neutral taxpayer, and the wealthy are advised by professionals who cannot afford licence risk. Exact audit-rate and penalty calibration needs modelling (to verify against HMRC/IRS compliance-yield data).
+The arithmetic to communicate publicly: with even a 1-in-10 audit chance and a 100%-of-tax penalty, undervaluing by 25% has negative expected value for any risk-neutral taxpayer, and the wealthy are advised by professionals who cannot afford licence risk. Exact audit-rate and penalty calibration needs modelling against HMRC/IRS compliance-yield data (the task commissioned in the [section README](README.md)).
 
 ## Research gaps
 

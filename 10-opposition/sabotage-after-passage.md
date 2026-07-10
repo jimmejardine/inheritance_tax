@@ -8,10 +8,10 @@ This file assumes the tax has passed; the fights that decide *whether* it passes
 
 | Strategy | Mechanism | Historical case | Countermeasure in this proposal |
 |---|---|---|---|
-| Threshold games | Either freeze the threshold so inflation drags ordinary estates in (making the tax hated), or ratchet it upward until the tax is symbolic | UK nil-rate band frozen at £325,000 since 2009, pulling growing numbers of ordinary estates into IHT and feeding resentment (to verify current freeze end-date); US exemption ratcheted from ~$675k (2001) to ~$5m (2011–12), ~$11m+ (TCJA 2017), and higher again under 2025 legislation (to verify current figure) [1][2] | Statutory indexation to max(wage growth, median house-price growth) — [../02-proposal/thresholds.md](../02-proposal/thresholds.md) |
+| Threshold games | Either freeze the threshold so inflation drags ordinary estates in (making the tax hated), or ratchet it upward until the tax is symbolic | UK nil-rate band frozen at £325,000 since 2009–10, with the freeze successively extended (currently to April 2031), pulling growing numbers of ordinary estates into IHT and feeding resentment [2][4]; US exemption ratcheted from $675k (2001) to $5m (2011–12), $11.18m (TCJA, 2018), and a permanent, inflation-indexed $15m from 2026 under the One Big Beautiful Bill Act (2025) [1] | Statutory indexation to max(wage growth, median house-price growth) — [../02-proposal/thresholds.md](../02-proposal/thresholds.md) |
 | Carve-out stuffing | Add reliefs in successive finance bills until the effective rate on the largest fortunes approaches zero | UK BPR/APR grew into general-purpose shelters (AIM portfolios, farmland as tax product); German §13a/b business reliefs became so generous the constitutional court struck them down in 2014 — see [legal-challenges.md](legal-challenges.md) | Carve-outs designed as deferrals and exemptions with anti-abuse conditions, not rate reductions — [../02-proposal/carveouts.md](../02-proposal/carveouts.md) |
-| Enforcement defunding | Keep the law, starve the agency | IRS budget cut roughly 20% in real terms across the 2010s, with audit rates on the largest estates and highest incomes collapsing (to verify figures); the 2022 Inflation Reduction Act's ~$80bn rebuild was partially clawed back within two years [3] | Independent administration body with protected funding formula (below) |
-| Valuation capture | Leave headline rates intact but rig the inputs: minority discounts, marketability discounts, friendly appraisal norms | US family limited partnerships generating 30–40% valuation discounts on marketable assets (to verify range); the pre-2006 German asset-class valuation gaps struck down by the BVerfG | Capped discounts, mark-to-market for listed assets, asset-tender right — [../07-implementation/valuation.md](../07-implementation/valuation.md) |
+| Enforcement defunding | Keep the law, starve the agency | IRS budget cut roughly 20% in real terms between 2010 and 2021, with audit rates on the highest incomes falling more than 70% (2010–2019); of the 2022 Inflation Reduction Act's ~$80bn rebuild, $53.4bn had been rescinded again by 2025 [3][5] | Independent administration body with protected funding formula (below) |
+| Valuation capture | Leave headline rates intact but rig the inputs: minority discounts, marketability discounts, friendly appraisal norms | US family limited partnerships generating combined minority and marketability discounts documented from 10% to 50% — commonly 30–40% — even on marketable assets [6]; the pre-2006 German asset-class valuation gaps struck down by the BVerfG | Capped discounts, mark-to-market for listed assets, asset-tender right — [../07-implementation/valuation.md](../07-implementation/valuation.md) |
 | Sunset and cliff engineering | Enact with expiry dates so inaction kills the tax; force perpetual re-litigation | EGTRRA 2001's scheduled 2010 repeal-and-sunset; TCJA's 2025 exemption cliff — each expiry a fresh lobbying bonanza [1] | No sunset clauses accepted in any legislative compromise; fallback schedules instead — [../15-transition/legislative-path-uk.md](../15-transition/legislative-path-uk.md), [../15-transition/legislative-path-us.md](../15-transition/legislative-path-us.md) |
 
 ## Why attrition beats repeal, from the opponents' view
@@ -57,9 +57,9 @@ Every hollowing strategy works by keeping losses invisible. Hypothecation invert
 
 ## What still needs doing
 
-- Verified series: US estate-tax exemption and effective-rate history 2001–present, including the current post-2025 exemption level.
+- Verified series: US estate-tax effective-rate history 2001–present (exemption milestones now confirmed [1]).
 - Verified series: UK nil-rate band real value since 2009 and the count of estates newly dragged into IHT by the freeze.
-- IRS enforcement case study with hard numbers: budget, audit rates on top-decile estates and incomes, and the IRA funding clawback sequence.
+- IRS enforcement case study with hard numbers: estate-tax-specific audit rates, and the year-by-year IRA clawback sequence (headline figures now confirmed [3][5]).
 - Comparative study of hypothecation durability: NHS/NI linkage, Social Security's political economy, and any national examples of ring-fenced transfer-tax revenues.
 - Legal analysis of entrenchment options by jurisdiction (referendum locks, organic laws, double-passage) for [../12-political-adoption/stepping-stones.md](../12-political-adoption/stepping-stones.md).
 
@@ -75,6 +75,9 @@ Every hollowing strategy works by keeping losses invisible. Hypothecation invert
 
 ## Sources
 
-1. [Congressional Research Service — history of US estate tax exemption and rate changes, EGTRRA (2001) through TCJA (2017) and subsequent legislation](https://www.congress.gov/crs-product/R48183)
-2. [HMRC / IFS analyses of the UK inheritance-tax nil-rate band freeze and fiscal drag](https://ifs.org.uk/publications/reforming-inheritance-tax)
-3. [Center on Budget and Policy Priorities / GAO — IRS funding trends and audit-rate decline, 2010–2021, and Inflation Reduction Act funding changes](https://www.cbpp.org/research/federal-tax/the-need-to-rebuild-the-depleted-irs)
+1. [Congressional Research Service, R48183 — *The Estate and Gift Tax: An Overview* (updated July 2025)](https://www.congress.gov/crs-product/R48183)
+2. [Institute for Fiscal Studies — *Reforming inheritance tax* (nil-rate band freeze and fiscal drag)](https://ifs.org.uk/publications/reforming-inheritance-tax)
+3. [Center on Budget and Policy Priorities — Added IRS funding would help ensure high-income households and businesses pay their taxes (budget down ~20% real; high-income audit rates down over 70%, 2010–2019)](https://www.cbpp.org/blog/added-irs-funding-would-help-ensure-high-income-households-businesses-pay-their-taxes)
+4. [GOV.UK — Inheritance Tax thresholds (nil-rate band fixed at £325,000; freeze extended to 2030–31)](https://www.gov.uk/government/publications/inheritance-tax-thresholds/inheritance-tax-thresholds)
+5. [ITEP (2025) — "IRS Enforcement Boost Was Supposed to Last 10 Years. Congress Killed It in Under Three." ($53.4bn of the $80bn rescinded)](https://itep.org/irs-funding-cuts-inflation-reduction-act-tax-avoidance/)
+6. [Greenleaf Trust — The value of valuation discounts in transferring ownership of family-owned businesses (combined discounts 10–50%)](https://greenleaftrust.com/news/the-value-of-valuation-discounts-in-transferring-ownership-of-family-owned-businesses/)

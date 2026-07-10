@@ -4,12 +4,12 @@
 
 ## The stylised ledger
 
-Material position under the proposal, before any framing (magnitudes from [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md); all figures stylised, to verify by micro-simulation):
+Material position under the proposal, before any framing (magnitudes from [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md); all figures stylised, unverified pending micro-simulation):
 
-| Lifetime position | Approx. share of adults (UK, to verify) | Net effect of package |
+| Lifetime position | Approx. share of adults (UK, stylised, unverified) | Net effect of package |
 |---|---|---|
 | Inherits nothing | ~50% | Pure gain: +£50k endowment |
-| Inherits below ~£50k (median receiver ~£11k) | ~30–35% | Strong gain: endowment exceeds inheritance |
+| Inherits below ~£50k (median inheritance received: £11k, 2014–16 [1]) | ~30–35% | Strong gain: endowment exceeds inheritance |
 | Inherits £50k–£500k | ~10–15% | Neutral-to-gain: inheritance untouched, plus endowment (and children's endowments) |
 | Inherits above £500k | ~3–7% | Loses above the threshold; keeps £500k + endowment |
 | Inherits multiples of £500k | ~1% | Principal loser; the policy's target |
@@ -20,8 +20,8 @@ The political problem is that the bottom four rows do not currently *know* they 
 
 ### 1. Priced-out young (roughly under-40 non-owners) — MOBILISE
 
-- **Size/trend:** the largest growth bloc; UK owner-occupation among under-35s has roughly halved since the 1990s (to verify). Renting into the 40s is normalising.
-- **Material interest:** unambiguous winners — the endowment is a deposit; most will inherit little and late (median inheritance arrives near age 60, to verify).
+- **Size/trend:** the largest growth bloc; owner-occupation among 25–34-year-olds fell from 67% in 1991 to a low of 36% in 2013–14, recovering only to 45% by 2023–24 (England) [2]. Renting into the 40s is normalising.
+- **Material interest:** unambiguous winners — the endowment is a deposit; most will inherit little and late (inheritance receipt is most common, and largest, at ages 55–64 [1]).
 - **Values entry:** fairness of starting points; housing ([`../01-problem/housing.md`](../01-problem/housing.md)); "work doesn't pay, ownership does" ([`../01-problem/rentier-economy.md`](../01-problem/rentier-economy.md)).
 - **Objections:** cynicism that it will ever happen; distrust of state delivery ([`../09-objections/practicality.md`](../09-objections/practicality.md)).
 - **Messengers:** peers, personal-finance creators, not politicians ([`../13-movement/messengers.md`](../13-movement/messengers.md)).
@@ -38,7 +38,7 @@ The political problem is that the bottom four rows do not currently *know* they 
 
 ### 3. Small-business owners — NEUTRALISE→PERSUADE
 
-- **Size/trend:** ~5.5m UK businesses, overwhelmingly micro (to verify); politically loud through federations (FSB, chambers).
+- **Size/trend:** 5.5m UK private-sector businesses at the start of 2024, 74% with no employees at all [3]; politically loud through federations (FSB, chambers).
 - **Material interest:** mixed. Most businesses are worth under the threshold once split among heirs; the 30-year deferral at gilts+1% ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) means no forced sales. Owners *as founders* benefit from a labour market of endowed 25-year-olds who can take entrepreneurial risk.
 - **Objections:** valuation fear, succession disruption ([`../09-objections/family.md`](../09-objections/family.md), [`../04-case-against/family-business.md`](../04-case-against/family-business.md)).
 - **Messengers:** founders who built without inheriting; business-succession advisers.
@@ -46,7 +46,7 @@ The political problem is that the bottom four rows do not currently *know* they 
 
 ### 4. Farmers — NEUTRALISE
 
-- **Size/trend:** small (~100k UK farm holdings, to verify) but with symbolic power vastly exceeding numbers — proven again in 2024–25 ([case-studies.md](case-studies.md)).
+- **Size/trend:** small (~209k UK farm holdings in 2023 [4]) but with symbolic power vastly exceeding numbers — proven again in 2024–25 ([case-studies.md](case-studies.md)).
 - **Material interest:** land-rich, cash-poor; the archetypal hard case. Deferral plus optional state-equity route ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)) is designed for exactly this profile; genuine working farms splitting among children mostly clear the threshold.
 - **Objections:** forced land sales; distrust of Treasury promises; agri-land as identity, not asset.
 - **Messengers:** tenant farmers and new entrants — the constituency currently *locked out* of land by inheritance-inflated prices ([`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)).
@@ -75,7 +75,7 @@ The political problem is that the bottom four rows do not currently *know* they 
 
 ### 8. Unions — MOBILISE
 
-- **Size/trend:** declining density (~22% UK, to verify) but retains money, organisers, and conference influence.
+- **Size/trend:** declining density (22.0% of UK employees in 2024, the lowest on record [5]) but retains money, organisers, and conference influence.
 - **Material interest:** members are overwhelmingly in the winner rows; endowed young workers have outside options, which raises wages.
 - **Objections:** none structural; competing priorities. Endowment must not be framed as a substitute for wage bargaining or public services.
 - **Strategy:** mobilise institutionally — affiliations, conference motions, funding ([`../13-movement/funding.md`](../13-movement/funding.md), [`../12-political-adoption/left-parties.md`](../12-political-adoption/left-parties.md)).
@@ -104,7 +104,7 @@ The political problem is that the bottom four rows do not currently *know* they 
 
 ## Minimum-winning-coalition arithmetic
 
-A UK general-election majority needs roughly 40–45% of the vote. Stylised composition (shares to verify against BES data):
+A UK general-election majority needs roughly 40–45% of the vote. Stylised composition (shares are estimates, unverified against British Election Study data):
 
 - **Base (mobilise):** young non-owners + progressives + union households ≈ 25–30% of the electorate — necessary, insufficient, and turnout-fragile.
 - **Bridge (persuade):** older middle homeowners and small-c conservatives overlap heavily; converting or neutralising even a third of this combined ~35–40% closes the gap.
@@ -112,4 +112,12 @@ A UK general-election majority needs roughly 40–45% of the vote. Stylised comp
 
 Hence the two decisive swing blocs are **older middle-class homeowners** and **small-c conservatives** — distinct in values entry (material-familial vs moral-proportional) but overlapping in demography, and both winnable *only* if the endowment is led, the threshold is believed, and the hard cases are pre-solved. Sequencing implications are drawn out in [`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md) and [`../15-transition/sequencing.md`](../15-transition/sequencing.md); the bloc-message matrix is operationalised in [`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md).
 
-All bloc sizes and shares are stylised from general knowledge and flagged **(to verify)** against ONS, British Election Study, FSB, Defra, and union-density statistics before manifesto use.
+Headline bloc-size statistics are now cited to official sources [1]–[5]; the ledger shares and coalition-composition estimates remain stylised and should be micro-simulated against British Election Study and Wealth and Assets Survey data before manifesto use.
+
+## Sources
+
+1. [ONS, *Intergenerational transfers: the distribution of inheritances, gifts and loans, Great Britain: 2014 to 2016* (2018)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/intergenerationaltransfersthedistributionofinheritancesgiftsandloans/2018-10-30)
+2. [ONS, *Housing and home ownership in the UK* (2015)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/housingandhomeownershipintheuk/2015-01-22); [English Housing Survey 2023–24, headline report ch. 1](https://www.gov.uk/government/statistics/chapters-for-english-housing-survey-2023-to-2024-headline-findings-on-demographics-and-household-resilience/chapter-1-profile-of-households-and-dwellings)
+3. [DBT, *Business population estimates for the UK and regions 2024*](https://www.gov.uk/government/statistics/business-population-estimates-2024/business-population-estimates-for-the-uk-and-regions-2024-statistical-release)
+4. [Defra, *Agriculture in the United Kingdom 2023*, ch. 2 — Structure of industry](https://www.gov.uk/government/statistics/agriculture-in-the-united-kingdom-2023/chapter-2-structure-of-industry)
+5. [DBT, *Trade union membership, UK, 1995 to 2024: statistical bulletin*](https://www.gov.uk/government/statistics/trade-union-statistics-2024/trade-union-membership-uk-1995-to-2024-statistical-bulletin)

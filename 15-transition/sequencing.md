@@ -40,7 +40,7 @@ This is the *policy* sequence — what must be built in what order for the machi
 
 **What it is.** Move to the end-state *shape*: a 0% band up to the £500k/$750k lifetime threshold, then a rising schedule above (illustratively 20% → 45% → 60% by tranche), with automatic indexation locked in ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
 
-**The under-appreciated fact.** At a £500k per-recipient threshold, Phase 2 is a **tax cut for the large majority of people who currently pay UK IHT** — estates around the current £325k–£1m nil-rate-band boundary, typically split among two or more children, fall entirely into the 0% band (share to verify by micro-simulation). The phase can be presented, accurately, as "taking ordinary families out of inheritance tax for good, paid for by those inheriting millions." This is the single best political rung on the ladder, which is why the political treatment in [`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md) centres on it.
+**The under-appreciated fact.** At a £500k per-recipient threshold, Phase 2 is a **tax cut for the large majority of people who currently pay UK IHT** — estates around the current £325k–£1m nil-rate-band boundary, typically split among two or more children, fall entirely into the 0% band (exact share to be established by micro-simulation). The phase can be presented, accurately, as "taking ordinary families out of inheritance tax for good, paid for by those inheriting millions." This is the single best political rung on the ladder, which is why the political treatment in [`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md) centres on it.
 
 **What breaks if skipped.** Jumping from Phase 1 rates straight to 100% concentrates the entire distributional shock in one announcement, maximising the forestalling rush ([announcement-effects.md](announcement-effects.md)) and the opposition's mobilisation window ([`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md)). The rising schedule also generates the revenue and behavioural data needed to calibrate Phase 3.
 
@@ -64,7 +64,7 @@ This is the *policy* sequence — what must be built in what order for the machi
 
 ## Honest timing
 
-Adding the phases: **10–20 years from first infrastructure spend to a mature 100% regime**, spanning three to five parliaments. This is not a weakness to be hidden; it is the normal tempo of structural tax reform — the UK's shift from estate duty through Capital Transfer Tax to IHT took from 1974 to 1986 merely to *rearrange* the old architecture, and the corporate global-minimum-tax agreement took roughly a decade from BEPS launch to signed framework.
+Adding the phases: **10–20 years from first infrastructure spend to a mature 100% regime**, spanning three to five parliaments. This is not a weakness to be hidden; it is the normal tempo of structural tax reform — the UK's shift from estate duty through Capital Transfer Tax to IHT took from 1974 to 1986 merely to *rearrange* the old architecture [5], and the corporate global-minimum-tax agreement took roughly a decade from BEPS launch to signed framework.
 
 Two consequences follow:
 
@@ -75,7 +75,7 @@ Two consequences follow:
 
 | Anti-pattern | What goes wrong | Historical echo |
 |---|---|---|
-| Big-bang single act | Entire distributional shock in one announcement; maximal forestalling window and opposition mobilisation; no data to calibrate the rate | The scale of the 1974 CTT ambition and its rapid dilution (to verify legislative history) |
+| Big-bang single act | Entire distributional shock in one announcement; maximal forestalling window and opposition mobilisation; no data to calibrate the rate | The scale of the 1974 CTT ambition and its subsequent dilution — scope progressively reduced after 1979, lifetime-gift charge abolished by 1986 [5] |
 | Rate before register | 100% rate is unadministrable without lifetime cumulation; avoidance wins the first news cycle | Austria: administration failing killed the tax by judicial route ([`../05-history/abolitions.md`](../05-history/abolitions.md)) |
 | Tax before endowment | Recreates the visible-cost / abstract-benefit asymmetry that preceded every abolition | Sweden, Norway, Australia ([`../05-history/abolitions.md`](../05-history/abolitions.md)) |
 | Endowment before revenue | Fiscal-credibility attack; programme cancelled as unaffordable before the tax matures | Child Trust Fund cancellation 2010 ([pilots.md](pilots.md)) |
@@ -87,4 +87,4 @@ Two consequences follow:
 2. [Irish Revenue — Capital Acquisitions Tax guidance (the Phase 1 operating model)](https://www.revenue.ie/en/gains-gifts-and-inheritance/index.aspx).
 3. [OECD (2021). *Inheritance Taxation in OECD Countries*. Tax Policy Studies No. 28](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm) — comparative design and reform-path evidence.
 4. [OECD/G20 — Two-Pillar international tax agreement (2021), the Phase 4 template](https://www.oecd.org/tax/beps/) .
-5. UK legislative history of estate duty → Capital Transfer Tax (Finance Act 1975) → Inheritance Tax (Finance Act 1986) — via [legislation.gov.uk](https://www.legislation.gov.uk/) (timing claims to verify).
+5. UK legislative history: estate duty (Finance Act 1894) → Capital Transfer Tax (announced 26 March 1974; [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7)) → Inheritance Tax ([Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41)); CTT's scope was reduced through the Thatcher years before the 1986 replacement — overview in [History of inheritance taxes in the United Kingdom (Wikipedia)](https://en.wikipedia.org/wiki/History_of_inheritance_taxes_in_the_United_Kingdom).

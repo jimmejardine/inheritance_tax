@@ -4,11 +4,11 @@
 
 ## Key findings
 
-- Belief that effort determines outcomes has weakened in exactly the countries where asset gaps widened: WVS and Pew series show the US and UK drifting from the "hard work brings success" pole toward "luck and connections" since the 1990s (documented in [meritocracy-legitimacy.md](meritocracy-legitimacy.md)); youth-cohort readings are consistently more fatalistic than older cohorts' (to verify per wave) [1][2].
+- Belief that effort determines outcomes has weakened in exactly the countries where asset gaps widened: WVS and Pew series show the US and UK drifting from the "hard work brings success" pole toward "luck and connections" since the 1990s (documented in [meritocracy-legitimacy.md](meritocracy-legitimacy.md)); and the youth-cohort gradient runs the predicted way in US generational polling — only 30% of Gen Z and 35% of millennials name work ethic as the most important factor in success, against close to half of the Silent Generation, with younger cohorts instead crediting social connections (Survey Center on American Life) [1][2][14].
 - The fatalism mechanism has experimental and behavioural support: perceived low mobility reduces willingness to invest in education and long-horizon saving. Alesina, Stantcheva & Teso show mobility perceptions causally shift policy preferences; the behavioural-poverty literature ([Haushofer & Fehr](https://www.science.org/doi/10.1126/science.1232491); Banerjee & Duflo on aspiration failure) shows that when the ladder appears unreachable, effort withdrawal is a rational response to genuinely poor returns, not a character defect [3][4].
 - "Why bother" saving arithmetic is real, not perceived: at an 8× house-price-to-earnings ratio ([housing.md](housing.md)), a renter saving 10% of median income cannot reach a deposit before mid-life; the rational alternatives are consumption, emigration, or high-variance bets.
 - High-variance substitution is observable: FCA research on new self-directed investors found younger, more diversity-representative cohorts entering via apps and crypto, with a substantial minority citing thrill/social factors and — critically — the belief that conventional saving cannot deliver ownership; survey work repeatedly finds "only realistic route to wealth" reasoning among young crypto and meme-stock traders (treat quantitative claims cautiously; the evidence is survey-grade) [5][6].
-- The lottery has long shown the same gradient — heaviest play among those with least conventional mobility prospect — and gambling-participation growth among UK young men is a regulatory concern per Gambling Commission statistics (to verify current figures) [7].
+- The lottery has long shown the same gradient — heaviest play among those with least conventional mobility prospect — and gambling harm among young adults is the Gambling Commission's headline concern: in the Gambling Survey for Great Britain (2024), 10.2% of 18–24-year-old past-year gamblers score as problem gamblers (PGSI 8+) against 0.5% of those 75+, with male rates (6.0%) roughly double female (2.8%) [7].
 - Fertility connects through housing and insecurity: US evidence (Dettling & Kearney) finds house-price rises reduce births among non-owners while raising them among owners — an asset-gradient in family formation; UK and Korean survey data consistently list housing costs among top reasons for delayed childbearing. These are correlational-to-quasi-experimental findings; the honest claim is that wealth insecurity is *a* documented drag on fertility, not the sole cause of low birth rates [8][9].
 - Populism correlates with blocked mobility: Protzer & Summers argue populist vote share tracks *unfair* inequality (low social mobility) rather than inequality per se; Rodrik and Inglehart–Norris document the economic-insecurity amplifier. The chain from dynastic wealth to populist rupture is suggestive rather than proven, but every intermediate link is separately evidenced [10][11].
 - Case & Deaton's "deaths of despair" — rising mid-life mortality from suicide, alcohol, and opioids among non-college white Americans — is the extreme end of the same distribution: cumulative disadvantage plus lost narrative of progress [12].
@@ -58,12 +58,12 @@ The correct framing is expected-utility logic, not pathology: when the determini
 
 ## Verification checklist
 
-- Youth-vs-older cohort splits on effort/luck items in the latest WVS and Pew waves — the cohort gradient is asserted from general knowledge and needs the specific cross-tab.
+Resolved (July 2026): youth-cohort gradient on effort beliefs (Survey Center on American Life generational polling — note the WVS/Pew wave-by-wave cross-tab remains desirable); Gambling Commission young-adult figures (GSGB 2024 PGSI data); retirement decumulation and housing-equity drawdown (Poterba–Venti–Wise, cited in [great-wealth-transfer.md](great-wealth-transfer.md)). Still open:
+
+- Youth-vs-older cohort splits on effort/luck items in the latest WVS and Pew waves specifically — the cross-national cohort cross-tab is still needed.
 - FCA self-directed-investor and cryptoasset research: latest wave figures on age profile and stated motives; quote the "only realistic route" style findings verbatim if they exist in that form.
-- Gambling Commission participation trends among 18–34 men, latest statistics.
 - Dettling & Kearney effect sizes and the owner/renter sign difference, from the published paper.
 - Whether Protzer & Summers' mobility-populism result has been independently replicated.
-- Retirement decumulation and housing-equity drawdown evidence cited in [great-wealth-transfer.md](great-wealth-transfer.md) — shared dependency.
 
 ## Sources
 
@@ -73,10 +73,11 @@ The correct framing is expected-utility logic, not pathology: when the determini
 4. [Genicot, G., Ray, D. (2017). "Aspirations and Inequality." *Econometrica* 85(2)](https://onlinelibrary.wiley.com/doi/10.3982/ECTA13865); [Banerjee & Duflo, *Poor Economics*](https://www.hachettebookgroup.com/titles/abhijit-v-banerjee/poor-economics/9781541706187/?lens=publicaffairs)
 5. [FCA (2021). "Understanding self-directed investors" / BritainThinks research](https://www.fca.org.uk/publications/research/understanding-self-directed-investors)
 6. [FCA — Cryptoasset consumer research (annual waves)](https://www.fca.org.uk/publications/research/research-note-cryptoasset-consumer-research)
-7. [Gambling Commission — participation and prevalence statistics](https://www.gamblingcommission.gov.uk/statistics-and-research)
+7. [Gambling Commission — Gambling Survey for Great Britain, Annual report 2024: Problem Gambling Severity Index](https://www.gamblingcommission.gov.uk/report/gambling-survey-for-great-britain-annual-report-2024-official-statistics/gsgb-annual-report-2024-problem-gambling-severity-index)
 8. [Dettling, L., Kearney, M. (2014). "House Prices and Birth Rates." *Journal of Public Economics* 110](https://www.sciencedirect.com/science/article/abs/pii/S0047272713001904)
 9. [OECD — Society at a Glance / fertility and housing cost indicators](https://www.oecd.org/social/society-at-a-glance/)
 10. [Protzer, E., Summers, P. (2022). *Reclaiming Populism: How Economic Fairness Can Win Back Disenchanted Voters*. Polity](https://www.wiley.com/en-us/Reclaiming+Populism-p-9781509548118)
 11. [Rodrik, D. (2018). "Populism and the economics of globalization." *J. Int. Bus. Policy*](https://link.springer.com/article/10.1057/s42214-018-0001-4)
 12. [Case, A., Deaton, A. (2020). *Deaths of Despair and the Future of Capitalism*. Princeton University Press](https://press.princeton.edu/books/hardcover/9780691190785/deaths-of-despair-and-the-future-of-capitalism)
 13. [Wilkinson, R., Pickett, K. (2009). *The Spirit Level*](https://equalitytrust.org.uk/the-spirit-level/); [Uslaner, E. (2002). *The Moral Foundations of Trust*. Cambridge University Press](https://www.cambridge.org/core/books/moral-foundations-of-trust/6F82BE38D9B0199A93D69C4EB2A559CB)
+14. [Survey Center on American Life — "Generational Split on Success"](https://www.americansurveycenter.org/short-reads/generational-split-on-success/)

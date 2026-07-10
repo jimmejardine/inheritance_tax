@@ -5,11 +5,11 @@
 ## Key findings
 
 - The post-1980 decline in real interest rates, accelerated by post-2008 quantitative easing, mechanically raises the present value of all long-duration assets — housing, equities, land — independent of any change in their productive capacity. Asset holders received a valuation windfall for the act of already owning [1][2].
-- The Bank of England's own distributional analysis of QE (2012) concluded that asset purchases raised household wealth substantially and that the benefits accrued overwhelmingly to holders of financial assets — the top 5% of households held around 40% of the relevant assets (to verify against the 2012 paper) [1].
-- Subsequent BoE staff work (Bunn, Pugh & Yeates, 2018) found monetary loosening's effects on *relative* inequality measures were modest, but confirmed large *absolute* gains concentrated at the top of the wealth distribution — the distinction between percentage and pound effects is central and is often used to talk past the problem (to verify) [2].
+- The Bank of England's own distributional analysis of QE (2012) concluded that asset purchases boosted the value of households' financial wealth held outside pension funds, "although holdings are heavily skewed with the top 5% of households holding 40% of these holdings" [1].
+- Subsequent BoE staff work (Bunn, Pugh & Yeates, 2018) found the overall effect of monetary loosening on standard *relative* measures of income and wealth inequality was small, while the impact "varied substantially across the income and wealth distributions in cash terms" — large absolute gains for older, wealthier households — a distinction between percentage and pound effects that is central and often used to talk past the problem [2].
 - Housing is the loop's main transmission line: UK price-to-earnings ratios roughly doubled after the late 1990s ([housing.md](housing.md)), and the deposit requirement rose with prices, so access to ownership increasingly requires a capital transfer — Legal & General's "Bank of Mum and Dad" research finds family assistance involved in roughly half of under-35 purchases [3].
 - The loop closes across generations: HMRC data show residential property is the largest asset class in taxable estates, and gifted deposits are themselves largely extracted housing equity — heirs of owners buy houses with the proceeds of house-price inflation, bidding prices further beyond non-heirs' reach [4].
-- Each cycle raises the *determinativeness* of inheritance: as the ratio of asset prices to earnings rises, the fraction of lifetime wealth attainable through labour falls mechanically, and the fraction attributable to transfers rises — the dynamic underlying the Resolution Foundation "inheritocracy" finding ([great-wealth-transfer.md](great-wealth-transfer.md)) [5].
+- Each cycle raises the *determinativeness* of inheritance: as the ratio of asset prices to earnings rises, the fraction of lifetime wealth attainable through labour falls mechanically, and the fraction attributable to transfers rises — the dynamic underlying the Resolution Foundation Intergenerational Commission's finding that younger cohorts' lifetime wealth is increasingly set by inheritance rather than earnings ([great-wealth-transfer.md](great-wealth-transfer.md)) [5].
 - Piketty's *r > g* is the steady-state version of this argument; this chapter is its cyclical, policy-driven complement — the gap between asset returns and wage growth is not only a structural tendency but the intended first-order effect of the modern stabilisation toolkit (see [../03-case-for/piketty-r-vs-g.md](../03-case-for/piketty-r-vs-g.md)) [6].
 - Long-run data confirm the wedge is structural: Jordà, Schularick & Taylor's 145-year, 16-country series puts real returns on housing and equities at roughly 6–8% against real growth near 2% — the loop predates QE and will outlast it [7].
 - No serious proposal exists to run monetary policy *without* asset-price effects; the realistic choice is between recycling the windfall at the point of transfer or letting it compound into dynasty. This reframing matters for audiences who accept central-bank orthodoxy but resist "redistribution" (see [../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)).
@@ -35,7 +35,7 @@ Each segment is individually uncontroversial; the argument of this chapter is si
 |---|---|---|---|
 | 1. Late 1990s–2007 | Financial liberalisation, credit expansion, falling inflation premia | UK price-to-earnings from ~4× to ~7×; buy-to-let boom | Boomer/Gen-X owners capture the first windfall; first-time-buyer age begins its climb |
 | 2. 2009–2021 | QE, near-zero rates | BoE-documented wealth-channel gains; global equity and housing revaluation [1][2] | "Bank of Mum and Dad" becomes structural; ownership among 25–34s hits its trough ([housing.md](housing.md)) |
-| 3. 2020–2022 | Pandemic stimulus, rate floor | Fastest house-price growth in decades across the Anglosphere; everything-rally in equities and crypto | Deposit inflation outruns record saving rates; cash-buyer and heir share of purchases rises (to verify) |
+| 3. 2020–2022 | Pandemic stimulus, rate floor | Fastest house-price growth in decades across the Anglosphere; everything-rally in equities and crypto | Deposit inflation outruns record saving rates; all-cash buyers reach a record 26% of US primary-residence purchases (NAR, 2024 Profile) [9] |
 
 The 2022–23 rate reversal partially deflated turn three's equity component but left housing nominal prices broadly intact while *raising* mortgage costs — worsening, not improving, the position of the non-inheriting buyer relative to the cash-rich heir. The loop is robust to the rate cycle because its binding variable is the stock of transferable equity, not the level of rates in any given year.
 
@@ -62,10 +62,11 @@ The 2022–23 rate reversal partially deflated turn three's equity component but
 
 ## Verification checklist
 
-- BoE 2012 Quarterly Bulletin: exact top-5% asset-holding share and the paper's own distributional caveats — quote directly.
-- Bunn, Pugh & Yeates (2018): headline relative-vs-absolute findings, and whether later BoE work (post-2020 QE round) updates them.
+Resolved (July 2026): BoE 2012 top-5%/40% share (quoted directly above); Bunn, Pugh & Yeates relative-vs-absolute findings; US cash-buyer share (NAR record 26%). Still open:
+
 - Jordà et al. return figures for housing and equity vs. growth, from the published QJE version.
-- Cash-buyer and gifted-deposit share of purchases in turn three (2020–22) — UK lender data and NAR cash-purchase series.
+- UK lender data on gifted-deposit share of purchases in turn three (2020–22).
+- Whether later BoE work (post-2020 QE round) updates Bunn et al.
 - Whether comparable Fed distributional analysis of US QE exists (the BoE was unusually candid; a US-source equivalent strengthens the chapter for American readers).
 
 ## Sources
@@ -74,7 +75,8 @@ The 2022–23 rate reversal partially deflated turn three's equity component but
 2. [Bunn, P., Pugh, A., Yeates, C. (2018). "The distributional impact of monetary policy easing in the UK between 2008 and 2014." BoE Staff Working Paper No. 720](https://www.bankofengland.co.uk/working-paper/2018/the-distributional-impact-of-monetary-policy-easing-in-the-uk-between-2008-and-2014)
 3. [Legal & General — Bank of Mum and Dad research](https://group.legalandgeneral.com/en/newsroom)
 4. [HMRC — Inheritance Tax statistics](https://www.gov.uk/government/collections/inheritance-tax-statistics)
-5. [Resolution Foundation — Intergenerational Audit / "Inheritocracy"](https://www.resolutionfoundation.org/publications/inheritocracy/)
+5. [Resolution Foundation — "Passing on: options for reforming inheritance taxation" (Intergenerational Commission, 2018)](https://www.resolutionfoundation.org/publications/passing-on-options-for-reforming-inheritance-taxation/)
 6. [Piketty, T. (2014). *Capital in the Twenty-First Century*. Harvard University Press](https://www.hup.harvard.edu/books/9780674430006)
 7. [Jordà, Ò., Knoll, K., Kuvshinov, D., Schularick, M., Taylor, A. (2019). "The Rate of Return on Everything, 1870–2015." *QJE* 134(3)](https://academic.oup.com/qje/article/134/3/1225/5435538)
 8. [Mian, A., Straub, L., Sufi, A. (2021). "The Saving Glut of the Rich." NBER WP 26941](https://www.nber.org/papers/w26941)
+9. [NAR (2024). "The Top 10 Highlights from NAR's 2024 Profile of Home Buyers and Sellers"](https://www.nar.realtor/blogs/economists-outlook/the-top-10-highlights-from-nars-2024-profile-of-home-buyers-and-sellers)

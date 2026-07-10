@@ -23,7 +23,7 @@ Where states have held near-total powers over private wealth transfer, the recor
 
 - revolutionary expropriations that destroyed productive capacity and fed patronage machines rather than public purposes;
 - mid-century exchange controls and capital levies administered with wide official discretion and predictable arbitrariness;
-- and — the sharpest cautionary case for a *register* — the use of comprehensive civil registries by occupying and authoritarian regimes to locate and strip target populations (the Netherlands' meticulous pre-war population records are the standard example in the surveillance literature — to verify framing) [3].
+- and — the sharpest cautionary case for a *register* — the use of comprehensive civil registries by occupying and authoritarian regimes to locate and strip target populations (the Netherlands' meticulous pre-war population records, used under occupation to identify Jewish citizens, are the standard example in the surveillance literature [3]).
 
 Less dramatically, every existing estate-tax administration generates a steady stream of valuation disputes in which the state's incentive is systematically upward. Taxpayers facing a 40% rate litigate; at 100% the taxpayer's stake in a valuation dispute is total, and the state's discretionary power correspondingly maximal.
 
@@ -39,16 +39,16 @@ The proposal's central political safeguard — revenue hypothecated to the citiz
 
 | Precedent | Outcome |
 |---|---|
-| UK Road Fund (1909) | Raided by Churchill as Chancellor from 1926; hypothecation formally abandoned 1937 (to verify dates) [4] |
+| UK Road Fund (1920) | Raided by Churchill as Chancellor from 1926; hypothecation formally ended by the Finance Act 1936, effective April 1937 [4] |
 | National Insurance Fund | In substance pay-as-you-go; the "fund" framing persists rhetorically only |
-| UK National Lottery "additionality" | Documented drift of lottery funding into activities previously funded from general taxation (to verify NAO/DCMS sources) [5] |
+| UK National Lottery "additionality" | The 1998 New Opportunities Fund channelled lottery money into health and education objectives traditionally funded from general taxation, in what critics called a direct breach of the additionality principle [5] |
 | US Social Security trust fund | Continuous political contestation over the reality of the fund |
 
 Treasuries dislike hypothecation for defensible reasons (it hard-wires misallocation), which is exactly why they dismantle it. The objection predicts: within two decades the endowment will be means-tested, deferred, or quietly de-indexed, while the tax remains — leaving the confiscation without the compensation, the precise configuration the manifesto itself calls indefensible ([`00-executive-summary.md`](../00-executive-summary.md)).
 
 ### 5. The Hayekian knowledge problem in the state-equity portfolio
 
-The business carve-out makes the state a preferred-equity holder in thousands of private firms for up to 30 years. Hayek's calculation argument applies directly: the state cannot know when to exit, how to price buy-backs, which claw-backs to enforce against which struggling firms in which regions — and every one of those discretionary decisions is a lobbying surface [6]. The historical analogue is not reassuring: state holding companies (IRI in Italy is the canonical case) began as temporary rescue vehicles and became permanent patronage empires (to verify characterisation). The carve-out designed to save the tax from the family-business objection ([`family-business.md`](family-business.md)) thus imports a standing industrial-policy apparatus through the back door.
+The business carve-out makes the state a preferred-equity holder in thousands of private firms for up to 30 years. Hayek's calculation argument applies directly: the state cannot know when to exit, how to price buy-backs, which claw-backs to enforce against which struggling firms in which regions — and every one of those discretionary decisions is a lobbying surface [6]. The historical analogue is not reassuring: state holding companies began as temporary rescue vehicles and became permanent patronage empires — IRI in Italy, the canonical case, was created in 1933 as an emergency rescue measure, given permanent legal form in 1937, and not dissolved until 2002 [6]. The carve-out designed to save the tax from the family-business objection ([`family-business.md`](family-business.md)) thus imports a standing industrial-policy apparatus through the back door.
 
 ## Assessment
 
@@ -78,8 +78,8 @@ The business carve-out makes the state a preferred-equity holder in thousands of
 
 ## What would change the assessment
 
-- **Against the proposal:** documented endowment raids or threshold ratchets in any early-adopting jurisdiction; evidence that the independent-fund model fails to insulate the equity portfolio from ministerial direction (the Norwegian fund's governance record is the live test case — to verify ongoing assessments); a pattern of valuation corruption emerging even in high-capacity administrations once stakes reach 100%.
-- **For the proposal:** continued resilience of universal entitlements against retrenchment relative to targeted programmes (the existing comparative welfare-state literature — [Korpi & Palme's "paradox of redistribution"](https://ideas.repec.org/p/lis/liswps/174.html) — already points this way, to verify applicability); successful multi-decade operation of the deferral book by an existing administration analogue, e.g. Irish CAT instalments or the UK's post-2024 APR arrangements.
+- **Against the proposal:** documented endowment raids or threshold ratchets in any early-adopting jurisdiction; evidence that the independent-fund model fails to insulate the equity portfolio from ministerial direction (the Norwegian fund's governance record — reviewed annually in a white paper to the Storting [8] — is the live test case); a pattern of valuation corruption emerging even in high-capacity administrations once stakes reach 100%.
+- **For the proposal:** continued resilience of universal entitlements against retrenchment relative to targeted programmes (the existing comparative welfare-state literature — [Korpi & Palme's "paradox of redistribution"](https://ideas.repec.org/p/lis/liswps/174.html) — already points this way); successful multi-decade operation of the deferral book by an existing administration analogue, e.g. Irish CAT instalments or the UK's post-2024 APR arrangements.
 
 ## Verdict
 
@@ -98,7 +98,8 @@ Quick-fire versions: [`../09-objections/practicality.md`](../09-objections/pract
 1. [Brennan & Buchanan, *The Power to Tax: Analytical Foundations of a Fiscal Constitution* (Cambridge, 1980)](https://oll.libertyfund.org/titles/brennan-the-collected-works-of-james-m-buchanan-vol-9-the-power-to-tax).
 2. [Niskanen, *Bureaucracy and Representative Government* (1971)](https://www.routledge.com/Bureaucracy-and-Representative-Government/Niskanen/p/book/9780202309590); [Tullock, "The Welfare Costs of Tariffs, Monopolies, and Theft," *Western Economic Journal* (1967)](https://onlinelibrary.wiley.com/doi/10.1111/j.1465-7295.1967.tb01923.x).
 3. [Seltzer & Anderson, "The Dark Side of Numbers: The Role of Population Data Systems in Human Rights Abuses," *Social Research* 68(2), 2001](https://philpapers.org/rec/SELTDS); [Scott, *Seeing Like a State* (Yale, 1998)](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/).
-4. On the Road Fund raid: standard fiscal-history accounts of Churchill's 1926 Budget (to verify precise sequence and 1937 abolition).
-5. UK National Audit Office and DCMS reviews of National Lottery additionality (to verify specific reports).
-6. [Hayek, "The Use of Knowledge in Society," *AER* 35(4), 1945](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945); on IRI and state holding companies, standard Italian political-economy literature (to verify characterisation).
+4. [Road Fund — created by the Roads Act 1920; Churchill's raids from 1926; hypothecation ended by the Finance Act 1936](https://en.wikipedia.org/wiki/Road_Fund).
+5. [Hansard, HC Deb 23 October 2002 — National Lottery debate on additionality and the New Opportunities Fund](https://www.theyworkforyou.com/debates/?id=2002-10-23.279.1); [NAO, *Investigation: National Lottery funding for good causes* (December 2017)](https://www.nao.org.uk/press-releases/investigation-national-lottery-funding-for-good-causes/).
+6. [Hayek, "The Use of Knowledge in Society," *AER* 35(4), 1945](https://oll.libertyfund.org/titles/hayek-the-use-of-knowledge-in-society-1945); on IRI: [Britannica, "Institute for Industrial Reconstruction"](https://www.britannica.com/topic/Institute-for-Industrial-Reconstruction); ["Lessons from the past for 21st century systems of state-owned enterprises: The case of Italy's IRI in the 1930s," *Structural Change and Economic Dynamics* (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0954349X22000455).
 7. Cross-references: [`../02-proposal/endowment.md`](../02-proposal/endowment.md); [`../10-opposition/sabotage-after-passage.md`](../10-opposition/sabotage-after-passage.md); [`../11-geographies/adoption-criteria.md`](../11-geographies/adoption-criteria.md).
+8. [Norwegian Ministry of Finance — governance framework for the Government Pension Fund Global (annual white paper to the Storting)](https://www.regjeringen.no/en/topics/the-economy/the-government-pension-fund/government-pension-fund-global-gpfg/governance-framework-for-the-government-/id696848/).

@@ -12,10 +12,10 @@ Rules of engagement apply throughout: concede what is true, give the one-sentenc
 
 **Full answer.** The objection assumes people accumulate primarily *in order to* leave estates. The evidence points the other way:
 
-- **Most estates are not planned.** [Wojciech Kopczuk's body of work on estate taxation](https://www.nber.org/papers/w18584) finds a large share of estates show no evidence of active planning; accumulation among the wealthy is better explained by precaution, the utility of control, status, and the momentum of compounding than by dynastic intent (magnitudes to verify).
+- **Most accumulation is not driven by planned dynastic bequest.** [Wojciech Kopczuk's survey of the estate-tax literature](https://www.nber.org/papers/w18584) finds bequest motives mixed and heterogeneous, with the desire to *retain control* over wealth a central driver [1]; his estate-tax-return work finds even wealthy individuals hold on to their wealth and postpone estate planning until the onset of terminal illness [2]. Accumulation among the wealthy is better explained by precaution, the utility of control, status, and the momentum of compounding than by dynastic intent.
 - **Founders describe their motivation as building, autonomy, and competition** — none of which the tax touches, because it takes effect only at death and only on what each *recipient* gets above a lifetime £500,000 ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
 - **The family channel stays generous.** A founder with three children can still direct £1.5m to them, plus unlimited spousal and charitable transfers ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)).
-- **History does not cooperate with the objection.** The era of peak US estate taxation (~77% top rate, 1941–76) coincided with vigorous American entrepreneurship — suggestive rather than causal, but fatal to the claim that high death duties and dynamism cannot coexist (to verify against founding-rate data).
+- **History does not cooperate with the objection.** The era of peak US estate taxation (77% top rate, 1941–76 [3]) coincided with vigorous American entrepreneurship — US startup rates and business dynamism have in fact *declined* since the late 1970s, after that era ended [4]. Suggestive rather than causal, but fatal to the claim that high death duties and dynamism cannot coexist.
 
 **Deep treatment:** [`../04-case-against/bequest-motive.md`](../04-case-against/bequest-motive.md) · [`../03-case-for/economic-efficiency.md`](../03-case-for/economic-efficiency.md) · [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md)
 
@@ -28,9 +28,9 @@ Rules of engagement apply throughout: concede what is true, give the one-sentenc
 **Full answer.** Four points:
 
 - **Capital is transferred, not burned.** The tax is levied at the moment of transfer: the factories, shares, and buildings continue to exist; ownership passes (via the Treasury and the endowment) rather than the assets evaporating.
-- **Theory cuts both ways.** Donors above the threshold may save less, but heirs who expect smaller windfalls save and work more (the inverse of the "Carnegie effect" documented by [Holtz-Eakin, Joulfaian and Rosen](https://academic.oup.com/qje/article/108/2/413/1917556), who found large inheritances reduce recipients' labour supply — to verify), and 25-year-olds receiving the endowment add saving and investment at the point of highest marginal return.
-- **The natural experiment runs in reverse.** The countries that *abolished* inheritance taxes (Sweden 2004, Norway 2014, Austria 2008) recorded no discernible savings or investment dividend attributable to repeal ([`../05-history/abolitions.md`](../05-history/abolitions.md); to verify against post-repeal national accounts).
-- **Inherited capital is allocated worse.** The corporate-succession literature — [Pérez-González (2006)](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559) on US firms, [Bennedsen, Nielsen, Pérez-González and Wolfenzon (2007)](https://academic.oup.com/qje/article-abstract/122/2/647/1942108) on Danish firms, and the [Villalonga–Amit family-firm work](https://www.sciencedirect.com/science/article/abs/pii/S0304405X05001157) (magnitudes to verify) — consistently finds heir-CEO succession *reduces* firm performance relative to outside management. Recycling above-threshold capital away from heirs and toward endowment-funded new entrants is plausibly an allocative improvement, not a loss.
+- **Theory cuts both ways.** Donors above the threshold may save less, but heirs who expect smaller windfalls save and work more (the inverse of the "Carnegie effect" documented by [Holtz-Eakin, Joulfaian and Rosen](https://academic.oup.com/qje/article/108/2/413/1917556), who found a single person receiving an inheritance of about $150,000 was roughly four times likelier to leave the labour force than one receiving under $25,000 [5]), and 25-year-olds receiving the endowment add saving and investment at the point of highest marginal return.
+- **The natural experiment runs in reverse — with one honest caveat.** The countries that *abolished* inheritance taxes (Sweden 2004 [6], Norway 2014, Austria 2008) recorded no documented economy-wide savings or investment dividend attributable to repeal ([`../05-history/abolitions.md`](../05-history/abolitions.md); aggregate national-accounts effect unverified). Firm-level Swedish evidence does find family firms with potential heirs grew and invested faster after abolition — partly because owners stopped stripping out capital to pre-fund the tax [7] — a succession-liquidity effect the deferral and state-equity options in this design address directly ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)).
+- **Inherited capital is allocated worse.** The corporate-succession literature — [Pérez-González (2006)](https://www.aeaweb.org/articles?id=10.1257/aer.96.5.1559) on US firms, [Bennedsen, Nielsen, Pérez-González and Wolfenzon (2007)](https://academic.oup.com/qje/article-abstract/122/2/647/1942108) on Danish firms — where family-CEO succession cut operating profitability on assets by at least four percentage points relative to unrelated-CEO succession [8] — and the [Villalonga–Amit family-firm work](https://www.sciencedirect.com/science/article/abs/pii/S0304405X05001157), which finds founding families add value only while the founder is active and destroy it under descendant-CEOs [9] — consistently finds heir-CEO succession *reduces* firm performance relative to outside management. Recycling above-threshold capital away from heirs and toward endowment-funded new entrants is plausibly an allocative improvement, not a loss.
 
 The second-order macro effects are worked through in [`../16-second-order/macro.md`](../16-second-order/macro.md).
 
@@ -48,11 +48,11 @@ On leaving:
 
 - The proposal taxes on recipient residence *or* asset situs, with a 10-year exit tail and an exit charge ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md), [`../08-capital-flight/exit-tax-design.md`](../08-capital-flight/exit-tax-design.md)).
 - UK-sited land, property, and business assets remain in the base whoever emigrates.
-- The migration-elasticity evidence for transfer taxes suggests responses concentrated in a thin ultra-mobile sliver, not the founder population at large ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md); magnitudes to verify).
+- The migration-elasticity evidence suggests responses concentrated in a thin ultra-mobile sliver, not the founder population at large: reviews find tax-driven migration is small in the general population and meaningful mainly for specific highly mobile top groups [10], and even among US billionaires — who demonstrably do move in response to state estate taxes — adopting the tax remains revenue-positive for almost every state [11] ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)).
 
 On never starting — the objection's weakest leg:
 
-- The entrepreneurship literature consistently finds *access to capital* is a binding constraint on business formation: [Evans and Jovanovic](https://ideas.repec.org/a/ucp/jpolec/v97y1989i4p808-27.html) on liquidity constraints, and [Blanchflower–Oswald's finding](https://www.nber.org/papers/w3252) that receiving an inheritance or gift raises the probability of becoming self-employed (to verify).
+- The entrepreneurship literature consistently finds *access to capital* is a binding constraint on business formation: [Evans and Jovanovic](https://ideas.repec.org/a/ucp/jpolec/v97y1989i4p808-27.html) on liquidity constraints, and [Blanchflower–Oswald's finding](https://www.nber.org/papers/w3252) that receiving an inheritance or gift of £5,000 roughly doubled a person's probability of setting up in business [12].
 - That finding is usually cited *for* inheritance; read properly it shows capital access, not inheritance per se, drives entry — and a universal £50,000 at 25 ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)) extends that entry ticket from the lucky few to every citizen.
 - The plausible net effect on founder numbers is therefore positive.
 
@@ -67,11 +67,27 @@ On never starting — the objection's weakest leg:
 **Full answer.**
 
 - **The recipient basis dissolves the objection** ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)). The builder of the fortune enjoys, controls, spends, and gives it for their entire life at a 0% rate. What is taxed is a transfer to someone who did not build it.
-- **Run the comparison the objection invites.** Under the status quo, a UK employee's *earned* success is taxed at marginal rates up to 47% including NICs (to verify), while an heir's *unearned* receipt of millions can bear little or no effective tax after reliefs and planning.
+- **Run the comparison the objection invites.** Under the status quo, a UK employee's *earned* success is taxed at marginal rates up to 47% including NICs (45% additional rate plus 2% employee NICs above £125,140, with an effective 62% band just below that) [13], while an heir's *unearned* receipt of millions can bear little or no effective tax after reliefs and planning.
 - **If anything deserves the name, the current arrangement is the tax on success** — and the subsidy to its absence. That inversion, not envy, is the meritocratic core of the whole case ([`../03-case-for/meritocratic-legitimacy.md`](../03-case-for/meritocratic-legitimacy.md)).
 - In debate, this reframe is the recommended response whenever the objection appears ([`../06-palatability/framing.md`](../06-palatability/framing.md)).
 
 **Deep treatment:** [`../03-case-for/meritocratic-legitimacy.md`](../03-case-for/meritocratic-legitimacy.md) · [`../01-problem/meritocracy-legitimacy.md`](../01-problem/meritocracy-legitimacy.md) · [`../06-palatability/framing.md`](../06-palatability/framing.md)
+
+## Sources
+
+1. [Kopczuk, "Taxation of Intergenerational Transfers and Wealth", NBER Working Paper 18584 (2012)](https://www.nber.org/papers/w18584)
+2. [Kopczuk, "Bequest and Tax Planning: Evidence from Estate Tax Returns", *Quarterly Journal of Economics* 122(4), 2007](https://academic.oup.com/qje/article-abstract/122/4/1801/1850524)
+3. [Jacobson, Raub and Johnson, "The Estate Tax: Ninety Years and Counting", IRS Statistics of Income](https://www.irs.gov/pub/irs-soi/ninetyestate.pdf)
+4. [Decker, Haltiwanger, Jarmin and Miranda, "The Secular Decline in Business Dynamism in the U.S." (2014)](https://econweb.umd.edu/~haltiwan/DHJM_6_2_2014.pdf)
+5. [Holtz-Eakin, Joulfaian and Rosen, "The Carnegie Conjecture: Some Empirical Evidence", *Quarterly Journal of Economics* 108(2), 1993](https://academic.oup.com/qje/article/108/2/413/1917556)
+6. [Henrekson and Waldenström, "Inheritance taxation in Sweden, 1885–2004", *Economic History Review* (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ehr.12280)
+7. [Andric, Genedy and Nordqvist, "The Impact of Abolishing the Gift and Inheritance Tax on Firm Strategic Decisions and Outcomes: The Case of Sweden" (2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6528658)
+8. [Bennedsen, Nielsen, Pérez-González and Wolfenzon, "Inside the Family Firm", *Quarterly Journal of Economics* 122(2), 2007](https://academic.oup.com/qje/article-abstract/122/2/647/1942108)
+9. [Villalonga and Amit, "How do family ownership, control and management affect firm value?", *Journal of Financial Economics* 80(2), 2006](https://www.sciencedirect.com/science/article/abs/pii/S0304405X05001157)
+10. [Kleven, Landais, Muñoz and Stantcheva, "Taxation and Migration: Evidence and Policy Implications", *Journal of Economic Perspectives* 34(2), 2020](https://www.aeaweb.org/articles?id=10.1257/jep.34.2.119)
+11. [Moretti and Wilson, "Taxing Billionaires: Estate Taxes and the Geographical Location of the Ultra-Wealthy", *AEJ: Economic Policy* 15(2), 2023](https://www.aeaweb.org/articles?id=10.1257/pol.20200685)
+12. [Blanchflower and Oswald, "What Makes an Entrepreneur?", *Journal of Labor Economics* 16(1), 1998 (NBER w3252)](https://www.nber.org/papers/w3252)
+13. [IFS TaxLab, Combined marginal rates of income tax and National Insurance contributions, 2024–25](https://ifs.org.uk/taxlab/taxlab-data-item/combined-marginal-rates-income-tax-and-national-insurance-contributions)
 
 ## See also
 

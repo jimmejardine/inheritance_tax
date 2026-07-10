@@ -4,16 +4,16 @@
 
 ## The man: authority by measurement
 
-Sir Anthony Atkinson (1944–2017) was, by common consent, the founder of modern inequality economics: the Atkinson index (1970); *Unequal Shares* (1972), the first systematic study of British wealth concentration; the Atkinson–Harrison wealth series; co-architect, with Piketty and Saez, of the World Top Incomes Database that made [piketty.md](piketty.md) possible — Piketty called him "the godfather of historical studies of income and wealth" (quote to verify) [1]. He was also an institutional insider: a member of the **Meade Committee** (1978), whose report proposed a progressive annual wealth accessions tax (PAWAT) — a lifetime-receipts design — and the acknowledged elder of the **Mirrlees Review** (2011), which again recommended moving UK inheritance taxation onto a lifetime-receipts basis [2][3]. The 2015 book is therefore not a late-career speculation but the distillation of a forty-year technical lineage.
+Sir Anthony Atkinson (1944–2017) was, by common consent, the founder of modern inequality economics: the Atkinson index (1970); *Unequal Shares* (1972), the first systematic study of British wealth concentration; the Atkinson–Harrison wealth series; co-architect, with Piketty and Saez, of the World Top Incomes Database that made [piketty.md](piketty.md) possible — Piketty called him "largely the godfather of historical studies of income and wealth" [5]. He was also an institutional insider: a member of the **Meade Committee** (1978), whose report proposed a progressive annual wealth accessions tax (PAWAT) — a lifetime-receipts design — and the acknowledged elder of the **Mirrlees Review** (2011), which again recommended moving UK inheritance taxation onto a lifetime-receipts basis [2][3]. The 2015 book is therefore not a late-career speculation but the distillation of a forty-year technical lineage.
 
 ## The book and the fifteen proposals
 
-*Inequality: What Can Be Done?* (Harvard University Press, 2015) pairs a diagnosis — rising inequality is a matter of political choices, not iron economic laws — with fifteen numbered proposals spanning technology policy, employment guarantees, minimum wages, capital endowments, and taxation [1]. The two that matter most here (numbering to verify against the text; the capital endowment is recalled as Proposal 6 and the receipts tax as Proposal 10):
+*Inequality: What Can Be Done?* (Harvard University Press, 2015) pairs a diagnosis — rising inequality is a matter of political choices, not iron economic laws — with fifteen numbered proposals spanning technology policy, employment guarantees, minimum wages, capital endowments, and taxation [1]. The two that matter most here [1][6]:
 
-| Proposal (no. to verify) | Content |
+| Proposal | Content |
 |---|---|
-| **Capital endowment / minimum inheritance (Prop. 6)** | "A capital endowment (minimum inheritance) paid to all at adulthood" (quote to verify) — a universal grant to every young adult, explicitly in the Paine lineage ([paine-1797.md](paine-1797.md)) |
-| **Lifetime capital receipts tax (Prop. 10)** | "Receipts of inheritance and gifts *inter vivos* should be taxed under a progressive lifetime capital receipts tax" (quote to verify) — replacing UK IHT with a tax on the *recipient's* cumulative lifetime total of inheritances and substantial gifts, at progressive rates |
+| **Capital endowment / minimum inheritance (Prop. 6)** | "There should be a capital endowment (minimum inheritance) paid to all at adulthood" — a universal grant to every young adult, explicitly in the Paine lineage ([paine-1797.md](paine-1797.md)) |
+| **Lifetime capital receipts tax (Prop. 10)** | "Receipts of inheritance and gifts *inter vivos* should be taxed under a progressive lifetime capital receipts tax" — replacing UK IHT with a tax on the *recipient's* cumulative lifetime total of inheritances and substantial gifts, at progressive rates |
 
 Three design commitments inside Proposal 10 define the modern receipts-tax standard:
 
@@ -25,9 +25,9 @@ And the book's signature symmetry: the receipts tax *funds* the minimum inherita
 
 ## The fifteen proposals in brief
 
-For orientation — the two bolded rows are this project's ancestors. The list is reconstructed from memory of the book's summary chapter and **all numbering and wording must be verified against the text**:
+For orientation — the two bolded rows are this project's ancestors. Numbering and headline wording verified against the summary list published by the Atkinson estate [6]:
 
-| # (to verify) | Proposal (paraphrase) |
+| # | Proposal (paraphrase) |
 |---|---|
 | 1 | Direct technological change toward employment-raising innovation |
 | 2 | Competition policy with an explicit distributional dimension; countervailing power |
@@ -41,22 +41,22 @@ For orientation — the two bolded rows are this project's ancestors. The list i
 | **10** | **Progressive lifetime capital receipts tax on inheritances and gifts received** |
 | 11 | Proportional or progressive property tax on up-to-date valuations |
 | 12 | Substantial child benefit for all, taxed as income |
-| 13 | Participation income, or renewed social insurance with higher benefits |
-| 14 | (Renewal of social insurance — the 13/14 split to verify) |
+| 13 | Participation income at national level, complementing existing social protection |
+| 14 | Renewal of social insurance, raising benefit levels and extending coverage (alternative to 13) |
 | 15 | Rich countries to meet the 1%-of-GNI development-aid target |
 
 The whole-programme context matters: Atkinson presented 6 and 10 as mutually funding — and costed the package against national accounts to answer feasibility objections in advance, the same arithmetic discipline [../02-proposal/thresholds.md](../02-proposal/thresholds.md) applies.
 
 ## Reception and fate
 
-The book was respectfully received — reviewers treated it as the field's founder speaking with unusual directness — though its programme was widely tagged as politically ambitious for post-crisis Britain; Atkinson himself insisted feasibility objections were "a counsel of despair" dressed as realism (paraphrase; to verify) [1][4]. He died in January 2017 without seeing legislative uptake. The proposals' afterlife has been substantial nonetheless: the Institute for Public Policy Research and the Resolution Foundation's Intergenerational Commission (2018) both advanced lifetime-receipts taxes for the UK, citing Atkinson; Ireland's CAT continues to demonstrate the machinery at scale; and the OECD's 2021 inheritance-taxation review endorsed recipient-based lifetime taxation as best practice (to verify) [3][4].
+The book was respectfully received — reviewers treated it as the field's founder speaking with unusual directness — though its programme was widely tagged as politically ambitious for post-crisis Britain; Atkinson himself insisted feasibility objections were "a counsel of despair" dressed as realism (unverified) [1][4]. He died in January 2017 without seeing legislative uptake. The proposals' afterlife has been substantial nonetheless: the Institute for Public Policy Research and the Resolution Foundation's Intergenerational Commission (2018) both advanced lifetime-receipts taxes for the UK, citing Atkinson; Ireland's CAT continues to demonstrate the machinery at scale; and the OECD's 2021 inheritance-taxation review concluded that "a particularly fair and efficient approach would consist of taxing beneficiaries on the gifts and bequests they receive over their life through a tax on lifetime wealth transfers" [3][4].
 
 ## Where this project stands relative to Atkinson
 
 | Dimension | Atkinson (2015) | This project |
 |---|---|---|
 | Base | Lifetime capital receipts, gifts included | Identical ([../02-proposal/mechanism.md](../02-proposal/mechanism.md)) |
-| Rates | Progressive schedule (with a possible top rate around 65%, aligned to his income-tax proposal; to verify) | Single kink: 0% to threshold, 100% above ([../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
+| Rates | Progressive schedule (detailed rate structure unverified; his companion income-tax proposal ran "up to a top rate of 65 per cent" [6]) | Single kink: 0% to threshold, 100% above ([../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
 | Endowment | Minimum inheritance at 18, size linked to receipts-tax yield | £50k/$60k at 25, hypothecated ([../02-proposal/endowment.md](../02-proposal/endowment.md)) |
 | Scope | One element of a fifteen-part programme | Deliberately single-issue, for coalition breadth ([../06-palatability/coalition.md](../06-palatability/coalition.md)) |
 
@@ -71,16 +71,18 @@ The honest statement of the relationship: **this project is Atkinson's Proposals
 
 ## Verification checklist
 
-- Proposal numbering and exact wording for the capital endowment and the lifetime capital receipts tax, and the 13/14 split, against the book's summary chapter.
-- Whether Atkinson specified age 18 for the endowment and linked its size to receipts-tax yield explicitly.
-- The proposed receipts-tax rate schedule and its relation to his 65% income-tax top rate.
-- The Piketty "godfather" tribute — locate the original (obituary or *Journal of Economic Inequality* memorial).
+Proposal numbering and wording (6, 8, 10, 13, 14), the Piketty "godfather" tribute, and the OECD 2021 language were verified against the sources below (July 2026). Still to verify:
+
+- Whether Atkinson specified age 18 for the endowment and linked its size to receipts-tax yield explicitly, against the book.
+- The proposed receipts-tax rate schedule itself.
 - Atkinson's Meade Committee membership and the PAWAT description, against the 1978 report.
-- The OECD (2021) review's precise language on recipient-based lifetime taxation.
+- The "counsel of despair" remark (unverified; see text).
 
 ## Sources
 
-1. Atkinson, A. B. (2015). *Inequality: What Can Be Done?* Harvard University Press — primary source; proposal numbering and wording to verify.
+1. Atkinson, A. B. (2015). *Inequality: What Can Be Done?* Harvard University Press — primary source.
 2. [Meade, J. E. (chair) (1978). *The Structure and Reform of Direct Taxation* (the Meade Report). Institute for Fiscal Studies](https://ifs.org.uk/publications/structure-and-reform-direct-taxation) — PAWAT and the accessions-tax lineage.
-3. [Mirrlees Review (2011). *Tax by Design*, Ch. 15. Institute for Fiscal Studies](https://ifs.org.uk/books/tax-design); [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm).
+3. [Mirrlees Review (2011). *Tax by Design*, Ch. 15. Institute for Fiscal Studies](https://ifs.org.uk/books/tax-design); [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/en/publications/2021/05/inheritance-taxation-in-oecd-countries_2d33ceae.html).
 4. [Resolution Foundation, Intergenerational Commission (2018). *A New Generational Contract* — lifetime receipts tax proposal](https://www.resolutionfoundation.org/advanced/a-new-generational-contract/) — post-Atkinson UK uptake.
+5. [Piketty, T. (2014). Juncture interview with IPPR: "Thomas Piketty on capital, labour, growth and inequality"](https://www.ippr.org/articles/juncture-interview-thomas-piketty-on-capital-in-the-twenty-first-century) — the "godfather" tribute.
+6. [Tony-Atkinson.com. "The 15 Proposals from Tony Atkinson's 'Inequality – What can be done?'"](https://www.tony-atkinson.com/the-15-proposals-from-tony-atkinsons-inequality-what-can-be-done/) — verbatim proposal list.

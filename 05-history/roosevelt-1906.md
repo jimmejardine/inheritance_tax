@@ -8,19 +8,19 @@ Roosevelt spoke at the crest of the Gilded Age settlement: Standard Oil, the rai
 
 ## What he actually proposed
 
-**April 1906, the "Man with the Muck-Rake" speech**, first floated the idea: the adoption of "some such scheme as that of a progressive tax on all fortunes, beyond a certain amount... which is inherited or transferred... to the advantage of the man of moderate means" (quote to verify) [2].
+**April 1906, the "Man with the Muck-Rake" speech**, first floated the idea: "the adoption of some such scheme as that of a progressive tax on all fortunes, beyond a certain amount either given in life or devised or bequeathed upon death to any individual — a tax so framed as to put it out of the power of the owner of one of these enormous fortunes to hand on more than a certain amount to any one individual; the tax, of course, to be imposed by the National and not the State government" [2].
 
-**December 3, 1906, the Sixth Annual Message to Congress** made it a formal recommendation: a graduated inheritance tax, federal rather than state, aimed not at revenue but at the *objective itself* — "the ultimate object" being "to put a constantly increasing burden on the inheritance of those swollen fortunes which it is certainly of no benefit to this country to perpetuate" (quote to verify) [3]. Key design features he specified:
+**December 3, 1906, the Sixth Annual Message to Congress** made it a formal recommendation: a graduated inheritance tax, federal rather than state, aimed not at revenue but at the *objective itself*: "the prime object should be to put a constantly increasing burden on the inheritance of those swollen fortunes which it is certainly of no benefit to this country to perpetuate" [3]. Key design features he specified:
 
 | Feature | Roosevelt's specification |
 |---|---|
-| Structure | Tax on the *inheritance or transmission*, graduated by size — and he suggested graduation should also reflect the recipient's relation to the deceased (a proto-recipient-based element; to verify) |
-| Rate profile | "Increasing rapidly in amount with the size of the estate" (quote to verify) — small inheritances lightly or not at all; immense ones heavily |
-| Anti-avoidance | "Properly safeguarded against evasion" — including taxing lifetime gifts made in contemplation of death (to verify) |
+| Structure | "A steadily increasing rate of duty... upon all moneys or other valuables coming by gift, bequest, or devise to any individual or corporation" — with graduation also by kinship: "It may be well to make the tax heavy in proportion as the individual benefited is remote of kin" (a proto-recipient-based element) [3] |
+| Rate profile | "The pro rata of the tax should increase very heavily with the increase of the amount left to any one individual after a certain point has been reached" [3] — small inheritances lightly or not at all; immense ones heavily |
+| Anti-avoidance | "Properly safeguarded against evasion" (the 1910 formulation [4]); lifetime gifts were inside the base from the start — the 1906 message reaches property "coming by gift" [3], and the muck-rake version taxes fortunes "either given in life or devised or bequeathed upon death" [2] |
 | Level of government | Federal, because state duties invited interstate escape — anticipating the Australian cascade documented in [abolitions.md](abolitions.md) |
 | Purpose | Explicitly distributional, not fiscal: the point was to break up dynastic accumulation, not to fund the state |
 
-**August 31, 1910, the "New Nationalism" speech at Osawatomie, Kansas** — delivered after his presidency, at the dedication of a park honouring John Brown — is the fullest statement. The central passage: "The really big fortune, the swollen fortune, by the mere fact of its size, acquires qualities which differentiate it in kind as well as in degree from what is possessed by men of relatively small means. Therefore, I believe in a graduated income tax on big fortunes, and in another tax which is far more easily collected and far more effective — a graduated inheritance tax on big fortunes, properly safeguarded against evasion, and increasing rapidly in amount with the size of the estate" (quote to verify) [4]. The same speech carries the governing principle: "our government, National and State, must be freed from the sinister influence or control of special interests," and that every man should have the chance "to show the best that there is in him" (quotes to verify) [4].
+**August 31, 1910, the "New Nationalism" speech at Osawatomie, Kansas** — delivered after his presidency, at the dedication of a park honouring John Brown — is the fullest statement. The central passage: "The really big fortune, the swollen fortune, by the mere fact of its size, acquires qualities which differentiate it in kind as well as in degree from what is possessed by men of relatively small means. Therefore, I believe in a graduated income tax on big fortunes, and in another tax which is far more easily collected and far more effective — a graduated inheritance tax on big fortunes, properly safeguarded against evasion and increasing rapidly in amount with the size of the estate" [4]. The same speech carries the governing principle: "our government, National and State, must be freed from the sinister influence or control of special interests," and that "each man shall be guaranteed the opportunity to show the best that there is in him" [4].
 
 Note the argument's shape: size itself changes the *kind* of thing a fortune is — from family provision into political power. This is the political-capture thesis of [../01-problem/political-capture.md](../01-problem/political-capture.md), stated by a Republican in 1910.
 
@@ -42,7 +42,7 @@ This makes Roosevelt the anchor citation for the right-of-centre adoption path m
 ## What this lends the present proposal
 
 - **Mainstream precedent at head-of-government level.** Not a pamphleteer or professor: a sitting president, twice, in formal messages to Congress.
-- **Design foresight.** Roosevelt specified federal-level assignment, gift-in-contemplation-of-death rules, and rapid graduation — three of the anti-avoidance commitments in [../02-proposal/avoidance.md](../02-proposal/avoidance.md), stated before the failures documented in [abolitions.md](abolitions.md) proved their necessity.
+- **Design foresight.** Roosevelt specified federal-level assignment, a base that included lifetime gifts, and rapid graduation — three of the anti-avoidance commitments in [../02-proposal/avoidance.md](../02-proposal/avoidance.md), stated before the failures documented in [abolitions.md](abolitions.md) proved their necessity.
 - **The "differentiated in kind" argument.** The single best rhetorical warrant for a *kinked* schedule — below the threshold a family matter, above it a political institution — which is exactly the 0%/100% structure of [../02-proposal/thresholds.md](../02-proposal/thresholds.md).
 - **Wedge potential.** A lineage that lets advocates ask conservatives which side of Roosevelt's line they stand on — see [../12-political-adoption/wedge-dynamics.md](../12-political-adoption/wedge-dynamics.md).
 
@@ -53,7 +53,7 @@ This makes Roosevelt the anchor citation for the right-of-centre adoption path m
 | June 1889 | Carnegie's "Wealth" legitimises death duties in industrialist circles ([carnegie-1889.md](carnegie-1889.md)) |
 | April 1906 | Muck-rake speech floats a progressive tax on transmitted fortunes |
 | December 1906 | Sixth Annual Message formally recommends a federal graduated inheritance tax |
-| 1907–08 | Repeated in subsequent messages; no congressional action (to verify) |
+| 1907 | Recommendation renewed in the [Seventh Annual Message](https://millercenter.org/the-presidency/presidential-speeches/december-3-1907-seventh-annual-message) (both income and inheritance taxes); no congressional action |
 | August 1910 | New Nationalism speech — the fullest statement, out of office |
 | 1912 | Progressive ("Bull Moose") platform carries the graduated inheritance tax |
 | 1913 | Sixteenth Amendment and Revenue Act settle the income-tax question, clearing fiscal ground |
@@ -63,18 +63,16 @@ The six-to-ten-year lag between presidential advocacy and statute — with an in
 
 ## Verification checklist
 
-- The exact wording of the muck-rake, Sixth Annual Message, and Osawatomie passages, against the American Presidency Project texts.
-- Whether the 1906 message proposed graduation by the recipient's kinship as well as by estate size.
-- The gift-in-contemplation-of-death safeguard attribution.
+The muck-rake, Sixth Annual Message and Osawatomie quotations, the kinship-graduation element, the gift-inclusive base, the "prime object" (distributional-primary) framing, and the 1907 renewal were verified against the primary texts (July 2026). One correction from that pass: the safeguard TR specified was inclusion of lifetime gifts in the base, not a "gifts in contemplation of death" rule, and the 1906 phrase is "the prime object", not "the ultimate object". Still to verify:
+
 - The 1912 Progressive platform plank text.
-- Whether TR's 1907/1908 messages repeated the recommendation, and in what terms.
-- Taft's 1909 position (he endorsed an inheritance tax during the tariff debates before settling for the corporate excise; to verify) — useful as evidence the idea spanned both Republican factions.
-- Whether the 1906 message's inheritance-tax passage explicitly disclaimed revenue as the purpose, as recalled above — the distributional-primary framing is load-bearing for [../02-proposal/README.md](../02-proposal/README.md).
+- Whether the 1908 message also repeated the recommendation, and in what terms.
+- Taft's 1909 position (he endorsed an inheritance tax during the tariff debates before settling for the corporate excise; unverified) — useful as evidence the idea spanned both Republican factions.
 
 ## Sources
 
 1. [Morris, E. (2001). *Theodore Rex*. Random House](https://www.penguinrandomhouse.com/books/117455/theodore-rex-by-edmund-morris/) — political context of the 1906 message.
-2. [Roosevelt, T. (14 April 1906). "The Man with the Muck-Rake." Speech, Washington DC](https://www.presidency.ucsb.edu/) — primary source; quotation to verify.
+2. [Roosevelt, T. (14 April 1906). "The Man with the Muck-Rake." Speech, Washington DC. Voices of Democracy speech text](https://voicesofdemocracy.umd.edu/theodore-roosevelt-the-man-with-the-muck-rake-speech-text/) — primary source.
 3. [Roosevelt, T. (3 December 1906). Sixth Annual Message to Congress. American Presidency Project](https://www.presidency.ucsb.edu/documents/sixth-annual-message-4) — primary source.
-4. [Roosevelt, T. (31 August 1910). "The New Nationalism." Osawatomie, Kansas](https://teachingamericanhistory.org/document/the-new-nationalism/) — primary source.
+4. [Roosevelt, T. (31 August 1910). "The New Nationalism." Osawatomie, Kansas. Wikisource full text](https://en.wikisource.org/wiki/The_New_Nationalism) — primary source (the [Teaching American History version](https://teachingamericanhistory.org/document/the-new-nationalism/) is excerpted).
 5. [Joint Committee on Taxation / IRS SOI historical materials on the Revenue Act of 1916](https://www.irs.gov/statistics/soi-tax-stats-historical-data-tables) — legislative aftermath.

@@ -4,7 +4,7 @@
 
 ## Method and stance
 
-The rest of this project argues *for* the policy ([`../03-case-for/`](../03-case-for/)) and against its objections ([`../09-objections/`](../09-objections/)). This section changes register. It assumes adoption and asks: what happens next? Each file states the mechanism, cites the relevant empirical literature (elasticities, natural experiments, historical analogues), gives a direction and a confidence level, and flags where credible analysts could reach opposite conclusions. Quantitative claims from general knowledge are marked "(to verify)".
+The rest of this project argues *for* the policy ([`../03-case-for/`](../03-case-for/)) and against its objections ([`../09-objections/`](../09-objections/)). This section changes register. It assumes adoption and asks: what happens next? Each file states the mechanism, cites the relevant empirical literature (elasticities, natural experiments, historical analogues), gives a direction and a confidence level, and flags where credible analysts could reach opposite conclusions. Quantitative claims have been checked against primary sources and cited where confirmed; the small number that could not be confirmed are marked "(unverified)".
 
 Three disciplines applied throughout:
 

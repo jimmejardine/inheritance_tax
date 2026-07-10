@@ -50,7 +50,7 @@ A deliberate policy layer, cheap to supply and unexploited: make visible complia
 | Public accounting | An annual "Founders of the Endowment" publication linking large taxed estates to the citizen endowments they funded | War-bond honour rolls; charitable donor walls |
 | Civic legacy instruments | Option to direct a share of above-threshold value to named public projects (parks, wings, scholarships) in lieu of anonymous revenue | French *[dation en paiement](https://www.culture.gouv.fr/thematiques/mecenat/particuliers/un-regime-fiscal-avantageux-la-dation)* (art in lieu of tax); UK Acceptance in Lieu |
 
-The covenant reframes the top of the distribution from *targets* to *founders* — each large compliant estate is publicly credited with the ~thousand citizen endowments it funds (arithmetic to verify against [`../02-proposal/endowment.md`](../02-proposal/endowment.md)). This inverts the political economy that killed prior regimes, where the only visible protagonists were victims ([`../05-history/abolitions.md`](../05-history/abolitions.md)); the communications development of this frame belongs to [`../14-communications/narratives.md`](../14-communications/narratives.md) and the coalition logic to [`../06-palatability/framing.md`](../06-palatability/framing.md).
+The covenant reframes the top of the distribution from *targets* to *founders* — each large compliant estate is publicly credited with the citizen endowments it funds — at the £50,000 endowment of [`../02-proposal/endowment.md`](../02-proposal/endowment.md), every £50m of taxed estate funds a thousand of them. This inverts the political economy that killed prior regimes, where the only visible protagonists were victims ([`../05-history/abolitions.md`](../05-history/abolitions.md)); the communications development of this frame belongs to [`../14-communications/narratives.md`](../14-communications/narratives.md) and the coalition logic to [`../06-palatability/framing.md`](../06-palatability/framing.md).
 
 ## Attraction: the inbound side
 
@@ -73,7 +73,7 @@ Indicators the regime should publish annually, so the flight debate runs on data
 ## Research gaps
 
 - Survey/experimental evidence on whether honours and naming meaningfully substitute for bequest utility among HNWIs (the "status vs transfer" elasticity — largely unstudied).
-- Estimate the charitable-giving response to a 100% marginal rate from US estate-tax charitable-deduction literature (elasticities to verify).
+- Estimate the charitable-giving response to a 100% marginal rate from the US estate-tax charitable-deduction literature: estimated price elasticities of charitable bequests range from roughly −0.7 (Joulfaian) to −1.6/−2.1 (Bakija–Gale–Slemrod) [5][6]; extrapolating these to a 100% rate remains the open modelling task.
 - Case study: Acceptance in Lieu and dation en paiement uptake as proof-of-concept for civic legacy instruments.
 
 ## Sources
@@ -82,3 +82,5 @@ Indicators the regime should publish annually, so the flight debate runs on data
 2. [Young, C. (2017). *The Myth of Millionaire Tax Flight*. Stanford University Press](https://www.sup.org/books/title/?id=28471)
 3. [OECD (2021). *Inheritance Taxation in OECD Countries*. OECD Tax Policy Studies No. 28](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm)
 4. [Arts Council England — Acceptance in Lieu scheme](https://www.artscouncil.org.uk/supporting-arts-museums-and-libraries/cultural-property/acceptance-lieu)
+5. [Joulfaian, D. (2000). "Estate Taxes and Charitable Bequests by the Wealthy." NBER Working Paper 7663 / *National Tax Journal* 53(3)](https://www.nber.org/papers/w7663)
+6. [Bakija, J., Gale, W. & Slemrod, J. (2003). "Charitable Bequests and Taxes on Inheritance and Estates: Aggregate Evidence from Across States and Time." NBER Working Paper 9661](https://www.nber.org/papers/w9661)

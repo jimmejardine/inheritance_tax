@@ -7,7 +7,7 @@
 - No component of the proposed exit architecture is novel; each is operating law somewhere today, most of it for decades [1][2][3].
 - The strongest existing model is the US combination: citizenship-based taxation, the §877A mark-to-market expatriation tax, and §2801 — which taxes the *US recipient* of any gift or bequest from a "covered expatriate" at the top transfer-tax rate, exactly the recipient-axis trailing rule this proposal generalises [3].
 - The legal constraint set (EU free movement, ECHR A1P1) does not prohibit exit taxes; it prescribes their form — *Lasteyrie* struck down immediate collection, *N* and *National Grid Indus* upheld assessment-with-deferral [4].
-- The Norwegian 2022–24 episode shows the cost of sequencing the rate before the exit rules; the 2024 tightening (removing the old forgiveness-on-non-realisation features, figures to verify) closed the door after the horses [5].
+- The Norwegian 2022–24 episode shows the cost of sequencing the rate before the exit rules; the 2024 tightening (requiring payment within 12 years even without realisation, where pre-2022 rules had waived the tax after five years abroad) closed the door after the horses [5].
 
 ## Existing models compared
 
@@ -15,10 +15,10 @@
 |---|---|---|---|---|
 | **Canada (1972– )** | Ceasing residence | Deemed disposition of most capital property at FMV; tax on accrued gains; security may be posted to defer | None beyond the exit charge | Clean, litigated, half-century-old precedent for deemed realisation at departure [1] |
 | **Germany — extended limited liability (§2 AStG)** | German citizen moving to a low-tax jurisdiction | Continued German taxation on German-source-plus income for up to 10 years | 10 years | The direct precedent for a 10-year tail; note also German inheritance-tax *extended unlimited liability* for 5 years post-departure (10 vs the US) for citizens [2] |
-| **US §877A (2008– )** | Expatriation (renouncing citizenship / long-term residence) | Mark-to-market deemed sale of worldwide assets above a net-worth/tax-liability threshold (~$2m net worth; exclusion ~$860k+, indexed — to verify) | Permanent, via §2801 | The strongest model: exit is priced, and the *recipient side* stays closed forever [3] |
+| **US §877A (2008– )** | Expatriation (renouncing citizenship / long-term residence) | Mark-to-market deemed sale of worldwide assets for "covered expatriates" (net worth ≥ $2m, or average annual net income tax above $206,000 for 2025); gain exclusion $890,000 (2025), indexed | Permanent, via §2801 | The strongest model: exit is priced, and the *recipient side* stays closed forever [3] |
 | **US §2801** | US person receives gift/bequest from a covered expatriate | Tax on the **recipient** at the highest transfer-tax rate | Unlimited in time | Proof of concept for recipient-axis trailing liability — expatriation does not free the wealth if the family stays [3] |
-| **Norway (2022–24 reforms)** | Emigration with unrealised share gains | Exit tax on unrealised gains; pre-2024 rules allowed indefinite deferral and eventual lapse; 2024 reform requires payment within 12 years and removes lapse (to verify) | 12 years (post-reform) | Cautionary sequencing tale; also demonstrates political feasibility of retro-tightening [5] |
-| **UK (2025 residence regime)** | Long-term UK residence then departure | IHT scope continues 3–10 years post-departure, scaled to years of prior residence (to verify) | Up to 10 years | The UK has *already legislated* a 10-year inheritance-tax tail — the proposal's tail is an extension of current law, not an invention [6] |
+| **Norway (2022–24 reforms)** | Emigration with unrealised share gains | Exit tax on unrealised share gains; pre-Nov-2022 rules waived the tax after five years abroad, then deferral-until-realisation (never realised = never paid); from March 2024 payment is required within 12 years regardless of realisation, lapsing only if the taxpayer returns within 12 years | 12 years (post-reform) | Cautionary sequencing tale; also demonstrates political feasibility of retro-tightening [5] |
+| **UK (2025 residence regime)** | Long-term UK residence (10 of the previous 20 tax years) then departure | IHT scope continues 3–10 years post-departure, scaled to years of prior residence (e.g. 10–13 years' residence gives a 3-year tail) | Up to 10 years | The UK has *already legislated* a 10-year inheritance-tax tail — the proposal's tail is an extension of current law, not an invention [6] |
 | **Netherlands** | Emigration with substantial shareholding | Protective assessment on unrealised gain, collected on realisation; 10-year (now extended) horizon | ~10 years | The deferred-collection drafting pattern the CJEU approved [4] |
 
 ## The proposal's architecture
@@ -38,7 +38,7 @@ The four layers are deliberately redundant: defeating the tax requires defeating
 
 **ECHR.** Article 1 Protocol 1 permits taxation explicitly; challenges succeed only on retrospectivity, discrimination, or confiscatory disproportion. A prospective, generally applicable exit charge with deferred collection sits comfortably within the wide margin of appreciation the Strasbourg court affords tax policy (see [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md) for the full challenge map).
 
-**Double-tax treaties.** Estate/inheritance treaties are sparse (the UK has ~10; the US ~15 — to verify), which cuts in the adopter's favour: fewer treaty overrides to negotiate. Where treaties exist, a saving clause preserving the tail (the US model treaty pattern) is the fix; the longer-term answer is the multilateral floor in [international-coordination.md](international-coordination.md).
+**Double-tax treaties.** Estate/inheritance treaties are sparse (the UK has 10 inheritance-tax conventions; the US roughly 15 estate/gift tax treaties [7]), which cuts in the adopter's favour: fewer treaty overrides to negotiate. Where treaties exist, a saving clause preserving the tail (the US model treaty pattern) is the fix; the longer-term answer is the multilateral floor in [international-coordination.md](international-coordination.md).
 
 ## Design judgements
 
@@ -65,16 +65,16 @@ The timeline makes the §2801 point concrete: the donor's emigration, even when 
 
 ## Research gaps
 
-- Verify current §877A thresholds/exclusion amounts and the final §2801 regulations (long delayed; final rules issued 2024–25 — confirm status).
-- Confirm the enacted UK 2025 long-term-residence tail schedule (3–10 year scaling) against Finance Act text.
-- Post-2024 Norwegian exit-tax parameters and any EFTA-court challenge.
+- §877A thresholds and the §2801 final regulations are now confirmed (final regulations published 14 January 2025, applying to covered gifts/bequests received on or after 1 January 2025 [3]); monitor early administration of the new regime.
+- Post-2024 Norwegian exit-tax parameters confirmed at the 12-year design [5]; monitor any EFTA-court challenge.
 - Model revenue from the exit charge itself under plausible emigration scenarios drawn from [evidence.md](evidence.md).
 
 ## Sources
 
 1. [Canada Revenue Agency — Dispositions of property on emigration (deemed disposition rules, ITA s.128.1)](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html)
 2. [Germany — Außensteuergesetz §2 (erweiterte beschränkte Steuerpflicht); ErbStG §2 extended unlimited inheritance-tax liability](https://www.gesetze-im-internet.de/astg/)
-3. [US IRC §877A (expatriation mark-to-market) and §2801 (tax on gifts/bequests from covered expatriates)](https://www.law.cornell.edu/uscode/text/26/877A)
+3. [US IRC §877A (expatriation mark-to-market) and §2801 (tax on gifts/bequests from covered expatriates)](https://www.law.cornell.edu/uscode/text/26/877A); [IRS — Expatriation tax (covered-expatriate thresholds and exclusion amounts)](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax); [Final §2801 regulations, Federal Register, 14 January 2025](https://www.federalregister.gov/documents/2025/01/14/2025-00284/guidance-under-section-2801-regarding-the-imposition-of-tax-on-certain-gifts-and-bequests-from)
 4. [CJEU: *Lasteyrie du Saillant* C-9/02; *N* C-470/04; *National Grid Indus* C-371/10; Council Directive (EU) 2016/1164 (ATAD) Art. 5](https://curia.europa.eu/)
-5. [Norwegian Ministry of Finance — exit-tax amendments 2022–2024; OECD (2023), *Tax Policy Reforms 2023*](https://www.oecd.org/tax/tax-policy-reforms-26173433.htm)
-6. [HM Treasury / HMRC — Reforming the taxation of non-UK domiciled individuals: residence-based IHT regime (2024–25)](https://www.gov.uk/government/publications)
+5. [KPMG (December 2024). "Norway: Proposed amendments to exit tax rules secure sufficient support in Parliament" — 12-year payment requirement and treatment of pre-2022/2022–24 emigrants](https://kpmg.com/us/en/taxnewsflash/news/2024/12/tnf-norway-proposed-amendments-to-exit-tax-rules-secure-sufficient-support-in-parliament.html)
+6. [HMRC — Inheritance Tax if you're a long-term UK resident (residence-based IHT regime from 6 April 2025, including the 3–10 year tail)](https://www.gov.uk/guidance/inheritance-tax-if-youre-a-long-term-uk-resident)
+7. [HMRC — Inheritance Tax: Double Taxation Relief (the UK's 10 conventions)](https://www.gov.uk/guidance/inheritance-tax-double-taxation-relief); [IRS — Estate & gift tax treaties (international)](https://www.irs.gov/businesses/small-businesses-self-employed/estate-gift-tax-treaties-international)

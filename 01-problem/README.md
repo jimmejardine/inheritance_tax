@@ -19,8 +19,8 @@ Five further chapters sharpen the diagnosis along axes the six ailments imply bu
 
 | # | Chapter | Headline finding |
 |---|---|---|
-| 7 | [The great wealth transfer](great-wealth-transfer.md) | ~$84–124tn projected US transfers by the late 2040s (to verify); inheritance on track to become the main determinant of lifetime wealth for post-1980 cohorts — both the problem's acceleration and its salience window |
-| 8 | [Declining dynamism](declining-dynamism.md) | US startup rate ~12–13% (early 1980s) → ~8% (2010s); heir-controlled capital measurably underperforms — dynastic capital is allocated for preservation, not creation |
+| 7 | [The great wealth transfer](great-wealth-transfer.md) | $124tn projected US transfers through 2048 (Cerulli, Dec 2024; up from its 2022 estimate of $84tn through 2045); inheritance a fast-growing determinant of lifetime wealth for post-1980 cohorts — both the problem's acceleration and its salience window |
+| 8 | [Declining dynamism](declining-dynamism.md) | US startup rate ~13% (late 1980s) → ~8% two decades later; heir-controlled capital measurably underperforms — dynastic capital is allocated for preservation, not creation |
 | 9 | [Elite overproduction](elite-overproduction.md) | Turchin's instability scissors — surplus credentialed aspirants plus popular immiseration — with inheritance concentration feeding both blades |
 | 10 | [The asset-price feedback loop](asset-price-feedback.md) | Cheap money → owner windfalls → inherited deposits → higher prices; each cycle makes inheritance more determinative — transfer taxation is macro-financial policy, not just fiscal |
 | 11 | [Social trust and fatalism](social-trust-and-fatalism.md) | When effort demonstrably cannot bridge the asset gap, the young rationally disinvest from the long game — the manifesto's emotional core |

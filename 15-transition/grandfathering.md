@@ -4,7 +4,7 @@
 
 ## The problem stated
 
-At commencement there will exist, in the UK alone, trust structures holding very large aggregate wealth (order of hundreds of billions; to verify against HMRC trust statistics), plus completed lifetime gifts, life-insurance arrangements, and family understandings formed under the old law. Three questions arise:
+At commencement there will exist, in the UK alone, a large stock of trust wealth — HMRC counts around 157,000 trusts and estates filing Self Assessment returns (total income £3.63bn in the tax year ending 2024) and some 835,000 trusts and estates registered on the Trust Registration Service, though no official series measures aggregate trust *asset* values [5] — plus completed lifetime gifts, life-insurance arrangements, and family understandings formed under the old law. Three questions arise:
 
 1. **Legal**: what does the state *lawfully* owe to expectations formed under prior law?
 2. **Ethical**: what does it *fairly* owe?
@@ -16,7 +16,7 @@ The tension is real: maximal respect for settled expectations exempts precisely 
 
 **Legitimate expectation.** In UK public law, no one holds a legitimate expectation that tax law will remain unchanged; Parliament may alter prospective tax treatment freely. The doctrine bites only on *specific assurances* and, more weakly, on *retroactive* imposition — charging a past, completed event. The design principle follows directly: tax only events (receipts, distributions, deaths, exits) occurring after commencement.
 
-**ECHR A1P1.** Article 1 Protocol 1 protects possessions but expressly reserves states' right "to secure the payment of taxes." Strasbourg jurisprudence gives a wide margin of appreciation to tax measures, striking them down only where retrospective, arbitrary, or devoid of reasonable foundation (the line of cases on retrospective tax legislation, e.g. *National & Provincial Building Society v UK*, supports even some retrospection where anti-avoidance justified; to verify citations). A prospective charge on future distributions from existing trusts sits comfortably inside the margin; an attempt to levy on trust *corpus* as of commencement day, without any triggering event, would be the vulnerable variant. Full litigation-risk analysis: [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md).
+**ECHR A1P1.** Article 1 Protocol 1 protects possessions but expressly reserves states' right "to secure the payment of taxes." Strasbourg jurisprudence gives a wide margin of appreciation to tax measures, striking them down only where retrospective, arbitrary, or devoid of reasonable foundation (the line of cases on retrospective tax legislation, e.g. *National & Provincial Building Society and others v UK* (1997) — where the Court unanimously found no A1P1 violation in the retrospective validation of tax regulations — supports even some retrospection where anti-avoidance justified [2]). A prospective charge on future distributions from existing trusts sits comfortably inside the margin; an attempt to levy on trust *corpus* as of commencement day, without any triggering event, would be the vulnerable variant. Full litigation-risk analysis: [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md).
 
 **US parallel.** Due-process retroactivity doctrine (*United States v. Carlton*) tolerates even modestly retroactive tax legislation with a rational legislative purpose; prospective taxation of future distributions from pre-existing trusts raises no serious constitutional issue. Constitutional questions specific to the US design are in [legislative-path-us.md](legislative-path-us.md).
 
@@ -75,8 +75,8 @@ One line to hold in every drafting and litigation argument: **the regime taxes n
 ## Sources
 
 1. [Mirrlees Review, *Tax by Design*, Ch. 15](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — transition discussion for a lifetime-receipts tax.
-2. [*National & Provincial Building Society and others v United Kingdom* (ECtHR, 1997)](https://hudoc.echr.coe.int/eng?i=001-58109) — retrospective tax legislation and A1P1 margin of appreciation (citation to verify).
+2. [*The National & Provincial Building Society, the Leeds Permanent Building Society and the Yorkshire Building Society v United Kingdom* (ECtHR, 23 October 1997), apps 21319/93, 21449/93, 21675/93, [1997] ECHR 87](https://www.bailii.org/eu/cases/ECHR/1997/87.html) — no violation of A1P1 in retrospective validation of tax legislation, given the wide margin of appreciation in the tax sector.
 3. [*United States v. Carlton*, 512 U.S. 26 (1994)](https://supreme.justia.com/cases/federal/us/512/26/) — due-process tolerance of retroactive tax legislation with rational purpose.
 4. [HMRC — Trusts and Inheritance Tax: the relevant-property regime (ten-year anniversary and exit charges)](https://www.gov.uk/guidance/trusts-and-inheritance-tax) — the existing machinery the periodic-charge backstop extends.
-5. [HMRC trust statistics](https://www.gov.uk/government/collections/trusts-statistics) — for sizing the pre-commencement trust stock (aggregate figures to verify).
+5. [HMRC, Statistics on trusts in the UK (December 2025)](https://www.gov.uk/government/statistics/statistics-on-trusts-in-the-uk/statistics-on-trusts-in-the-uk-december-2025) — 157,000 trusts and estates filed Self Assessment returns with £3.63bn total income (tax year ending 2024); 835,000 registered and open on the Trust Registration Service to 31 March 2025. HMRC publishes counts, income and tax, not aggregate asset values.
 6. [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm) — cross-country treatment of trusts and transition practice.

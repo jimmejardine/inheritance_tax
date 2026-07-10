@@ -4,11 +4,11 @@
 
 ## The three-goals framework
 
-The standard framework (associated with Kaare Strøm's work on party behaviour — to verify exact formulation) treats parties as trading off three objectives:
+The standard framework — Kaare Strøm's model of vote-seeking, office-seeking, and policy-seeking parties as special cases of competitive party behaviour [1] — treats parties as trading off three objectives:
 
 | Goal | The party as… | What it optimises | How this policy can serve it |
 |---|---|---|---|
-| **Vote-seeking** | Downsian competitor | Vote share at the next election | A benefit visible to ~every voter under 40, funded by a tax ~90%+ of voters never pay (to verify against [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
+| **Vote-seeking** | Downsian competitor | Vote share at the next election | A benefit visible to ~every voter under 40, funded by a tax roughly 90% of recipients would never pay [2] (see [../02-proposal/thresholds.md](../02-proposal/thresholds.md)) |
 | **Office-seeking** | Coalition negotiator | Cabinet seats, portfolios, survival in government | A distinctive, tradeable coalition demand; a revenue source that closes budget negotiations |
 | **Policy-seeking** | Vehicle for factions | Ideological output; internal faction satisfaction | Egalitarian factions (left), meritocratic factions (right), opportunity factions (liberal) each get a native win |
 
@@ -85,3 +85,8 @@ The same policy, correctly sliced, fits every row — which is the practical mea
 ## Bottom line
 
 Parties are not audiences to be convinced; they are machines with known inputs. The movement's leverage is over four inputs: the visibility of the beneficiary map, the cost of policy development, the deniability of the first steps, and the pre-tested survivability of the language. All four are cheap for outsiders to supply and expensive for parties to build themselves — which is precisely why supplying them buys influence.
+
+## Sources
+
+1. [Strøm, K., "A Behavioral Theory of Competitive Political Parties," *American Journal of Political Science* 34(2), 1990, pp. 565–598](https://www.semanticscholar.org/paper/A-Behavioral-Theory-of-Competitive-Political-Str%C3%B8m/3c9f9a5dbdbc4f9055a55aa80a2011dc03aa3455)
+2. [Bourquin, P., Joyce, R. & Sturrock, D., *Inheritances and inequality over the life cycle: what will they mean for younger generations?* (IFS, 2021)](https://ifs.org.uk/publications/inheritances-and-inequality-over-life-cycle-what-will-they-mean-younger-generations) — the top tenth of 1980s-born inheritors are projected to receive around £500,000; median £136,000

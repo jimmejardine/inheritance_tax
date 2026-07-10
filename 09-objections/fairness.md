@@ -14,7 +14,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 - **Taxes attach to persons, not to pounds.** Every pound in the economy is taxed repeatedly as it changes hands: your taxed salary pays a plumber, who pays income tax on it, and VAT when he spends it, and his employee pays tax again. Nobody calls this double taxation, because each tax event corresponds to a *different person receiving* the money.
 - **A bequest is exactly such an event:** money moving from one person to another who did nothing to earn it. Declining to tax that transfer while taxing every wage is the anomaly, not the correction.
-- **"Already taxed" is frequently false at the top.** Much large-estate wealth has never been taxed even once: unrealised capital gains escape UK CGT entirely via the death uplift, and US heirs receive stepped-up basis (to verify per jurisdiction).
+- **"Already taxed" is frequently false at the top.** Much large-estate wealth has never been taxed even once: in the UK there is no CGT charge at death and heirs take assets rebased to market value, so gains accrued over the deceased's lifetime escape CGT entirely [1]; US heirs likewise receive stepped-up basis under IRC §1014 [2].
 - **This is why the proposal is recipient-based** ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)): it taxes the heir's windfall receipt, a category the tax system otherwise treats more gently than a nurse's overtime.
 
 **Deep treatment:** [`../03-case-for/ethical.md`](../03-case-for/ethical.md) · [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) · [`../03-case-for/economic-efficiency.md`](../03-case-for/economic-efficiency.md)
@@ -30,7 +30,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 - **Neither earner's life is altered.** Both were taxed identically in life; both consumed or saved freely; both died having disposed of their own money on their own terms. The tax changes nothing for either of them.
 - **The difference arises one generation on, and there the intuition flips:** why should the saver's child receive millions untaxed while the spender's child gets nothing, when the children's own prudence is identical (namely, unknown)?
 - **The spender did not escape tax anyway** — consumption bears VAT and excise as it happens.
-- **The prudent family below the threshold — over 90% of families (to verify against [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) — passes everything intact.**
+- **The prudent family below the threshold — on IFS receipts data, comfortably over 90% of recipients ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) — passes everything intact.**
 - If the objection is that a 100% marginal rate encourages late-life spending, that behavioural response is examined — and partly welcomed — in [spend-it-all.md](spend-it-all.md).
 
 **Deep treatment:** [`../03-case-for/heirs-burden.md`](../03-case-for/heirs-burden.md) · [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md)
@@ -67,7 +67,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 ## "Wealthy children shouldn't be stripped of the life they've grown up with"
 
-**Concede first.** The intuition has a real legal pedigree: English divorce law protects the financially weaker spouse's accustomed standard of living — "needs, generously interpreted" against the marital standard (*White v White*; *Miller; McFarlane* — to verify) — precisely because dropping someone abruptly from a life they were built into is recognised as a harm. People raised inside wealth do experience its loss as loss, and a serious proposal should not sneer at that.
+**Concede first.** The intuition has a real legal pedigree: English divorce law protects the financially weaker spouse's accustomed standard of living — "needs, generously interpreted" against the marital standard (*White v White* [2000]; *Miller; McFarlane* [2006] UKHL 24 [3]) — precisely because dropping someone abruptly from a life they were built into is recognised as a harm. People raised inside wealth do experience its loss as loss, and a serious proposal should not sneer at that.
 
 **One-line answer.** Family law itself rejects the analogy: divorce protection rests on a *partner's contribution to a shared life*, and where the law meets the actual claim — adult children against a parent's estate — it caps them at maintenance, not lifestyle, a standard the £500k allowance plus the endowment exceeds several times over.
 
@@ -75,7 +75,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 - **The divorce award is partnership equity, not lifestyle entitlement.** *White v White* forbade discriminating between breadwinner and homemaker because both *contributed* to the wealth being divided; the sharing principle attaches to the matrimonial acquest the couple built together. A child contributed nothing to the parents' fortune; their upbringing was the parents' consumption, already enjoyed. Import the divorce standard honestly and it awards the heir a share of what the heir helped build: nothing, or the family firm's sweat-equity credit ([`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)) — which the design already grants.
 - **Divorce law's own boundaries cut against the objection.** Even between spouses, courts distinguish matrimonial from non-matrimonial property (inherited and pre-marital wealth is routinely ring-fenced) and confine many awards to needs. The body of law invoked as protecting accustomed luxury spends much of its energy *refusing* to treat accustomed luxury as a right where contribution is absent.
-- **The direct precedent already exists and decides the question.** The Inheritance (Provision for Family and Dependants) Act 1975 lets courts override wills — but limits able-bodied adult children to "maintenance," and they routinely recover little or nothing absent dependency (*Re Coventry*; *Ilott v The Blue Cross* — to verify). English law has considered the exact claim — adult children's entitlement to their parents' standard of living — for fifty years and rejected it.
+- **The direct precedent already exists and decides the question.** The Inheritance (Provision for Family and Dependants) Act 1975 lets courts override wills — but limits able-bodied adult children to "maintenance" — everyday living costs, not capital or lifestyle — and they routinely recover little or nothing absent dependency (*Re Coventry* [1980] Ch 461; *Ilott v The Blue Cross* [2017] UKSC 17, which approved it [4]). English law has considered the exact claim — adult children's entitlement to their parents' standard of living — for fifty years and rejected it.
 - **The design out-provides any court.** £500k per recipient, the endowment, unlimited parental spending on upbringing and education during life: no 1975 Act judge has ever awarded an adult child anything close. What is removed is not comfort but *command of a fortune* — and genuine dependency (minor children, disabled adult children) is a carve-out question handled on its own terms ([`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)).
 - **Legitimate expectations get transition treatment, not permanence.** Those who ordered their lives around promised inheritances are met by announcement lead-times and grandfathering ([`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)) — the law's standard answer to settled expectations, which softens the change without perpetuating the arrangement.
 - **The jujitsu:** the analogy proves the principle it was recruited against. Divorce law and the 1975 Act are the state overriding private wealth arrangements in the name of fairness, using a standard of *contribution and need*. Apply that standard to inheritance and you get something very like this proposal.
@@ -91,6 +91,13 @@ Three of the four objections above dissolve under a single design fact, worth me
 - **"It's my money"** assumes the *owner's* rights are invaded — but the owner's rights end where the heir's claim begins, and it is the heir's claim being regulated.
 
 Whenever a fairness objection appears, first ask *whose* tax the objector thinks this is. Nearly all fairness rhetoric depends on quietly casting the dead builder as the taxpayer; restoring the recipient to the sentence usually wins the exchange ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md), [`../06-palatability/framing.md`](../06-palatability/framing.md)).
+
+## Sources
+
+1. [HMRC, HS282: Capital Gains Tax when someone dies (death, personal representatives and legatees)](https://www.gov.uk/government/publications/death-personal-representatives-and-legatees-hs282-self-assessment-helpsheet)
+2. [26 U.S. Code §1014 — Basis of property acquired from a decedent (Cornell LII)](https://www.law.cornell.edu/uscode/text/26/1014)
+3. [*Miller v Miller; McFarlane v McFarlane* [2006] UKHL 24 (House of Lords judgment)](https://publications.parliament.uk/pa/ld200506/ldjudgmt/jd060524/mill-5.htm)
+4. [*Ilott v The Blue Cross and others* [2017] UKSC 17 (UKSC Blog case note)](https://ukscblog.com/new-judgment-ilott-v-the-blue-cross-ors-2017-uksc-17/)
 
 ## See also
 

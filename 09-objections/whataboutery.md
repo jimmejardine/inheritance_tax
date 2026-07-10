@@ -11,9 +11,9 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 | Targets the wealth stock at transmission? | **Yes** — at the one moment the holder cannot respond | Taxes the stock, but continuously and while the owner can restructure | Land only; other asset classes untouched | No — barely touches existing stock or unrealised gains | Weakly — 40% estate basis retained |
 | Behavioural distortion on the living | Minimal: 0% on all lifetime earning, saving, spending | Ongoing annual drag on savers, owners, entrepreneurs | Very low — near-textbook efficiency for the land element | High at margins on labour, realisation, incorporation | As now |
 | Valuation burden | Once, per transfer event | **Every asset, every person, every year** | Annual, but land only (site value, well understood) | None (flows self-report) | As now, per estate |
-| Avoidance surface | Narrow if lifetime-cumulative with anti-avoidance spine | Very large — proven by repeal wave (France, Sweden, Germany, Austria) (to verify) | Small — land cannot move or hide | Income shifting, deferral, incorporation | Same thicket minus a few hedges |
-| Political durability | High *if* paired with visible endowment ([`../05-history/abolitions.md`](../05-history/abolitions.md)) | Low — most OECD wealth taxes repealed (to verify count) | Untested at national scale in modern era; transition losers are loud | Moderate — but top rates cycle with governments | Low — reliefs historically regrow |
-| Revenue potential | Moderate-to-large; structural aim primary ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) | Modest in practice everywhere tried (to verify) | Substantial and steady | Substantial | Small (single-digit £bn) (to verify) |
+| Avoidance surface | Narrow if lifetime-cumulative with anti-avoidance spine | Very large — proven by the repeal wave (Austria 1994, Germany 1997, Sweden 2007, France 2018) [1] | Small — land cannot move or hide | Income shifting, deferral, incorporation | Same thicket minus a few hedges |
+| Political durability | High *if* paired with visible endowment ([`../05-history/abolitions.md`](../05-history/abolitions.md)) | Low — OECD net wealth taxes fell from 12 (1990) to 4 (2017) [1] | Untested at national scale in modern era; transition losers are loud | Moderate — but top rates cycle with governments | Low — reliefs historically regrow |
+| Revenue potential | Moderate-to-large; structural aim primary ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) | Modest in practice everywhere tried — around 1% or less of tax revenue except Switzerland [1][2] | Substantial and steady | Substantial | Small (single-digit £bn) [3] |
 | Breaks dynastic transmission? | **Yes — by construction** | Slowly, and only at confiscatory rates | No | No | No |
 
 ## "Why not a wealth tax instead?"
@@ -24,7 +24,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 
 **Full answer.**
 
-- **The wealth-tax repeal record is the inheritance-tax abolition story amplified:** a dozen OECD countries ran net wealth taxes in 1990 and only a handful remain (to verify exact count), felled by valuation cost, avoidance, and emigration — France's ISF being the canonical case.
+- **The wealth-tax repeal record is the inheritance-tax abolition story amplified:** twelve OECD countries ran net wealth taxes in 1990; by 2017 only four remained (France, Norway, Spain, Switzerland) [1], and France converted its ISF into a property-only levy in 2018 [2] — felled by valuation cost, avoidance, and emigration, with the ISF the canonical case.
 - **Every difficulty in [practicality.md](practicality.md#you-cant-value-a-private-company-an-artwork-or-a-farm) recurs annually** instead of once, and against a live counterparty.
 - **The transfer moment is the unique point where the elasticity collapses:** the decedent cannot emigrate, restructure, or lobby ([`../03-case-for/piketty-r-vs-g.md`](../03-case-for/piketty-r-vs-g.md)).
 - **Verdict:** if a country can run only one stock-targeting tax, transmission is the high-leverage point; a wealth tax is a possible supplement, not a substitute.
@@ -73,6 +73,12 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 None of the alternatives is an enemy. A sane long-run tax system might well contain LVT and a reformed income tax alongside this proposal, and the coalition arithmetic improves when each camp treats the others as allies ([`../06-palatability/coalition.md`](../06-palatability/coalition.md)). But on the specific problem this project diagnoses — the recongealing of hereditary economic dynasties and the collapse of the equal-start premise ([`../01-problem/README.md`](../01-problem/README.md)) — the recipient-based inheritance tax is the highest-leverage single instrument, because it alone acts on the stock, at transmission, against a counterparty who cannot respond, with proceeds that visibly fund every citizen's start.
 
 Whataboutery in debate is usually a request to fight on easier ground; the answer is to welcome the allies and return to the variable that matters.
+
+## Sources
+
+1. [OECD, *The Role and Design of Net Wealth Taxes in the OECD* (2018)](https://www.oecd.org/en/publications/the-role-and-design-of-net-wealth-taxes-in-the-oecd_9789264290303-en.html)
+2. [Euronews, "Wealth taxes in Europe: who collects them and how much do they raise?" (September 2025)](https://www.euronews.com/business/2025/09/29/wealth-taxes-in-europe-who-collects-them-and-how-much-do-they-raise)
+3. [IFS, "Raising revenue from closing inheritance tax loopholes" (2024)](https://ifs.org.uk/articles/raising-revenue-closing-inheritance-tax-loopholes)
 
 ## See also
 

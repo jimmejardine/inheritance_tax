@@ -16,7 +16,7 @@ A note on why this file exists separately from [economic.md](economic.md): the d
 
 - **Consumption is circulation.** Buying goods and services employs people, pays taxed wages, bears VAT, and transfers the money to counterparties who are overwhelmingly less wealthy than the spender. The Treasury collects along the way; the capital stock changes hands through markets instead of through bloodlines.
 - **Carnegie proposed this as the ideal, not the loophole.** His dictum — the man who dies rich dies disgraced — envisioned surplus wealth administered and dispersed within the holder's lifetime rather than entailed on heirs ([`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)). The objection imagines a gotcha; it is describing the [*Gospel of Wealth*](https://www.carnegie.org/about/our-history/gospelofwealth/).
-- **There is an empirical ceiling.** Consumption's share of income and wealth falls steeply as wealth rises — there are only so many meals, houses, and yachts a household can use — and at the billion-pound scale, genuine consumption cannot make a dent within a lifetime (magnitudes to verify against consumption-by-wealth-percentile studies).
+- **There is an empirical ceiling.** Saving rates rise steeply with lifetime income — the rich save more, on average and at the margin ([Dynan, Skinner and Zeldes 2004](https://www.journals.uchicago.edu/doi/abs/10.1086/381475) [1]) — so consumption's share of resources falls as wealth rises: there are only so many meals, houses, and yachts a household can use, and at the billion-pound scale genuine consumption cannot make a dent within a lifetime.
 - **The residual channels** — asset-price effects of decumulation, luxury-sector composition — are second-order questions treated in [`../16-second-order/asset-prices.md`](../16-second-order/asset-prices.md) and [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md).
 
 **Deep treatment:** [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md) · [`../16-second-order/asset-prices.md`](../16-second-order/asset-prices.md)
@@ -46,7 +46,7 @@ A note on why this file exists separately from [economic.md](economic.md): the d
 
 - **This is a distributional-primary policy** ([practicality.md](practicality.md#it-raises-trivial-revenue-so-why-bother)). The problem being solved is hereditary concentration of wealth and the power it converts into ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md), [`../01-problem/political-capture.md`](../01-problem/political-capture.md)).
 - **A wealthy generation that dissipates its fortunes** among employees, vendors, charities, and up-to-threshold family transfers has solved that problem *voluntarily* — the tax worked as a deterrent works, without collecting.
-- **Full decumulation is the opposite of observed behaviour.** Under the existing 40% UK IHT — already a strong incentive to die light — estates keep growing and aggregate bequest flows keep rising (to verify against HMRC/ONS series). The very wealthy systematically die with large estates because accumulation is driven by control, status, and precaution more than by spending plans ([economic.md](economic.md#it-kills-the-incentive-to-build-businesses)).
+- **Full decumulation is the opposite of observed behaviour.** Under the existing 40% UK IHT — already a strong incentive to die light — aggregate bequest flows keep rising: the real value of inheritances transferred annually in the UK has roughly doubled every 20 years since 1979 and now exceeds £100bn a year [2], and IHT receipts hit a record £8.2bn in 2024–25 [3]. The very wealthy systematically die with large estates because accumulation is driven by control, status, and precaution more than by spending plans ([economic.md](economic.md#it-kills-the-incentive-to-build-businesses)).
 - **The realistic revenue case sits between the corners,** and the endowment's fiscal bridge — including phase-in funding while behaviour settles — is designed on those middle scenarios in [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md) and [`../02-proposal/endowment.md`](../02-proposal/endowment.md).
 
 **Deep treatment:** [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md) · [`../02-proposal/endowment.md`](../02-proposal/endowment.md) · [`../16-second-order/macro.md`](../16-second-order/macro.md)
@@ -70,6 +70,12 @@ In debate, this family of objections is best welcomed rather than resisted: the 
 
 - Waste was already the counterfactual: the fortune sitting in an heir's portfolio funds nothing public either, and the heir's consumption is subject to no better taste. At least the spender's yacht pays shipwrights, crew, and VAT.
 - The comparison the policy cares about is not yacht vs school but *dynasty vs no dynasty* — and on that axis, late-life consumption and the endowment point the same way ([`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)).
+
+## Sources
+
+1. [Dynan, Skinner and Zeldes, "Do the Rich Save More?", *Journal of Political Economy* 112(2), 2004](https://www.journals.uchicago.edu/doi/abs/10.1086/381475)
+2. [Demos, "Inheritances are the £100 billion elephant in the room in talk of British decline" (2023)](https://demos.co.uk/blogs/inheritances-are-the-100-billion-elephant-in-the-room-in-talk-of-british-decline/)
+3. [OBR, Inheritance tax — forecasts in depth](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/inheritance-tax/)
 
 ## See also
 

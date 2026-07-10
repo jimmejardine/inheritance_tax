@@ -4,14 +4,14 @@
 
 ## Why this campaign is the template
 
-The definitive study is Michael Graetz and Ian Shapiro's *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005) [1]. Their central finding: a tax paid by roughly the wealthiest 2% of estates (to verify against contemporary IRS data) was made politically radioactive among voters who would never pay it. Polling during the campaign consistently found majorities believing they would be personally affected (to verify — see [../06-palatability/polling.md](../06-palatability/polling.md)). That inversion — the many mobilised to defend the fortunes of the few — is the single most important political phenomenon this project must understand.
+The definitive study is Michael Graetz and Ian Shapiro's *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005) [1]. Their central finding: a tax paid by roughly the wealthiest 2% of decedents' estates was made politically radioactive among voters who would never pay it [1]. Polling during the campaign found far more people believing themselves affected than ever would be: in a 2002 Greenberg poll, 37% of respondents believed someone in their household would have to pay the estate tax — and 30% still believed it after being told who actually pays [5] (see [../06-palatability/polling.md](../06-palatability/polling.md)). That inversion — the many mobilised to defend the fortunes of the few — is the single most important political phenomenon this project must understand.
 
 ## The cast
 
 | Actor | Role | Notes |
 |---|---|---|
 | Frank Luntz | Language engineer | Memos instructing Republicans to say "death tax," never "estate tax" or "inheritance tax"; language tested in focus groups for maximum grief-and-family resonance [1][2] |
-| Jim Martin / 60 Plus Association | Term propagator | Seniors' front group that campaigned relentlessly on "death tax" branding; reportedly fined staff for saying "estate tax" (to verify) [1] |
+| Jim Martin / 60 Plus Association | Term propagator | Seniors' front group that campaigned relentlessly on "death tax" branding; Martin claims to have coined the term in 1993, and the office levied a one-dollar fine on staff who called the tax by its official name [1][6] |
 | Rep. Jennifer Dunn (R-WA) | Legislative champion | Repeatedly introduced repeal bills; disciplined message carrier |
 | Grover Norquist / Americans for Tax Reform | Coalition enforcer | Bound repeal into the broader anti-tax pledge architecture; framed any transfer tax as morally illegitimate |
 | Patricia Soldano / Policy and Taxation Group | Quiet funder | Organised ultra-wealthy families to fund the campaign discreetly — the actual beneficiaries stayed off-camera [1] |
@@ -23,7 +23,7 @@ The definitive study is Michael Graetz and Ian Shapiro's *Death by a Thousand Cu
 | # | Move | How it worked 1993–2001 | How it will be rerun against this proposal |
 |---|---|---|---|
 | 1 | **Rename** | "Estate tax" → "death tax": relocates the tax from wealth to grief | "Inheritance cap" → "100% death tax," "confiscation," "grave robbery." Expect the branding fight to start before the policy detail is read — see [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md) |
-| 2 | **Humanise the hard case** | The family farm sold to pay the taxman — despite the Farm Bureau being unable, when challenged by the *New York Times* in 2001, to produce a single farm actually lost to the estate tax (to verify) [3] | Farm and family-business vignettes, first-generation immigrant entrepreneurs, the disabled child's trust — see [media-narratives.md](media-narratives.md) |
+| 2 | **Humanise the hard case** | The family farm sold to pay the taxman — despite the Farm Bureau being unable, when challenged by the *New York Times* in 2001, to produce a single farm actually lost to the estate tax [3] | Farm and family-business vignettes, first-generation immigrant entrepreneurs, the disabled child's trust — see [media-narratives.md](media-narratives.md) |
 | 3 | **Moralise through grief** | The tax framed as the state intruding at the moment of bereavement — "taxed twice, then taxed at death" | Identical framing; the recipient-based design (nothing is taken from the deceased) is the structural answer — see [../02-proposal/mechanism.md](../02-proposal/mechanism.md) |
 | 4 | **Coalition of fronts** | NFIB, Farm Bureau, 60 Plus, newspaper owners fronted; the dynastic families funding the effort stayed invisible [1] | Front groups with populist names; see [astroturf-and-lobbying.md](astroturf-and-lobbying.md) |
 | 5 | **Salami legislation** | Rather than one repeal vote, [EGTRRA 2001](https://www.congress.gov/bill/107th-congress/house-bill/1836) phased rates down and exemptions up over a decade, with full repeal scheduled for 2010 — normalising erosion step by step | The mirror-image threat post-passage: carve-out stuffing and threshold erosion — see [sabotage-after-passage.md](sabotage-after-passage.md) |
@@ -35,7 +35,7 @@ The definitive study is Michael Graetz and Ian Shapiro's *Death by a Thousand Cu
 - **Aspirational self-misplacement.** Voters assessed the tax as their future rich selves, not their actual median selves — the "lottery-ticket psychology" identified in [../06-palatability/README.md](../06-palatability/README.md).
 - **Defender complacency.** Estate-tax defenders treated the campaign as unserious until the coalition had already consolidated. Graetz and Shapiro emphasise that the pro-tax side never found a story to match the family farm [1]. Wealthy defectors — Bill Gates Sr. and Chuck Collins' *Wealth and Our Commonwealth* (2002), the Responsible Wealth network — arrived effective but late [4].
 
-## Campaign timeline (indicative — dates to verify)
+## Campaign timeline (indicative)
 
 | Phase | Years | What happened |
 |---|---|---|
@@ -48,12 +48,12 @@ The definitive study is Michael Graetz and Ian Shapiro's *Death by a Thousand Cu
 Three features deserve emphasis:
 
 - **Duration.** Roughly fifteen years from seeding to harvest. Opponents of this proposal will similarly play a decade-plus game; so must the movement — [../13-movement/theory-of-change.md](../13-movement/theory-of-change.md).
-- **Bipartisan leakage.** Repeal votes attracted substantial Democratic support in farm and small-business districts (to verify vote counts). Expect equivalent leakage in any legislature; whipping strategy in [../12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md).
+- **Bipartisan leakage.** Repeal votes attracted substantial Democratic support in farm and small-business districts: the Death Tax Elimination Act of 2000 passed the House 279–136, with 65 Democrats voting in favour [7]. Expect equivalent leakage in any legislature; whipping strategy in [../12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md).
 - **The sunset trick.** Scheduling repeal inside a reconciliation window with a sunset converted a one-off victory into a permanent bargaining position — every subsequent expiry became a fresh hostage negotiation. The same mechanism, run in reverse, threatens this proposal after passage: [sabotage-after-passage.md](sabotage-after-passage.md).
 
 ## What eventually blunted it
 
-Full permanent repeal never happened. The 2010 repeal year came and went (famously creating a one-year window in which billionaire estates passed tax-free — to verify specific cases), and the tax returned in 2011, albeit with a vastly higher exemption. The lessons: (a) even the best-funded campaign could not make outright abolition permanent when budget arithmetic and reconciliation rules intervened; (b) the opponents' fallback — a hollowed-out tax with a high exemption and porous reliefs — achieved most of repeal's substance anyway. See [../05-history/us-estate-tax.md](../05-history/us-estate-tax.md) and [sabotage-after-passage.md](sabotage-after-passage.md).
+Full permanent repeal never happened. The 2010 repeal year came and went (famously creating a one-year window in which billionaire estates — George Steinbrenner's estimated $1.1bn among several — passed free of federal estate tax [8]), and the tax returned in 2011, albeit with a vastly higher exemption. The lessons: (a) even the best-funded campaign could not make outright abolition permanent when budget arithmetic and reconciliation rules intervened; (b) the opponents' fallback — a hollowed-out tax with a high exemption and porous reliefs — achieved most of repeal's substance anyway. See [../05-history/us-estate-tax.md](../05-history/us-estate-tax.md) and [sabotage-after-passage.md](sabotage-after-passage.md).
 
 ## Signals that the playbook is being rerun
 
@@ -70,9 +70,8 @@ Each signal maps to a standing response owned by the rapid-response unit describ
 ## What still needs doing
 
 - Full read and structured extraction of Graetz & Shapiro (2005): chronology, funding flows, vote counts, and the pro-tax side's documented errors.
-- Verification of the Luntz memo texts and the 60 Plus "death tax" propagation claims against primary reporting.
-- Confirmation of the 2001 *New York Times* farm-loss investigation and any subsequent cases identified.
-- Vote-count analysis of House and Senate repeal votes 1999–2002 for the bipartisan-leakage pattern.
+- Verification of the Luntz memo texts against primary reporting.
+- Full vote-count analysis of House and Senate repeal votes 1999–2002 for the bipartisan-leakage pattern (the 2000 House vote is confirmed [7]).
 - Comparative check: whether equivalent renaming campaigns ran in Australia (pre-1979), Sweden (pre-2004), and the UK (IHT coverage) — feeds [../05-history/abolitions.md](../05-history/abolitions.md) and [../06-palatability/case-studies.md](../06-palatability/case-studies.md).
 
 ## Mitigations
@@ -90,5 +89,9 @@ Argument-level rebuttals live in [../09-objections/](../09-objections/); these a
 
 1. [Graetz, M. and Shapiro, I. (2005). *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth*. Princeton University Press](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts)
 2. [Luntz, F. — language memoranda on tax framing, as reported and reproduced in contemporaneous coverage and in Graetz & Shapiro (2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts)
-3. [Johnston, D.C. (2001). "Focus on Farms Masks Estate Tax Confusion." *The New York Times*, April 8, 2001](https://www.nytimes.com/2001/04/08/us/focus-on-farms-masks-estate-tax-confusion.html)
+3. [Johnston, D.C. (2001). "Talk of Lost Farms Reflects Muddle of Estate Tax Debate." *The New York Times*, April 8, 2001](https://www.nytimes.com/2001/04/08/us/talk-of-lost-farms-reflects-muddle-of-estate-tax-debate.html)
 4. [Gates, W. Sr. and Collins, C. (2002). *Wealth and Our Commonwealth: Why America Should Tax Accumulated Fortunes*. Beacon Press](https://www.beacon.org/Wealth-and-Our-Commonwealth-P108.aspx)
+5. ["Public Ignorance and Estate Tax Repeal: The Effect of Partisan Differences and Survey Incentives" (MPRA Paper 346)](https://mpra.ub.uni-muenchen.de/346/1/MPRA_paper_346.pdf)
+6. ["Meet Mr. Death." *The American Prospect*, December 19, 2001](https://prospect.org/2001/12/19/meet-mr-death/)
+7. [H.R. 8 — Death Tax Elimination Act of 2000, 106th Congress (House passage 279–136, June 2000)](https://www.congress.gov/bill/106th-congress/house-bill/8)
+8. ["Steinbrenner Goes Out A Real Winner." *Forbes*, July 20, 2010](https://www.forbes.com/2010/07/20/yankees-estate-tax-intelligent-investing-steinbrenner/)

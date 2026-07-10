@@ -4,7 +4,7 @@
 
 ## Kingdon's multiple-streams framework
 
-Kingdon's model (from *Agendas, Alternatives, and Public Policies*, 1984 — to verify edition details) holds that adoption requires three independently flowing streams to couple:
+Kingdon's model (from *Agendas, Alternatives, and Public Policies*, Boston: Little, Brown, 1984 [1]) holds that adoption requires three independently flowing streams to couple:
 
 | Stream | Content | State for this policy | Movement task |
 |---|---|---|---|
@@ -26,7 +26,7 @@ The standard UK route by which an outsider idea becomes a manifesto line, with i
 | 4. Party digestion | Party policy commissions, affiliated groups, frontbench teams | Special advisers, policy directors | Attack-survivability and a beneficiary map ([party-incentives.md](party-incentives.md)) |
 | 5. Commitment | Manifesto | Leader's office, manifesto coordinator | Low fiscal-scoring risk, one-sentence retail version |
 
-Two practical notes. First, the pipeline is *duplicated per party family*: the same policy needs a left-tank treatment (funding the base's programme), a right-tank treatment (property-owning democracy, tax cuts), and a liberal treatment (Mill, opportunity) — written in different vocabularies by different authors ([../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)). Second, stage 1 is already partially purchased: the Mirrlees Review's sympathetic treatment of lifetime-receipts taxation (to verify exact recommendation wording) means the idea enters the pipeline with IFS-adjacent respectability rather than from zero.
+Two practical notes. First, the pipeline is *duplicated per party family*: the same policy needs a left-tank treatment (funding the base's programme), a right-tank treatment (property-owning democracy, tax cuts), and a liberal treatment (Mill, opportunity) — written in different vocabularies by different authors ([../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)). Second, stage 1 is already partially purchased: the Mirrlees Review's sympathetic treatment of lifetime-receipts taxation — *Tax by Design* (ch. 15) stated a first preference, with reservations about administrative feasibility, for replacing IHT with a lifetime receipts tax [2] — means the idea enters the pipeline with IFS-adjacent respectability rather than from zero.
 
 ## Special advisers: the real adoption surface
 
@@ -42,8 +42,8 @@ Consequences for the movement:
 
 An idea too radical for a politician to voice becomes discussable the moment a grey-haired commission recommends a version of it. The mechanism is reputational transfer: the commission's independence and expertise substitute for the politician's courage. Precedents:
 
-- **The Mirrlees Review (IFS, 2010–11)** — the canonical case for this policy area: an independent, prestigious tax review that recommended moving toward lifetime-receipts taxation of transfers (to verify), giving every subsequent proponent a citation that is not a politician or activist.
-- **Royal Commissions and official reviews** (Turner on pensions is the modern UK exemplar — to verify) — capable of converting a third-rail topic into a phased consensus programme.
+- **The Mirrlees Review (IFS, 2010–11)** — the canonical case for this policy area: an independent, prestigious tax review whose stated first preference — offered with reservations about administrative feasibility — was to replace IHT with a lifetime receipts tax [2], giving every subsequent proponent a citation that is not a politician or activist.
+- **Royal Commissions and official reviews** (Turner on pensions is the modern UK exemplar: the 2002–06 Pensions Commission's recommendations became the Pensions Acts 2007–08 and auto-enrolment from 2012 [3]) — capable of converting a third-rail topic into a phased consensus programme.
 - **Party-commissioned reviews in opposition** — the standard vehicle for rung 2 of the adoption ladder ([party-incentives.md](party-incentives.md)): the leadership gets optionality ("we will study the review's findings") while the idea acquires internal legitimacy.
 
 Movement implication: one strategic objective should be the commissioning — by a government, a party, or a credible foundation — of an independent review of wealth-transfer taxation with terms of reference that include recipient-based and endowment options. Writing the terms of reference is the highest-leverage document in this entire file.
@@ -54,11 +54,11 @@ Private members' bills, ten-minute-rule bills, opposition-day debates, and selec
 
 ## Citizens' assemblies: the legitimation route for third-rail topics
 
-Ireland's Citizens' Assembly preceded and enabled the abortion (2018) and earlier the marriage-equality (2015) referendums — issues every Irish party had judged too dangerous to lead on (to verify institutional sequence). The mechanism maps precisely onto inheritance taxation, which shares the defining features: high emotional charge, entrenched elite framing, and party-strategic paralysis despite shifting public opinion.
+Ireland's deliberative bodies preceded and enabled both landmark referendums — the Constitutional Convention (2012–14) recommended marriage equality, passed by referendum in 2015, and the Citizens' Assembly (2016–18) recommended repealing the Eighth Amendment, passed by referendum in 2018 [4][5] — on issues every Irish party had judged too dangerous to lead on. The mechanism maps precisely onto inheritance taxation, which shares the defining features: high emotional charge, entrenched elite framing, and party-strategic paralysis despite shifting public opinion.
 
 Why the assembly route suits this policy specifically:
 
-1. **Deliberation moves people on exactly this issue.** Inheritance-tax opinion is famously unstable under information — support rises when respondents learn actual thresholds and incidence (to verify against deliberative-polling literature; [../06-palatability/polling.md](../06-palatability/polling.md)). An assembly is institutionalised information exposure.
+1. **Deliberation moves people on exactly this issue.** Inheritance-tax opinion is famously unstable under information — in a randomised US survey experiment, telling respondents how few estates actually pay the tax more than doubled support for it, an effect persisting a month later [6] ([../06-palatability/polling.md](../06-palatability/polling.md)). An assembly is institutionalised information exposure.
 2. **It de-risks the politicians.** "We are implementing the assembly's recommendation" is the strongest available deniability wrapper — stronger than a commission, because the authors are demonstrably ordinary voters, not experts or activists.
 3. **It pre-empts the astroturf counter-narrative.** Opposition claims that the policy is an elite/activist imposition ([../10-opposition/media-narratives.md](../10-opposition/media-narratives.md)) collapse against a random-sample citizen mandate.
 
@@ -78,3 +78,12 @@ What must exist *before* a window opens, per Kingdon's discipline:
 ## Bottom line
 
 Adoption is a logistics problem before it is a persuasion problem. The channels are known, the gatekeepers are identifiable, and every one of them responds to pre-fabricated, risk-priced product rather than moral argument. The movement that has the two-pager, the bill text, the costings, the review terms of reference, and the assembly campaign ready — and waits — will look lucky when the window opens.
+
+## Sources
+
+1. [Kingdon, J. W., *Agendas, Alternatives, and Public Policies* (Boston: Little, Brown, 1984) — review, *Journal of Policy Analysis and Management*](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.4050050316)
+2. [Wealth Tax Commission, *Ways of taxing wealth: alternatives and interactions* (Evidence Paper 4, 2020)](https://www.wealthandpolicy.com/wp/EP4_Alternatives.pdf) — summarising Mirrlees et al., *Tax by Design* (2011), ch. 15
+3. [Institute for Government, *Pensions reform: The Pensions Commission (2002–6)*](https://www.instituteforgovernment.org.uk/sites/default/files/pension_reform.pdf)
+4. [Constitutional Convention (Ireland) — Wikipedia](https://en.wikipedia.org/wiki/Constitutional_Convention_(Ireland))
+5. [The Citizens' Assembly (Ireland), "Work of the Assembly 2016–2018"](https://www.citizenassembly.ie/work/)
+6. [Kuziemko, I., Norton, M., Saez, E. & Stantcheva, S., "How Elastic Are Preferences for Redistribution? Evidence from Randomized Survey Experiments," *American Economic Review* 105(4), 2015](https://www.aeaweb.org/articles?id=10.1257/aer.20130360)

@@ -23,7 +23,7 @@ Aristotle's *Politics* argues that the most stable constitution rests on a large
 The claim that near-total inheritance limitation is alien to the Anglo-American tradition inverts the record. The revolutionary generation regarded hereditary wealth concentration as the seed of the aristocracy they had just fought, and legislated against its mechanics [4][5].
 
 - **Entail** (the fee tail) locked estates into a fixed line of descent forever — the dead hand governing land across generations. Virginia abolished it in 1776, in a bill drafted by Jefferson within months of the Declaration.
-- **Primogeniture** channelled intestate estates entire to the eldest son, keeping fortunes intact across generations. Virginia abolished it in 1785; by roughly 1800 every state had abolished both institutions (to verify) [4].
+- **Primogeniture** channelled intestate estates entire to the eldest son, keeping fortunes intact across generations. Virginia abolished it in 1785 — Georgia (1777) and North Carolina (1784) had already acted — and by 1798, when Rhode Island became the last state to act, primogeniture was gone from every state's intestacy law, with entail abolished or reduced to an easily barred formality across nearly all states over the same period [4][14].
 
 Jefferson was explicit about the purpose. In his *Autobiography* he described the bills as part of "a system by which every fibre would be eradicated of ancient or future aristocracy," replacing "an aristocracy of wealth" with "an aristocracy of virtue and talent" [5]. Tocqueville, a generation later, judged the American inheritance laws to be among the deepest causes of American democracy, writing that the law of equal partition acts on property "as the last step to equality" and marvelling that political writers had not attributed to inheritance laws "a greater influence on human affairs" [11].
 
@@ -69,7 +69,7 @@ The framing conclusion. Redistribution takes the regime as given and adjusts out
 1. [Aristotle, *Politics*, Bk. IV ch. 11](https://oll.libertyfund.org/titles/aristotle-the-politics-vol-1)
 2. [Machiavelli, *Discourses on Livy* (1531), Bk. I chs. 17–18, 55](https://oll.libertyfund.org/titles/machiavelli-discourses-on-the-first-decade-of-titus-livius)
 3. [Harrington, J. (1656). *The Commonwealth of Oceana*](https://oll.libertyfund.org/titles/harrington-the-commonwealth-of-oceana)
-4. [Katz, S. N. (1977). "Republicanism and the Law of Inheritance in the American Revolutionary Era." *Michigan Law Review* 76](https://repository.law.umich.edu/mlr/vol76/iss1/3/)
+4. [Katz, S. N. (1977). "Republicanism and the Law of Inheritance in the American Revolutionary Era." *Michigan Law Review* 76](https://repository.law.umich.edu/mlr/vol76/iss1/2/)
 5. [Jefferson, T., *Autobiography* (1821), on the Virginia revisal](https://avalon.law.yale.edu/19th_century/jeffauto.asp)
 6. [Jefferson to Madison, 6 September 1789 ("the earth belongs in usufruct to the living")](https://founders.archives.gov/documents/Jefferson/01-15-02-0375)
 7. [Dahl, R. (1989). *Democracy and Its Critics*. Yale UP](https://yalebooks.yale.edu/book/9780300049381/democracy-and-its-critics/)
@@ -79,3 +79,4 @@ The framing conclusion. Redistribution takes the regime as given and adjusts out
 11. [Tocqueville, A. de (1835). *Democracy in America*, Vol. I ch. 3](https://oll.libertyfund.org/titles/tocqueville-democracy-in-america-english-edition-vol-1)
 12. [Paine, T. (1797). *Agrarian Justice*](https://www.ssa.gov/history/paine4.html)
 13. [Burke, E. (1790). *Reflections on the Revolution in France*](https://oll.libertyfund.org/titles/burke-reflections-on-the-revolution-in-france)
+14. ["Primogeniture." *Encyclopedia.com* — state-by-state abolition dates (Georgia 1777, North Carolina 1784, Virginia 1785, Rhode Island 1798)](https://www.encyclopedia.com/social-sciences-and-law/law/law/primogeniture)

@@ -6,7 +6,7 @@
 
 ### Marriage equality
 
-Arguably the fastest major value-shift in modern democratic politics: from fringe position to majority support and law across the West within roughly three decades (timeline to verify per country). Transferable mechanisms:
+Arguably the fastest major value-shift in modern democratic politics: from fringe position to majority support and law across the West within roughly three decades — US support rose from [27% in 1996 to a first Gallup majority (53%) in 2011](https://news.gallup.com/poll/147662/first-time-majority-americans-favor-legal-gay-marriage.aspx), with the Netherlands legislating first in 2001 and US nationwide law following in 2015. Transferable mechanisms:
 
 - **The personal-story strategy.** The campaign's decisive turn was from rights-based argument to relationship-based storytelling — persuasion by identification, not by winning debates. Our equivalent is the endowment recipient and the founder-defector story ([messengers.md](messengers.md)), not the Gini coefficient.
 - **Generational patience as explicit strategy.** Campaigners knew cohort replacement was running in their favour and built institutions designed to last until it did. Inheritance reform has the same demographic tailwind: the priced-out young age into the electorate's centre ([12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md)).
@@ -14,7 +14,7 @@ Arguably the fastest major value-shift in modern democratic politics: from fring
 
 ### The $15 minimum wage ([Fight for $15](https://fightforaunion.org/))
 
-From a 2012 fast-food walkout demand widely called impossible to enacted law in many US states and cities within a decade (to verify scope). Transferable mechanisms:
+From a November 2012 walkout by some 200 New York fast-food workers — a demand widely called impossible — to enacted law within a decade: [NELP's ten-year accounting](https://www.nelp.org/insights-research/10-year-legacy-fight-for-15-union-movement/) counts 29 states plus nearly five dozen cities and counties raising wage floors since 2012, many to $15 or more, with California and New York the first states to legislate $15 in 2016. Transferable mechanisms:
 
 - **The concrete number as demand discipline.** "$15" was memorable, checkable, and immune to dilution-by-vagueness; every local victory was scored against it. Our equivalents: **£500k threshold, £50k endowment, at 25** ([02-proposal/thresholds.md](../02-proposal/thresholds.md), [02-proposal/endowment.md](../02-proposal/endowment.md)). Doctrine: never campaign on "fairer inheritance taxation" — campaign on the numbers.
 - **A beneficiary constituency that was also the workforce of the campaign.** The people who gained were the people who marched. The endowment gives us the same possibility ([recruitment.md](recruitment.md), ring 3).
@@ -26,13 +26,13 @@ Covered as a theory-of-change template in [theory-of-change.md](theory-of-change
 
 ### Carbon pricing — the mixed lesson
 
-The inside track executed almost perfectly: economist near-consensus, international institutional endorsement, adoption in dozens of jurisdictions (to verify count). And yet: repeated populist backlashes (Australia's repeal, gilets jaunes, axe-the-tax campaigns) because the policy's costs were visible and its beneficiaries diffuse and unorganised. **This is the closest cautionary mirror for us**: a technically elegant tax adopted without a defending constituency gets repealed. The design answer is the endowment — it manufactures visible winners — but only the movement can organise them ([theory-of-change.md](theory-of-change.md), why-both-tracks; [16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md)).
+The inside track executed almost perfectly: economist near-consensus, international institutional endorsement, and [80 carbon-pricing instruments in operation worldwide by 2025](https://www.worldbank.org/en/publication/state-and-trends-of-carbon-pricing) (43 carbon taxes, 37 emissions-trading systems, per the World Bank). And yet: repeated populist backlashes (Australia's repeal, gilets jaunes, axe-the-tax campaigns) because the policy's costs were visible and its beneficiaries diffuse and unorganised. **This is the closest cautionary mirror for us**: a technically elegant tax adopted without a defending constituency gets repealed. The design answer is the endowment — it manufactures visible winners — but only the movement can organise them ([theory-of-change.md](theory-of-change.md), why-both-tracks; [16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md)).
 
 ## Cautionary cases
 
 ### Georgism / land value tax
 
-The deepest warning because the parallel is close: a century-old policy with extraordinary intellectual pedigree (classical economists through to modern public finance), persistent expert assent, and essentially no mass base or legislative record beyond fragments (Denmark, Pennsylvania cities — to verify). Failure diagnosis:
+The deepest warning because the parallel is close: a century-old policy with extraordinary intellectual pedigree (classical economists through to modern public finance), persistent expert assent, and essentially no mass base or legislative record beyond fragments — Denmark's Georgist-influenced *grundskyld* land tax, and the [Pennsylvania split-rate municipalities](https://www.lincolninst.edu/es/publications/working-papers/split-rate-taxation/) (around sixteen currently, with Pittsburgh's, adopted in 1913, repealed in 2001). Failure diagnosis:
 
 - **Single-tax purism as sect-formation.** Georgists made the full doctrine the membership test; the movement selected for doctrinal completists and repelled coalition partners. The lesson for our "100%" position: hold it as the manifesto's position, offer the coalition the minimum shared demand ([coalitions.md](coalitions.md)), and treat stepping-stones as victories rather than betrayals.
 - **No beneficiary constituency.** LVT's winners (everyone, slightly, eventually) never knew who they were. The endowment is our structural answer — but only if beneficiaries are organised into the campaign, not left as statistics.
@@ -40,14 +40,14 @@ The deepest warning because the parallel is close: a century-old policy with ext
 
 ### The 2020 wealth-tax moment (Warren/Sanders)
 
-Warren's 2% wealth tax polled at supermajority levels, including among Republicans (figures to verify) — and left almost nothing behind: no standing organisation, no membership, no state-level campaigns, no bill with momentum. Diagnosis: the proposal lived entirely inside one candidacy; when the candidacy ended, the policy had no independent vehicle. Polling is not organisation. The lesson is the whole reason this section exists: build the institution *before* the political moment, so the moment deposits members into it rather than evaporating ([theory-of-change.md](theory-of-change.md), stage-3 preparedness).
+Warren's 2% wealth tax polled at [over 60% support, including half of Republicans](https://www.washingtonpost.com/us-policy/2019/02/05/over-percent-voters-including-half-republicans-support-elizabeth-warrens-wealth-tax/) (Politico/Morning Consult, 2019; other 2019 surveys ran higher still) — and left almost nothing behind: no standing organisation, no membership, no state-level campaigns, no bill with momentum. Diagnosis: the proposal lived entirely inside one candidacy; when the candidacy ended, the policy had no independent vehicle. Polling is not organisation. The lesson is the whole reason this section exists: build the institution *before* the political moment, so the moment deposits members into it rather than evaporating ([theory-of-change.md](theory-of-change.md), stage-3 preparedness).
 
 ### The opponent's success: death-tax repeal as an organising case study
 
-The 2001 US estate-tax repeal is usually told as a framing story ("death tax"); the deeper lesson is organisational (full treatment in [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md); details to verify against Graetz & Shapiro, [*Death by a Thousand Cuts*](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts)):
+The 2001 US estate-tax repeal is usually told as a framing story ("death tax"); the deeper lesson is organisational (full treatment in [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md); documented in Graetz & Shapiro, [*Death by a Thousand Cuts*](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts)):
 
-- A **patient coalition** (small-business federations, farm bureaus, trade associations, family-dynasty funders) assembled over ~15 years before the legislative window.
-- **Front constituencies with hard-case credibility** — farmers and small businesses fronted a campaign whose financial engine was a handful of the wealthiest families (to verify) — the astroturf model our transparency doctrine inverts ([funding.md](funding.md)).
+- A **patient coalition** (small-business federations, farm bureaus, trade associations, family-dynasty funders) assembled over more than a decade before the legislative window.
+- **Front constituencies with hard-case credibility** — farmers and small businesses fronted a campaign whose financial engine was [18 of America's wealthiest families](https://www.citizen.org/news/public-citizen-and-united-for-a-fair-economy-expose-stealth-campaign-of-super-wealthy-to-repeal-federal-estate-tax/) (worth a combined $185.5bn, per Public Citizen/United for a Fair Economy, 2006) — the astroturf model our transparency doctrine inverts ([funding.md](funding.md)).
 - **Message infrastructure** — the "death tax" term was disciplined across the coalition for years ([14-communications/naming-and-language.md](../14-communications/naming-and-language.md)).
 - **They organised the *imagined* beneficiaries**: most coalition foot-soldiers would never pay the tax. Proof that lottery-ticket psychology ([06-palatability/README.md](../06-palatability/README.md)) can be organised, not just polled — and that we must organise the *actual* beneficiaries before opponents re-organise the imagined ones.
 

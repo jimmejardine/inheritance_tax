@@ -8,7 +8,7 @@ Four slow-moving variables move the vote-maximising position, none of which any 
 
 | Shift | Direction | Political effect |
 |---|---|---|
-| Youth homeownership | Falling for decades in the UK and much of the Anglosphere (to verify current rates by cohort) | Grows the bloc with no asset stake in the status quo |
+| Youth homeownership | Collapsed between the mid-1990s and mid-2010s — UK homeownership among middle-income 25–34s fell from 65% (1995–96) to 27% (2015–16) — with only partial recovery since [1][2] | Grows the bloc with no asset stake in the status quo |
 | Private renting share | Rising, and extending into the 30s and 40s | Renters are the natural endowment constituency; renting is increasingly a life stage that never ends |
 | Generational replacement | The cohort that bought homes cheaply in the 1970s–90s is leaving the electorate at roughly the rate demography dictates | The most estate-tax-hostile voters are being replaced by the most endowment-friendly ones |
 | Inheritance concentration | Inheritances are growing as a share of national income and are concentrated among those already wealthy ([../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)) | The median voter's *expected* inheritance shrinks relative to the visible fortunes of others |
@@ -17,12 +17,12 @@ None of these requires campaign success. They are the tide; campaigning determin
 
 ## The age gradient in voting
 
-The UK's recent elections show one of the steepest age gradients in the democratic world. At the 2017 and 2019 general elections, the probability of voting Conservative rose sharply and near-monotonically with age, with the Labour/Conservative crossover age variously estimated in the late 30s to late 40s depending on the election (to verify against British Election Study data); the 2024 election saw the Conservative vote collapse to historically low levels among voters under 50 (to verify). Two readings matter for strategy:
+The UK's recent elections show one of the steepest age gradients in the democratic world. At the 2017 and 2019 general elections, the probability of voting Conservative rose sharply and near-monotonically with age, with the Labour/Conservative crossover age at 47 in 2017 and 39 in 2019 (YouGov: each ten years of age raised the chance of voting Conservative by around nine points) [3][4]; at the 2024 election just 8% of under-30s voted Conservative, the party trailed Labour by roughly 26 points among 30- to 50-year-olds, and the median Conservative voter was 63 [5]. Two readings matter for strategy:
 
 1. **For the left:** its coalition is already the non-inheriting coalition. Its exposure to inheritance-tax attacks runs through a shrinking sliver of its own voters (see [left-parties.md](left-parties.md)).
 2. **For the right:** an age gradient this steep is an extinction curve unless the party can either (a) retain voters as they age into assets — the historical mechanism, now failing because the young are *not* ageing into assets — or (b) manufacture asset ownership among the young. The endowment is mechanism (b). This is the core of [right-parties.md](right-parties.md).
 
-The comparative picture is similar in direction if shallower in slope across most of Western Europe and the US (to verify); [../11-geographies/README.md](../11-geographies/README.md) maps where the gradient is steep enough to bite.
+The comparative picture is similar in direction if shallower in slope across most Western democracies: a 21-country age–period–cohort study finds young–old differences in vote choice surged to record levels in the 2010s, with the UK's generational gradient the steepest [6]; [../11-geographies/README.md](../11-geographies/README.md) maps where the gradient is steep enough to bite.
 
 ## Locating the crossover point
 
@@ -30,7 +30,7 @@ Define the crossover point as the election at which the expected vote gained fro
 
 | Parameter | Moves crossover earlier | Moves crossover later |
 |---|---|---|
-| Threshold level | Higher threshold (£500k spares ~90%+ of recipients — to verify) | Lower threshold |
+| Threshold level | Higher threshold (£500k spares roughly 90% of recipients: the top tenth of 1980s-born inheritors are projected to receive around £500,000 [7]) | Lower threshold |
 | Salience of the endowment | Concrete, named, personal ("your £50k at 25") | Abstract ("fairer tax system") |
 | Turnout differential | Rising youth turnout (registration drives, salient offer) | Persistent youth abstention |
 | Framing environment | Recipient-based language pre-installed ([../06-palatability/framing.md](../06-palatability/framing.md)) | "Death tax" frame dominant ([../10-opposition/media-narratives.md](../10-opposition/media-narratives.md)) |
@@ -40,7 +40,7 @@ Three observations follow. First, the crossover is not a fixed date to be waited
 
 ## The inheritance divide within the young
 
-The key cleavage to watch is not young versus old but, **within the under-45s, those expecting significant inheritances versus those expecting none.** Inheritance prospects among the young are highly unequal — heavily correlated with parental homeownership and region (to verify against IFS work on intergenerational transfers) — and this divide will shape the politics in three ways:
+The key cleavage to watch is not young versus old but, **within the under-45s, those expecting significant inheritances versus those expecting none.** Inheritance prospects among the young are highly unequal — heavily correlated with parental wealth and homeownership, with IFS work projecting a median inheritance of £136,000 for the 1980s-born against around £500,000 for the top tenth [7][8] — and this divide will shape the politics in three ways:
 
 1. **It is the opposition's best recruiting ground.** The most effective anti-tax messengers will not be elderly estate-holders but 35-year-olds who describe the policy as "taking my only chance of a house." Expect this figure to feature heavily in opposition communications ([../10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md)).
 2. **The threshold answers it — if voters believe the threshold.** At £500k per recipient, the modal young inheritor-in-waiting (share of a parental home split between siblings) is untouched. The communications task is making that arithmetic personally legible: "unless you personally are receiving more than half a million pounds, this tax is not for you, and the endowment is" ([../14-communications/audience-messaging.md](../14-communications/audience-messaging.md)).
@@ -58,18 +58,18 @@ National crossover is the wrong unit of analysis in majoritarian systems; the op
 | Rural / agricultural | Small in number, high in symbolism | Carve-out-dependent ([../02-proposal/carveouts.md](../02-proposal/carveouts.md)); these seats set the national narrative regardless of their arithmetic weight |
 | Wealth-belt safe seats | Unfavourable and unwinnable | Not the target; their function is to supply the televised defenders of large estates ([wedge-dynamics.md](wedge-dynamics.md)) |
 
-The corresponding US unit is the state (estate-tax politics runs through the Senate map — to verify which states' politics dominate), and the continental unit is the party-list system, where national vote share matters directly and the urban-renter bloc counts at full weight ([../11-geographies/README.md](../11-geographies/README.md)).
+The corresponding US unit is the state (estate-tax politics runs through the Senate map — which states' politics dominate is unverified), and the continental unit is the party-list system, where national vote share matters directly and the urban-renter bloc counts at full weight ([../11-geographies/README.md](../11-geographies/README.md)).
 
 ## What each party's strategists should be tracking
 
 | Indicator | Why it matters | Likely source |
 |---|---|---|
-| Homeownership rate at age 30/40 by cohort | Direct measure of the non-inheritor bloc's growth | ONS, English Housing Survey (to verify) |
-| Share of first-time buyers using family money | Measures how visibly inheritance already gates housing ([../01-problem/housing.md](../01-problem/housing.md)) | Industry and IFS estimates (to verify) |
+| Homeownership rate at age 30/40 by cohort | Direct measure of the non-inheritor bloc's growth | English Housing Survey, IFS cohort analyses [1][9] |
+| Share of first-time buyers using family money | Measures how visibly inheritance already gates housing ([../01-problem/housing.md](../01-problem/housing.md)) | Savills: 53% of first-time buyers received direct family help in 2025 [10] |
 | Age–vote crossover point, election on election | The gradient's trajectory | British Election Study, exit polling |
 | Turnout by age | The mobilisation upside | BES, ONS |
 | Polling on recipient-based framings vs estate framings | Whether the framing environment is shifting | [../06-palatability/polling.md](../06-palatability/polling.md) |
-| Expected-inheritance polling among under-45s | The internal divide's size | Attitudinal surveys (to verify availability) |
+| Expected-inheritance polling among under-45s | The internal divide's size | Attitudinal surveys — e.g. Resolution Foundation: fewer than one in three expect to benefit from Britain's inheritance boom [11] |
 
 Most of these series already exist; the movement's contribution is assembling them into a single, regularly updated "crossover dashboard" that can be put in front of party strategists — the beneficiary map that [party-incentives.md](party-incentives.md) lists as the first property of an adoptable policy.
 
@@ -78,3 +78,17 @@ Strategists should also track two *event* classes alongside the slow indicators:
 ## Bottom line
 
 Time is on the policy's side, but passively waiting wastes the advantage twice over: opponents use the delay to entrench the "death tax" frame, and each electoral cycle a party could have captured the shift instead half-learns to fear it. The strategic message to any party is symmetrical and simple: the electorate that punished inheritance taxation is leaving; the electorate that will reward an inheritance-funded endowment is arriving; the only question is which party banks it first — and [wedge-dynamics.md](wedge-dynamics.md) explains why the first mover also gets to impale its opponents on the issue.
+
+## Sources
+
+1. [IFS, *The decline of homeownership among young adults* (BN224, 2018)](https://ifs.org.uk/publications/decline-homeownership-among-young-adults)
+2. [IFS, "Homeownership for young adults has recovered to its 2010 level" (2024)](https://ifs.org.uk/articles/homeownership-young-adults-has-recovered-its-2010-level)
+3. [YouGov, "How Britain voted at the 2017 general election"](https://yougov.co.uk/politics/articles/18384-how-britain-voted-2017-general-election)
+4. [YouGov, "How Britain voted in the 2019 general election"](https://yougov.com/en-gb/articles/26925-how-britain-voted-2019-general-election)
+5. [YouGov, "How Britain voted in the 2024 general election"](https://yougov.co.uk/politics/articles/49978-how-britain-voted-in-the-2024-general-election)
+6. ["Electoral change through generational replacement: an age-period-cohort analysis of vote choice across 21 countries between 1948 and 2021," *Frontiers in Political Science* (2024)](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2024.1279888/full)
+7. [Bourquin, P., Joyce, R. & Sturrock, D., *Inheritances and inequality over the life cycle: what will they mean for younger generations?* (IFS, 2021)](https://ifs.org.uk/publications/inheritances-and-inequality-over-life-cycle-what-will-they-mean-younger-generations)
+8. [Bourquin, P., Joyce, R. & Sturrock, D., *Inheritances and inequality within generations* (IFS, 2020)](https://ifs.org.uk/publications/inheritances-and-inequality-within-generations)
+9. [MHCLG, English Housing Survey data on owner occupiers and recent first-time buyers](https://www.gov.uk/government/statistical-data-sets/owner-occupiers-recent-first-time-buyers-and-second-homes)
+10. [Savills, "First-time buyers receive £11.0 billion in financial support from families" (2026)](https://www.savills.co.uk/insight-and-opinion/savills-news/391499/first-time-buyers-receive-%C2%A311.0-billion-in-financial-support-from-families)
+11. [Resolution Foundation, "Fewer than one-in-three people expect to benefit from Britain's big inheritance windfall"](https://www.resolutionfoundation.org/press-releases/fewer-than-one-in-three-people-expect-to-benefit-from-britains-big-inheritance-windfall/)

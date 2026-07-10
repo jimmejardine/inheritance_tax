@@ -18,7 +18,7 @@
 
 Self-custody removes the intermediary but not the trail — public-ledger assets are *more* traceable than cash once an address is linked to a person, and commercial chain-analysis is now routine in law enforcement and exchange compliance [1]. The regime's layers:
 
-- **Exchange and custodian reporting.** The OECD's Crypto-Asset Reporting Framework (CARF) extends CRS-style automatic exchange to crypto intermediaries, with first exchanges of information in the late 2020s [2]; the Central Register consumes these feeds like bank feeds ([gifts-and-timing.md](gifts-and-timing.md) §5).
+- **Exchange and custodian reporting.** The OECD's Crypto-Asset Reporting Framework (CARF) extends CRS-style automatic exchange to crypto intermediaries — 46 jurisdictions are committed to first exchanges by 2027, a further 29 by 2028, and the US by 2029 [2]; the Central Register consumes these feeds like bank feeds ([gifts-and-timing.md](gifts-and-timing.md) §5).
 - **On/off-ramp choke points.** Dynastic sums must eventually touch the banked economy — buying property, funding a company, spending at scale. AML source-of-funds checks at those ramps force a provenance story, which is checked against the ledger.
 - **Estate discovery duties.** Executors must make reasonable enquiry for digital assets (device forensics, exchange statements, password managers) and certify the search in the Estate Information Return; professional executor standards bodies already publish digital-asset checklists [3].
 - **Chain analysis on audit.** Where audit flags a mismatch, tracing from known addresses (historic exchange withdrawals reported under CARF) follows funds to current wallets. Privacy coins and mixers narrow this — acknowledged; they then collide with the ramps and the presumptions below.
@@ -65,7 +65,7 @@ The equilibrium is the point: an honest family with genuinely lost keys is never
 
 ## Research gaps
 
-- CARF implementation timelines and coverage gaps by jurisdiction (to verify current state; DeFi and unhosted-wallet reporting remain contested).
+- CARF coverage gaps by jurisdiction (76 jurisdictions committed as of June 2026, per [2]; DeFi and unhosted-wallet reporting remain contested).
 - Empirical base rates of genuine key loss for estimating the suspended-receipts population.
 - Whether the vesting-deferral rule for carry needs an interest charge to remove deferral advantage.
 - How executor digital-asset discovery duties interact with device-encryption law (compelled-decryption limits differ sharply between UK [RIPA s.49](https://www.legislation.gov.uk/ukpga/2000/23/section/49) powers and US Fifth Amendment doctrine).
@@ -73,8 +73,8 @@ The equilibrium is the point: an honest family with genuinely lost keys is never
 ## Sources
 
 1. [Chainalysis — Crypto Crime Reports; use of chain analysis in enforcement](https://www.chainalysis.com/reports/); UK NCA and IRS-CI seizure practice.
-2. [OECD — Crypto-Asset Reporting Framework and amendments to the CRS (2022)](https://www.oecd.org/tax/exchange-of-tax-information/crypto-asset-reporting-framework-and-amendments-to-the-common-reporting-standard.htm)
+2. [OECD Global Forum — jurisdictions committed to implement CARF (updated June 2026): 46 by 2027, 29 by 2028, US by 2029](https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/commitments-carf.pdf); [OECD Global Forum — CARF monitoring and implementation update (2025)](https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/crypto-asset-reporting-framework-monitoring-implementation-update-2025.pdf)
 3. [STEP — digital assets guidance for practitioners](https://www.step.org/); Law Society practice notes on digital assets in estates.
-4. [Coverage of music-catalogue acquisitions (Hipgnosis, Sony/Dylan, Springsteen)](https://www.cnbc.com/2022/01/24/bob-dylan-sells-recorded-music-catalog-to-sony-music-entertainment.html) — market pricing of royalty streams (to verify multiples).
+4. [Music Business Worldwide — Sony acquires Bob Dylan's recorded-music catalogue (Jan 2022, reported north of $150m; Springsteen's recorded + publishing rights sold to Sony in 2021 for at least $500m)](https://www.musicbusinessworldwide.com/sony-music-acquires-bob-dylans-recorded-music-catalog11111/) — market pricing of royalty streams.
 5. [*Estate of Michael J. Jackson v. Commissioner*, T.C. Memo. 2021-48](https://www.ustaxcourt.gov/) — image-and-likeness valuation dispute.
 6. [US IRC §409A and equity-compensation valuation practice](https://www.law.cornell.edu/uscode/text/26/409A)

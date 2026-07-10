@@ -65,7 +65,7 @@ Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the tem
 
 ## What still needs doing
 
-- Primary-source verification pass across all seven files (items flagged "(to verify)"): the APR episode numbers, the German constitutional citations, the Murdoch trust ruling, the US exemption history, and the Farm Bureau farm-loss claim.
+- ~~Primary-source verification pass across all seven files~~ Completed July 2026: the APR episode numbers (including the December 2025 £2.5m climbdown), the German constitutional citations, the Murdoch trust ruling and September 2025 settlement, the US exemption history (through the 2025 $15m legislation), and the Farm Bureau farm-loss claim are now cited to primary or authoritative sources in the individual files. Remaining gaps (e.g. the "nine out of ten" distributional line) await this project's own modelling rather than external sources.
 - A costed sketch of the standing counter-organisation: rapid response, validator network, watchdog, and security functions — with [../13-movement/funding.md](../13-movement/funding.md).
 - Interviews or literature on defectors from opposition campaigns (former "death tax" campaigners who recanted, if any) as inoculation material.
 - War-gaming exercise: red-team the launch of this proposal using [attack-playbook.md](attack-playbook.md) as the red team's brief, and score the mitigations.

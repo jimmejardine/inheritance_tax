@@ -4,7 +4,7 @@
 
 ## The mismatch stated precisely
 
-**Outlays are demographic and immediate.** A UK birth-cohort reaching 25 is roughly 700,000–800,000 people (to verify against ONS cohort data). At £50,000 each, a full-rate universal endowment costs on the order of **£35–40bn per year from the first year** it is paid universally — comparable to a major department's budget (all figures in this file are illustrative and marked for micro-simulation; see [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
+**Outlays are demographic and immediate.** A UK cohort at age 25 is roughly 850,000–900,000 people — the UK population aged 25–29 was ≈4.45 million in 2024, about 890,000 per single year of age [2]. At £50,000 each, a full-rate universal endowment costs on the order of **£43–45bn per year from the first year** it is paid universally — comparable to a major department's budget (all figures in this file are illustrative and marked for micro-simulation; see [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
 
 **Revenue is actuarial and slow.** Three lags stack:
 
@@ -12,7 +12,7 @@
 2. **Cumulation starts near zero.** Lifetime ledgers begin (largely) empty at commencement; most recipients spend years consuming threshold headroom before any receipt crosses into the 100% band. Early-year effective yield is therefore *below* the mature rate even on the deaths that do occur.
 3. **Forestalling thins the early base.** Pre-commencement transfers outside the lookback window ([announcement-effects.md](announcement-effects.md)) reduce early-decade taxable receipts; this leakage is one-generation-only but is concentrated exactly in the bridge period.
 
-Mature-state annual revenue is plausibly of the same order as the endowment cost — UK annual inherited-and-gifted flows are estimated in the low hundreds of billions, with the share above £500k-per-recipient to be established by micro-simulation (to verify; [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) — but maturity is 20+ years out. The bridge covers the gap.
+Mature-state annual revenue is plausibly of the same order as the endowment cost — UK annual inherited-and-gifted flows are estimated at just over £100 billion (inheritances ≈£98bn in 2019–20 plus lifetime gifts ≈£6bn a year, with inheritances projected to reach roughly 2.4× their 2021 level by the mid-2040s — over £230bn a year) [7], with the share above £500k-per-recipient to be established by micro-simulation ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) — but maturity is 20+ years out. The bridge covers the gap.
 
 ## Bridge options
 
@@ -39,14 +39,14 @@ Structuring the bridge through a statutory **National Endowment Fund** rather th
 
 ## Stylised 20-year cashflow sketch
 
-All figures illustrative, UK, constant prices, **to verify by micro-simulation** against wealth-holding and mortality data ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)). Assumes Phase 2 begins year 1, Phase 3 (100% rate + full endowment) begins year 6, per [sequencing.md](sequencing.md).
+All figures illustrative, UK, constant prices, **to be replaced by micro-simulation** against wealth-holding and mortality data ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)). Assumes Phase 2 begins year 1, Phase 3 (100% rate + full endowment) begins year 6, per [sequencing.md](sequencing.md).
 
 | Years | Receipts (illustrative) | Outlays (illustrative) | Fund position |
 |---|---|---|---|
-| 1–5 (Phase 2) | Rising schedule on large receipts: grows from ~current IHT yield (£7–8bn) toward £15–20bn/yr as rates step up | Pilots only (£0.5–1bn/yr); fund accumulates | Builds a £40–60bn opening reserve |
-| 6–10 (Phase 3 launch) | 100% rate in force but ledgers young and forestalling shadow at its deepest: £20–30bn/yr | Full endowment £35–40bn/yr | Annual gap £5–20bn: met from reserve, then fund borrowing; peak cumulative borrowing plausibly £50–100bn |
-| 11–15 | Ledgers filling; first post-commencement generation's large bequests arriving: £30–40bn/yr | £38–42bn/yr (wage-indexed) | Gap narrows to roughly zero; borrowing peaks and plateaus |
-| 16–20 | Wealth-holding cohorts' mortality peak approaching; forestalling shadow expired: £40–55bn/yr | £40–45bn/yr | Surplus services and retires bridge debt |
+| 1–5 (Phase 2) | Rising schedule on large receipts: grows from ~current IHT yield (£8.2bn in 2024–25 [3]) toward £15–20bn/yr as rates step up | Pilots only (£0.5–1bn/yr); fund accumulates | Builds a £40–60bn opening reserve |
+| 6–10 (Phase 3 launch) | 100% rate in force but ledgers young and forestalling shadow at its deepest: £20–30bn/yr | Full endowment £43–45bn/yr | Annual gap £13–25bn: met from reserve, then fund borrowing; peak cumulative borrowing plausibly £75–125bn |
+| 11–15 | Ledgers filling; first post-commencement generation's large bequests arriving: £30–40bn/yr | £44–47bn/yr (wage-indexed) | Gap narrows; borrowing peaks and plateaus |
+| 16–20 | Wealth-holding cohorts' mortality peak approaching; forestalling shadow expired: £40–55bn/yr | £46–49bn/yr | Approaching balance; upper-range receipts begin retiring bridge debt |
 | 20+ | Mature regime | Endowment fully funded | Structural surplus to general revenue, per [`../02-proposal/README.md`](../02-proposal/README.md) |
 
 The shape — reserve build, a roughly decade-long financed gap peaking in the tens of billions, then self-amortisation — is robust to parameter changes even though every number in the table is a placeholder. The two genuine risks are (i) mature revenue disappointing because avoidance beats the spine ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md), [`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)), and (ii) a mid-bridge government cancelling the escalator — a political risk, answered by the constituency the early endowments themselves create ([pilots.md](pilots.md), [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md)).
@@ -71,8 +71,9 @@ The shape — reserve build, a roughly decade-long financed gap peaking in the t
 ## Sources
 
 1. [Mirrlees Review, *Tax by Design*](https://ifs.org.uk/publications/taxation-wealth-and-wealth-transfers) — wealth-transfer flow estimates and lifetime-receipts architecture.
-2. [ONS — population by single year of age (cohort sizing for the endowment)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration) — figures to verify.
-3. [HMRC — Inheritance Tax statistics (current yield baseline)](https://www.gov.uk/government/collections/inheritance-tax-statistics) .
+2. [UN World Population Prospects 2024 — UK population by age band (via PopulationPyramid.net)](https://www.populationpyramid.net/united-kingdom/2024/) — 25–29 cohort ≈4.45m in 2024; micro-simulation should use [ONS mid-year population estimates by single year of age](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates).
+3. [HMRC — Inheritance Tax statistics (current yield baseline)](https://www.gov.uk/government/collections/inheritance-tax-statistics); [OBR — inheritance tax: forecasts in-depth](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/inheritance-tax/) — record £8.2bn receipts in 2024–25; OBR forecasts £8.7bn in 2025–26.
 4. [OBR — fiscal-rules commentary and long-run fiscal sustainability reports](https://obr.uk/) — classification and rules interaction.
 5. [Atkinson, A. B. (2015). *Inequality: What Can Be Done?*](https://www.hup.harvard.edu/books/9780674979789) — the paired minimum-inheritance/capital-endowment financing discussion.
-6. [Resolution Foundation / Intergenerational Commission — intergenerational wealth-flow estimates](https://www.resolutionfoundation.org/) — scale of UK inheritance flows (to verify against latest releases).
+6. [Leslie, J. and Shah, K. (2022). *Intergenerational rapport fair?* — Resolution Foundation](https://www.resolutionfoundation.org/app/uploads/2022/02/Intergenerational-rapport-fair.pdf) — intergenerational wealth-transfer flows, including the ≈£6bn/yr lifetime-gift estimate.
+7. [Goss, D. and Glover, B. (2023). *A New Age of Inheritance* — Demos](https://demos.co.uk/research/a-new-age-of-inheritance-what-does-it-mean-for-the-uk/) — inheritances worth over £98bn in FYE 2020 (2021/22 prices) plus ≈£6bn/yr in gifts; inheritances projected to peak around 2046 at ~2.4× their 2021 value, over £230bn a year.

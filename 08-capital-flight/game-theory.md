@@ -50,7 +50,7 @@ The strategic shift is in the top-right cell. Under abolition-era conditions, ad
 
 The coalition needed is smaller than intuition suggests, for three compounding reasons:
 
-1. **Wealth concentration by geography.** The UK, EU and US together hold the large majority of the world's privately inheritable wealth held under strong rule of law (share to verify against Credit Suisse/UBS Global Wealth Report data) [6]. A three-party floor covers most of the base before any haven signs anything.
+1. **Wealth concentration by geography.** The US alone holds 34.7% of global personal wealth and Europe (EU, UK, Switzerland, Norway, Turkey) a further 22.3% — together roughly 57% of the world total of USD 471 trillion at end-2024, and a substantially higher share of the subset held under strong rule of law [6]. A three-party floor covers most of the base before any haven signs anything.
 2. **Situs coverage.** What the coalition's residents own is largely *in* the coalition: its land, its listed companies, its funds. Dual-nexus rules make coalition-situs wealth taxable regardless of owner or heir residence, so the coalition's writ runs over its assets even for émigrés.
 3. **Congestion pricing of the exits.** The havens jointly cannot house more than a trivial fraction of the affected population; as inflows rise, property prices, entry deposits, and domestic political resistance rise with them — Monaco's waiting lists, Singapore's 60% stamp duty, and Portugal's repeal are the congestion mechanism already operating ([exit-options.md](exit-options.md)). Flight is self-limiting in aggregate even where individually rational.
 
@@ -58,11 +58,11 @@ Formally: the abolition-era game was many competing jurisdictions and free exit;
 
 ## Honest residuals
 
-The equilibrium has shifted; it has not arrived. The US may be the coalition's laggard rather than its member for electoral cycles at a time ([`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md)); Pillar Two itself shows implementation wobble under US pressure (status to verify); a determined haven with rule-of-law credentials (Switzerland, Singapore) capturing even a small share of the *formation* margin is a multi-decade erosion risk; and game-theoretic optimism is not a substitute for the domestic anti-avoidance spine, which must carry the load alone in the meantime ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)). The claim this section sustains is calibrated, not triumphal: capital flight is a bounded, priceable, design-addressable friction — a cost of the policy, not a refutation of it. That is all the thesis requires.
+The equilibrium has shifted; it has not arrived. The US may be the coalition's laggard rather than its member for electoral cycles at a time ([`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md)); Pillar Two itself shows implementation wobble under US pressure — the June 2025 G7 "side-by-side" accord and the January 2026 OECD package exempt US-parented groups from the IIR and UTPR [7]; a determined haven with rule-of-law credentials (Switzerland, Singapore) capturing even a small share of the *formation* margin is a multi-decade erosion risk; and game-theoretic optimism is not a substitute for the domestic anti-avoidance spine, which must carry the load alone in the meantime ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)). The claim this section sustains is calibrated, not triumphal: capital flight is a bounded, priceable, design-addressable friction — a cost of the policy, not a refutation of it. That is all the thesis requires.
 
 ## Research gaps
 
-- Quantify the UK+EU+US share of global inheritable private wealth and its situs composition (UBS/Credit Suisse GWR; WID.world).
+- Refine the UK+EU+US share of global inheritable private wealth (headline regional shares now cited [6]) and quantify its situs composition (WID.world).
 - Formalise the congestible-outside-option model: at what haven price elasticity does aggregate flight self-limit below the revenue-materiality threshold?
 - Identify the minimum viable coalition short of the full UK+EU+US triad (e.g. UK + a Franco-German-led enhanced-cooperation bloc) and its base coverage.
 - Model announcement-window flight under different sequencing assumptions (calibrate to the Norwegian and 2025 UK non-dom episodes).
@@ -76,4 +76,5 @@ The equilibrium has shifted; it has not arrived. The US may be the coalition's l
 3. [Pedrick, W. H. (1981). "Oh! To Die Down Under! Abolition of Death and Gift Duties in Australia." *Washington Law Review* 57(1)](https://digitalcommons.law.uw.edu/wlr/vol57/iss1/5/)
 4. [OECD/G20 Inclusive Framework — Two-Pillar Solution (2021) and implementation tracking; OECD AEOI portal](https://www.oecd.org/tax/beps/)
 5. [Zucman, G. (2024). G20 report on minimum taxation of ultra-high-net-worth individuals](https://gabriel-zucman.eu/)
-6. [UBS (formerly Credit Suisse) — *Global Wealth Report*, regional wealth distribution tables](https://www.ubs.com/global/en/family-office-uhnw/reports/global-wealth-report.html)
+6. [UBS (formerly Credit Suisse), *Global Wealth Report 2025* — end-2024 data: US 34.7% and Europe 22.3% of USD 471tn global personal wealth](https://www.ubs.com/global/en/media/display-page-ndp/en-20250618-gwr-2025.html); [regional breakdown summarised by Euronews (Aug 2025)](https://www.euronews.com/business/2025/08/14/global-personal-wealth-which-countries-have-the-highest-shares-in-europe)
+7. [G7 Statement on Global Minimum Taxes (June 2025) — the "side-by-side" system for US-parented groups](https://home.treasury.gov/news/press-releases/sb0181); [OECD Inclusive Framework, Side-by-Side Package (January 2026)](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-minimum-tax/side-by-side-package.pdf)

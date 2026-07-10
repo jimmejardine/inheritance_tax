@@ -10,7 +10,7 @@ Philanthropic funders with current or historical inequality programmes (all prog
 |---|---|---|
 | [Joseph Rowntree Foundation](https://www.jrf.org.uk/) / [Charitable Trust](https://www.jrct.org.uk/) (UK) | Core poverty and wealth-inequality funder; JRCT funds structural-change work | Distinct entities with different rules; JRCT historically more political-economy-friendly |
 | [Open Society Foundations](https://www.opensocietyfoundations.org/) | Funds economic-justice and fiscal-fairness work internationally | High capacity; carries its own attack surface (see below) |
-| [Omidyar Network](https://www.omidyar.com/our-work/new-economy) / Luminos-adjacent vehicles | "Reimagining capitalism" programme funds heterodox economics | LLC structure allows non-charitable grants |
+| [Omidyar Network](https://omidyar.com/tag/capitalism/) / Luminos-adjacent vehicles | "Reimagining Capitalism" programme funds heterodox economics (New Economic Paradigm; Worker Power; Corporations, Capital Markets & the Common Good) | LLC structure allows non-charitable grants |
 | [Ford Foundation](https://www.fordfoundation.org/) | Long-standing inequality focus | US-centred; large-grant capable |
 | [Friends Provident Foundation](https://friendsprovidentfoundation.org/), [Barrow Cadbury](https://barrowcadbury.org.uk/) (UK) | Fund economic-systems-change work at smaller scale | Realistic first-grant scale for phase 1 |
 | Wealthy individual defectors | [Patriotic Millionaires](https://patrioticmillionaires.org/) orbit ([messengers.md](messengers.md)) | Fastest money; highest irony hazard |
@@ -22,7 +22,7 @@ Phase-1 need is modest — one funded fellowship inside a host institution ([org
 An anti-dynastic-wealth movement funded by dynastic wealth is a gift to opponents: "billionaires bankrolling the abolition of your inheritance" writes itself ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)); any OSF grant imports the full Soros conspiracy ecosystem ([10-opposition/astroturf-and-lobbying.md](../10-opposition/astroturf-and-lobbying.md)). The hazard cannot be avoided — refusing all wealthy money means no phase 1 — so it must be *structured around*:
 
 1. **Irrevocable, endowment-style gifts.** Money given once, permanently, with no recurring renewal decision, cannot discipline the grantee. A donor who can cancel next year's grant holds a veto; a donor who has already given holds a receipt. Prefer single irrevocable gifts over renewable programme grants wherever negotiable.
-2. **Funder-diversity caps.** No single source above a set share of the budget (e.g. 25–30% — calibrate to sector norms, to verify); the cap is published and audited. This converts "who funds you?" from a gotcha into a table.
+2. **Funder-diversity caps.** No single source above a set share of the budget (e.g. 25–30% — a published judgement, not a sector standard: NCVO and Charity Commission guidance urges income diversification but fixes no percentage); the cap is published and audited. This converts "who funds you?" from a gotcha into a table.
 3. **No governance for sale.** Board seats and editorial input are never attached to gifts — the written gift-acceptance policy from [organisational-forms.md](organisational-forms.md) is shown to every prospective funder before negotiation.
 4. **The defector frame, pre-emptively.** Wealthy funders are presented the way wealthy messengers are ([messengers.md](messengers.md)): interested parties disarming themselves, with disclosure first. "Yes, a millionaire pays for this work; she also volunteers her own estate for the tax" converts the irony into the argument.
 
@@ -32,7 +32,7 @@ The opposition's cheapest attack is the astroturf allegation — that the moveme
 
 - Publish all funding above a low threshold, with amounts, unprompted and on a fixed schedule.
 - Publish the gift-acceptance policy and refusal log (categories of money declined and why).
-- Invite the comparison: opponents of inheritance taxation are historically funded by a handful of dynastic families (US death-tax-repeal campaign — see [precedents.md](precedents.md) and [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md); specifics to verify). Symmetric disclosure demands become a standing offensive tool, but only if our own glass house is actually clean.
+- Invite the comparison: opponents of inheritance taxation are historically funded by a handful of dynastic families — [Public Citizen and United for a Fair Economy (2006) documented 18 families worth a combined $185.5bn financing and coordinating the decade-long US estate-tax repeal campaign](https://www.citizen.org/news/public-citizen-and-united-for-a-fair-economy-expose-stealth-campaign-of-super-wealthy-to-repeal-federal-estate-tax/) (see [precedents.md](precedents.md) and [10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md)). Symmetric disclosure demands become a standing offensive tool, but only if our own glass house is actually clean.
 
 ## The membership model as strategic destination
 
@@ -43,7 +43,7 @@ The opposition's cheapest attack is the astroturf allegation — that the moveme
 | Membership / small recurring donors | Slowest to build | Highest | None | Strongest — proves a constituency exists |
 | Earned income (events, publications, training) | Medium | Medium | None | Modest |
 
-Small recurring money is strategically different in kind: it cannot be withdrawn by one decision, it demonstrates to parties that voters care enough to pay ([12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md)), and every donor is a captured contact for the recruitment ladder ([recruitment.md](recruitment.md), ring 4). Precedents: [38 Degrees](https://home.38degrees.org.uk/) and [MoveOn](https://front.moveon.org/) sustain campaigning on small-donor bases; membership-funded journalism (e.g. [openDemocracy](https://www.opendemocracy.net/), [Novara](https://novaramedia.com/) — to verify models) shows the same for content operations. Target trajectory: grant-dominated in phases 1–2, membership covering core costs by phase 3 ([organisational-forms.md](organisational-forms.md)).
+Small recurring money is strategically different in kind: it cannot be withdrawn by one decision, it demonstrates to parties that voters care enough to pay ([12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md)), and every donor is a captured contact for the recruitment ladder ([recruitment.md](recruitment.md), ring 4). Precedents: [38 Degrees](https://home.38degrees.org.uk/) and [MoveOn](https://front.moveon.org/) sustain campaigning on small-donor bases; membership-funded journalism shows the same for content operations — [Novara](https://novaramedia.com/about/how-we-are-funded/) drew ~89% of income from supporter donations (2022), while [openDemocracy](https://www.opendemocracy.net/supporters/) runs a mixed foundation-plus-reader model. Target trajectory: grant-dominated in phases 1–2, membership covering core costs by phase 3 ([organisational-forms.md](organisational-forms.md)).
 
 ## What we do not take
 
@@ -62,4 +62,3 @@ Per the two-organisation model ([organisational-forms.md](organisational-forms.m
 
 - Current inequality-programme priorities at JRF/JRCT, Omidyar, Ford, OSF (programmes cycle; verify within 12 months of approach).
 - UK [Electoral Commission](https://www.electoralcommission.org.uk/our-guidance/campaigner/non-party-campaigner) non-party campaigner spending thresholds, and US (c)(4) donor-disclosure state variations — both constrain the phase-3 campaign vehicle's fundraising ([organisational-forms.md](organisational-forms.md)).
-- Sector-norm figures for funder-concentration caps.

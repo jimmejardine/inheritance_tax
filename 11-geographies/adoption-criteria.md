@@ -30,7 +30,7 @@ Where a generation is locked out of ownership and inheritance visibly determines
 
 ### C7. Exposure to the great wealth transfer
 
-Countries where post-war cohorts hold historically large housing and pension wealth now passing to heirs — making inheritance politically visible on a scale not seen since 1914 (magnitudes in [crisis-windows.md](crisis-windows.md), to verify). High exposure cuts both ways: more revenue and salience, but also more voters expecting a bequest ([`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md)).
+Countries where post-war cohorts hold historically large housing and pension wealth now passing to heirs — making inheritance politically visible on a scale not seen since 1914 (magnitudes in [crisis-windows.md](crisis-windows.md)). High exposure cuts both ways: more revenue and salience, but also more voters expecting a bequest ([`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md)).
 
 ### C8. Crisis windows
 
@@ -38,7 +38,7 @@ Major redistributive fiscal change historically clusters around shocks — war f
 
 ### C9. Constitutional property protections
 
-Some constitutions protect not merely property but *inheritance itself*. Germany's Art. 14(1) Grundgesetz guarantees "property and the right of inheritance" (*das Eigentum und das Erbrecht werden gewährleistet*), and the Bundesverfassungsgericht has repeatedly policed inheritance-tax design on this basis (to verify scope — see [continental-europe.md](continental-europe.md)). France's Conseil constitutionnel has struck down levies as "confiscatory." The UK, with no codified constitution, has no equivalent blocker. This criterion is a **gate**: a hard constitutional bar cannot be legislated around, only amended around.
+Some constitutions protect not merely property but *inheritance itself*. Germany's Art. 14(1) Grundgesetz guarantees "property and the right of inheritance" (*das Eigentum und das Erbrecht werden gewährleistet*) [1], and the Bundesverfassungsgericht has repeatedly policed inheritance-tax design — though its landmark strikes, including the December 2014 judgment voiding the business-asset reliefs, rested chiefly on the Art. 3(1) equality clause rather than Art. 14 itself [2] (scope discussed in [continental-europe.md](continental-europe.md)). France's Conseil constitutionnel has struck down levies as "confiscatory." The UK, with no codified constitution, has no equivalent blocker. This criterion is a **gate**: a hard constitutional bar cannot be legislated around, only amended around.
 
 ### C10. Federal vs unitary tax assignment
 
@@ -60,9 +60,9 @@ Each country file scores its subject 0–5 on each criterion:
 Rules of application:
 
 - **Additive with two gates.** Total score (max 50) drives the ranking in [README.md](README.md), *except* that a 0–1 on C9 (constitution) or C10 (federal assignment, where no national fix is available) caps the country's rating at "unlikely" regardless of total. Germany illustrates the C9 gate; pre-federal-fix US state action illustrates C10.
-- **Score the variant, not the status quo.** The question is adoptability of *this* design (recipient-based, thresholded, endowment-paired), not sympathy for existing estate taxes. Korea's live debate about moving to a recipient basis (to verify) raises its C3 score even while its government debates rate *cuts*.
+- **Score the variant, not the status quo.** The question is adoptability of *this* design (recipient-based, thresholded, endowment-paired), not sympathy for existing estate taxes. Korea's live plan to move to a recipient basis — a bill announced in March 2025, targeted at 2028 [3] — raises its C3 score even while its government pursues rate *cuts* and higher deductions.
 - **Direction of travel noted qualitatively.** A country cutting its inheritance tax scores the same on infrastructure (the machinery exists) but the country file must flag momentum.
-- **Ordinal, not cardinal.** Scores are structured analyst judgement for comparison across this section, not measurements. Every load-bearing factual claim behind a score is flagged (to verify) in the country file.
+- **Ordinal, not cardinal.** Scores are structured analyst judgement for comparison across this section, not measurements. Load-bearing factual claims behind scores are cited in the country files; claims that could not yet be confirmed against a primary source are marked (unverified) there.
 
 ## Worked example: how a scorecard reads
 
@@ -76,7 +76,7 @@ A compressed illustration using the UK (full version in [uk.md](uk.md)):
 | C4 Institutions | 5 | One Finance Bill suffices |
 | C5 Egalitarian norms | 3 | Fairness intuitions vs property aspiration |
 | C6 Housing salience | 5 | Defining grievance of the under-40 cohort |
-| C7 Transfer exposure | 4 | Trillions in housing/pension wealth moving (to verify) |
+| C7 Transfer exposure | 4 | ≈£5.5tn projected to pass between UK generations 2017–47 [4] |
 | C8 Crisis windows | 4 | Chronic fiscal gap keeps radical revenue options live |
 | C9 Constitution | 5 | Parliamentary sovereignty; no codified bar |
 | C10 Assignment | 5 | Reserved, UK-wide tax |
@@ -99,3 +99,10 @@ The societies that best fit the *values* criteria — Sweden, Norway, Austria, C
 ## Files applying this framework
 
 - [nordics.md](nordics.md) · [uk.md](uk.md) · [ireland.md](ireland.md) · [korea-japan.md](korea-japan.md) · [continental-europe.md](continental-europe.md) · [anglosphere.md](anglosphere.md) · [unlikely-and-havens.md](unlikely-and-havens.md) · [crisis-windows.md](crisis-windows.md)
+
+## Sources
+
+1. [Grundgesetz Art. 14 — gesetze-im-internet.de](https://www.gesetze-im-internet.de/gg/art_14.html)
+2. [Bundesverfassungsgericht — press release No. 116/2014: Current structure of privileges for business assets under the Inheritance Tax Act not fully constitutional (17 December 2014)](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2014/bvg14-116.html)
+3. [The Korea Times — Korea to ease inheritance tax rules for 1st time in 75 years (12 March 2025)](https://www.koreatimes.co.kr/business/banking-finance/20250312/korea-to-ease-inheritance-tax-rules-for-1st-time-in-75-years)
+4. [Kings Court Trust / Cebr — Passing on the pounds: the rise of the UK's inheritance economy (£5.5tn transferring 2017–2047)](https://www.kctrust.co.uk/wealthtransfer)

@@ -15,7 +15,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 - **The historical failures were liquidity failures:** a tax bill due in months against an asset that takes years to yield. The design answer is to match the payment schedule to the asset ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md)).
 - **A 30-year statutory deferral at a near-riskless rate** converts a confiscatory-looking headline into an annual charge an operating business can service out of earnings.
 - **Where even that fails, the optional state equity stake** means the public becomes a silent minority partner rather than a bailiff. The farm keeps farming; the family keeps managing; what ends is only the *untaxed* transmission of multi-million-pound capital.
-- **The status quo is not the farmer's friend.** UK APR/BPR reliefs have made farmland and business assets into avoidance wrappers, inflating land prices beyond what working farmers can pay (to verify against land-price and relief-cost data).
+- **The status quo is not the farmer's friend.** UK APR/BPR reliefs have made farmland and business assets into avoidance wrappers: buying farmland is one of the best-known ways to shelter wealth from IHT, and ministers and tax bodies acknowledge the exemption "artificially" inflates farmland prices beyond what working farmers can pay [1][2].
 - Genuinely wrenching edge cases exist and are catalogued honestly in [`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md).
 
 **Deep treatment:** [`../04-case-against/family-business.md`](../04-case-against/family-business.md) · [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) · [`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)
@@ -29,8 +29,8 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 **Full answer.** Run the arithmetic the objection never runs:
 
 - The threshold is per *recipient*, cumulative over their lifetime ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)): two children can jointly receive £1m of parental housing wealth at 0%.
-- Add bequests to their partners or to grandchildren and a family can pass £2m or more before any tax applies (to verify worked examples against the thresholds file).
-- The average UK house price is far below £500,000, and even in London the median home fits inside two children's allowances (figures to verify).
+- Add bequests to their partners or to grandchildren and a family can pass £2m or more before any tax applies — four recipients at £500k each, matching the worked examples in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md).
+- The average UK house price is far below £500,000 — England averaged £293,000 in late 2025 — and even London's average home (£551,000) fits comfortably inside two children's allowances [3].
 - On the design's own estimate, 90%+ of recipients are entirely unaffected ([`../02-proposal/README.md`](../02-proposal/README.md)).
 - The Swedish failure mode — nominal thresholds silently overtaken by house-price booms — is specifically engineered out by indexing the threshold to the *maximum* of wage growth and median house-price growth ([`../05-history/abolitions.md`](../05-history/abolitions.md)).
 
@@ -46,7 +46,7 @@ Whoever this tax is for, it is not the owner of a three-bed semi.
 
 **Full answer.**
 
-- **List what parents may still do without restriction:** house, feed, educate (including privately), fund training, pay for weddings, help with housing, support through illness, and transfer up to the lifetime threshold in outright gifts or bequests — a sum that on its own places the child near the top of the wealth distribution (to verify percentile).
+- **List what parents may still do without restriction:** house, feed, educate (including privately), fund training, pay for weddings, help with housing, support through illness, and transfer up to the lifetime threshold in outright gifts or bequests — a sum that on its own exceeds the entire net wealth (property, pensions and savings combined) of the median British household, £293,700 in 2020–22 [4].
 - **The boundary between untaxed parental support and countable capital transfer is a genuine design question**, treated seriously in [`../07-implementation/boundary-problem.md`](../07-implementation/boundary-problem.md) and [`../07-implementation/human-capital.md`](../07-implementation/human-capital.md).
 - **Then turn the objection around:** under the status quo, most parents *cannot* meaningfully provide capital to their children, because they have none to give. The endowment universalises the thing this objection valorises — every parent's child receives £50,000 at 25 ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
 - A "right to provide" that only the top few percent can exercise is a privilege wearing a right's clothing.
@@ -82,6 +82,13 @@ Whoever this tax is for, it is not the owner of a three-bed semi.
 - Handling this framing battle — including why the proposal should never be defended under the opponent's name for it — is the business of [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md).
 
 **Deep treatment:** [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md) · [`../06-palatability/framing.md`](../06-palatability/framing.md)
+
+## Sources
+
+1. [Chartered Institute of Taxation, "IHT unlimited exemption is 'unsustainable', minister tells peers"](https://www.tax.org.uk/iht-unlimited-exemption-is-unsustainable-minister-tells-peers)
+2. [Sustain, "Inheritance Tax: What the new rules mean for farmers" (November 2024)](https://www.sustainweb.org/blogs/nov24-farming-budget-inheritance-tax-apr/)
+3. [ONS, Private rent and house prices, UK (January 2026 bulletin, data to late 2025)](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/january2026)
+4. [ONS, Household total wealth in Great Britain: April 2020 to March 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/totalwealthingreatbritain/april2020tomarch2022)
 
 ## See also
 

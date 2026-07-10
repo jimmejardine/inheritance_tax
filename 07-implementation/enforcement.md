@@ -30,7 +30,7 @@ The penalty ladder distinguishes error from concealment:
 | Deliberate with concealment / offshore | Tax + up to 200% (mirroring the UK's offshore-penalty enhancements, which already reach 200% for the least-transparent jurisdictions [2]) |
 | Fraud | Criminal track (§7) plus civil recovery |
 
-The arithmetic to hold: with detection probability *p* and penalty multiple *m* (total repayment = tax × (1+m)), evasion is negative-EV when p × (1+m) > 1. At a 200% penalty ceiling, detection probability above ~33% over the *lifetime of the concealment* (not per year — see §5) suffices; the mesh plus whistleblower channel plus no-limitation rule is designed to push lifetime detection probability for large concealed receipts well past that. Exact calibration to verify with compliance modelling.
+The arithmetic to hold: with detection probability *p* and penalty multiple *m* (total repayment = tax × (1+m)), evasion is negative-EV when p × (1+m) > 1. At a 200% penalty ceiling, detection probability above ~33% over the *lifetime of the concealment* (not per year — see §5) suffices; the mesh plus whistleblower channel plus no-limitation rule is designed to push lifetime detection probability for large concealed receipts well past that. Exact calibration requires the compliance modelling commissioned in the [section README](README.md).
 
 ## 4. Whistleblowers
 
@@ -63,7 +63,7 @@ Concealing a £2m receipt (headroom exhausted) saves £2m if never caught. Assum
 | 50% | £3.0m | −£1.0m |
 | 70% | £4.2m | −£2.2m, plus prosecution risk |
 
-Every design element in this section exists to push the left column upward for large receipts; the mesh alone likely clears breakeven for any transfer that touches a bank, a registry, or a will (to verify via compliance modelling).
+Every design element in this section exists to push the left column upward for large receipts; the mesh alone likely clears breakeven for any transfer that touches a bank, a registry, or a will (a projection the commissioned compliance modelling must test).
 
 ## 8. International enforcement
 
@@ -71,7 +71,7 @@ Cross-border information flows ride CRS/FATCA and their extension to transfer re
 
 ## Research gaps
 
-- Empirical detection-probability estimates for concealed transfers under current regimes (tax-gap literature is income-centric; transfer-tax gap estimates are thin — to verify what HMRC/IRS publish).
+- Empirical detection-probability estimates for concealed transfers under current regimes (tax-gap literature is income-centric; HMRC does publish an IHT gap — [3.9%, £0.3bn, 2023–24](https://www.gov.uk/government/statistics/measuring-tax-gaps/6-tax-gaps-other-taxes) — but the IRS publishes no comparable estate-tax gap series).
 - Optimal whistleblower award floor for family-scale (vs corporate-scale) evasion.
 - Whether penalty maxima above 200% would face proportionality challenges (ECHR A1P1 / US Eighth Amendment excessive-fines line — link [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md)).
 

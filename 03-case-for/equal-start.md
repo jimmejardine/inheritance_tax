@@ -8,8 +8,8 @@
 
 - Every major liberal-egalitarian theory implies a capital grant more directly than it implies most existing welfare instruments: Rawls' fair equality of opportunity, Dworkin's starting-gate resource equality, and Sen/Nussbaum's capabilities all concern the *conditions people begin from*, not the incomes they end with [1][2][3].
 - The luck-egalitarian distinction between brute luck and option luck maps exactly onto the scheme's two halves: the tax neutralises brute luck (unchosen inheritance), the endowment equalises starting resources, and market outcomes thereafter are option luck — chosen, and therefore legitimate [2].
-- Sherraden's asset-based welfare literature argues, with supporting evidence, that assets change behaviour in ways income streams do not: they lengthen planning horizons, enable investment and risk-taking, and alter self-perception ("asset effects") — even at small scale (to verify) [4][5].
-- The UK Child Trust Fund and the SEED for Oklahoma Kids experiment provide the nearest policy evidence: modest endowments at birth measurably shifted savings behaviour and parental expectations, though scheme sizes were too small to test capital-grant effects at the proposed scale (to verify) [5][6].
+- Sherraden's asset-based welfare literature argues, with supporting evidence, that assets change behaviour in ways income streams do not: they lengthen planning horizons, enable investment and risk-taking, and alter self-perception ("asset effects") — even at small scale [4][5].
+- The UK Child Trust Fund and the SEED for Oklahoma Kids experiment provide the nearest policy evidence: modest endowments at birth measurably shifted savings behaviour and parental expectations, though scheme sizes were too small to test capital-grant effects at the proposed scale [5][6].
 - Redistributing *flows* creates a permanent administrative relationship framed as dependency; redistributing *starts* is a one-off transfer of standing, after which the recipient meets the market as a principal. The moral and political grammar of the two is entirely different [7][8].
 - The scheme *arms* meritocracy rather than undermining it: it is the missing enforcement mechanism of the equal-start premise on which every desert-based defence of market outcomes silently relies (see [`meritocratic-legitimacy.md`](meritocratic-legitimacy.md)).
 
@@ -27,10 +27,10 @@ Michael Sherraden's *Assets and the Poor* (1991) launched the modern asset-based
 
 | Evidence stream | What was done | What was found | Caveat |
 |---|---|---|---|
-| Individual Development Accounts (US, 1990s–2000s) | Matched savings accounts for low-income households; randomised in the Tulsa experiment | Increased homeownership and savings activity during the programme; long-run effects mixed (to verify) [4][5] | Small sums; effects fade without sustained structure |
-| SEED for Oklahoma Kids (2007–) | Randomised $1,000 child development accounts at birth | Higher parental educational expectations and child socio-emotional scores; assets accumulated (to verify) [5] | Tests psychology of *holding*, not the economics of *deploying*, capital |
-| UK Child Trust Fund (2002–2011) | Universal at-birth endowment (£250–£500, means-tested top-ups) | Established universal accounts; abolished before any cohort matured, so the core question was never tested [6] | Sums an order of magnitude below the proposal; a natural-experiment literature on the maturing cohorts is only now possible (to verify) |
-| Inheritance/windfall studies | Effects of receipts on recipients | Receipts raise self-employment entry and small-business survival (Holtz-Eakin–Joulfaian–Rosen; Blanchflower–Oswald) (to verify) [7] | Same literature shows large windfalls reduce labour supply — the design answer is the *bounded* size of the grant (see [`heirs-burden.md`](heirs-burden.md) §4) |
+| Individual Development Accounts (US, 1990s–2000s) | Matched savings accounts for low-income households; randomised in the Tulsa experiment (1998–2003) | Raised homeownership among baseline renters during the programme; controls caught up after it ended, and by year 10 the effect was statistically insignificant [4][13] | Small sums; effects fade without sustained structure |
+| SEED for Oklahoma Kids (2007–) | Randomised $1,000 child development accounts at birth (~2,700 mothers) | Higher parental educational expectations and child socio-emotional scores; assets accumulated [5] | Tests psychology of *holding*, not the economics of *deploying*, capital |
+| UK Child Trust Fund (2002–2011) | Universal at-birth endowment (£250–£500, means-tested top-ups) | Established universal accounts; abolished before any cohort matured, so the core question was never tested [6] | Sums an order of magnitude below the proposal; the first accounts matured in September 2020, so a natural-experiment literature on the maturing cohorts is only now becoming possible |
+| Inheritance/windfall studies | Effects of receipts on recipients | Receipts raise self-employment entry and small-business survival — a £5,000 inheritance roughly doubled the probability of setting up in business in the UK cohort data (Holtz-Eakin–Joulfaian–Rosen; Blanchflower–Oswald) [7] | Same literature shows large windfalls reduce labour supply — the design answer is the *bounded* size of the grant (see [`heirs-burden.md`](heirs-burden.md) §4) |
 
 The honest summary: the direct evidence concerns small assets, and the proposed endowment is large. What the literature establishes is the *mechanism* — assets change horizons and behaviour in ways income does not — plus the capital-constraint finding that access to modest capital is a binding constraint on enterprise formation. The extrapolation to £50k is an argument, not a finding, and pilot designs to close the gap are proposed in [`../15-transition/pilots.md`](../15-transition/pilots.md).
 
@@ -57,7 +57,7 @@ The corollary deserves emphasis because it inverts the usual political coding: *
 | Natural funding pair | General taxation | General taxation / dividend | General taxation | **Inheritance tax: dynastic capital recycled as universal capital** |
 | Meritocratic effect | Neutral | Neutral | Partial start-equalisation | Full start-equalisation; legitimises subsequent outcomes |
 
-Baby bonds — enacted in miniature in Connecticut (2021) and proposed federally by Booker (to verify) — are the nearest living relative and a plausible stepping-stone ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)); the endowment differs in universality, scale, and its explicit funding link to the inheritance-tax base [11][12].
+Baby bonds — enacted in miniature in Connecticut (2021, the first state: $3,200 invested at birth for each Medicaid-covered child, funded and launched in 2023) and proposed federally in Booker's American Opportunity Accounts Act — are the nearest living relative and a plausible stepping-stone ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)); the endowment differs in universality, scale, and its explicit funding link to the inheritance-tax base [11][12][14].
 
 ## 6. Objections specific to the grant
 
@@ -73,7 +73,7 @@ The endowment should be distinguished from its better-known cousin. A universal 
 2. [Dworkin, R. (2000). *Sovereign Virtue*, chs. 1–2](https://www.hup.harvard.edu/books/9780674008106)
 3. [Sen, A. (1999). *Development as Freedom*; Nussbaum, M. (2011). *Creating Capabilities*](https://www.hup.harvard.edu/books/9780674050549)
 4. [Sherraden, M. (1991). *Assets and the Poor: A New American Welfare Policy*. M.E. Sharpe](https://www.routledge.com/Assets-and-the-Poor-New-American-Welfare-Policy/Sherraden/p/book/9780873326186)
-5. [Center for Social Development, Washington University in St. Louis — SEED OK and IDA research programme](https://csd.wustl.edu/)
+5. [Center for Social Development, Washington University in St. Louis — SEED for Oklahoma Kids (SEED OK) research programme](https://csd.wustl.edu/items/seed-for-oklahoma-kids-seed-ok-2/)
 6. [HM Revenue & Customs — Child Trust Fund statistics and scheme records](https://www.gov.uk/government/collections/child-trust-fund-statistics)
 7. [Holtz-Eakin, D., Joulfaian, D. & Rosen, H. (1994). "Entrepreneurial Decisions and Liquidity Constraints." *RAND Journal of Economics* 25(2)](https://www.jstor.org/stable/2555834); [Blanchflower, D. & Oswald, A. (1998). "What Makes an Entrepreneur?" *Journal of Labor Economics* 16(1)](https://www.journals.uchicago.edu/doi/10.1086/209881)
 8. [Somers, M. & Block, F. (2005). "From Poverty to Perversity: Ideas, Markets, and Institutions over 200 Years of Welfare Debate." *American Sociological Review* 70(2)](https://journals.sagepub.com/doi/10.1177/000312240507000204)
@@ -81,3 +81,5 @@ The endowment should be distinguished from its better-known cousin. A universal 
 10. [Atkinson, A. B. (2015). *Inequality: What Can Be Done?*, Proposal 6 (minimum inheritance)](https://www.hup.harvard.edu/books/9780674979789)
 11. [Ackerman, B. & Alstott, A. (1999). *The Stakeholder Society*. Yale UP](https://yalebooks.yale.edu/book/9780300082609/the-stakeholder-society/)
 12. [Hamilton, D. & Darity, W. (2010). "Can 'Baby Bonds' Eliminate the Racial Wealth Gap in Putative Post-Racial America?" *Review of Black Political Economy* 37](https://journals.sagepub.com/doi/10.1007/s12114-010-9063-1)
+13. [Grinstein-Weiss, M., Sherraden, M., Gale, W., Rohe, W., Schreiner, M. & Key, C. (2013). "Long-Term Impacts of Individual Development Accounts on Homeownership among Baseline Renters: Follow-Up Evidence from a Randomized Experiment." *AEJ: Economic Policy* 5(1)](https://www.aeaweb.org/articles?id=10.1257/pol.5.1.122)
+14. [Institute on Race, Power and Political Economy — Baby Bonds in Connecticut](https://racepowerpolicy.org/baby-bonds/baby-bonds-in-connecticut/)

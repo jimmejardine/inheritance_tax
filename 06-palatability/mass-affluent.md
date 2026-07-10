@@ -8,7 +8,7 @@ The top ~2–10% of the household wealth distribution: owners of a paid-off hous
 
 ## 2. The ledger, run honestly
 
-Illustrative couple estates, everything passing on second death; today's regime approximated as a couple allowance of ~£1m falling toward ~£650k for larger estates via the residence nil-rate-band taper (rates and tapers to verify [3]); proposal: £500k per recipient at 0%, 100% above, plus a £50k endowment to every child at 25 regardless.
+Illustrative couple estates, everything passing on second death; today's regime: 40% above a couple allowance of up to £1m (2 × £325,000 nil-rate band + 2 × £175,000 residence nil-rate band), falling to £650k once the residence band is fully tapered away — it is withdrawn at £1 for every £2 of estate value above £2m, and all of these thresholds are frozen until April 2031 [3][6]; proposal: £500k per recipient at 0%, 100% above, plus a £50k endowment to every child at 25 regardless.
 
 | Estate | Recipients | Today: tax / family keeps | Proposal: tax / family keeps (incl. endowments) | Verdict |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ For the peer who says "but I want to leave my kids real money":
 - **£500k per child is P90.** Nine in ten heirs of their children's generation will never receive that much [1][2]. The allowance is not a token; it is more than triple the median family's *entire* per-heir wealth.
 - **What it buys at 25–35**: an outright home in most of the UK, a debt-cleared education, seed capital for a business — several times median lifetime savings ([`../08-capital-flight/retention-attraction.md`](../08-capital-flight/retention-attraction.md)). Plus the £50k endowment on top, for every child and grandchild, forever.
 - **Above £500k, the purchase changes.** The difference between leaving a child £500k and £2m is not opportunity — opportunity is saturated — it is *rank*: the ability to outbid other people's children for houses, positions, and safety margins. Naming this is uncomfortable and clarifying: the objection defends relative position, not provision ([`../03-case-for/equal-start.md`](../03-case-for/equal-start.md)).
-- **Today's "certain" bequest is not certain.** Under the status quo their estate is already contingent on care costs (means-tested, uncapped in practice — to verify), longevity, markets, and their own late-life needs. The median expectation and the fantasy bequest should not be conflated; the proposal taxes the fantasy tail while *guaranteeing* the endowment floor.
+- **Today's "certain" bequest is not certain.** Under the status quo their estate is already contingent on care costs — in England means-tested down to £23,250 of assets and uncapped, the planned £86,000 lifetime cap having been scrapped in July 2024 [4][5] — plus longevity, markets, and their own late-life needs. The median expectation and the fantasy bequest should not be conflated; the proposal taxes the fantasy tail while *guaranteeing* the endowment floor.
 
 ## 4. What their family gains
 
@@ -56,7 +56,6 @@ Estates of roughly £2m–£5m intended for one or two heirs pay materially more
 ## Research gaps
 
 - Commission the split-sample vignette polling of exactly this band ([polling.md](polling.md) P4: £250k/£500k/£1m with household vignettes) — the crossover table's persuasive power is testable.
-- Verify current RNRB taper arithmetic and effective couple allowances used in §2 against HMRC guidance [3].
 - Care-cost incidence on £1m–£3m estates (what fraction is consumed pre-death today) — strengthens §3's "the certain bequest is not certain."
 - Distribution of intended recipient counts (children, in-laws, grandchildren) among mass-affluent testators — determines how much of the band the spread route actually clears.
 
@@ -64,4 +63,7 @@ Estates of roughly £2m–£5m intended for one or two heirs pay materially more
 
 1. [Bourquin, Joyce & Sturrock (2020). *Inheritances and inequality within generations*. IFS Report R173](https://ifs.org.uk/publications/inheritances-and-inequality-within-generations)
 2. [Advani & Sturrock (2023). "Reforming inheritance tax." IFS Green Budget 2023](https://ifs.org.uk/publications/reforming-inheritance-tax)
-3. [HMRC — Inheritance Tax: thresholds, residence nil-rate band and taper](https://www.gov.uk/guidance/inheritance-tax-residence-nil-rate-band)
+3. [HMRC — Inheritance Tax: residence nil rate band and taper](https://www.gov.uk/guidance/inheritance-tax-residence-nil-rate-band)
+4. [NHS — Paying for your own care (self-funding): the £23,250 upper capital limit in England](https://www.nhs.uk/social-care-and-support/money-work-and-benefits/paying-for-your-own-care-self-funding/)
+5. [Community Care (29 July 2024) — "Government scraps cap on care costs to help tackle £22bn public spending 'black hole'"](https://www.communitycare.co.uk/2024/07/29/government-scraps-cap-on-care-costs-to-help-tackle-22bn-public-spending-black-hole/)
+6. [Professional Adviser (26 November 2025) — "Budget 25: IHT nil rate bands frozen until 2031"](https://www.professionaladviser.com/news/4522426/budget-iht-nil-rate-bands-frozen-2031)

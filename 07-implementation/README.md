@@ -13,7 +13,7 @@
 | Gift timing and undeclared transfers | High (the 7-year-rule failure) | High | [gifts-and-timing.md](gifts-and-timing.md) | Lifetime cumulation kills timing games; third-party reporting mesh catches the undeclared |
 | Trusts, foundations, wrappers | Fatal if open | High | [trusts-and-vehicles.md](trusts-and-vehicles.md) | Distribution charge + 10-year deemed charge + attribution; all from existing precedents |
 | Crypto and novel assets | Medium, growing | Medium | [digital-and-novel-assets.md](digital-and-novel-assets.md) | CARF/chain-analysis detection; suspended-receipt rule for "lost keys" |
-| Administrative burden and cost | Medium | High | [administration.md](administration.md) | Central Register on existing rails; probate gate; tiered returns; ~1–2% cost-to-yield target (to verify) |
+| Administrative burden and cost | Medium | High | [administration.md](administration.md) | Central Register on existing rails; probate gate; tiered returns; ~1–2% cost-to-yield target (vs ~0.7% for current UK IHT) |
 | Evasion at a 100% marginal rate | High | Medium–high | [enforcement.md](enforcement.md) | Negative-EV design: mesh + penalties to 200% + whistleblowers + no limitation for fraud |
 | Sympathetic hard cases | Fatal politically | High | [hard-cases.md](hard-cases.md) | Payment-side instruments (deferral, instalments, sweat-equity credit), never liability-side exemptions |
 

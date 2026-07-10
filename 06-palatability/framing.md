@@ -8,12 +8,12 @@
 - Loss aversion explains why a tax with ~2–5% incidence generates majority opposition: the estate reads as an *endowment already owned by the family*, so the tax registers as a certain loss, while the public benefit registers as a diffuse, uncertain gain [3].
 - The Benabou–Ok POUM hypothesis (prospects of upward mobility) and lottery-ticket psychology explain opposition among people who will never pay: voters assess the tax against the person they hope to be or hope their children to be [4].
 - Deservingness research (Alesina, Stantcheva & Teso; Almås et al.) shows attitudes to redistribution hinge on *effort vs luck* attributions — and inheritance is the purest case of luck, which is why explicit source-of-wealth framing flips preferences ([polling.md](polling.md)) [5][6].
-- Recipient-based framing ("a tax on receiving £1m unearned") polls differently from estate-based framing ("a tax on your father's estate") in survey experiments (to verify) — the design in [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) makes the better frame literally true.
+- Recipient-based framing ("a tax on receiving £1m unearned") is widely argued to poll better than estate-based framing ("a tax on your father's estate"), but a direct survey experiment on that specific contrast has not been located (unverified); the nearest evidence, a German vignette experiment, finds preferred inheritance-tax rates track heir characteristics — rising with the bequest's value and the heir's income [8]. The design in [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) makes the better frame literally true.
 - Moral-foundations analysis suggests conservatives are reachable through *proportionality* (reward should track contribution) and *merit* framings, not harm/care framings [7].
 
 ## 1. "Death tax": the case study in linguistic engineering
 
-The term predates the 1990s, but its systematic deployment is credited to the US repeal coalition and pollster Frank Luntz, whose memos instructed Republicans to say "death tax" in every utterance because it tested dramatically worse for the tax than "estate tax" or "inheritance tax" (to verify against Luntz's published memos and Graetz & Shapiro's account) [1][2]. The relabelling worked because it performed three moves at once:
+The term predates the 1990s, but its systematic deployment is credited to the US repeal coalition and pollster Frank Luntz, whose memos instructed Republicans to say "death tax" in every utterance — he even recommended staging press conferences "at your local mortuary" — because his polling found the label far more damaging to the tax than "estate tax" or "inheritance tax"; by 1999–2000 the House Republican leadership had directed members to use only "death tax" [1][2]. (Independent survey-wording tests find the label alone shifts stated repeal support by only a couple of points — the campaign's power lay in the whole frame, not the noun [2].) The relabelling worked because it performed three moves at once:
 
 1. **Universalised the payer.** Everyone dies; almost nobody leaves a taxable estate. The name recruits the 98% who will never pay into the constituency of the 2% who will.
 2. **Changed the taxed event.** "Estate" is a stock of wealth; "death" is a grief event. Taxing wealth is contestable; "taxing death" sounds like desecration.
@@ -89,13 +89,14 @@ Each risk argues for the same discipline: frames must be load-bearing restatemen
 
 ## Sources
 
-1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts) — the standard account of the repeal campaign and its language *(details to verify)*
-2. Luntz, F., "The Language of the 21st Century" and related memos on "death tax" usage *(primary texts to verify)*
+1. [Graetz, M. & Shapiro, I., *Death by a Thousand Cuts: The Fight over Taxing Inherited Wealth* (Princeton, 2005)](https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts) — the standard account of the repeal campaign and its language
+2. [*The American Prospect*, "Meet Mr. Death" (Dec 2001)](https://prospect.org/2001/12/19/meet-mr-death/) — documents Luntz's "death tax" memos, the mortuary advice, and the GOP leadership directive; label-effect measurement in [Birney, Graetz & Shapiro, "Public Opinion and the Push to Repeal the Estate Tax," *National Tax Journal* 59(3) (2006)](https://doi.org/10.17310/ntj.2006.3.03)
 3. [Kahneman, D. & Tversky, A., "Prospect Theory," Econometrica (1979)](https://www.jstor.org/stable/1914185); Thaler, R., endowment-effect literature
 4. [Benabou, R. & Ok, E., "Social Mobility and the Demand for Redistribution: The POUM Hypothesis," QJE (2001)](https://academic.oup.com/qje/article/116/2/447/1904143)
 5. [Alesina, A., Stantcheva, S. & Teso, E., "Intergenerational Mobility and Preferences for Redistribution," AER (2018)](https://www.aeaweb.org/articles?id=10.1257/aer.20162015); [Alesina & Angeletos, "Fairness and Redistribution," AER (2005)](https://www.aeaweb.org/articles?id=10.1257/0002828054825655)
-6. [Almås, I., Cappelen, A. & Tungodden, B., "Cutthroat Capitalism versus Cuddly Socialism," JPE (2020)](https://www.journals.uchicago.edu/doi/abs/10.1086/705551) — effort/luck fairness views *(to verify)*
+6. [Almås, I., Cappelen, A. & Tungodden, B., "Cutthroat Capitalism versus Cuddly Socialism: Are Americans More Meritocratic and Efficiency-Seeking than Scandinavians?," *Journal of Political Economy* 128(5) (2020), 1753–88](https://www.journals.uchicago.edu/doi/abs/10.1086/705551) — effort/luck fairness views
 7. [Graham, J., Haidt, J. et al., Moral Foundations Theory](https://moralfoundations.org/); Haidt, J., *The Righteous Mind* (2012)
+8. [Gross, C., Lorek, K. & Richter, F., "Attitudes towards inheritance taxation – results from a survey experiment," *Journal of Economic Inequality* 15 (2017)](https://doi.org/10.1007/s10888-016-9344-4)
 
 ---
 

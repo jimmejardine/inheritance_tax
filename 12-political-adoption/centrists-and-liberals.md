@@ -22,24 +22,24 @@ The endowment scores unusually well on each test:
 | Memorable in one sentence | "£50,000 for every 25-year-old, paid for by taxing million-pound inheritances" |
 | Targets the party's growth demographic | Liberal and centrist parties over-perform among graduates and younger urban voters — exactly the endowment constituency ([electoral-arithmetic.md](electoral-arithmetic.md)) |
 | Hard to match | A big party matching it validates the small party's agenda (a win); not matching it concedes the issue (also a win) |
-| Survives scrutiny | Oven-ready design and costings exist ([../02-proposal/README.md](../02-proposal/README.md)); the historical precedent for third-party signature taxes includes the Liberal Democrats' "penny on income tax for education" — small, legible, hypothecated (to verify electoral effect) |
+| Survives scrutiny | Oven-ready design and costings exist ([../02-proposal/README.md](../02-proposal/README.md)); the historical precedent for third-party signature taxes includes the Liberal Democrats' 1997 "penny on income tax for education" pledge — small, legible, hypothecated [1] (its net electoral effect is unverified) |
 
 There is a risk asymmetry worth naming: third parties are also the parties most punished for perceived unseriousness. The mitigation is the policy's technocratic pedigree — Mirrlees-style lifetime-receipts taxation, Ireland's operating CAT precedent ([../11-geographies/ireland.md](../11-geographies/ireland.md)) — which lets the party present radicalism as expertise ([policy-entrepreneurs.md](policy-entrepreneurs.md)).
 
 ## Problem two: power only through coalition
 
-Liberal and centrist parties reach government almost exclusively as junior partners or kingmakers. That position has a known pathology: junior partners are punished by their voters for what they enabled and get little credit for what they extracted (the Liberal Democrats after 2010–15 are the canonical cautionary case; to verify vote-collapse figures). The strategic lesson these parties have internalised: **enter coalition only with one big, visible, deliverable demand that is unmistakably yours.**
+Liberal and centrist parties reach government almost exclusively as junior partners or kingmakers. That position has a known pathology: junior partners are punished by their voters for what they enabled and get little credit for what they extracted (the Liberal Democrats after 2010–15 are the canonical cautionary case: 23.0% of the vote and 57 seats in 2010 collapsed to 7.9% and 8 seats in 2015 [2]). The strategic lesson these parties have internalised: **enter coalition only with one big, visible, deliverable demand that is unmistakably yours.**
 
 The endowment is engineered for that role:
 
 - **It is severable.** A pilot endowment plus stepping-stones 1–4 ([stepping-stones.md](stepping-stones.md)) is a coherent coalition-agreement chapter that does not require the senior partner to swallow the full scheme.
 - **It is attributable.** A named, dated, universal payment is the rare coalition win that voters can trace to the junior partner — unlike diffuse influence over the senior partner's programme.
 - **It prices well in negotiation.** For a senior partner, conceding it costs no core identity commitment (a left senior partner is conceding egalitarianism; a right one, property-owning democracy — each can narrate the concession as its own idea, which is exactly what makes concession easy; see [wedge-dynamics.md](wedge-dynamics.md) on giving opponents a face-saving path).
-- **Continental parallels.** In multi-party systems, D66-style parties routinely trade portfolio breadth for one flagship reform per coalition round (to verify specific cases); the endowment fits the standard shape of such flagships — bounded, fundable, brandable.
+- **Continental parallels.** In multi-party systems, D66-style parties routinely trade portfolio breadth for one flagship reform per coalition round (pattern unverified as a general claim); the endowment fits the standard shape of such flagships — bounded, fundable, brandable.
 
 ## The Macron-style variant
 
-Personalist centrist formations assembled around a leader face a different version of the differentiation problem: they must repeatedly prove they transcend left–right rather than merely averaging it. A policy that *simultaneously* cuts inheritance flows at the top (left-coded) and capitalises every young citizen as an owner (right-coded) is structurally "en même temps" — the rare policy that is genuinely both rather than neither. For a movement-party whose founding energy is fading, it is also a second-act idea big enough to re-justify the project's existence. The French context adds a specific hook: France already operates a recipient-based inheritance tax with progressive rates by kinship (to verify current schedule), so the reform is an upgrade of existing architecture, not an alien import ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md)).
+Personalist centrist formations assembled around a leader face a different version of the differentiation problem: they must repeatedly prove they transcend left–right rather than merely averaging it. A policy that *simultaneously* cuts inheritance flows at the top (left-coded) and capitalises every young citizen as an owner (right-coded) is structurally "en même temps" — the rare policy that is genuinely both rather than neither. For a movement-party whose founding energy is fading, it is also a second-act idea big enough to re-justify the project's existence. The French context adds a specific hook: France already operates a recipient-based inheritance tax with kinship-graded allowances and progressive rates — €100,000 tax-free per child per parent, then 5–45% in the direct line, rising to 55–60% for distant or unrelated heirs [3][4] — so the reform is an upgrade of existing architecture, not an alien import ([../11-geographies/continental-europe.md](../11-geographies/continental-europe.md)).
 
 ## The kingmaker playbook, step by step
 
@@ -80,3 +80,10 @@ Signals that a liberal or centrist party is approachable this cycle:
 ## Bottom line
 
 For the major parties this policy is a good answer to their problems; for liberal and centrist parties it is close to a perfect one — canonical in pedigree, distinctive by default, sized for a coalition price, and aimed at their own growth demographic. The realistic scenario worth planning for: a third party adopts first and cheaply, proves the polling, and thereby sets off the competitive adoption race among the big two that [wedge-dynamics.md](wedge-dynamics.md) describes. The movement should treat liberal parties as the ignition system, not the engine ([../13-movement/theory-of-change.md](../13-movement/theory-of-change.md)).
+
+## Sources
+
+1. [Liberal Democrats, *Make the Difference* — 1997 general election manifesto](http://www.libdemmanifesto.com/1997/1997-liberal-manifesto.shtml)
+2. [House of Commons Library, "General Election 2015: the results in context"](https://commonslibrary.parliament.uk/general-election-2015-the-results-in-context/)
+3. [impots.gouv.fr, "Calculating death duties"](https://www.impots.gouv.fr/international-particulier/calculating-death-duties)
+4. [Notaires de France, "Order of heirs and scale of inheritance rights in France"](https://www.notaires.fr/en/donation-succession/succession/order-succession-and-inheritance-tax)

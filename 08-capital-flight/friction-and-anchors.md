@@ -5,7 +5,7 @@
 ## Headline findings
 
 - The migration literature's low average elasticities ([evidence.md](evidence.md)) are not anomalies; they are what embeddedness predicts. Young's administrative-data work finds US millionaires *less* migratory than the median taxpayer, and their moves dominated by non-tax motives [1].
-- The anchors bind hardest at exactly the life-stage when inheritance-tax planning happens: the median wealth-holder contemplating bequest is elderly, and elasticity of relocation falls steeply with age — with the Moretti–Wilson over-65 billionaire finding as the exception that needs engagement ([evidence.md](evidence.md) §3) [2].
+- The anchors bind hardest at exactly the life-stage when inheritance-tax planning happens: the median wealth-holder contemplating bequest is elderly, and elasticity of relocation falls steeply with age — with the Moretti–Wilson finding that billionaires' estate-tax sensitivity *rises* with age as the exception that needs engagement ([evidence.md](evidence.md) §3) [2].
 - Under the proposed dual nexus, personal emigration alone achieves nothing for UK-situs wealth; the escape path is a multi-actor, multi-decade project with visible taxable steps at each stage ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)).
 
 ## The anchor inventory
@@ -13,7 +13,7 @@
 | Anchor | Mechanism | Why havens can't substitute |
 |---|---|---|
 | **Operating business & workforce** | Founders' wealth is typically concentrated in one firm with a local workforce, suppliers, customers, and site-specific knowledge | The firm is the wealth; relocating it destroys value. Selling it to move crystallises tax and severs identity |
-| **Family and grandchildren** | Adult children's careers, grandchildren's schools, ageing parents | The single most-cited relocation deterrent in wealth-manager surveys (to verify); grandchildren do not move to Monaco |
+| **Family and grandchildren** | Adult children's careers, grandchildren's schools, ageing parents | A leading relocation deterrent in the migration literature — Young's work finds family ties and children ground elites in place (a specific wealth-manager survey ranking is unverified) [1]; grandchildren do not move to Monaco |
 | **Language and culture** | Daily life, humour, media, friendship networks formed over decades | Havens offer expatriate enclaves, not belonging |
 | **Healthcare** | Trusted specialists and continuity of care at the age when it matters most | Micro-jurisdictions import tertiary care; the anxious 75-year-old knows it |
 | **Courts and property security** | Centuries-deep commercial law, enforceable contracts, independent judiciary | The UAE/Caribbean discount is precisely here; wealth ultimately depends on the legal system it sits in |
@@ -36,7 +36,7 @@ The deepest flaw in the folk model is treating "the wealthy leave" as equivalent
 | Portfolio securities (foreign) | Yes | The genuinely mobile fraction — but taxed anyway if any recipient is UK-resident |
 | Art, crypto, bearer assets | Yes | The hard tail, handled by [`../07-implementation/digital-and-novel-assets.md`](../07-implementation/digital-and-novel-assets.md) and enforcement tools |
 
-For the large UK fortunes the tax targets — concentrated in land, housing, and UK business equity (composition to verify against ONS wealth data) — the majority of the base is situs-anchored. Emigration converts the problem from "avoid the tax" into "liquidate and re-deploy the estate abroad," a project that takes years, pays transaction costs and capital-gains tax, appears in CRS data, and must be *completed* — a half-moved estate is a fully taxable one on its UK remainder.
+For the large UK fortunes the tax targets — HMRC estate data (2022–23) show estates under £1m consist mainly of residential property and cash, while estates above £1m are increasingly composed of securities and other assets [5]; UK residential property and UK-registered securities are both situs-anchored — the majority of the base is situs-anchored. Emigration converts the problem from "avoid the tax" into "liquidate and re-deploy the estate abroad," a project that takes years, pays transaction costs and capital-gains tax, appears in CRS data, and must be *completed* — a half-moved estate is a fully taxable one on its UK remainder.
 
 ## The compound improbability
 
@@ -77,6 +77,7 @@ Honesty requires the converse. Friction does not stop: (a) the young founder who
 ## Sources
 
 1. [Young, C. (2017). *The Myth of Millionaire Tax Flight*. Stanford University Press; Young et al. (2016), *American Sociological Review* 81(3)](https://www.sup.org/books/title/?id=28471)
-2. [Moretti, E. & Wilson, D. (2023). "Taxing Billionaires." *AEJ: Applied Economics* 15(2)](https://www.aeaweb.org/articles?id=10.1257/pol.20200685)
+2. [Moretti, E. & Wilson, D. (2023). "Taxing Billionaires." *AEJ: Economic Policy* 15(2)](https://www.aeaweb.org/articles?id=10.1257/pol.20200685)
 3. [OECD (2021). *Inheritance Taxation in OECD Countries*. OECD Tax Policy Studies No. 28](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm)
 4. [Henrekson, M. & Waldenström, D. (2014). *Inheritance Taxation in Sweden, 1885–2004*. IFN Working Paper No. 1032](https://www.ifn.se/wfiles/wp/wp1032.pdf)
+5. [HMRC — Inheritance Tax liabilities statistics: commentary (assets held in estates, 2022–23)](https://www.gov.uk/government/statistics/inheritance-tax-liabilities-statistics/inheritance-tax-liabilities-statistics-commentary)
