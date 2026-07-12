@@ -60,7 +60,7 @@ The book was respectfully received — reviewers treated it as the field's found
 | Endowment | Minimum inheritance at 18, size linked to receipts-tax yield | £50k/$60k at 25, hypothecated ([../02-proposal/endowment.md](../02-proposal/endowment.md)) |
 | Scope | One element of a fifteen-part programme | Deliberately single-issue, for coalition breadth ([../06-palatability/coalition.md](../06-palatability/coalition.md)) |
 
-The honest statement of the relationship: **this project is Atkinson's Proposals 6 and 10 with the progressive schedule sharpened to a binary kink and the endowment moved to 25.** Where Piketty ([piketty.md](piketty.md)) provides the empirical drama and Ackerman–Alstott ([ackerman-alstott.md](ackerman-alstott.md)) the payback framing, Atkinson provides the tax-design orthodoxy — the version already blessed by Meade, Mirrlees, and the OECD review literature.
+The honest statement of the relationship: **this project is Atkinson's Proposals 6 and 10 with the progressive schedule sharpened to a binary kink and the endowment moved to 25.** Where Piketty ([piketty.md](piketty.md)) provides the empirical drama and Ackerman–Alstott ([ackerman-alstott.md](ackerman-alstott.md)) the payback framing, Atkinson provides the tax-design orthodoxy — the version already blessed by Meade, Mirrlees, and the OECD review literature. (The kink itself is not this project's invention either: Haslett proposed 100% above a per-recipient lifetime quota in 1997, and Robeyns' 2024 accessions cap pairs the same 0/100 design with a citizen's stake — [has-this-been-proposed.md](has-this-been-proposed.md).)
 
 ## What this lends the present proposal
 
