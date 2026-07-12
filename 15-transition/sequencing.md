@@ -62,6 +62,12 @@ This is the *policy* sequence — what must be built in what order for the machi
 
 **What breaks if skipped.** The regime survives but leaks at the top end; the Kamprad/Rausing narrative risk documented in the Swedish abolition remains live.
 
+## Why the ladder ratchets the rate, not the threshold
+
+The ladder's designers faced a genuine fork: the variable that climbs toward the end-state could have been the *threshold* instead of the *rate* — launch the 100% rate immediately but only above £1bn, then step the threshold down (£100m → £10m → £1m) over decades, so the first bite faces the smallest possible defender class. That descending-threshold ratchet was evaluated and declined in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) §2: a published schedule of threshold cuts gives every band below the current rung a decade's notice to restructure (recurring forestalling — [announcement-effects.md](announcement-effects.md)); a £1bn opening threshold raises too little to launch the endowment, leaving the regime fiscally trivial and cheap to repeal through its formative decades ([`../05-history/abolitions.md`](../05-history/abolitions.md)); and a threshold designed to fall would falsify the slippery-slope rebuttal the whole persuasion architecture depends on ([`../09-objections/slippery-slope.md`](../09-objections/slippery-slope.md)).
+
+Ratcheting the rate at a fixed threshold captures the same "smallest first bite" benefit without those costs: Phase 2's rising schedule by tranche bites the largest receipts first, the £500k line stays legible and promised-upward from the start, and the 100% end-state arrives as a parameter change to a threshold nobody has been taught to fear will move. The threshold is the covenant; the rate is the dial.
+
 ## Honest timing
 
 Adding the phases: **10–20 years from first infrastructure spend to a mature 100% regime**, spanning three to five parliaments. This is not a weakness to be hidden; it is the normal tempo of structural tax reform — the UK's shift from estate duty through Capital Transfer Tax to IHT took from 1974 to 1986 merely to *rearrange* the old architecture [5], and the corporate global-minimum-tax agreement took roughly a decade from BEPS launch to signed framework.
@@ -80,6 +86,7 @@ Two consequences follow:
 | Tax before endowment | Recreates the visible-cost / abstract-benefit asymmetry that preceded every abolition | Sweden, Norway, Australia ([`../05-history/abolitions.md`](../05-history/abolitions.md)) |
 | Endowment before revenue | Fiscal-credibility attack; programme cancelled as unaffordable before the tax matures | Child Trust Fund cancellation 2010 ([pilots.md](pilots.md)) |
 | Waiting for international agreement | Phase 4 as precondition means indefinite delay; unilateral design must hold alone | Corporate-tax reform waited decades for coordination that only followed unilateral moves |
+| Descending-threshold ratchet (100% above £1bn, stepping down by decades) | Recurring pre-scheduled forestalling at every rung; endowment unfunded for decades → "fiscal triviality as permission structure"; the upward-only threshold promise — the design's slippery-slope answer — forfeited | The abolished regimes' fiscal triviality ([`../05-history/abolitions.md`](../05-history/abolitions.md)); evaluated and declined in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) §2 |
 
 ## Sources
 

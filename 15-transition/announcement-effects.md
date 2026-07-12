@@ -46,6 +46,8 @@ The deeper answer is structural, and it is the reason this section is shorter th
 
 What survives is the pre-announcement window before the lookback horizon — transfers made 8+ years before a foreseeable commencement. That leakage is real, bounded, one-generation-only, and shrinking: it cannot recur once the regime exists, and the recipients of rushed gifts carry spent headroom into the rest of their lives.
 
+A corollary rules out one superficially attractive transition path. A descending-threshold ratchet — launching the 100% rate at, say, £1bn and lowering the threshold by published steps over decades — is the announced-but-uncommenced pathology in institutional form: every household in the next band down receives a decade's notice to disperse and restructure, re-running the Australian pre-announcement dynamic [3][4] at every rung, and converting this section's bounded one-generation leak into a recurring, scheduled one. The variant is evaluated and declined in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) §2.
+
 ## Residual risks
 
 | Residual risk | Vector | Answer | Where treated |
