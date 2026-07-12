@@ -46,7 +46,7 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 **Full answer.**
 
 - **The base matters more than the rate history suggests.** The annual flow of UK inheritances now exceeds £100bn, having roughly doubled in real terms every 20 years since 1979 [2], and is projected to keep growing as the largest-ever cohort of housing and pension wealth passes on [3] (revenue modelling in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)).
-- **Taxing the slice above £500k per recipient at 100%** plausibly yields an order of magnitude more than the current regime — enough to fund the endowment, which is the fiscal test that matters ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)).
+- **Taxing the slice above £500k per recipient at 100%** plausibly yields roughly 1.5–3× the current regime now and up to 3–7× at mature 2040s flows ([`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md)) — short of the endowment's full cost at launch, plausibly covering it at maturity, with the gap bridged by design ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)); that trajectory, not any single year, is the fiscal test that matters.
 - **The deeper answer refuses the frame:** this is a *distributional-primary* tax, not a revenue-primary one. Income tax exists to raise money; this exists to stop the formation of hereditary economic dynasties ([`../01-problem/wealth-concentration.md`](../01-problem/wealth-concentration.md), [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md)).
 - **Judging it purely on yield is like judging the smoking ban on cigarette-duty receipts.**
 

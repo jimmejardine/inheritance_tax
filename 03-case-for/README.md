@@ -1,6 +1,6 @@
 # 03 — The Case For
 
-**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment; six reinforcements deepen them with the formal optimal-tax literature, the civic-republican constitutional argument, the positive case for the endowment itself, the historical record of the proposal's components in action, the instrument-choice comparison with wealth taxes, and the anticipation harms borne by expectant heirs. The eleven files converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics, republican, empirical-historical) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
+**Executive summary.** Five pillars — ethical, economic, structural, civic, and heir-focused — make the normative case for a 100% inheritance tax above a per-recipient threshold, paired with a universal citizen's endowment; seven reinforcements deepen them with the formal optimal-tax literature, the civic-republican constitutional argument, the positive case for the endowment itself, the historical record of the proposal's components in action, the instrument-choice comparison with wealth taxes, the anticipation harms borne by expectant heirs, and the consolidated housing-repair case. The twelve files converge from different normative premises (liberal-egalitarian, public-finance, Piketty-structural, conservative-meritocratic, virtue-ethics, republican, empirical-historical) on the same policy, which is unusual and diagnostic: when arguments from across the political spectrum reach the same design, the design is probably load-bearing.
 
 This section builds the positive case. The diagnostic evidence lives in [`../01-problem/`](../01-problem/); the design specification lives in [`../02-proposal/`](../02-proposal/); the historical case is in [`../05-history/`](../05-history/); the strongest counterarguments are steelmanned in [`../04-case-against/`](../04-case-against/).
 
@@ -14,7 +14,7 @@ This section builds the positive case. The diagnostic evidence lives in [`../01-
 | 4 | Civic | [meritocratic-legitimacy.md](meritocratic-legitimacy.md) | Carnegie, Sandel, Wooldridge | Dynasty violates capitalism's own self-justification; removing it is the conservative repair |
 | 5 | Heir-focused | [heirs-burden.md](heirs-burden.md) | Virtue ethics, self-determination theory | Large unearned fortunes harm their recipients; the tax is positive-sum, not zero-sum |
 
-## The six reinforcements
+## The seven reinforcements
 
 Each reinforcement takes one pillar's strongest thread and develops it to full depth:
 
@@ -26,6 +26,7 @@ Each reinforcement takes one pillar's strongest thread and develops it to full d
 | 9 | Empirical-historical | [historical-precedents-of-success.md](historical-precedents-of-success.md) | All pillars | Every component of the proposal has been tried at scale — dynastic breaks, 70–80% transfer taxes, mass capital grants — and the predicted catastrophes did not occur |
 | 10 | Instrument choice | [wealth-tax-comparison.md](wealth-tax-comparison.md) | Pillar 3 (structural) | The proposal is categorically not a wealth tax, and beats the annual wealth tax on efficiency, administration, migration, and survival — while honestly conceding what the wealth tax does better (it bites now) |
 | 11 | Anticipation | [expectant-heirs.md](expectant-heirs.md) | Pillar 5 (heir-focused) | The harms begin at the *forecast*, not the receipt — career distortion, the parental leash, the family-firm waiting room, inheritance impatience — and because the tax binds at announcement, its liberation of expectant heirs arrives a generation before its revenue |
+| 12 | Housing | [housing-repair.md](housing-repair.md) | Pillar 3 (structural) + [equal-start.md](equal-start.md) | The tax-plus-endowment pair is the only deposit-side housing intervention with a built-in supply offset: it universalises the Bank of Mum and Dad while the same act releases housing stock, where pure demand subsidies (Help to Buy) capitalised into prices |
 
 ## Why all five matter together
 
@@ -37,7 +38,7 @@ Each pillar addresses a distinct objection pattern and speaks to a distinct audi
 - The **civic** pillar answers the conservative objection: isn't this an attack on market capitalism? (Answer: the opposite — dynasty is what undermines the desert-based legitimacy claim on which capitalism rests.)
 - The **heir** pillar answers the "but it's their family's money" objection: won't this harm heirs? (Answer: above the generous threshold, the fortune is itself the harm.)
 
-The reinforcements close the remaining flanks: **optimal-tax-theory** answers "serious economists oppose this" (they demonstrably do not — the formal literature supports high rates); **democratic-renewal** answers "this is un-American / un-British radicalism" (the American founding *is* the precedent); **equal-start** answers "this is just another welfare programme" (a one-off capital start is the opposite of flow dependency); and **historical-precedents-of-success** answers "it has never been tried" (its components have been, repeatedly, and the pieces worked).
+The reinforcements close the remaining flanks: **optimal-tax-theory** answers "serious economists oppose this" (they demonstrably do not — the formal literature supports high rates); **democratic-renewal** answers "this is un-American / un-British radicalism" (the American founding *is* the precedent) and now also "this is what populists want" (the reverse — §6 argues it is the moderate's structural defence against both populist flanks); **equal-start** answers "this is just another welfare programme" (a one-off capital start is the opposite of flow dependency); **historical-precedents-of-success** answers "it has never been tried" (its components have been, repeatedly, and the pieces worked — the honest residual of that answer is now steelmanned against us in [`../04-case-against/model-risk.md`](../04-case-against/model-risk.md)); and **housing-repair** answers the median young voter's "what does this actually fix for me" with the most material asset there is.
 
 ## Cross-references
 

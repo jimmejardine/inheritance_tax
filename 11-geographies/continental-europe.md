@@ -20,6 +20,8 @@
 
 ## France: the intellectual home with a legal ceiling
 
+**Deep treatment — implementation case, resistance case, and full scorecard — now in [france.md](france.md); this section is the regional summary.**
+
 France is where the modern intellectual case lives — Piketty's *Capital and Ideology* proposal (progressive inheritance tax funding a ~€120,000 grant at 25 [4]) is essentially this project's design with a progressive schedule ([`../05-history/piketty.md`](../05-history/piketty.md)), and the 2021 Blanchard–Tirole commission recommended moving to a lifetime recipient basis [5]. The existing tax is already heavy: 45% top rate in the direct line above €1,805,677, 60% between non-relatives (55% for collaterals to the fourth degree), with a 15-year gift-recall rule that approximates lifetime cumulation [1].
 
 Three constraints:
@@ -36,7 +38,7 @@ The live German story is the mirror image of abolition: the tax survived but was
 
 ## Netherlands, Belgium, Spain: the natural experiments
 
-- **Netherlands.** Recipient-based *erfbelasting* (10–40% by kinship and amount [11]), excellent administration, no constitutional review of statutes (Art. 120 Grondwet), acute housing crisis among the young, and a live domestic debate over the business-succession relief (BOR) mirroring Germany's. On pure structure the Netherlands scores as continental Europe's most adoptable state; coalition politics is the brake. An underrated candidate — flagged accordingly in [README.md](README.md).
+- **Netherlands.** Recipient-based *erfbelasting* (10–40% by kinship and amount [11]), excellent administration, no constitutional review of statutes (Art. 120 Grondwet), acute housing crisis among the young, and a live domestic debate over the business-succession relief (BOR) mirroring Germany's. On pure structure the Netherlands scores as continental Europe's most adoptable state; coalition politics is the brake. An underrated candidate — flagged accordingly in [README.md](README.md). Full implementation and resistance case — jubelton abolition, the CPB's BOR verdict, box 3 legal risk, the 2026 coalition — in [netherlands.md](netherlands.md).
 - **Belgium.** Inheritance tax is regionalised (Flanders, Wallonia, Brussels set rates); rates are high by OECD standards but planning around them (gift regimes, the erstwhile "kaasroute" via Dutch notaries, closed 15 December 2020 [12]) is a national sport. Demonstrates C10 friction inside even a small federation.
 - **Spain.** The clearest running rerun of Australia 1977–79 ([adoption-criteria.md](adoption-criteria.md), C10): inheritance tax is devolved, and regions led by Madrid have introduced 99% *bonificaciones* for close relatives — 11 of the 17 regions now offer them — pulling wealthy residents and pressuring other regions to follow [13]. Spain is the live exhibit that sub-national assignment destroys transfer taxation — cite it whenever the US-states or Swiss-cantonal route is proposed ([`../08-capital-flight/game-theory.md`](../08-capital-flight/game-theory.md)).
 

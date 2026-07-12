@@ -8,7 +8,7 @@ Every citizen receives an unconditional capital grant of **£50,000 at age 25** 
 - £50,000 is calibrated at ~1.5–2× median UK full-time earnings (£37,430 in April 2024) [6] — large enough to be life-shaping (deposit, retraining, seed capital), small enough to be fiscally credible.
 - Age 25 is preferred to 18/21 because (a) prefrontal development continues into the mid-twenties [7], and (b) the UK Child Trust Fund maturing at 18 produced disappointing outcomes and mass dormancy [8].
 - Unconditional receipt is politically essential and empirically defensible: cash-transfer evidence from GiveDirectly and the Alaska Permanent Fund Dividend finds no systematic "sin spending" [9][10].
-- Back-of-envelope UK cost: ~880,000 residents turn 25 each year (ONS mid-2023: 877,691 aged 25) [11]; at £50,000 each that is ~£44bn/year — within range of projected recipient-based IHT revenue at the proposed thresholds [12].
+- Back-of-envelope UK cost: ~880,000 residents turn 25 each year (ONS mid-2023: 877,691 aged 25) [11]; at £50,000 each that is ~£44bn/year — above early-year receipts but within range of projected mature-flow receipts, with the gap bridged by design ([arithmetic.md](arithmetic.md); [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)).
 - Every abolition documented in `05-history/abolitions.md` (Sweden 2004, Australia 1979, Norway 2014) occurred where revenue fed general funds with no named individual beneficiary. Hypothecation to a personal grant is the structural fix.
 - Resolution Foundation polling (2018, 2023) finds majority support for a "citizen's inheritance" of ~£10k at 25, with support rising when the grant is described in concrete terms [13].
 
@@ -52,7 +52,7 @@ A government-administered individual endowment account is opened at birth (UK: H
 
 ## 7. Fiscal arithmetic
 
-ONS mid-2023 data gives ~800,000–920,000 UK residents at each single year of age in the 20–30 band (877,691 at age 25) [11]. At £50,000 that is ~£44bn/year in steady state. The IFS estimates ~£327bn was inherited in the UK in 2020, rising sharply [12]; the Resolution Foundation projects annual inheritance flows approaching £100–150bn by the mid-2030s [13]. At these flows the recipient-based tax above £500k cumulative would — on plausible distribution assumptions — raise £40–70bn, covering the cost with a possible surplus for public goods. Early years (before lifetime-cumulative receipts accumulate) run a deficit covered by general revenue; this is the transitional cost, not a structural one.
+ONS mid-2023 data gives ~800,000–920,000 UK residents at each single year of age in the 20–30 band (877,691 at age 25) [11]. At £50,000 that is ~£44bn/year in steady state (£35–45bn once residence-eligibility rules trim the cohort — [endowment-delivery.md](endowment-delivery.md) §5). The consolidated funding arithmetic is owned by [arithmetic.md](arithmetic.md): on today's ~£104bn/yr transfer flow the tax nets an illustrative ~£10–25bn/year, rising to ~£25–60bn/year at mature mid-2040s flows (>£230bn/yr) — so the endowment is *not* fully funded at launch, is plausibly funded at maturity on central assumptions, and the gap is closed by the designed transition package in [`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md). This is a transitional cost, not a structural one. (An earlier draft's £40–70bn steady-state figure mixed decades and omitted behavioural attrition; it is superseded by [arithmetic.md](arithmetic.md).)
 
 ## 8. Why this defeats the abolition pattern
 

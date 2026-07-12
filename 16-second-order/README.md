@@ -37,6 +37,8 @@ Three disciplines applied throughout:
 | Media-ownership succession breaks | Yes, over a generation | Medium–high | Welcome | [dynasties-and-power.md](dynasties-and-power.md) |
 | Political donor class thins | Gradual | Medium | Welcome | [dynasties-and-power.md](dynasties-and-power.md) |
 | New elites form on new axes (managers, fame, state) | Certain | High | Unwelcome — monitor | [dynasties-and-power.md](dynasties-and-power.md) |
+| Wealth warehoused in corporate forms | Contained by look-through | Medium–high | Welcome if valuation holds | [corporations.md](corporations.md) |
+| Disguised inheritance via corporate salaries ("guild" risk) | Up at the margin, contained | Medium | Ambiguous — policed by income tax + arm's-length test | [corporations.md](corporations.md) |
 | Aggregate capital stock | Small change, sign uncertain | Low | Ambiguous | [macro.md](macro.md) |
 | Entrepreneurship rate | Disputed sign | Low | Ambiguous | [macro.md](macro.md) |
 | Fiscal room to cut other taxes | Up in steady state | Medium | Welcome | [macro.md](macro.md) |
@@ -56,6 +58,7 @@ Three disciplines applied throughout:
 - [endowment-effects.md](endowment-effects.md) — what 25-year-olds actually do with £50k; the capitalisation problem taken seriously
 - [family-and-culture.md](family-and-culture.md) — eldercare, marriage, parenting, and the slow shift from "what your family has" to "what you do"
 - [dynasties-and-power.md](dynasties-and-power.md) — firm succession, media ownership, the donor class, and where new elites form
+- [corporations.md](corporations.md) — the immortal-owner problem: why corporate form shelters nothing, the steady-state equity split, and the guild scenario
 - [macro.md](macro.md) — capital stock, r vs g, entrepreneurship, labour supply, and the modelling agenda
 
 ## Cross-references

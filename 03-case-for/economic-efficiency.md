@@ -10,6 +10,7 @@
 - The Swedish (2004), Austrian (2008), and Norwegian (2014) abolitions produced no detectable acceleration in aggregate investment, entrepreneurship rates, or TFP growth; the primary observed effect was wealth-location sorting among the pre-existing ultra-wealthy [7][9].
 - HMRC IHT administrative cost-to-yield has historically run at roughly 1%, versus ~1.1% for income tax PAYE and materially higher for self-assessed CGT; recipient-based lifetime cumulation (as in Ireland's CAT) further reduces valuation friction [6].
 - The Mirrlees Review, Friedman (qualified), Feldstein, Mankiw, and the Stiglitz–Arrow–Solow–Heckman–Piketty signatories of the 2001/2010 US estate-tax letters represent an unusual cross-spectrum convergence, rare in modern tax policy [6][8].
+- Ageing adds a fiscal-sustainability argument distinct from the deadweight-loss case: the OBR projects UK public spending rising from 45% to over 60% of GDP over 50 years on demographic pressures alone, while the conventional bases (labour income, consumption) are carried by a shrinking working-age share — and the one tax base growing *mechanically with the same demography* is the wealth transfer flow, already doubled as a share of UK national income since 1977 and cresting through the 2030s–40s [9][12][13].
 
 ## 1. The canonical low-distortion result
 
@@ -47,6 +48,14 @@ The Mirrlees Review argues explicitly that shifting from donor-side to recipient
 
 The Mirrlees Review's ch. 15 recommends a lifetime-receipts tax [6]. Milton Friedman conceded in 1978 that estate tax was "the least bad tax." Feldstein and Mankiw have both written that, conditional on raising a given revenue, estate taxation scores favourably on efficiency. The 2001 and 2010 open letters defending the US estate tax were signed by Arrow, Solow, Heckman, Stiglitz, Piketty, and over 600 other economists [8]. Agreement across this range of priors is rare and informative.
 
+## 8. The fiscal-sustainability case: the one growing base in an ageing society
+
+A distinct argument from the deadweight-loss case, and increasingly the one treasuries themselves face. Ageing squeezes public finances from both directions: the OBR's fiscal risks and sustainability analysis projects UK public spending rising from 45% to over 60% of GDP over the next half-century — health from 7.6% to 14.5% of GDP, state pensions from 5.2% to 7.9% — while revenues stay near 40%, putting debt on a path to 274% of GDP under current policy [12]. The revenue to close that gap must come from somewhere, and the conventional bases are the wrong shape for the problem: labour income and consumption are carried by a working-age share that is shrinking — taxing them harder burdens precisely the cohort whose relative scarcity causes the pressure.
+
+The wealth-transfer base has the opposite shape. The same mortality schedule that drives the outlays crests the largest intergenerational transfer in history ([`../01-problem/great-wealth-transfer.md`](../01-problem/great-wealth-transfer.md)): the annual UK inheritance flow has already risen from 4.8% of national income in 1977 to 8.2% by 2006 on Atkinson's series, with nominal flows doubling again since [13]. The OECD's 2021 report makes the fiscal-context argument explicitly: inheritance taxation offers equity *and* revenue potential in ageing societies, on a base projected to grow, while property and transfer taxes sit at the least-growth-harmful end of the OECD's own tax-and-growth hierarchy [9][14].
+
+Two honesty notes, both load-bearing. First, the strategic framing — that an ageing polity which refuses to tax windfall receipts will end up taxing work harder, so this instrument is how the burden of ageing is shifted off wages — is an *argument about instrument choice*, not an empirical finding; the concrete "tax work less, tax windfalls more" swap (employee NI, basic-rate income tax, stamp duty) is developed in [`../16-second-order/macro.md`](../16-second-order/macro.md) §6. Second, magnitudes: projected steady-state receipts (roughly £25–60bn/yr at mature flows, per [`../02-proposal/revenue-model.md`](../02-proposal/revenue-model.md)) are a material contribution to the ageing gap, not a solution to it — the claim is that this is the least distortionary *marginal* revenue available as the gap widens, not that it closes the gap.
+
 ## Sources
 
 1. [Kopczuk, W. & Slemrod, J. (2001). "The Impact of the Estate Tax on Wealth Accumulation and Avoidance Behavior." *National Tax Journal* 54(2)](https://www.journals.uchicago.edu/doi/10.17310/ntj.2001.2.04)
@@ -60,5 +69,8 @@ The Mirrlees Review's ch. 15 recommends a lifetime-receipts tax [6]. Milton Frie
 9. [OECD (2021). *Inheritance Taxation in OECD Countries*](https://www.oecd.org/tax/inheritance-taxation-in-oecd-countries-e2879a7d-en.htm)
 10. [Atkinson, A. B. (2015). *Inequality: What Can Be Done?*](https://www.hup.harvard.edu/books/9780674979789)
 11. [Hurd, M. (1989). "Mortality Risk and Bequests." *Econometrica* 57(4)](https://www.jstor.org/stable/1913775)
+12. [OBR (September 2024). *Fiscal risks and sustainability*](https://obr.uk/frs/fiscal-risks-and-sustainability-september-2024/)
+13. [Atkinson, A. B. (2018). "Wealth and inheritance in Britain from 1896 to the present." *Journal of Economic Inequality* 16(2)](https://link.springer.com/article/10.1007/s10888-018-9382-1); flow-doubling detail in [`../01-problem/great-wealth-transfer.md`](../01-problem/great-wealth-transfer.md)
+14. [Johansson, Å., Heady, C., Arnold, J., Brys, B. & Vartia, L. (2008). "Taxation and Economic Growth." OECD Economics Department WP 620](https://www.oecd.org/en/publications/taxation-and-economic-growth_241216205486.html)
 
 See also: [`../05-history/abolitions.md`](../05-history/abolitions.md) for the historical record of twentieth-century abolitions referenced in §5.

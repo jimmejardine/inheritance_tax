@@ -1,6 +1,6 @@
 # 04 — The Case Against
 
-A serious manifesto must steelman its opposition. Five strongest objections. Each must be answered directly, not dismissed.
+A serious manifesto must steelman its opposition. Six strongest objections. Each must be answered directly, not dismissed.
 
 **The steelman rule for this section.** Every file gives the objection its strongest possible form *first* — as its best advocates would state it, citing their actual thinkers and evidence — before any response is offered. Engagement with counter-evidence includes evidence against our own thesis, and verdicts are permitted to leave residuals standing: where an objection survives in weakened form, the file says so and states what the proposal's answer costs, rather than defining the conflict away. Quick-fire rebuttals belong in [../09-objections/](../09-objections/README.md); the design answers belong in [../02-proposal/](../02-proposal/README.md) and [../07-implementation/](../07-implementation/README.md). This section is where sceptical readers will judge the whole project, and it is written accordingly.
 
@@ -24,10 +24,15 @@ The libertarian case. What a person has legitimately earned, they should be free
 
 Even granting the diagnosis, giving the state the resulting revenue assumes competent, non-corrupt, welfare-enhancing use. Historical record on state management of redistributed wealth is mixed at best. The universal-endowment design partly addresses this by bypassing discretionary spending — the money goes directly to citizens — but does not eliminate the concern.
 
+## 6. Model risk: it has never been tried at this scale
+
+The epistemic objection, distinct from all the substantive ones: every elasticity and precedent the manifesto relies on was generated under milder regimes, so the projections are extrapolation beyond the observed range — the manifesto's own files concede as much — and Chesterton, Burke, Popper, and the Lucas critique all counsel against confident institutional surgery on that basis. The answer runs through staging, monitoring, and reversibility, and through the observation that the status quo — running compounding dynastic concentration through the largest wealth transfer in history — is also an untried experiment, with a less reversible failure mode.
+
 ## Files in this section
 
 - [family-business.md](family-business.md) — illiquidity, forced sales, the consolidation perversity, *Mittelstand* stewardship, and the carve-out graveyard; verdict on the deferral/state-equity answer and its costs
-- [capital-flight.md](capital-flight.md) — rising mobility, the Nordic abolitions as rational learning, unilateral self-harm, and the structural exit-threat thesis; what the elasticity evidence supports, with the full design treatment in [../08-capital-flight/](../08-capital-flight/README.md)
-- [bequest-motive.md](bequest-motive.md) — dynastic saving, the entrepreneurship channel, and the annuity puzzle against the accidental-bequest and weak-motive literature; verdict that the distortion is concentrated in the targeted tail
+- [capital-flight.md](capital-flight.md) — rising mobility, the Nordic abolitions as rational learning, unilateral self-harm, the structural exit-threat thesis, and the geopolitical national-champions variant; what the elasticity evidence supports, with the full design treatment in [../08-capital-flight/](../08-capital-flight/README.md)
+- [bequest-motive.md](bequest-motive.md) — dynastic saving, the entrepreneurship channel, the annuity puzzle, and the old-age-care exchange motive (the demographic objection) against the accidental-bequest and weak-motive literature; verdict that the distortion is concentrated in the targeted tail
 - [liberty-autonomy.md](liberty-autonomy.md) — Nozick, Locke, the family as pre-political, and gifts as acts of love; the responses that must carry weight, and the genuine value conflict that remains
 - [state-failure.md](state-failure.md) — Leviathan, the register as surveillance infrastructure, hypothecation drift, and the Hayekian equity-portfolio problem; why the residual is an argument about *where*, not *whether*
+- [model-risk.md](model-risk.md) — Lucas-critique extrapolation, Chesterton's fence, Popper's utopian-vs-piecemeal test, and the Bayesian case against acting on out-of-sample projections; verdict that the objection survives as a permanent discipline on claims and a mandate for staging and reversibility, not as an argument for the status quo

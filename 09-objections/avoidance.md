@@ -71,6 +71,21 @@ The moderately rich, conversely, are largely *below* a £500k-per-recipient thre
 
 **Deep treatment:** [`../07-implementation/gifts-and-timing.md`](../07-implementation/gifts-and-timing.md) · [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)
 
+## "They'll just hold everything in companies — companies never die"
+
+**Concede first.** Corporations are immortal and never trigger a death event, and wealth can compound inside a company for decades without a single taxable receipt occurring.
+
+**One-line answer.** Companies are *owned* — the shares sit on a mortal person's ledger and are taxed at full market value when they pass, so the corporate wrapper changes the date of the tax, never the amount; and the ownerless-entity escape (foundations with no shareholders) is met by the same trust-equivalent look-through that catches foundations everywhere else.
+
+**Full answer.**
+
+- Retained earnings accrue pound-for-pound to share value; the heir receives the shares and the ledger sees the full amount ([`../16-second-order/corporations.md`](../16-second-order/corporations.md) §§1–2).
+- Structures engineered to have no owner at all (foundation-held firms, purpose trusts) are either genuine public-benefit vehicles — permitted, and arguably the point ([`../16-second-order/charitable-giving.md`](../16-second-order/charitable-giving.md)) — or shams failing the control test, recharacterised and taxed ([`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md) §2).
+- Paying heirs inflated "salaries" through the company is income taxed at ~47%, visible in payroll data, with the excess over the arm's-length band recharacterised onto the heir's ledger ([`../07-implementation/nepotism-and-networks.md`](../07-implementation/nepotism-and-networks.md) §1).
+- What the tax deliberately does not touch — corporate scale and market power — is antitrust's job, not this instrument's ([`../00-capitalism/README.md`](../00-capitalism/README.md)).
+
+**Deep treatment:** [`../16-second-order/corporations.md`](../16-second-order/corporations.md) · [`../07-implementation/trusts-and-vehicles.md`](../07-implementation/trusts-and-vehicles.md)
+
 ## The asymmetric-perfectionism fallacy
 
 A closing move worth naming, because it answers this whole file at once.

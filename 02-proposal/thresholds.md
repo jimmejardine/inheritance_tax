@@ -54,9 +54,9 @@ The variant was evaluated and declined, for four reasons, each owned by the link
 
 ## 4. Revenue implications
 
-UK aggregate annual inheritance flow: ~£100bn currently, projected to ~£200bn by 2040s (IFS) [5]. If ~30–40% of aggregate flow sits above £500k per recipient (IFS distributional work [5]), the notional pre-behavioural base is £30–80bn/year.
+UK aggregate annual inheritance-and-gift flow: ~£104bn currently, projected to ~2.4× (>£230bn) by the mid-2040s (Demos/Resolution Foundation; see [arithmetic.md](arithmetic.md) §1). If ~30–40% of aggregate flow sits above £500k per recipient (IFS distributional work [5]), the notional pre-behavioural base is ~£31–42bn/year today, ~£70–92bn at mid-2040s flows.
 
-Actual revenue will be materially lower because: (i) business/farm deferral over 30 years smooths large receipts out of a single tax year; (ii) spousal and charitable exemption removes a substantial slice; (iii) behavioural response (lifetime giving, distribution across more recipients, charitable redirection) is exactly the intended outcome and will shrink the base. A plausible steady-state revenue figure is in the £10–25bn/year range — *requires HMRC/OBR micro-simulation* to refine. US equivalent using CBO/JCT methodology scales proportionally [8].
+Actual revenue will be materially lower because: (i) business/farm deferral over 30 years smooths large receipts out of a single tax year (timing, not loss); (ii) spousal exemption defers the base to the second death; (iii) behavioural response (lifetime giving, distribution across more recipients, charitable redirection) is exactly the intended outcome and will shrink the base. The consolidated waterfall, scenario compositions, and funding verdict are owned by [arithmetic.md](arithmetic.md): illustrative net receipts of **~£10–25bn/year on current flows** (central ~£13–15bn; pessimistic tail below £10bn), rising to **~£25–60bn/year at mid-2040s flows** — *requires HMRC/OBR micro-simulation* to refine ([arithmetic.md](arithmetic.md) §5). US equivalent using CBO/JCT methodology scales proportionally [8].
 
 The policy's success metric is not revenue; it is the re-dispersion of dynastic wealth.
 

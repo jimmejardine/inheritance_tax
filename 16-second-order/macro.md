@@ -28,7 +28,7 @@ The folk objection — "a 100% tax destroys the capital stock" — decomposes in
 
 ## 3. Interest rates and public finance
 
-The state fund accumulates and the endowment disburses; net government balance-sheet effects depend on the transition path ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)). Steady state: receipts (£40–70bn/yr on the project's own estimates in [`../02-proposal/endowment.md`](../02-proposal/endowment.md) — unmodelled; see §7) fund a £35–45bn endowment obligation, with any surplus dependent on where in those ranges reality lands. Demand for long gilts rises via annuity reserves. Nothing here moves policy rates materially; claims of macro-financial disruption lack a mechanism at these magnitudes.
+The state fund accumulates and the endowment disburses; net government balance-sheet effects depend on the transition path ([`../15-transition/revenue-bridge.md`](../15-transition/revenue-bridge.md)). Steady state: receipts (illustrative ~£10–25bn/yr on current flows, rising to ~£25–60bn/yr at mature mid-2040s flows — consolidated arithmetic owned by [`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md); unmodelled, see §7) fund a £35–45bn endowment obligation, with any surplus arriving only at maturity and only in the central-to-optimistic scenarios. Demand for long gilts rises via annuity reserves. Nothing here moves policy rates materially; claims of macro-financial disruption lack a mechanism at these magnitudes.
 
 ## 4. Entrepreneurship: the disputed sign
 
@@ -63,7 +63,7 @@ The political economy of naming the tax cut alongside the endowment is developed
 
 Honesty about what is currently unmodelled, in priority order:
 
-1. **Micro-simulation** of receipts, threshold incidence, and revenue on ONS WAS / SCF data — replaces the back-of-envelope in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md).
+1. **Micro-simulation** of receipts, threshold incidence, and revenue on ONS WAS / SCF data — the consolidated spec is [`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md) §5; replaces the back-of-envelope in [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md).
 2. **OLG general-equilibrium model** with bequest motives, the endowment, and the annuity channel — the K and r questions of §§1–2; existing inheritance-tax OLG work (e.g. in the Piketty–Saez tradition [4]) provides the chassis.
 3. **Wealth-distribution dynamics** (Benhabib–Bisin–Zhu calibration) — how fast does the Pareto tail compress under transmission truncation? [2]
 4. **Entrepreneurship module** — the §4 sign question; calibrate the age-25 capital-access elasticity against the liquidity-constraint literature.

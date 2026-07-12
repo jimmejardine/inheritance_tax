@@ -10,14 +10,14 @@ Scores are additive across the ten criteria (max 50), per the [scorecard method]
 |---|---|---|---|---|---|
 | 1 | UK | 44 | — | Most probable first mover among large economies; path via receipts-basis reform + endowment | [uk.md](uk.md) |
 | 2 | South Korea | 42 | Momentum currently toward rate *cuts* | Highest-rate incumbent; anti-dynastic politics could flip a scandal window upward | [korea-japan.md](korea-japan.md) |
-| 3 | Netherlands | 41 | Coalition friction | Underrated: recipient-based tax, no constitutional review, severe housing crisis | [continental-europe.md](continental-europe.md) |
+| 3 | Netherlands | 41 | Coalition friction | Underrated: recipient-based tax, no constitutional review, severe housing crisis | [netherlands.md](netherlands.md) |
 | 4 | Ireland | 40 | Small open economy — second mover | The operating analogue: [CAT](https://www.revenue.ie/en/gains-gifts-and-inheritance/gift-and-inheritance-tax-cat/index.aspx) is this proposal's skeleton at 33% | [ireland.md](ireland.md) |
 | 5 | Japan | 40 | Low domestic salience | Quiet-convergence case: base-broadening under ageing fiscal pressure | [korea-japan.md](korea-japan.md) |
 | 6 | Finland / Denmark | 39 | Consensus institutions | Live taxes in the highest-capacity states; fast upgraders under an EU/OECD floor | [nordics.md](nordics.md) |
 | 7 | Canada | 37 | Reintroduction discount (partial — deemed disposition exists) | Death already a taxable event; receipts tax could layer on without repeal | [anglosphere.md](anglosphere.md) |
 | 8 | New Zealand | 38 | Heavy reintroduction discount | Everything favourable except a tax to build on; conceivable pilot jurisdiction | [anglosphere.md](anglosphere.md) |
 | 9 | Sweden / Norway | 37 | Reintroduction discount + 2004/2014 scar tissue | Fast followers, never first movers; endowment fits the welfare model natively | [nordics.md](nordics.md) |
-| 10 | France | 35 | "Confiscatory" constitutional doctrine; hostile polling | Intellectual home (Piketty, Blanchard–Tirole) with a legal-political ceiling | [continental-europe.md](continental-europe.md) |
+| 10 | France | 36 | "Confiscatory" constitutional doctrine; Senate veto; hostile polling | Intellectual home (Piketty, CAE, LFI's literal €12m héritage maximum) with a legal-political ceiling | [france.md](france.md) |
 | 11 | Australia | 34 | Reintroduction discount; contaminated debate | 1977–79 cascade is the canonical federal failure mode; long-window only | [anglosphere.md](anglosphere.md) |
 | 12 | United States | 30 | Veto-point saturation (C4 = 1) | Improbable adopter, decisive prize: a US move ends global tax competition | [anglosphere.md](anglosphere.md) |
 | 13 | Germany | 26 | **Gated: [Art. 14 GG](https://www.gesetze-im-internet.de/gg/art_14.html) inheritance guarantee** | Implements a floor at whatever ceiling the constitution allows; never a 100% rate unamended | [continental-europe.md](continental-europe.md) |
@@ -73,7 +73,9 @@ The scenarios are complements, not rivals: any first move improves the game-theo
 | [uk.md](uk.md) | Why the UK leads, and the 2024–25 APR/BPR fight as live evidence |
 | [ireland.md](ireland.md) | What the Capital Acquisitions Tax proves and what limits Ireland |
 | [korea-japan.md](korea-japan.md) | The high-rate incumbents: chaebol politics and dankai demographics |
+| [france.md](france.md) | The deep France case: half-built machinery (recipient basis, rappel fiscal, notaires), the LFI héritage-maximum precedent, and the constitutional-Senate-assurance-vie blockade |
 | [nordics.md](nordics.md) | The paradox: why the egalitarians abolished, and what brings them back |
+| [netherlands.md](netherlands.md) | The continental dark horse in depth: recipient-based machinery, the jubelton precedent, the BOR fight, and the box 3 court risk |
 | [continental-europe.md](continental-europe.md) | France's ceiling, Germany's Art. 14 gate, Spain's race to zero, the Dutch dark horse |
 | [anglosphere.md](anglosphere.md) | US shell and lineage, Canada's half-model, Australia's cascade, NZ's clean slate |
 | [unlikely-and-havens.md](unlikely-and-havens.md) | Switzerland, Singapore, the Gulf — and why haven refusal matters less than assumed |

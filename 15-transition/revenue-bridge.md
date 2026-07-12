@@ -50,6 +50,8 @@ All figures illustrative, UK, constant prices, **to be replaced by micro-simulat
 | 16–20 | Wealth-holding cohorts' mortality peak approaching; forestalling shadow expired: £40–55bn/yr | £46–49bn/yr | Approaching balance; upper-range receipts begin retiring bridge debt |
 | 20+ | Mature regime | Endowment fully funded | Structural surplus to general revenue, per [`../02-proposal/README.md`](../02-proposal/README.md) |
 
+The receipts lines above sit in the central-to-optimistic band of the consolidated scenario table in [`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md) §3; on its pessimistic composition the bridge runs longer and peak borrowing higher.
+
 The shape — reserve build, a roughly decade-long financed gap peaking in the tens of billions, then self-amortisation — is robust to parameter changes even though every number in the table is a placeholder. The two genuine risks are (i) mature revenue disappointing because avoidance beats the spine ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md), [`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)), and (ii) a mid-bridge government cancelling the escalator — a political risk, answered by the constituency the early endowments themselves create ([pilots.md](pilots.md), [`../13-movement/theory-of-change.md`](../13-movement/theory-of-change.md)).
 
 ## What must be true before Phase 3 is announced
