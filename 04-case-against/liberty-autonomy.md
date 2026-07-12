@@ -36,7 +36,7 @@ None of the following refutes the objection outright; together they relocate it.
 
 Mill accepted the donor's liberty of disposition and *still* proposed capping what any individual may receive [6]. The tax under discussion is levied on the recipient's receipts above a lifetime threshold ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)). The donor may give to as many people, causes, and charities as they wish; what no one may do is *accumulate receipts* beyond the cap.
 
-The prohibited act is therefore not "giving" but "receiving beyond £500k of unearned capital" — and the liberal tradition has never grounded a strong liberty claim in unlimited receipt ([`../03-case-for/ethical.md`](../03-case-for/ethical.md) §10 develops the donor/recipient asymmetry in full). This blunts the Nozickian prohibition framing in §1 above: the consenting-adults transaction is permitted; what is regulated is one party's cumulative position across all such transactions, exactly as income tax regulates cumulative wages without prohibiting employment.
+The prohibited act is therefore not "giving" but "receiving beyond £500k of unearned capital" — and the liberal tradition has never grounded a strong liberty claim in unlimited receipt ([`../03-case-for/ethical.md`](../03-case-for/ethical.md) §11 develops the donor/recipient asymmetry in full). This blunts the Nozickian prohibition framing in §1 above: the consenting-adults transaction is permitted; what is regulated is one party's cumulative position across all such transactions, exactly as income tax regulates cumulative wages without prohibiting employment.
 
 ### 2. Inheritance is a legal institution, not a natural fact
 

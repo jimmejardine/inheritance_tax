@@ -31,6 +31,7 @@ Every file in this section is an application of that line. The tax is the fundin
 | [personal-conversations.md](personal-conversations.md) | How do you persuade one person at a time — your own child who forfeits an inheritance, and friends who think you're mad? |
 | [outreach-creators.md](outreach-creators.md) | Which named creators, podcasts, and journalists get briefed first — with what pitch, and what risks? |
 | [campaign-briefs.md](campaign-briefs.md) | What are the first executable social-media campaigns, each built on one verified fact? |
+| [pitches.md](pitches.md) | The pitch book: 1-minute and 2-minute elevator pitches plus twenty-one audience-specific five-minute pitches, from working class to trillionaire, libertarian to communist |
 
 ## Three operating principles
 
@@ -50,3 +51,4 @@ Every file in this section is an application of that line. The tax is the fundin
 - [personal-conversations.md](personal-conversations.md)
 - [outreach-creators.md](outreach-creators.md)
 - [campaign-briefs.md](campaign-briefs.md)
+- [pitches.md](pitches.md)

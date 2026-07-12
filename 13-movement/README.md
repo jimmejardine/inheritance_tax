@@ -20,6 +20,7 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 | [closing-window.md](closing-window.md) | How much time remains before billionaire blocking power forecloses reform, and which indicators measure the window? |
 | [recruitment.md](recruitment.md) | Who joins, in what order, found where, converted how? |
 | [engagement-ladder.md](engagement-ladder.md) | What can one sympathiser actually do today — the supporter-side action menu, rung by rung? |
+| [digital-organising.md](digital-organising.md) | How is the movement built *online* — distributed organising, community platforms, creator-led models, and the online-to-offline conversion problem? |
 | [messengers.md](messengers.md) | Whose face and voice carries the idea to each audience? |
 | [heir-defectors.md](heir-defectors.md) | How are young wealthy heirs converted into the movement's most powerful champions? |
 | [outreach-academics.md](outreach-academics.md) | Which named scholars to approach, on what published basis, with what specific ask? |
@@ -35,6 +36,7 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 - [closing-window.md](closing-window.md)
 - [recruitment.md](recruitment.md)
 - [engagement-ladder.md](engagement-ladder.md)
+- [digital-organising.md](digital-organising.md)
 - [messengers.md](messengers.md)
 - [heir-defectors.md](heir-defectors.md)
 - [outreach-academics.md](outreach-academics.md)
@@ -43,6 +45,10 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 - [coalitions.md](coalitions.md)
 - [precedents.md](precedents.md)
 - [first-twelve-months.md](first-twelve-months.md)
+
+## The 21st-century layer
+
+The doctrine above was largely written from 20th-century precedents — think-tanks, chapters, mailing lists. The digital era changes the *build*, not the theory: [digital-organising.md](digital-organising.md) is the file that threads that layer through the others. Stage 2 of [theory-of-change.md](theory-of-change.md) (a credible voice) can now be reached by a creator with a camera as well as an institute with a masthead; the sourcing pools in [recruitment.md](recruitment.md) are found and converted through community platforms and participatory content as much as through universities and professional bodies; and the rungs of [engagement-ladder.md](engagement-ladder.md) acquire digital equivalents — follow, share, join the server, join the local chapter group — whose central design problem is online-to-offline conversion. The scope boundary holds: what the movement *says* online, in which formats and through which named creators, stays with [14-communications](../14-communications/README.md) ([channels.md](../14-communications/channels.md), [outreach-creators.md](../14-communications/outreach-creators.md), [campaign-briefs.md](../14-communications/campaign-briefs.md)); how digital infrastructure recruits, structures, retains, and mobilises people is organising doctrine and lives here.
 
 ## Three organising judgements that shape everything downstream
 

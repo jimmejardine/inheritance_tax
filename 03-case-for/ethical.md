@@ -12,6 +12,7 @@
 - Equality of opportunity, a value explicitly endorsed across the political spectrum, is violated more starkly by hereditary transfer than by any other mechanism [7][13].
 - The Hebrew jubilee, Catholic social teaching's "universal destination of goods," and Islamic inheritance constraints all encode a long ethical tradition of suspicion toward accumulated dynastic wealth [20][21][22].
 - The civic-republican tradition, from Aristotle to Pettit, treats large concentrated fortunes as corrosive of political liberty itself, independent of any distributive claim [23][24].
+- Limitarianism — Robeyns's thesis that there is an upper "riches line" beyond which additional private wealth is morally objectionable — is the youngest convergent tradition; its named arguments (democratic, unmet urgent needs, and later ecological and desert) apply *a fortiori* to unearned receipts, since even the strongest defence of wealth — desert through work — never applies to inheritance [27][28][29].
 - A donor's liberty to give and a recipient's claim to receive are *distinct* moral questions; the tax falls on the recipient, against whom no liberal claim has ever been successfully argued [10].
 - Heirs of great fortunes are not merely enriched but encumbered: dynastic expectation is a constraint on autonomy, not an expression of it [8].
 - Paired with a universal citizen's endowment, the tax *universalises* inheritance rather than abolishing it — echoing Paine's 1797 framing of the grant as compensation, not charity [9].
@@ -70,7 +71,13 @@ A separate ethical line, distinct from luck-egalitarianism and from religious tr
 
 Dynastic wealth is the paradigm case of arbitrary private power. An heir need do nothing to wield influence over employees, tenants, journalists, politicians, or kin; the influence is conferred by the structure of holdings, not by any specific exercise. Even if the heir is benevolent, those around them are not free in the republican sense. Limiting inheritance is therefore not principally a redistributive measure on this account — it is a *liberty-preserving* one, aimed at the structural preconditions of non-dominated citizenship. (The political-mechanics of this argument are developed in [`../01-problem/political-capture.md`](../01-problem/political-capture.md); the present point is purely ethical.)
 
-## 9. Intergenerational ethics
+## 9. Limitarianism: the argument from too much
+
+The youngest tradition in this survey argues not from the arbitrariness of *how* wealth arrives but from the moral status of *having too much at all*. Ingrid Robeyns's **limitarianism** — introduced in "Having Too Much" (2017) and developed in a 2019 journal statement and the 2024 book *Limitarianism* — holds that a "riches line" can be constructed above which additional private wealth is morally objectionable [27][28][29]. Her original defence rests on two named arguments. The **democratic argument**: above the line, surplus wealth converts into political power — campaign finance, agenda-setting, opinion infrastructure — and thereby undermines political equality however virtuously it is held (the systemic development is [`democratic-renewal.md`](democratic-renewal.md); the individual-ethics parallel is §8's non-domination) [27][28]. The **argument from unmet urgent needs**: surplus money above the riches line would do morally more if directed to urgent unmet needs and collective-action problems, climate change explicitly included [28]. Her later work adds two further arguments: an **ecological argument** — "large fortunes are incompatible with ecological sustainability" — and a **desert argument**, which she calls the philosophically most fundamental point: "nobody can say that they morally deserve to be superrich" [29].
+
+The boundary between her position and this proposal must be stated honestly, because it cuts both ways. Limitarianism is *more* radical than anything argued here: it targets **holdings**, however earned — her illustrative figures are a political limit of around €10 million and an ethical limit of around one million per person [29] — whereas this proposal touches only unearned *receipts*; a self-made billionaire pays nothing under it. But that difference is precisely why her arguments transfer *a fortiori*. Every serious defence of extreme private wealth ultimately runs through desert-by-contribution, and Robeyns's desert argument attacks that defence at its strongest point — the founder. The heir does not even reach the founder's ground: a reader persuaded by only the weakest fragment of her case — that desert cannot justify fortunes never earned — already holds the full ethical case for a receipts cap while conceding everything the defender of earned wealth wants to keep. And Robeyns herself has drawn this narrower conclusion in print: her 2024 accessions-cap proposal — 100% above a lifetime receipts threshold, funding a citizen's stake — is the peer-reviewed twin of this proposal's mechanism ([`../05-history/has-this-been-proposed.md`](../05-history/has-this-been-proposed.md)), with a deliberately far tighter cap.
+
+## 10. Intergenerational ethics
 
 Parfit's *Reasons and Persons* and the subsequent literature on intergenerational ethics force a question the older traditions could not pose: what do we owe to people not yet born [26]? Two implications matter here.
 
@@ -80,7 +87,7 @@ Second, every reasonable account of intergenerational obligation generates *some
 
 This argument is not the strongest in the chapter — it is, by its nature, more abstract — but it is worth registering because it closes a flank: the claim that "future people should look after themselves" is not available to anyone who admits even minimal negative duties to those not yet born.
 
-## 10. Donor's liberty vs recipient's claim
+## 11. Donor's liberty vs recipient's claim
 
 A confusion runs through almost all popular debate on inheritance taxation: it conflates two distinct moral questions. The first is whether the donor has a right to dispose of their property. The second is whether the recipient has a claim to receive it untaxed. These are not the same.
 
@@ -92,11 +99,11 @@ The proposed tax is *paid by the recipient*, on a receipt they did not earn. Eve
 
 This analytical move dissolves a great deal of the political-rhetorical force of "family money" arguments. It also explains why Mill, in 1848, framed the tax explicitly on the *recipient* side: he saw clearly that the moral question turns on what the heir is owed, not on what the testator wants [3].
 
-## 11. Heir's liberty
+## 12. Heir's liberty
 
 A point underweighted in the philosophical literature: the recipient's autonomy is *enlarged*, not diminished, by being spared a fortune. Dynastic wealth arrives bundled with dynastic expectation — the family firm, the family cause, the family name [8]. To be handed a meaningful but bounded sum at adulthood and thereafter to owe the shape of one's life to no one is, for the heir, a liberation. This argument is developed empirically and clinically in [`heirs-burden.md`](heirs-burden.md); for present ethical purposes it is enough to note that the tax is not straightforwardly adverse to the heir's interests, and may serve the heir's own deepest autonomy claims better than untaxed transmission would.
 
-## 12. The universal endowment as moral complement
+## 13. The universal endowment as moral complement
 
 A tax alone is redistributive; a tax paired with a universal grant at adulthood is something else — a *universalisation* of inheritance [14]. Paine's *Agrarian Justice* (1797) supplies the framing: the grant is not charity but compensation, owed to every citizen as a consequence of the private appropriation of what was once common [9]. Every adult becomes an heir of the commonwealth. This reframing is what distinguishes the proposal from a mere levy: it is a positive account of what the political community owes each of its members at the threshold of adult life. It also closes the dialectical loop with §1: if brute luck is the problem, then the answer is not to leave each cohort to whatever distribution the prior generation's choices produced, but to provide every member of the cohort with the same starting endowment, drawn from the dynastic wealth that would otherwise compound advantage at the top.
 
@@ -128,3 +135,6 @@ A tax alone is redistributive; a tax paired with a universal grant at adulthood 
 24. [Pettit, *Republicanism: A Theory of Freedom and Government* (1997)](https://global.oup.com/academic/product/republicanism-9780198296423)
 25. [Nozick, *The Examined Life* (1989), ch. 'Inheritance'](https://www.simonandschuster.com/books/The-Examined-Life/Robert-Nozick/9780671725013)
 26. [Parfit, *Reasons and Persons* (1984), Pt. IV](https://global.oup.com/academic/product/reasons-and-persons-9780198249085)
+27. [Robeyns, I. (2017). "Having Too Much," in Knight & Schwartzberg (eds.), *Wealth: NOMOS LVIII*. NYU Press](https://academic.oup.com/nyu-press-scholarship-online/book/30680/chapter/260557401); [open-access reprint in Robeyns (ed.), *Having Too Much: Philosophical Essays on Limitarianism*. Open Book Publishers (2023)](https://www.openbookpublishers.com/books/10.11647/obp.0338)
+28. [Robeyns, I. (2019). "What, if Anything, is Wrong with Extreme Wealth?" *Journal of Human Development and Capabilities* 20(3), pp. 251–266](https://doi.org/10.1080/19452829.2019.1633734)
+29. [Robeyns, I. (2024). *Limitarianism: The Case Against Extreme Wealth*. Allen Lane / Astra House](https://www.penguinrandomhouse.com/books/734828/limitarianism-by-ingrid-robeyns/); [Robeyns, "Limitarianism and Capitalism," Sir Thomas Gresham Lecture, 5 November 2025 — transcript](https://www.gresham.ac.uk/sites/default/files/transcript/R_2025_10_29_2322_Robeyns_T_final.pdf) ([lecture page](https://www.gresham.ac.uk/watch-now/limitarianism)); [LSE Review of Books review (2024) — the €10m political and ~1m ethical limits](https://blogs.lse.ac.uk/lsereviewofbooks/2024/02/08/book-review-limitarianism-the-case-against-extreme-wealth-ingrid-robeyns/)
