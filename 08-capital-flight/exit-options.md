@@ -38,7 +38,7 @@ The destination list is not static: over the past decade nearly every route has 
 | 2025 | CJEU rules Malta's investor-citizenship scheme contrary to EU law [4] | Last EU golden passport closed |
 | 2025 | UK abolishes non-dom status | The UK itself exits the haven-lite market |
 
-The direction is uniform. Destination-country electorates dislike inbound wealth migration (housing costs, inequality optics), and the EU institutional machinery is actively hostile to citizenship-and-residence sales. The wealthy family planning a thirty-year avoidance strategy must bet that its chosen regime — typically a political concession sustained by a thin domestic constituency — outlasts three decades of this trend. Portugal's NHR lasted fourteen years.
+The direction is uniform. Destination-country electorates dislike inbound wealth migration (housing costs, inequality optics), and the EU institutional machinery is actively hostile to citizenship-and-residence sales — *why* courting jurisdictions' own voters keep repealing these regimes, and the referendum record on both sides, is the subject of [poaching-and-haven-politics.md](poaching-and-haven-politics.md). The wealthy family planning a thirty-year avoidance strategy must bet that its chosen regime — typically a political concession sustained by a thin domestic constituency — outlasts three decades of this trend. Portugal's NHR lasted fourteen years.
 
 ## Who actually uses these routes
 
