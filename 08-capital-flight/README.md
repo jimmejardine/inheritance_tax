@@ -20,6 +20,7 @@
 |---|---|---|
 | [evidence.md](evidence.md) | What does the migration literature actually find? | Low average elasticity; high for the young-mobile-famous; billionaire estate-tax responsiveness is the strongest counter-finding and is engaged directly |
 | [confiscatory-stakes.md](confiscatory-stakes.md) | What happens at the top tier, where the literature's stakes don't apply and the prize is the fortune itself? | Assume most billionaire-tier families *attempt* structured escape; escape = sell Britain, take paper, remove the people; the escaped paper mostly sits inside the coalition's reach; tiered flight scenarios propagated into the arithmetic |
+| [composition-and-concealment.md](composition-and-concealment.md) | How is billionaire wealth actually held, and what could move secretly? | Registered concentrated equity and titled assets dominate the top-tier balance sheet and are visible by construction; the concealable classes (art, gold, crypto, offshore cash) are the smallest slice; the secret offshore move at scale is largely mythical — the genuine residuals are liquid-slice evasion and derivative-based transfer |
 | [exit-options.md](exit-options.md) | Where would they actually go? | A short list of small, expensive, capacity-constrained jurisdictions, each with real non-tax costs |
 | [friction-and-anchors.md](friction-and-anchors.md) | What keeps wealthy people in place? | Businesses, family, status ecosystems, ageing — and the immovability of situs assets |
 | [exit-tax-design.md](exit-tax-design.md) | How do you tax those who do leave? | Deemed-disposal charges, trailing liability, the [US §877A/§2801](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax) model, the proposal's 10-year tail — all within ECHR/EU-law constraints |
@@ -70,6 +71,7 @@ This section's conclusion is contingent, not axiomatic. It would need revision i
 
 - [evidence.md](evidence.md) — the empirical migration literature, honestly summarised
 - [confiscatory-stakes.md](confiscatory-stakes.md) — the billionaire's escape decision at 100% stakes; the escape-asset inventory; the absorption constraint; tiered flight scenarios
+- [composition-and-concealment.md](composition-and-concealment.md) — how billionaire wealth is actually held; the visibility gradient; what can and cannot move secretly
 - [exit-options.md](exit-options.md) — destination jurisdictions and their real costs
 - [friction-and-anchors.md](friction-and-anchors.md) — what anchors the wealthy; the situs asymmetry
 - [exit-tax-design.md](exit-tax-design.md) — deemed disposal, trailing tails, §877A/§2801, legal constraints
